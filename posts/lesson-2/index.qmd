@@ -1,0 +1,133 @@
+---
+title: "Lesson 2: Intro with tutor on preply"
+date: "2025-07-02"
+categories: [french, lesson]
+reference-location: margin
+---
+
+
+# Lesson 2
+
+### Exercise from last week
+
+
+Complete le texte avec les mots suivants:
+
+>```
+Canicule, climatisation, autour de, sauf, objectif, grave, sécheresse,
+typique, surtout, récent, agir, protéger, éviter , sec, AC, opinion, 
+mariage, thunder, act, feu
+>```
+
+
+
+
+
+En été, il fait très chaud, et parfois il y a une *(1)* `canicule` ou une *(2)* `sécheresse`. Le sol devient très *(3)* `sec`, les arbres brûlent facilement et il y a un grand risque de *(4)* `feu` de forêt. C’est un problème très *(5)* `grave`, alors il faut *(6)* `agir` rapidement pour *(7)* `protéger` la nature et les habitants.
+
+En France, les gens n’aiment pas beaucoup la *(8)* `climatisation`. Ils disent que l' *(9)* `opinion` publique est contre la *(10)* `clim`, même quand il y a une *(11)* `canicule`. Beaucoup de personnes *(12)* `autour de` moi critiquent l’utilisation des climatiseurs. 
+
+Mon *(13)* `objectif` est de comprendre pourquoi. Peut-être que c’est culturel. Par exemple, aux États-Unis, il est *(14)* `typique` d’avoir de la clim partout. On en utilise pendant un *(15)* `marriage`, dans les magasins, ou même dans les églises.
+
+Un événement *(16)* `surtout` m'a marqué: pendant un séjour en France, il y a eu un orage avec du *(17)* `tonnerre`, et les alertes météo parlaient de la chaleur extrême. Il fallait appeler le *(18)* `18` en cas de danger. 
+
+Je pense qu’il est important d’*(19)* `agir`, mais aussi de *(20)* `protéger` ce qui est important pour les gens dans chaque culture.
+
+![](./less01-ex-cles.png){width=50% fig-align="center"}
+
+### Dialogue
+
+
+>
+J’ai complété<br>
+Je ne connais pas la réponse <br>
+
+>Je rentre<br>
+C’est combien d’heures de vol?<br>
+Vers l’est<br>
+Les américains appellent<br>
+Ils disent que c’est la **pire** journée de cette canicule *(pire<> meilleur)*<br>
+Le contraire<br>
+Au long de la côte<br>
+Le climat<br>
+La mer rafraichit le climat<br>
+C’est une ville où tu veux habiter dans le futur<br>
+Sa ville natale - la ville natale de ton partenaire<br>
+Naissance, né, naître<br>
+Mon pays natal, ma ville natale<br>
+Éventuellement<br>
+Pourrait être <br>
+Pourquoi vous avez choisi Chicago?<br>
+Pour le travail<br>
+Qu’est-ce que tu fais comme travail?<br>
+Je travaillais dans …<br>
+Tu as arrêté <br>
+Je travaille là-bas pendant quatre ans<br>
+Je n’etais pas content de ma recherche et de mon superviseur<br>
+Ce n’était pas toi qui avais choisi<br>
+J’ai choisi le laboratoire<br>
+Tu ne peux pas savoir jusqu’à ce que<br>
+Paresseux?<br>
+C’était principalement dû à une différence de personalité<br>
+
+>En été <br>
+Par contre (on the other hand)<br>
+Moins 18 degrés <br>
+Rude  (rough)<br>
+même dans le Calais<br>
+J’ai pris <br>
+C’est pratique<br>
+Entre Londres et Paris<br>
+C’est plus similaire à New York<br>
+J’ai habité à New York pendant huit ans<br>
+Mauvaise intention <br>
+Les parisiens sont débordés (ovewhelmed, overworked, swamped)<br>
+Je suis d’accord<br>
+Depuis que j’ai déménagé (moved) de New York<br>
+Depuis que j’habite à Chicago <br>
+Le rythme est très intense<br>
+Tu exagères (exaggerate)<br>
+Mon hôtel était juste en face de l’événement<br>
+Par rapport à (in regards to)<br>
+
+>Les immeubles sont trop proches (close)<br>
+Il y a plus d’espace<br>
+Je suis fâché (angry) que<br>
+Les panoramas, les vues<br>
+Il faut éviter les mois de grandes chaleurs<br>
+C’est bof<br>
+Il y a 3 ans ( 3 years ago)<br>
+J’etais à Nice il y a 3 ans<br>
+>
+
+![](./less02.png){width=50% fig-align="center"}
+
+
+### Reading Exercise
+
+**Le 14 juillet: une fête nationale française**
+
+Le 14 juillet est la **fête nationale** de la France. Elle commémore un événement historique majeur: **la prise de la Bastille**, le 14 juillet 1789, qui marque le début de la Révolution française. Cette journée est un symbole fort de **liberté**, **égalité**, et **fraternité**, les valeurs fondamentales de la République française.
+
+
+Chaque année, cette date est célébrée avec **de nombreuses festivités** dans tout le pays. À Paris, le matin du 14 juillet, a lieu le **défilé militaire sur les Champs-Élysées**, en présence du président de la République. C’est l’un des plus anciens défilés militaires réguliers au monde, et il est retransmis à la télévision. Des avions de l’armée de l’air survolent la capitale, traçant[^1] dans le ciel les couleurs bleu, blanc, rouge du drapeau français.
+
+[^1]: what is traçant? tracer?
+
+Dans les villes et villages, **des bals populaires** sont organisé la veille, le 13 juillet au soir[^2], souvent par les pompiers. Ces bals sont des moments festifs et conviviaux où les habitants dansent et célèbrent ensemble. Il y a aussi de nombreux **feux d’artifice**, dont le plus célèbre est tiré depuis la **Tour Eiffel**, illuminant le ciel de Paris devant des milliers de spectateurs[^3].
+
+[^2]: why le 13 juillet "au soir", why not just le 13 juillet soir or soir de ...?
+[^3]: sentence structure of dont...?
+
+Le 14 juillet est aussi l’occasion pour de nombreux Francais de **Passer du temps en famille ou entre amis**, que ce soit[^4] lors d’un pique-nique, d’un barbecue ou d’une sortie culturelle. Dans certaines communes, des **cérémonies officielles** sont également organisées pour rendre hommage aux héros de la Nation.
+[^4]: subjunctive?
+
+Bien que[^5] cette fête ait des origines historiques profondes, elle est aujourd’hui vécue comme un moment de **rassemblement national** et de **fierté collective**.
+[^5]: bien que = although, starts subjunctive clause
+
+
+![reading-exercise](./14-juillet.png){width=90% fig-align="center"}
+
+### devoirsfais
+
+Fais l'exercice 1 p179 + ex 1 p184
