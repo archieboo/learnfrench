@@ -120,14 +120,16 @@ Dans les villes et villages, **des bals populaires** sont organisé la veille, l
 [^3]: sentence structure of dont...?
 
 Le 14 juillet est aussi l’occasion pour de nombreux Francais de **Passer du temps en famille ou entre amis**, que ce soit[^4] lors d’un pique-nique, d’un barbecue ou d’une sortie culturelle. Dans certaines communes, des **cérémonies officielles** sont également organisées pour rendre hommage aux héros de la Nation.
+
 [^4]: subjunctive?
 
 Bien que[^5] cette fête ait des origines historiques profondes, elle est aujourd’hui vécue comme un moment de **rassemblement national** et de **fierté collective**.
+
 [^5]: bien que = although, starts subjunctive clause
 
 
-![reading-exercise](./14-juillet.png){width=90% fig-align="center"}
+![](./14-juillet.png){width=90% fig-align="center"}
 
-### devoirsfais
+### Devoirs
 
 Fais l'exercice 1 p179 + ex 1 p184
