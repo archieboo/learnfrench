@@ -6,18 +6,17 @@ reference-location: margin
 ---
 
 
-# Lesson 2
 
-### Exercise from last week
+## Exercise from last week
 
 
 Complete le texte avec les mots suivants:
 
->```
+`
 Canicule, climatisation, autour de, sauf, objectif, grave, sécheresse,
 typique, surtout, récent, agir, protéger, éviter , sec, AC, opinion, 
 mariage, thunder, act, feu
->```
+`
 
 
 
@@ -35,34 +34,38 @@ Je pense qu’il est important d’*(19)* `agir`, mais aussi de *(20)* `protége
 
 ![](./less01-ex-cles.png){width=50% fig-align="center"}
 
-### Dialogue
+## Dialogue
 
 
 >
 J’ai complété<br>
 Je ne connais pas la réponse <br>
 
->Je rentre<br>
+>
+Je rentre<br>
 C’est combien d’heures de vol?<br>
 Vers l’est<br>
 Les américains appellent<br>
-Ils disent que c’est la **pire** journée de cette canicule *(pire<> meilleur)*<br>
+Ils disent que c’est la **pire**[^a] journée de cette canicule<br>
 Le contraire<br>
 Au long de la côte<br>
 Le climat<br>
 La mer rafraichit le climat<br>
+
+[^a]: pire <> meilleur
+
+>
 C’est une ville où tu veux habiter dans le futur<br>
-Sa ville natale - la ville natale de ton partenaire<br>
-Naissance, né, naître<br>
+Sa ville natale[^b] - la ville natale de ton partenaire<br>
 Mon pays natal, ma ville natale<br>
 Éventuellement<br>
-Pourrait être <br>
+Pourrait[^c] être <br>
 Pourquoi vous avez choisi Chicago?<br>
 Pour le travail<br>
-Qu’est-ce que tu fais comme travail?<br>
+**Qu’est-ce que tu fais comme travail?**<br>
 Je travaillais dans …<br>
 Tu as arrêté <br>
-Je travaille là-bas pendant quatre ans<br>
+Je **ai travaillé là-bas pendant**[^d] quatre ans<br>
 Je n’etais pas content de ma recherche et de mon superviseur<br>
 Ce n’était pas toi qui avais choisi<br>
 J’ai choisi le laboratoire<br>
@@ -70,11 +73,15 @@ Tu ne peux pas savoir jusqu’à ce que<br>
 Paresseux?<br>
 C’était principalement dû à une différence de personalité<br>
 
+[^b]: Naissance, né, naître
+[^c]: could/might/may, conditionnel present of `pouvoir`
+[^d]: `pendant` is used for completed actions, for ongoing actions use `depuis`.
+
 >En été <br>
-Par contre (on the other hand)<br>
+Par contre[^e]<br>
 Moins 18 degrés <br>
-Rude  (rough)<br>
-même dans le Calais<br>
+Rude[^f] <br>
+même[^g] dans le Calais<br>
 J’ai pris <br>
 C’est pratique<br>
 Entre Londres et Paris<br>
@@ -90,15 +97,20 @@ Tu exagères (exaggerate)<br>
 Mon hôtel était juste en face de l’événement<br>
 Par rapport à (in regards to)<br>
 
+[^e]: on the other hand, au contraire = on the contrary
+[^f]: rough
+[^g]: even
+
 >Les immeubles sont trop proches (close)<br>
 Il y a plus d’espace<br>
 Je suis fâché (angry) que<br>
 Les panoramas, les vues<br>
 Il faut éviter les mois de grandes chaleurs<br>
 C’est bof<br>
-Il y a 3 ans ( 3 years ago)<br>
-J’etais à Nice il y a 3 ans<br>
->
+Il y a 3 ans<br>
+J’etais à Nice il y a 3 ans[^h]<br>
+
+[^h]: `il y a x ans` =  `x years ago`, used for past events
 
 ![](./less02.png){width=50% fig-align="center"}
 
@@ -119,13 +131,14 @@ Dans les villes et villages, **des bals populaires** sont organisé la veille, l
 [^2]: why le 13 juillet "au soir", why not just le 13 juillet soir or soir de ...?
 [^3]: sentence structure of dont...?
 
-Le 14 juillet est aussi l’occasion pour de nombreux Francais de **Passer du temps en famille ou entre amis**, que ce soit[^4] lors d’un pique-nique, d’un barbecue ou d’une sortie culturelle. Dans certaines communes, des **cérémonies officielles** sont également organisées pour rendre hommage aux héros de la Nation.
+Le 14 juillet est aussi l’occasion pour de nombreux Francais de **Passer du temps en famille ou entre amis**, que ce soit[^4] lors[^5] d’un pique-nique, d’un barbecue ou d’une sortie culturelle. Dans certaines communes, des **cérémonies officielles** sont également organisées pour rendre hommage aux héros de la Nation.
 
-[^4]: subjunctive?
+[^4]: subjunctive. que to introduce a subjunctive clause, soit is the present subjunctive of être. Tother "que ce soit" means whether it be
+[^5]: `lors de` together works as a preposition phrase meaning "during" or "at the time of"
 
-Bien que[^5] cette fête ait des origines historiques profondes, elle est aujourd’hui vécue comme un moment de **rassemblement national** et de **fierté collective**.
+Bien que[^6] cette fête ait des origines historiques profondes, elle est aujourd’hui vécue comme un moment de **rassemblement national** et de **fierté collective**.
 
-[^5]: bien que = although, starts subjunctive clause
+[^6]: `bien que` = although, starts subjunctive clause
 
 
 ![](./14-juillet.png){width=90% fig-align="center"}
