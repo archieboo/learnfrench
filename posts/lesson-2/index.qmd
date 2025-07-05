@@ -1,5 +1,5 @@
 ---
-title: "Lesson 2: Intro with tutor on preply"
+title: "Lesson 2"
 date: "2025-07-02"
 categories: [french, lesson]
 reference-location: margin
