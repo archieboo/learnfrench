@@ -1,0 +1,98 @@
+---
+title: "Lesson 3"
+date: "2025-07-05"
+categories: ["Pronom Complément Direct", "Pronom Complément Indirect", "passé composé"]
+reference-location: margin
+---
+
+
+
+## Dialogue
+
+
+Laisse-moi voir<br>
+Je laisse mon frère manger<br>
+Quitter vs. laisser[^1] (leave sth. Available / let)<br>
+Elle a quitté son copain<br>
+Il a quitté son travail<br>
+
+J’ai laissé les clés sur la table<br>
+Laisse-moi tranquille[^2]<br>
+Laisser + verbe à l’infinitif<br>
+Similar verbes: aller, vouloir, pouvoir, devoir<br>
+
+Je te laisse conduire ma voiture<br>
+Je le laisse utiliser mon téléphone<br>
+
+[^1]: Laisser is often used to mean "to let" or "to allow", while "quitter" means "to leave" in the sense of departing from a place or a person.
+[^2]: leave me alone
+
+
+**Object direct vs. object indirect**
+
+*Object direct* answers questions for: `quoi? qui?`
+
+> Qui est-ce que tu invites?<br>
+J’invite Marie.<br>
+Je l’invite<br>
+
+*Object indirect* answers questions for: `à quoi? à qui?`
+
+>Je parle.<br>
+à qui est-ce que  tu parle?<br>
+Je parle à mon ami.<br>
+Je lui parle<br>
+
+**Pronom Complément Direct:**
+
+`
+Me, te, le/la, nous, vous, les
+`[^3]
+
+Used by words like: `inviter, appeler, rencontrer, voir, prendre, mettre, faire`
+
+**Pronom Complément Indirect:**
+
+`
+Me, te, lui, nous, vous, leur
+`
+
+Used by words like: `parler, dire, écrire, demander`
+
+[^3]: Les pronoms compléments directs “le, la, les” peuvent remplacer une (ou des) personne(s) OU une (ou des) chose(s)<br>
+
+**Examples:**
+
+Object direct
+
+>
+Tu vois ton ami aujourd’hui?<br>
+Oui, je le vois.<br>
+Tu vois ton amie aujourd’hui?<br>
+Oui, je la vois.<br>
+Tu mets les clés sur la table?<br>
+Oui, je les mets sur la table.<br>
+Tu as fait tes devoirs?<br>
+Oui, je les ai fait.<br>
+
+Object indirect<br>
+
+>
+Tu parles à ton père?<br>
+Oui, je lui parle.<br>
+Tu as dit à ta sœur qu’hier, nous sommes sortis?<br>
+Oui, je lui ai dit.<br>
+
+
+
+
+## Passé composé
+
+Le passé composé est un temps du passé qui exprime une action achevée. Il est formé de deux parties : l'auxiliaire (avoir ou être) et le participe passé du verbe.
+
+Page 182 gives a good overview of the passé composé with `être`
+
+![](./passe-compose-etre-verbes.png){width=80% fig-align="center"}
+
+
+![course notes](./less03.png){width=50% fig-align="center"}
