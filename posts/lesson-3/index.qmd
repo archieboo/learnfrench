@@ -95,4 +95,13 @@ Page 182 gives a good overview of the passé composé with `être`
 ![](./passe-compose-etre-verbes.png){width=80% fig-align="center"}
 
 
-![course notes](./less03.png){width=50% fig-align="center"}
+:::{.column-margin}
+![Dialogue](./less03.png){width=50% fig-align="center"}
+:::
+
+## Exercice
+
+ex4 p125 + ex2 p127 + ex1 p208
+
+
+

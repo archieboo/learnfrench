@@ -7,41 +7,13 @@ reference-location: margin
 
 
 
-## Exercise from last week
-
-
-Complete le texte avec les mots suivants:
-
-`
-Canicule, climatisation, autour de, sauf, objectif, grave, sécheresse,
-typique, surtout, récent, agir, protéger, éviter , sec, AC, opinion, 
-mariage, thunder, act, feu
-`
-
-
-
-
-
-En été, il fait très chaud, et parfois il y a une *(1)* `canicule` ou une *(2)* `sécheresse`. Le sol devient très *(3)* `sec`, les arbres brûlent facilement et il y a un grand risque de *(4)* `feu` de forêt. C’est un problème très *(5)* `grave`, alors il faut *(6)* `agir` rapidement pour *(7)* `protéger` la nature et les habitants.
-
-En France, les gens n’aiment pas beaucoup la *(8)* `climatisation`. Ils disent que l' *(9)* `opinion` publique est contre la *(10)* `clim`, même quand il y a une *(11)* `canicule`. Beaucoup de personnes *(12)* `autour de` moi critiquent l’utilisation des climatiseurs. 
-
-Mon *(13)* `objectif` est de comprendre pourquoi. Peut-être que c’est culturel. Par exemple, aux États-Unis, il est *(14)* `typique` d’avoir de la clim partout. On en utilise pendant un *(15)* `marriage`, dans les magasins, ou même dans les églises.
-
-Un événement *(16)* `surtout` m'a marqué: pendant un séjour en France, il y a eu un orage avec du *(17)* `tonnerre`, et les alertes météo parlaient de la chaleur extrême. Il fallait appeler le *(18)* `18` en cas de danger. 
-
-Je pense qu’il est important d’*(19)* `agir`, mais aussi de *(20)* `protéger` ce qui est important pour les gens dans chaque culture.
-
-![](./less01-ex-cles.png){width=50% fig-align="center"}
 
 ## Dialogue
 
 
->
 J’ai complété<br>
 Je ne connais pas la réponse <br>
 
->
 Je rentre<br>
 C’est combien d’heures de vol?<br>
 Vers l’est<br>
@@ -54,7 +26,6 @@ La mer rafraichit le climat<br>
 
 [^a]: pire <> meilleur
 
->
 C’est une ville où tu veux habiter dans le futur<br>
 Sa ville natale[^b] - la ville natale de ton partenaire<br>
 Mon pays natal, ma ville natale<br>
@@ -77,7 +48,7 @@ C’était principalement dû à une différence de personalité<br>
 [^c]: could/might/may, conditionnel present of `pouvoir`
 [^d]: `pendant` is used for completed actions, for ongoing actions use `depuis`.
 
->En été <br>
+En été <br>
 Par contre[^e]<br>
 Moins 18 degrés <br>
 Rude[^f] <br>
@@ -101,7 +72,7 @@ Par rapport à (in regards to)<br>
 [^f]: rough
 [^g]: even
 
->Les immeubles sont trop proches (close)<br>
+Les immeubles sont trop proches (close)<br>
 Il y a plus d’espace<br>
 Je suis fâché (angry) que<br>
 Les panoramas, les vues<br>
@@ -112,7 +83,6 @@ J’etais à Nice il y a 3 ans[^h]<br>
 
 [^h]: `il y a x ans` =  `x years ago`, used for past events
 
-![](./less02.png){width=50% fig-align="center"}
 
 
 ### Reading Exercise
@@ -141,8 +111,17 @@ Bien que[^6] cette fête ait des origines historiques profondes, elle est aujour
 [^6]: `bien que` = although, starts subjunctive clause
 
 
-![](./14-juillet.png){width=90% fig-align="center"}
 
 ### Devoirs
 
 Fais l'exercice 1 p179 + ex 1 p184
+
+:::{.column-margin}
+![Diaglogue](./less02.png)
+:::
+
+:::{.column-margin}
+![Reading](./14-juillet.png)
+:::
+
+

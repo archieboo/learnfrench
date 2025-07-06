@@ -1,0 +1,104 @@
+---
+title: "Lesson 1"
+date: "2025-06-30"
+categories: [french, lesson]
+reference-location: margin
+citation-location: margin
+---
+
+
+# Dialogue
+
+Il fait agréable<br>
+Pour une cérémonie de marriage<br>
+Les marié ont quel âge?<br>
+**Enrivon** 28 ans<br>
+Typique<br>
+Il y a du poulet, de la salade, du gâteau<br>
+c’est typique aux États-Unis<br>
+**En fait**, je ne sais pas<br>
+Je suis allé<br>
+Celle-ci était plus religieuse<br>
+Les trois dernières cérémonies n’étaient pas religieuses<br>
+Les familles des mariés sont de quelle culture?<br>
+Le marié, la mariée<br>
+Le cousin, la cousine<br>
+Un grand **festin**[^1]<br>
+Comme le vin français<br>
+De plus en plus[^2]<br>
+
+[^1]: festin = banquet
+[^2]: more and more
+
+Tu as commencé à faire une liste de vocabulaire sur ton application?<br>
+Je veux documenter mon **étude**<br>
+
+Dans d’autres régions de France il y a des alertes **canicule**<br>
+J’ai lu qu’environ 3% des **logements** en France ont la climatisation<br>
+Donc, quand il y a une canicule c’est très **grave**<br>
+Les personnes **agées** **meurent**<br>
+Ils veulent<br>
+L’opinion publique est la même<br>
+**La plupart**[^3] des gens n’ont pas la clim<br>
+J’ai **grandi** en Chine<br>
+Il n’y avait pas beaucoup de climatisation non plus[^4]<br>
+surtout<br>
+C’etait peut-être parce que beaucoup de gens êtaient **pauvres**<br>
+Ill y a beaucoup de clim<br>
+Les Français sont très pro-environnement<br>
+**Depuis** qu’on est petits les gens **autour de** nous **critiquent** la clim<br>
+**Pour ce qui est de**[^5] la clim<br>
+J’ai l’impression que les gens sacrifient plus que ça **apporte** à l’environnement<br>
+**Surtout**[^6] le changement climatique<br>
+Mais, moi, j’ai la clim<br>
+J’ai été influencé par les pays asiatiques<br>
+
+[^3]: most, the majority of
+[^4]: non plus = either, used like "aussi" but in a negative context
+[^5]: as for, regarding
+[^6]: especially
+
+
+**Combien de temps** tu as habité en Asie<br>
+**Au total** un an et demi<br>
+**Pendant** deux ans<br>
+récent<br>
+Tu connais Shanghai **mieux** que moi<br>
+Il y a environ 20 ans<br>
+Ça a encore plus changé<br>
+**Au bord du** Yangtze<br>
+Il y a de l’architecture enropéenne<br>
+Nous aimons beaucoup la France<br>
+Les feux de forêts<br>
+
+:::{.column-margin}
+![](./less01.png)
+:::
+
+## Reading Exercise
+
+
+Complete le texte avec les mots suivants:
+
+`
+Canicule, climatisation, autour de, sauf, objectif, grave, sécheresse,
+typique, surtout, récent, agir, protéger, éviter , sec, AC, opinion, 
+mariage, thunder, act, feu
+`
+
+En été, il fait très chaud, et parfois il y a une *(1)* `canicule` ou une *(2)* `sécheresse`. Le sol devient très *(3)* `sec`, les arbres brûlent facilement et il y a un grand risque de *(4)* `feu` de forêt. C’est un problème très *(5)* `grave`, alors il faut *(6)* `agir` rapidement pour *(7)* `protéger` la nature et les habitants.
+
+En France, les gens n’aiment pas beaucoup la *(8)* `climatisation`. Ils disent que l' *(9)* `opinion` publique est contre la *(10)* `clim`, même quand il y a une *(11)* `canicule`. Beaucoup de personnes *(12)* `autour de` moi critiquent l’utilisation des climatiseurs. 
+
+Mon *(13)* `objectif` est de comprendre pourquoi. Peut-être que c’est culturel. Par exemple, aux États-Unis, il est *(14)* `typique` d’avoir de la clim partout. On en utilise pendant un *(15)* `marriage`, dans les magasins, ou même dans les églises.
+
+Un événement *(16)* `surtout` m'a marqué: pendant un séjour en France, il y a eu un orage avec du *(17)* `tonnerre`, et les alertes météo parlaient de la chaleur extrême. Il fallait appeler le *(18)* `18` en cas de danger. 
+
+Je pense qu’il est important d’*(19)* `agir`, mais aussi de *(20)* `protéger` ce qui est important pour les gens dans chaque culture.
+
+
+
+:::{.column-margin}
+![](./less01-ex-cles.png)
+:::
+
