@@ -4,7 +4,10 @@ project:
 
 website:
   title: "Learn French"
+  favicon: profile.jpg
   navbar:
+    logo: profile.jpg
+    background: '#291B10'
     right:
       - about.qmd
       - icon: github

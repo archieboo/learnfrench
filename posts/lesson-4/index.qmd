@@ -1,0 +1,95 @@
+---
+title: "Lesson 4"
+date: "2025-07-07"
+categories: ["Pronom Complément", "Manquer", "Imparfait"]
+reference-location: margin
+citation-location: margin
+---
+
+
+## Dialogue
+
+
+**Comment obtenir le radical d’un verbe à l’imparfait**[^1]
+
+L'imparfait participles are formed by taking the **nous** form of the present tense, removing `-ons`, then add endings: 
+`
+ais, ais, ait, ions, iez, aient. 
+`
+
+```
+nous parlons -->
+je parlais
+tu parlais
+il/elle/on parlait
+nous parlions
+vous parliez
+ils/elles parlaient
+```
+
+[^1]:  un radical est la partie du verbe qui reste après avoir enlevé les terminaisons. e.g. pour le verbe "parler", le radical est "parl-".
+
+
+**Négation avec pas**
+
+Tu as un chien?<br>
+Non, je n’ai pas un chien: j’en ai deux.[^2]<br>
+Non, je n’ai pas de chien[^3]<br>
+
+[^2]: emphasizing on not having **_TWO_** dogs.
+[^3]: having no dogs.
+
+**Pronom et négation**
+
+Tu as amené ton chien?<br>
+Non, je n’ai pas amené  mon chien<br>
+Non, je ne l’ai pas amené.<br>
+
+
+**Special cases with `aimer`, `connaître`**
+
+Tu aimes la vodka?<br>
+Non, je n’aime pas ça.<br>
+Tu connais ce film?<br>
+Oui, je connais<br>
+Tu connais son frère?<br>
+Oui, je le connais.<br>
+
+**Strange verbe: Manquer**
+
+Manquer (subj of Manquer is missing)<br>
+Tu me manques = I miss you (because you are missing from me)<br>
+Il me manque = I miss him<br>
+Elle me manque = I miss her<br>
+Antoine me manque = I miss Antoine<br>
+Ma mère manque = I miss my mother<br>
+
+Il manque du lait<br>
+
+
+
+
+## Emener, Amener, Ramener, Emporter, Apporter, Rapporter
+
+I came across a helpful video that explains the difference between these verbs. 
+
+
+| Verbs      | Explaination |
+|------------|--------------|
+| emmener    | focus on `partir`, 类似`带走`<br>e.g.  `je vais emmener mon chien au parc` |
+| amener     | focus on `arriver`, 类似`带来`<br>e.g. `je vais amener mon chien à ta fête` |
+| ramener    | focus on `revenir`, 类似`带回`<br>e.g. `je vais amener mon chien à la maison` |
+
+<br>
+`emporter, apporter, rapporter` focuses on the same idea, but these verbs tend to be more similar to `carry`,
+where you need to use your arms or hands to carry something. 中文没有1对1的对应, 但从方向上可以理解为`带走`, `带来`, `带回`。
+
+
+{{< video https://youtu.be/BTqXKcqkQO8?si=TAw1KlHdgTCbxLas >}}
+
+
+
+
+:::{.column-margin}
+![](./less04.jpg)
+:::
