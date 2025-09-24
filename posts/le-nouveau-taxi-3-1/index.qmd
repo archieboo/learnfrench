@@ -6,15 +6,301 @@ reference-location: margin
 citation-location: margin
 ---
 
-## Introduction
-
-This is a serie of notes I made based on the text book **Le Nouveau Taxi 3** and a youtube course series.
+## Grammaire: L'expression négatif
 
 
-## Grammaire: L'expression négative
+### ne...pas
+
+Elle _ne parle pas_ italine.  
+Il _n’aime pas_ les romans de science-fiction
+
+#### le temps composé
+Hier, il pleuvait et les enfants _ne sont pas_ sortis[^1a1].  
+Pardon, je _n’ai pas_ compris votre question.  
+Je _ne les[^1a2] ai pas_ encore lus. 
+
+#### l’infinitif
+On demande aux visiteurs de `ne pas prendre` les photos.  
+Excusez-moi de `ne pas vous avoir` répondu plus tôt. 
+
+[^1a1]: `sorti` is a past particle, no longer an actual vert. Thus, cannot be in between ne…pas.  
+[^1a2]: note pronoms COD are placed before auxiliary and in between ne…pas.
+
+### ne...point 
+Same as ne…pas, but more formal
+
+Je _ne l’ai point_ vu.
+
+### ne…pas du tout
+Not at all
+
+Elle _ne comprend pas_ du tout ce que j’ai dit.  
+Je _ne connais pas du tout_ M. Dupont.
+
+### ne…guère
+Not much, hardly
+
+C’est un homme timide qui _ne parle guère_.  
+Je _ne sors guère_ le soir.
+
+### ne…pas encore
+Not yet
+
+Est-ce que les résultats sont déjà affichés?  
+
+>  Non, pas encore.  
+>  Non, ils ne le[^1a3] sont pas encore.
+
+
+Est-ce que le TGV est déjà parti?
+
+[^1a3]: `le` is pronom neutre. It replaces the adjective *affichés*.
+
+> Non, _pas encore_  
+> Non, il _n’est pas encore_ parti.
+
+### ne…plus
+No longer, not any more
+
+Il _ne fume plus_.
+
+### ne…plus du tout
+Not at all any more
+
+Je m’excuse, je _ne fume plus du tout_.  
+Depuis son accident, il _ne fait plus du tout_ de sport.
+
+### ne…jamais
+Never, not ever
+
+Est-ce que tu vas au cinéma de temps en temps?
+
+> Non, je vois les films sur internet. Je _ne vois jamais_ au cinéma.
+
+Est-ce qu’on entend souvent parler de cet album?
+
+> Non,  on _n’entend jamais_ en parler.
+
+### ne…plus jamais
+Never any more, never again
+
+Je _ne fume plus_. (Not smoking any more)  
+Je _ne fume plus jamais_. (Never smoking again)  
+_Ne fais plus jamais_ ça! (Never do this again!)
+
+### ne…ni…ni
+Neither…nor
+
+Est-ce que tu as des frères ou des sœurs?
+
+> Non, je _n’ai ni frère ni sœur_. (singular form is fine)  
+> Non, je _n’ai pas de frère ni de sœur_.
+
+Y a-t-il café ou un bistrot au coin de la rue?  
+
+> Non, il _n’y a ni café ni bistrot_.  
+> Non, il _n’y a pas de cafe ni de bistrot_.
+
+### ne…plus ni…ni…
+No longer…neither…nor
+
+Elle _ne boit plus ni thé ni café_.  
+Elle _ne lit plus ni roman policier ni roman de science-fiction_.
+
+### ne…jamais ni…ni
+Never…neither…nor
+
+Elle _ne mange jamais ni viande ni poisson_, car elle est végétarienne.
+
+### ne…personne
+No one, nobody
+
+Je _ne vois personne_.  
+_Personne ne_ m’a vu. 
+
+### ne…rien
+Nothing, not anything
+
+Il _n’y a rien_ de commun entre ces deux points de vue.  
+_Rien n’est_ parfait.
+
+### ne…aucun(e)[^1a4]
+No…not any, none. Needs to agree with the noun it modifies, or the pronoun it replaces.
+
+Il _n’a aucune_ chance pour réussir à ce concours.  
+_Aucun_ de ces projets _n’a_ gagné le soutien[^1a5] des membres. 
+
+[^1a4]: aucun is either used as an adjective or pronoun. In either case, it needs to agree with the noun or pronoun in context.
+
+[^1a5]: support.
 
 
 
+
+### ne…nulle part
+Nowhere
+
+Il _ne_ l’a trouvé _nulle part_. (He didn’t find it any where)  
+_Nulle part ne_ lui a fait plaisir. (He doesn’t find anywhere enjoyable)
+
+### ne…plus rien / personne / aucun
+No longer…nothing / no one / not any
+
+À cause de ce brouillard, je _ne vois plus rien_. (Because of the fog, I can’t see anything anymore)  
+Depuis son accident, il _ne voit plus personne_. (Since the accident, he doesn’t see anyone anymore)  
+Il _n’a plus aucun_ espoir (hope).
+
+
+### ne…jamais rien/personne/aucun
+Never…nothing / no one / not any
+
+Il _ne me dit jamais rien_. (He never tells me anything)  
+Il _ne parle jamais_ à _personne_. (He never speaks to anyone)  
+Il _n’a jamais_ eu _aucun_ problème dans son travail. (He never has any problems at work)
+
+
+
+:::{.callout-tip}
+## Exercices
+Completez avec *ne…pas/ne…point/ne…pas du tout/ne…guère*
+
+Il part souvent en France?
+
+> Non, il ne part guère en France.
+
+Est-ce que tu comprends son attitude? 
+
+> Non, je ne comprends point/pas son attitude.
+
+Est-ce que tu m’entends?
+
+> Excusez-moi, je ne t’entends pas/pas du tout.
+
+Est-ce que vous travaillez encore[^1a6] dans la laboratoire?
+
+> Non, je n’y travaille plus depuis longtemps. 
+
+Est-ce que tes amis espagnoles habitent toujours[^1a6] chez toi?
+
+> Non, ils n’y habitent plus, car ils sont déjà rentrés chez eux.
+:::
+
+[^1a6]: `encore` and `toujours` in a question often signals ne….plus in negative expression.
+
+
+## L'emplacement des mots négatifs
+
+:::{.callout-warning}
+## La place de la négation dans la phrase
+
+**_Un verbe à l'infinitif_**  
+Ne pas / Ne plus / Ne rien / Ne jamais + verbe
+
+**_Un verbe à un temps simple_**  
+Ne pas / Ne plus / Ne rien / Ne personne / Ne jamais + verbe entre le deux éléments de la négation
+
+**_Un verbe à temps composé_**  
+Ne pas / Ne plus / Ne rien / Ne jamais + auxiliaire entre les deux éléments de la négation
+
+**_Des négations peuvent être utilisées ensemble:_**  
+Jamais, personne, (non) plus, sans, aucun(e)
+
+:::
+
+### un temps simple
+
+
+Elle _ne parle pas_ italien.  
+Elle _ne fume jamais_.  
+Il _ne voit rien_.
+
+### l'infinitif
+
+Ne pas fumer.
+Ne rien jeter dans le lavabo (sink). Excuse-moi, je ne veux plus rien entendre.
+
+### un temps composé
+Elle n’a pas compris.  
+Elle n’a rien compris.
+
+:::{.callout-important}
+### Exception
+`personne` should be placed after the verb, as it makes more sense.
+
+_Ne voir_ personne.  
+Elle n’a vu personne.
+:::
+
+
+
+## Entraînez-vous
+Voice quelques commentaires à la sortie d’un speed dating. Transformez-les en leur donnant un sens négatif. 
+
+Je me suis beaucoup amusée! Et puis, quelqu’un m’a laissé ses coordonnées! (Anne, 37 ans)
+
+> Je ne me suis pas beaucoup amusée! Et puis, personne ne m’a laissé ses coordonnées!
+
+Tout m’intéresse dans ces soirées! Et je suis sûr de rencontrer des filles sympas. (Greg, 25 ans)
+
+> Rien ne m’intéresse dans ces soirées! Et je ne suis pas sûr de rencontrer des filles sympas.
+
+Moi, j’ai parlé à tout le monde! (Marc, 33 ans)
+
+> Moi, j n’ai parlé à personne!
+
+J’aime beaucoup ce système de rencontres, et ma sœur aussi!
+
+> J n’aime pas du tout ce système de rencontres, et ma sœur non plus!
+
+
+## Texte
+
+### Trouver l’amour de sa vie: top chrono
+Finies les agences matrimoniales coûteuses[^4a1]!  
+
+Aujourd’hui, la dernière folie[^4a2] des célibataires de 25 à 45 ans pour trouver l’âme sœur[^4a3], ce sont les speed datings. Apparu il y a quelques années à New York, le concept a séduit[^4a4] les cœurs à prendre pressé[^4a5] et branchés[^4a6]. Dans un bar cosy, on vous organise sept tête-à-tête[^4a7] de sept minutes chacun[^4a8] avec sept charmants[^4a9] célibataires.
+
+
+:::{.callout-tip}
+## chrono 
+- un chronomètre (noun) 
+- Chronométrer (verb) un course
+- Ce pendule marche avec une précision chronométrique (adj.)
+- Top chrono: start (like when a judge begins timing of a running course)
+:::
+
+:::{.callout-tip}
+## dernier / dernière
+Before noun: the final …,  
+> eg. le dernier jour du monde世界末日, les dernières nouvelles最新消息, ces derniers jours最近几天  
+
+After noun: last (before current)…  
+> eg. la semaine dernière上周, l’année dernière去年
+
+:::
+
+:::{.callout-tip}
+## apparaître
+直接拿过去分词放句首，表示事件发生在主句之前，这点和英文类似。  
+Ce film est apparu l’année dernière.  
+Sortie de la gare, elle a pris un taxi.  
+Apparus le mois dernier, leurs albums se sont bien vendus.
+:::
+
+
+
+[^4a1]: expensive, costly
+[^4a2]: madness, noun of fou
+[^4a3]: soulmate
+[^4a4]: séduire: to seduce
+[^4a5]: in a hurry
+[^4a6]: à la mode, chic 潮流的，时髦的
+[^4a7]: in person, face to face, can be both adj and adv
+[^4a8]: each. 直接放句子表示每一个；组织7对speed datings，每对面对面交流7分钟。
+[^4a9]: charming, lovely
+
+
+## Translation
 
 
 

@@ -11,9 +11,13 @@ website:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/archieboo
 format:
   html:
+    toc: true
+    toc-depth: 2
+    number-sections: true
+    number-depth: 3
     theme:
       - litera
       - brand
