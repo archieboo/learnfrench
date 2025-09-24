@@ -292,10 +292,12 @@ After noun: last (before current)…
 
 :::{.callout-tip}
 ## apparaître
-直接拿过去分词放句首，表示事件发生在主句之前，这点和英文类似。  
-Ce film est apparu l’année dernière.  
-Sortie de la gare, elle a pris un taxi.  
-Apparus le mois dernier, leurs albums se sont bien vendus.
+Similar to English, the past participle can be placed at the beginning of a sentence to indicate that the event happened before the main clause.  
+
+> Ce film est apparu l’année dernière.  
+> Sortie de la gare, elle a pris un taxi.  
+> Apparus le mois dernier, leurs albums se sont bien vendus.
+
 :::
 
 [^4a1]: coûteux/coûteuse: expensive, costly
@@ -333,7 +335,9 @@ décider de faire qch: decide to do something
 ::: 
 
 :::{.callout-tip}
-#### -taine…x来个
+#### -taine
+Indicates an approximate number, usually age or quantity.
+
 Une dizaine de qch/ une vingtaine de / des centaines de / une douzaine de / une quinzaine de…  
 > J’ai rencontré des gens dans la quarantaine.  
 > J’ai acheté une douzaine d’œufs.  
