@@ -1,7 +1,7 @@
 ---
 title: "Le Nouveau Taxi 3 - Leçon 1"
 date: "2025-09-23"
-categories: []
+categories: ["Le Nouveau Taxi", "B1"]
 reference-location: margin
 citation-location: margin
 ---
@@ -269,8 +269,19 @@ Aujourd’hui, la dernière folie[^4a2] des célibataires de 25 à 45 ans pour t
 - Top chrono: start (like when a judge begins timing of a running course)
 :::
 
+
 :::{.callout-tip}
-## dernier / dernière
+## Fini...!
+Finies les agences matrimoniales coûteuses! == Les agences matrimoniales coûteuses sont finies!  
+Ou: C’est fini, les agences matrimoniales coûteuses!  
+Thus, both _Finies les agences matrimoniales coûteuses!_ and _Fini les agences matrimoniales coûteuses!_ are correct.  
+Other examples:  
+- Fini/Finies les soucis!
+- Fini/Finie la cigarette!
+:::
+
+:::{.callout-tip}
+#### dernier / dernière
 Before noun: the final …,  
 > eg. le dernier jour du monde世界末日, les dernières nouvelles最新消息, ces derniers jours最近几天  
 
@@ -287,9 +298,7 @@ Sortie de la gare, elle a pris un taxi.
 Apparus le mois dernier, leurs albums se sont bien vendus.
 :::
 
-
-
-[^4a1]: expensive, costly
+[^4a1]: coûteux/coûteuse: expensive, costly
 [^4a2]: madness, noun of fou
 [^4a3]: soulmate
 [^4a4]: séduire: to seduce
@@ -300,7 +309,164 @@ Apparus le mois dernier, leurs albums se sont bien vendus.
 [^4a9]: charming, lovely
 
 
-## Translation
+### Commentaires A
+
+Je me suis dit: << ça a l’air marrant, je vais le faire! >> (Michèle, 34 ans, consultante en entreprise)  
+
+J’ai découvert les speed datings grâce â[^4b1] un reportage[^4b2] â la télé. J’en ai parlé à mes trois meilleures amies, un soir. On s’est décidé par jeu et par curiosité. Nous avons la trentaine, plutôt agréables à regarder, pas trop bêtes[^4b3], mais toujours seules! Des hommes, on en croise chaque jour, mais jamais en tête à tête! Là, au moins[^4b4], c’est la cas. Je ne regrette pas du tout mon investissement: la soirée a été sympa, la majorité des participants était agréable. Je n’ai pas croisé Hugh Grant, mais je me suis fait trois nouveaux copains avec qui je suis sortie dîner depuis.
+
+:::{.callout-tip}
+#### Avoir l’air…
+Il a l’air d’être jeune. (He looks young)
+marrant == amusant == drôle
+:::
+
+:::{.callout-tip}
+#### Se décider vs. décider
+Se décider à faire qch: determined to do something  
+> Elle s’est décidée à ne plus le revoir.  
+> Il n’arrive pas à se décider
+
+décider de faire qch: decide to do something  
+> Il a décidé d’apprendre le français
+
+::: 
+
+:::{.callout-tip}
+#### -taine…x来个
+Une dizaine de qch/ une vingtaine de / des centaines de / une douzaine de / une quinzaine de…  
+> J’ai rencontré des gens dans la quarantaine.  
+> J’ai acheté une douzaine d’œufs.  
+> Il est parti pour une quinzaine de jours.
+
+:::
+
+:::{.callout-tip}
+#### Croiser
+Croiser: cross, come across  
+> Croiser les bras  
+> Croiser qn dans la rue
+
+:::
+
+
+:::{.callout-tip}
+#### Regretter qch /  regretter de faire qch
+> Il a regretté ce qu'il avait fait.  
+> Il a regretté sa jeunesse/le temps perdu.  
+> Il regrette de ne pas avoir bien travailé.  
+> Il regrette de ne pas suivi ses conseils.
+
+:::
+
+
+:::{.callout-tip}
+#### la majorité de
+Notice "une majorité de" + nom (no article)
+> Dans ce club, il ya a une majorité de femmes.
+
+Also "la majorité des" + nom, the nom can be both plural or singular, depending on the context.  
+> La majorité des elèves a fait de grands progrès en français. (like everyone)
+> Dans cette université, la majorité des étudiants sont étrangers. (focus on most are)
+
+la plupart de (needs to match the noun)  
+> La plupart de monde parle au moins une langue étrangère.  
+> la plupart des etudiants sont étrangers.
+
+:::
+
+
+:::{.callout-tip}
+#### se faire + nom
+to get oneself something, to make oneself something  
+> Il se fait du souci pour ses collègues.  
+> Ne te fais pas d'illusions.  
+> Elle s'est fait trois nouveaux copains
+
+:::
+
+
+:::{.callout-tip}
+#### depuis
+Here `depuis` is used as an adverb, in stead of a preposition. It's common in French.
+> Il a acheté une canne, et il est sorti avec. (He bought a cane, and he went out with it.)  
+> On en parlera après. (We will talk about it later.)  
+> Il travaille très avant dans la nuit. (He works very late into the night.)
+
+:::
+
+[^4b1]: grâce à: thanks to
+[^4b2]: report, news report, documentary
+[^4b3]: bête: stupid, dumb
+[^4b4]: at least. au plus: at most
+
+
+
+### Commentaires B
+Après mon divorce, je veux retrouver le bonheur. (Vincent, 43 ans, agent immobilier)
+
+C’est un copain de ma boîte[^4c1] qui m’en a parlé. Je me suis alors inscrit sur le site Internet7minutes.com On m’a envoyé un mail pour me donner le lieu et la date de la soirée. J’ai rencontré des jeunes femmes très sympas. L’une d’entre elles[^4c2] surtout[^4c3] m’a intéressé. Elle est divorcée et maman d’un petit garçon. On s’est tout de suite compris[^4c4]. Je l’ai raccompagnée[^4c5] chez elle avec la promesse de nous revoir bientôt. Elle aime le jazz, l’omelette aux truffes et les couleurs de la campagne en automne, moi aussi… Je recommence à croire à un possible bonheur. 
+
+
+:::{.callout-tip}
+#### croire
+croire à qch: believe something   
+> Je crois à la vie après la mort.
+
+croire en: believe in something/someone
+> Je crois en Dieu.
+
+croire qqn: believe someone
+> Tu peux croire mon ami, tu peux compter sur lui.
+
+croire que + phrase: believe that  
+NOTE: croire que - penser que - trouver que, use indicatif when affirmative, but subjonctif when negative  
+> Je crois que tu as raison.  
+> Je ne crois pas que tu aies raison.
+
+:::
+
+
+[^4c1]: boîte: box, club, here it means company, workplace
+[^4c2]: l’une d’entre elles: one of them (fem.); l'un d’entre eux
+[^4c3]: notamment, en particulier, particulièrement
+[^4c4]: se comprendre: understand each other
+[^4c5]: `raccompagner` qn: take sb back (eg. home); `accompagner` qn: accompany sb
+
+
+
+
+## Thème - Translate into French
+
+1.  My investiment failed, but I do not regret it at all.
+
+    `un investissment`,  `investir`  
+    `échouer à faire qch`  
+    `regretter`  
+    
+    > Bien que j'aie échoué à l'investissement, je ne regrette pas du tout.  
+    > Mon investissment a échoué, mais je ne regrette pas du tout.
+
+
+2.  Nothing about this movie interests me. 
+
+    `qch intéresser qn`
+
+    > Aucune histoire de ce film ne m’intéresse.  
+    > Rien ne m’intéresse dans ce film.
+
+
+3.  Since meeting you, I began to believe in love again.
+
+    > Depuis que je t’ai rencontré, je recommence à croire à l’amour.
+
+
+4.  I hosted a party yesterday but no one came. I felt sad about it.
+
+    `tenir une fête`, `faire une soirée`, `organiser une soirée`
+
+    > Hier, j’ai tenu une soirée chez mois, mais personne n’est venu, ce qui m’a rendu bien triste.  
+    > Hier soir, j’ai fait une fête chez moi, mais personne n’est venu. J’en suis très triste.
 
 
 

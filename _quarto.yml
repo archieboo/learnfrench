@@ -1,13 +1,16 @@
 project:
   type: website
   output-dir: docs
+  preview:
+    port: 9595
+    browser: false
 
 website:
   title: "Learn French"
   favicon: profile.jpg
   navbar:
     logo: profile.jpg
-    background: '#291B10'
+    # background: '#291B10'
     right:
       - about.qmd
       - icon: github
@@ -19,8 +22,10 @@ format:
     number-sections: true
     number-depth: 3
     theme:
-      - litera
-      - brand
+      - lumen
+      # - united
+      # - yeti
+      # - sandstone
     css: styles.css
 
 
