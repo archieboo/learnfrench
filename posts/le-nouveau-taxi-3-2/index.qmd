@@ -1,7 +1,7 @@
 ---
 title: "Le Nouveau Taxi 3 - Leçon 2"
 date: "2025-09-24"
-categories: ["Le Nouveau Taxi", "B1"]
+categories: ["Le Nouveau Taxi", "B1", "l'expression de la cause"]
 reference-location: margin
 citation-location: margin
 ---
@@ -47,7 +47,7 @@ Very formal, often used in writing, like in official / legal documents, etc. 鉴
 
 
 ### grâce à
-Used to express a positive cause. 由于，多亏了。
+Thanks to. 由于，多亏了。
 
 > J’ai eu ce travail grâce à Olivier. 
 
@@ -58,17 +58,17 @@ Nous sommes arrivés en retard à cause des embouteillages[^1a2].
 [^1a2]: traffic jams.
 
 ### à force de
-Because of repeatedly doing something...
+Because of repeatedly doing something..., usually use verb infinitif.
 
 > À cause de crier, il s’est cassé la voix.
 
 ### faute de
 Because of the lack of something...
 
-> Faute de temps, il n’a pas fini le travail à temps.
+> Faute du temps, il n’a pas fini le travail à temps.
 
 
-### le gérondif
+### le gérondif 副动词
 
 > Tu vois, en faisant un effort, tu as réussi.  
 > En buvant du café, il a travaillé trés avant dans la nuit.
@@ -107,11 +107,157 @@ Les loyers ont beaucoup augmenté, ça me semblait être la meilleure solution.
 
 > Puisque les loyers ont beaucoup augmenté, ça me semblait être la meilleure solution.
 
-## Texte
+## Texte - Vous, moi, toit[^3a1]
 
 
+### Colocation: ils ont choisi de partager leur << chez-soi[^3a2] >>
+
+
+#### _Longtemps réservé aux seuls étudiants, le partage[^3a3] d'appartment est de plus en plus souvent pratiqué par des adultes actifs[^3a4]._
+
+Le colocataire est une personne qui n'a aucune envie de **se retrouver** seul, le soir, dans son deux-pièces. Aprés trois ans de colocation en Belgique, Magali, 26 ans, a vécu plusieurs mois seule: << Je suis **passée de plein d'amis à plein de**[^3a5] vide. >> Elle retrouve donc une colocation, avec Maud, 27 ans, et Delphine, 28 ans: << C'est la vie qui reprend![^3a6]>> 
+
+Tous le disent: parmi les motivations matérielles, il y a le prix exorbitant des loyers, mais surtout (ce qui est lié[^3a7]) le problème de l'espace. Pourquoi vivre dans un studio de 30 $m^2$ quand, pour le même prix, on pourrait **partager un 100 $m^2$ à trois**?
+
+Ces hommes et femmes qui gagnent plutôt bien leur vie[^3a8] **tiennent** le même discours[^3a9] sur la consommation[^3b1] et la propriété. << Je n'aime pas posséder, dit Magali. J'aime penser que je peux prendre une année sabbatique et partir demain pour un long voyage. Je ne veux pas m'encombrer. >> << Je ne suis pas matérialiste, confie[^3b2] Morgan, je peux être **attachée à** une lampe, à un canapé ou à une table qui vienent de chez moi. Mais mon plaisir, c'est de les partager, pas de les posséder. >>
+
+
+[^3a1]: toit = roof, a play on words with "toi" = you.
+[^3a2]: chez-soi = home
+[^3a3]: partager = to share. le partage (nom)
+[^3a4]: adultes actifs = working adults.
+[^3a5]: plein de = lots of.
+[^3a6]: reprendre = to resume, to take back
+[^3a7]: ce qui est lié = ce qui est concerné
+[^3a8]: gagner bien leur vie = to live a comfortable life
+[^3a9]: discours = opinion, also speech, talk.
+[^3b1]: consommation = consumption, consumerism. la consommation; consoomer; consommateur, -trice.
+[^3b2]: confier = to confide, to entrust.
+
+
+:::{.callout-tip}
+#### reserver
+réserver qch à qn  
+- On a réservé ce bureau au directeur.
+
+réserver qch pour qn  
+- J'ai réservé une table pour deux personnes.
+
+(être) réservé à qn  
+- Cette salle est réservée aux membres du personnel.
+:::
+
+
+:::{.callout-tip}
+#### se retrouver
+to find oneself, to end up (somewhere or in some situation)  
+- Il s'est retrouvé seul.  
+- Il s'est retrouvé coincé dans l'ascenseur. (He found himself stuck in the elevator)
+:::
+
+
+:::{.callout-tip}
+#### passer de... à...
+to go from... to...  
+- Cette enterprise est passée du secteur public au secteur privé.  
+- Il est passé de la défensive à l'offensive.
+:::
+
+
+:::{.callout-tip}
+#### faire qch à + un chiffre
+to do something together (with x people)  
+- Ils ont soulevé ce bateau à trois.  
+- Vous pouvez jouer cette pièce de théâtre à quatre ou cinq.  
+- Il a planté une forêt à lui seul.
+:::
+
+
+:::{.callout-tip}
+#### tenir
+to hold, to keep, to maintain (along with many other meanings)
+
+- Un vieil homme tient un journal dans sa main. (hold)  
+- Ils tiennent le même discours sur la consommation. (maintain)  
+- Si on veut avoir la confiance d'un enfant, il faut toujours tenir sa parole. (keep)  
+- Son oncle tient un petit restaurant en Provence. (run, manage)  
+- Cette jeune femme tient bien sa maison. (manage, maintain)
+
+:::
+
+
+### Forum
+
+#### Virginie Re: Pourquoi avez-vous choisi la coloc?
+> Parce que je suis une fan de L'Auberge espagnole. Non, en fait, comme je n'aime pas trop la solitude, la colocation **me permet de parler** de ma journée, de me confier.
+
+
+#### Lili Re: Pourquoi avez-vous choisi la coloc?
+> J'en **avais assez de** vivre seule en appartement. Grâce à ce mode de fonctionnement, je trouve qu'on s'enrichit humainement.
+
+
+#### Seb Re: Pourquoi avez-vous choisi la coloc?
+> En se mariant, mes amis ont complètement changé leurs habitudes: **plus question d**'aller prendre un verre ensemble à l'improviste tard le soir. Alors forcément[^3c1], on cherche de nouvelles relations.
+
+:::{.callout-tip}
+#### permettre à qn de faire qch
+to allow, to enable someone to do something
+- Le docteur ne lui permet pas de fumer.
+:::
+
+:::{.callout-tip}
+#### en avoir assez de qch
+to be fed up with something. Also "en avoir marre de qch" (more informal and more stressed)  
+- J'en ai assez des examens.
+- J'en ai marre de son attitude.
+- J'en ai marre.
+:::
+
+
+:::{.callout-tip}
+#### plus question de faire qch
+no longer possible to, out of the question to  
+- Est-ce que tu peux me donner un coup de main?  
+- Pas question! (out of the question! 没门儿🙅🏻)
+:::
+
+[^3c1]: forcément = necessarily, inevitably.
 
 ## Thème - Translate into French
+
+1. This travel route is designed specifically for university students.
+
+    `resérvé a` 
+    
+    > Cet itinéraire de voyages est réservé aux étudiantsé.
+    > C'est un itinéraire de voyages réservé aux étudiants.
+
+
+2. After getting married, he completely changed his habits.
+
+    `changer`
+    
+    > Aprés le marriage, il a complétement changé ses habitudes de vie.
+
+
+3. I didn't want to spend evenings alone when I first a few years I started working. Therefore, I rented an appartment with a single colleague.
+
+    `partager`
+     
+     > Pendant les années où j'ai commencé à travailler, je partageais mon appartment avec un collègue célibataire, car je ne voulais pas rester seule le soir.
+
+    > Pendant les premières années de travail, je ne voulais pas rester seul le soir, je partageais donc mon appartement avec un collègue célebataire.
+    
+4. We treasure our friendship because the five of us had fought Ebola for 74 days in a small village in Africa.
+
+    `attachée à`
+    `lutter contre`
+    
+    > Comme nous avons lutté à cinq contre la maladie à virus Ebola dans un petit village en Afrique pendant 74 jours, nous sommes attachés profondément à notre amitié.
+
+    > Nous sommes très attachés à notre amitié, car nous avons lutté à cinq contre la maladie à virus Ebola pendant 74 jours dans un petit village en Afrique.
+
+
 
 
 
