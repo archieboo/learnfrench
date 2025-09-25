@@ -71,6 +71,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../../styles.css">
 </head>
@@ -120,6 +149,7 @@ ul.task-list li input[type="checkbox"] {
                                 <div class="quarto-categories">
                 <div class="quarto-category">Le Nouveau Taxi</div>
                 <div class="quarto-category">B1</div>
+                <div class="quarto-category">l'expression de la cause</div>
               </div>
                   </div>
   </div>
@@ -148,21 +178,20 @@ ul.task-list li input[type="checkbox"] {
    
   <ul class="collapse">
   <li><a href="#grammaire-lexpression-de-la-cause" id="toc-grammaire-lexpression-de-la-cause" class="nav-link active" data-scroll-target="#grammaire-lexpression-de-la-cause"><span class="header-section-number">1</span> Grammaire: L’expression de la cause</a></li>
-  <li><a href="#lemplacement-des-mots-négatifs" id="toc-lemplacement-des-mots-négatifs" class="nav-link" data-scroll-target="#lemplacement-des-mots-négatifs"><span class="header-section-number">2</span> L’emplacement des mots négatifs</a></li>
-  <li><a href="#entraînez-vous" id="toc-entraînez-vous" class="nav-link" data-scroll-target="#entraînez-vous"><span class="header-section-number">3</span> Entraînez-vous</a></li>
-  <li><a href="#texte" id="toc-texte" class="nav-link" data-scroll-target="#texte"><span class="header-section-number">4</span> Texte</a></li>
-  <li><a href="#thème---translate-into-french" id="toc-thème---translate-into-french" class="nav-link" data-scroll-target="#thème---translate-into-french"><span class="header-section-number">5</span> Thème - Translate into French</a></li>
+  <li><a href="#entraînez-vous" id="toc-entraînez-vous" class="nav-link" data-scroll-target="#entraînez-vous"><span class="header-section-number">2</span> Entraînez-vous</a></li>
+  <li><a href="#texte---vous-moi-toit3a1" id="toc-texte---vous-moi-toit3a1" class="nav-link" data-scroll-target="#texte---vous-moi-toit3a1"><span class="header-section-number">3</span> Texte - Vous, moi, toit</a></li>
+  <li><a href="#thème---translate-into-french" id="toc-thème---translate-into-french" class="nav-link" data-scroll-target="#thème---translate-into-french"><span class="header-section-number">4</span> Thème - Translate into French</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
-<main class="content quarto-banner-title-block" id="quarto-document-content">
+<main class="content quarto-banner-title-block page-columns page-full" id="quarto-document-content">
 
 
 
 
 
-<section id="grammaire-lexpression-de-la-cause" class="level2" data-number="1">
+<section id="grammaire-lexpression-de-la-cause" class="level2 page-columns page-full" data-number="1">
 <h2 data-number="1" class="anchored" data-anchor-id="grammaire-lexpression-de-la-cause"><span class="header-section-number">1</span> Grammaire: L’expression de la cause</h2>
 <section id="parce-que" class="level3" data-number="1.1">
 <h3 data-number="1.1" class="anchored" data-anchor-id="parce-que"><span class="header-section-number">1.1</span> parce que</h3>
@@ -172,26 +201,298 @@ ul.task-list li input[type="checkbox"] {
 <p>Pourquoi est-ce que tu es essoufflé?<br>
 Parce que je suis monté les escaliers à pied.</p>
 </blockquote></li>
+<li><p>Used in a clause</p>
+<blockquote class="blockquote">
+<p>Elle rêvait de devenir danseuse. Mais elle a dû renoncer à son rêve parce qu’elle était handicapée.</p>
+</blockquote></li>
 </ol>
 </section>
-<section id="car" class="level3" data-number="1.2">
+<section id="car" class="level3 page-columns page-full" data-number="1.2">
 <h3 data-number="1.2" class="anchored" data-anchor-id="car"><span class="header-section-number">1.2</span> car</h3>
+<p>Often used in writing, more formal than “parce que”. Always used in a clause after main clause.</p>
+<div class="page-columns page-full"><blockquote class="blockquote">
+<p>J’ai choisi la coloc car j’en avais marre<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> de la solitude.</p>
+</blockquote><div class="no-row-height column-margin column-container"><div id="fn1"><p><sup>1</sup>&nbsp;“en avoir marre de” = “to be fed up with”</p></div></div></div>
+</section>
+<section id="puisque" class="level3" data-number="1.3">
+<h3 data-number="1.3" class="anchored" data-anchor-id="puisque"><span class="header-section-number">1.3</span> puisque</h3>
+<p>Used when the cause is obvious or already known. 既然.</p>
+<blockquote class="blockquote">
+<p>Puisq’il pleut, on pourrait rester à la maison.</p>
+</blockquote>
+</section>
+<section id="comme" class="level3" data-number="1.4">
+<h3 data-number="1.4" class="anchored" data-anchor-id="comme"><span class="header-section-number">1.4</span> comme</h3>
+<p>Always used at the beginning of a sentence.</p>
+<blockquote class="blockquote">
+<p>Comme il pleuvait, Camille et moi, nous sommes restés à la maison.</p>
+</blockquote>
+</section>
+<section id="du-fait-que-vu-que-étant-donné-que" class="level3" data-number="1.5">
+<h3 data-number="1.5" class="anchored" data-anchor-id="du-fait-que-vu-que-étant-donné-que"><span class="header-section-number">1.5</span> du fait que / vu que / étant donné que</h3>
+<p>Very formal, often used in writing, like in official / legal documents, etc. 鉴于， 由于。</p>
+<blockquote class="blockquote">
+<p>Du fait qu’il fait mauvais, le match sera reporté à la semaine prochaine.</p>
+</blockquote>
+</section>
+<section id="grâce-à" class="level3" data-number="1.6">
+<h3 data-number="1.6" class="anchored" data-anchor-id="grâce-à"><span class="header-section-number">1.6</span> grâce à</h3>
+<p>Thanks to. 由于，多亏了。</p>
+<blockquote class="blockquote">
+<p>J’ai eu ce travail grâce à Olivier.</p>
+</blockquote>
+</section>
+<section id="à-cause-de" class="level3 page-columns page-full" data-number="1.7">
+<h3 data-number="1.7" class="anchored" data-anchor-id="à-cause-de"><span class="header-section-number">1.7</span> à cause de</h3>
+<p>Nous sommes arrivés en retard à cause des embouteillages<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a>.</p>
+<div class="no-row-height column-margin column-container"><div id="fn2"><p><sup>2</sup>&nbsp;traffic jams.</p></div></div></section>
+<section id="à-force-de" class="level3" data-number="1.8">
+<h3 data-number="1.8" class="anchored" data-anchor-id="à-force-de"><span class="header-section-number">1.8</span> à force de</h3>
+<p>Because of repeatedly doing something…, usually use verb infinitif.</p>
+<blockquote class="blockquote">
+<p>À cause de crier, il s’est cassé la voix.</p>
+</blockquote>
+</section>
+<section id="faute-de" class="level3" data-number="1.9">
+<h3 data-number="1.9" class="anchored" data-anchor-id="faute-de"><span class="header-section-number">1.9</span> faute de</h3>
+<p>Because of the lack of something…</p>
+<blockquote class="blockquote">
+<p>Faute du temps, il n’a pas fini le travail à temps.</p>
+</blockquote>
+</section>
+<section id="le-gérondif-副动词" class="level3" data-number="1.10">
+<h3 data-number="1.10" class="anchored" data-anchor-id="le-gérondif-副动词"><span class="header-section-number">1.10</span> le gérondif 副动词</h3>
+<blockquote class="blockquote">
+<p>Tu vois, en faisant un effort, tu as réussi.<br>
+En buvant du café, il a travaillé trés avant dans la nuit.</p>
+</blockquote>
 </section>
 </section>
-<section id="lemplacement-des-mots-négatifs" class="level2" data-number="2">
-<h2 data-number="2" class="anchored" data-anchor-id="lemplacement-des-mots-négatifs"><span class="header-section-number">2</span> L’emplacement des mots négatifs</h2>
+<section id="entraînez-vous" class="level2" data-number="2">
+<h2 data-number="2" class="anchored" data-anchor-id="entraînez-vous"><span class="header-section-number">2</span> Entraînez-vous</h2>
+<p><code>comme</code><br>
+J’ai choisi de vivre en colocation: je ne connaissais personne à Paris.</p>
+<blockquote class="blockquote">
+<p>Comme je ne connaissais personne à Paris, j’ai choisi de vivre en colocation.</p>
+</blockquote>
+<p><code>à cause de</code><br>
+Ça posait un problème: nous avions tous des horaires différents.</p>
+<blockquote class="blockquote">
+<p>À cause des horaires différents que nous avions tous, ça posait un problème.</p>
+</blockquote>
+<p><code>le gérondif</code><br>
+Je partage mon appart avec deux amis, alors je suis devenu plus tolérant.</p>
+<blockquote class="blockquote">
+<p>En partageant mon appart avec deux amis, je suis devenu plus tolérant.</p>
+</blockquote>
+<p><code>car</code><br>
+On est restés seulement deux mois ensemble; on ne s’entendait pas du tout.</p>
+<blockquote class="blockquote">
+<p>On ne s’entendait pas du tout, car on est restés seulement deux mois ensemble.</p>
+</blockquote>
+<p><code>puisque</code><br>
+Les loyers ont beaucoup augmenté, ça me semblait être la meilleure solution.</p>
+<blockquote class="blockquote">
+<p>Puisque les loyers ont beaucoup augmenté, ça me semblait être la meilleure solution.</p>
+</blockquote>
 </section>
-<section id="entraînez-vous" class="level2" data-number="3">
-<h2 data-number="3" class="anchored" data-anchor-id="entraînez-vous"><span class="header-section-number">3</span> Entraînez-vous</h2>
+<section id="texte---vous-moi-toit3a1" class="level2 page-columns page-full" data-number="3">
+<h2 data-number="3" class="anchored" data-anchor-id="texte---vous-moi-toit3a1"><span class="header-section-number">3</span> Texte - Vous, moi, toit<a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a></h2>
+<section id="colocation-ils-ont-choisi-de-partager-leur-chez-soi3a2" class="level3 page-columns page-full" data-number="3.1">
+<h3 data-number="3.1" class="anchored" data-anchor-id="colocation-ils-ont-choisi-de-partager-leur-chez-soi3a2"><span class="header-section-number">3.1</span> Colocation: ils ont choisi de partager leur &lt;&lt; chez-soi<a href="#fn4" class="footnote-ref" id="fnref4" role="doc-noteref"><sup>4</sup></a> &gt;&gt;</h3>
+<section id="longtemps-réservé-aux-seuls-étudiants-le-partage3a3-dappartment-est-de-plus-en-plus-souvent-pratiqué-par-des-adultes-actifs3a4." class="level4 page-columns page-full">
+<h4 class="anchored" data-anchor-id="longtemps-réservé-aux-seuls-étudiants-le-partage3a3-dappartment-est-de-plus-en-plus-souvent-pratiqué-par-des-adultes-actifs3a4."><em>Longtemps réservé aux seuls étudiants, le partage<a href="#fn5" class="footnote-ref" id="fnref5" role="doc-noteref"><sup>5</sup></a> d’appartment est de plus en plus souvent pratiqué par des adultes actifs<a href="#fn6" class="footnote-ref" id="fnref6" role="doc-noteref"><sup>6</sup></a>.</em></h4>
+<p>Le colocataire est une personne qui n’a aucune envie de <strong>se retrouver</strong> seul, le soir, dans son deux-pièces. Aprés trois ans de colocation en Belgique, Magali, 26 ans, a vécu plusieurs mois seule: &lt;&lt; Je suis <strong>passée de plein d’amis à plein de</strong><a href="#fn7" class="footnote-ref" id="fnref7" role="doc-noteref"><sup>7</sup></a> vide. &gt;&gt; Elle retrouve donc une colocation, avec Maud, 27 ans, et Delphine, 28 ans: &lt;&lt; C’est la vie qui reprend!<a href="#fn8" class="footnote-ref" id="fnref8" role="doc-noteref"><sup>8</sup></a>&gt;&gt;</p>
+<div class="no-row-height column-margin column-container"><div id="fn7"><p><sup>7</sup>&nbsp;plein de = lots of.</p></div><div id="fn8"><p><sup>8</sup>&nbsp;reprendre = to resume, to take back</p></div><div id="fn9"><p><sup>9</sup>&nbsp;ce qui est lié = ce qui est concerné</p></div></div><p>Tous le disent: parmi les motivations matérielles, il y a le prix exorbitant des loyers, mais surtout (ce qui est lié<a href="#fn9" class="footnote-ref" id="fnref9" role="doc-noteref"><sup>9</sup></a>) le problème de l’espace. Pourquoi vivre dans un studio de 30 <span class="math inline">\(m^2\)</span> quand, pour le même prix, on pourrait <strong>partager un 100 <span class="math inline">\(m^2\)</span> à trois</strong>?</p>
+<p>Ces hommes et femmes qui gagnent plutôt bien leur vie<a href="#fn10" class="footnote-ref" id="fnref10" role="doc-noteref"><sup>10</sup></a> <strong>tiennent</strong> le même discours<a href="#fn11" class="footnote-ref" id="fnref11" role="doc-noteref"><sup>11</sup></a> sur la consommation<a href="#fn12" class="footnote-ref" id="fnref12" role="doc-noteref"><sup>12</sup></a> et la propriété. &lt;&lt; Je n’aime pas posséder, dit Magali. J’aime penser que je peux prendre une année sabbatique et partir demain pour un long voyage. Je ne veux pas m’encombrer. &gt;&gt; &lt;&lt; Je ne suis pas matérialiste, confie<a href="#fn13" class="footnote-ref" id="fnref13" role="doc-noteref"><sup>13</sup></a> Morgan, je peux être <strong>attachée à</strong> une lampe, à un canapé ou à une table qui vienent de chez moi. Mais mon plaisir, c’est de les partager, pas de les posséder. &gt;&gt;</p>
+<div class="no-row-height column-margin column-container"><div id="fn10"><p><sup>10</sup>&nbsp;gagner bien leur vie = to live a comfortable life</p></div><div id="fn11"><p><sup>11</sup>&nbsp;discours = opinion, also speech, talk.</p></div><div id="fn12"><p><sup>12</sup>&nbsp;consommation = consumption, consumerism. la consommation; consoomer; consommateur, -trice.</p></div><div id="fn13"><p><sup>13</sup>&nbsp;confier = to confide, to entrust.</p></div></div><div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Tip</span>reserver
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>réserver qch à qn<br>
+- On a réservé ce bureau au directeur.</p>
+<p>réserver qch pour qn<br>
+- J’ai réservé une table pour deux personnes.</p>
+<p>(être) réservé à qn<br>
+- Cette salle est réservée aux membres du personnel.</p>
+</div>
+</div>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Tip</span>se retrouver
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>to find oneself, to end up (somewhere or in some situation)<br>
+- Il s’est retrouvé seul.<br>
+- Il s’est retrouvé coincé dans l’ascenseur. (He found himself stuck in the elevator)</p>
+</div>
+</div>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Tip</span>passer de… à…
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>to go from… to…<br>
+- Cette enterprise est passée du secteur public au secteur privé.<br>
+- Il est passé de la défensive à l’offensive.</p>
+</div>
+</div>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Tip</span>faire qch à + un chiffre
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>to do something together (with x people)<br>
+- Ils ont soulevé ce bateau à trois.<br>
+- Vous pouvez jouer cette pièce de théâtre à quatre ou cinq.<br>
+- Il a planté une forêt à lui seul.</p>
+</div>
+</div>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Tip</span>tenir
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>to hold, to keep, to maintain (along with many other meanings)</p>
+<ul>
+<li>Un vieil homme tient un journal dans sa main. (hold)<br>
+</li>
+<li>Ils tiennent le même discours sur la consommation. (maintain)<br>
+</li>
+<li>Si on veut avoir la confiance d’un enfant, il faut toujours tenir sa parole. (keep)<br>
+</li>
+<li>Son oncle tient un petit restaurant en Provence. (run, manage)<br>
+</li>
+<li>Cette jeune femme tient bien sa maison. (manage, maintain)</li>
+</ul>
+</div>
+</div>
 </section>
-<section id="texte" class="level2" data-number="4">
-<h2 data-number="4" class="anchored" data-anchor-id="texte"><span class="header-section-number">4</span> Texte</h2>
+<div class="no-row-height column-margin column-container"><div id="fn5"><p><sup>5</sup>&nbsp;partager = to share. le partage (nom)</p></div><div id="fn6"><p><sup>6</sup>&nbsp;adultes actifs = working adults.</p></div></div></section>
+<div class="no-row-height column-margin column-container"><div id="fn4"><p><sup>4</sup>&nbsp;chez-soi = home</p></div></div><section id="forum" class="level3 page-columns page-full" data-number="3.2">
+<h3 data-number="3.2" class="anchored" data-anchor-id="forum"><span class="header-section-number">3.2</span> Forum</h3>
+<section id="virginie-re-pourquoi-avez-vous-choisi-la-coloc" class="level4">
+<h4 class="anchored" data-anchor-id="virginie-re-pourquoi-avez-vous-choisi-la-coloc">Virginie Re: Pourquoi avez-vous choisi la coloc?</h4>
+<blockquote class="blockquote">
+<p>Parce que je suis une fan de L’Auberge espagnole. Non, en fait, comme je n’aime pas trop la solitude, la colocation <strong>me permet de parler</strong> de ma journée, de me confier.</p>
+</blockquote>
 </section>
-<section id="thème---translate-into-french" class="level2" data-number="5">
-<h2 data-number="5" class="anchored" data-anchor-id="thème---translate-into-french"><span class="header-section-number">5</span> Thème - Translate into French</h2>
+<section id="lili-re-pourquoi-avez-vous-choisi-la-coloc" class="level4">
+<h4 class="anchored" data-anchor-id="lili-re-pourquoi-avez-vous-choisi-la-coloc">Lili Re: Pourquoi avez-vous choisi la coloc?</h4>
+<blockquote class="blockquote">
+<p>J’en <strong>avais assez de</strong> vivre seule en appartement. Grâce à ce mode de fonctionnement, je trouve qu’on s’enrichit humainement.</p>
+</blockquote>
+</section>
+<section id="seb-re-pourquoi-avez-vous-choisi-la-coloc" class="level4 page-columns page-full">
+<h4 class="anchored" data-anchor-id="seb-re-pourquoi-avez-vous-choisi-la-coloc">Seb Re: Pourquoi avez-vous choisi la coloc?</h4>
+<div class="page-columns page-full"><blockquote class="blockquote">
+<p>En se mariant, mes amis ont complètement changé leurs habitudes: <strong>plus question d</strong>’aller prendre un verre ensemble à l’improviste tard le soir. Alors forcément<a href="#fn14" class="footnote-ref" id="fnref14" role="doc-noteref"><sup>14</sup></a>, on cherche de nouvelles relations.</p>
+</blockquote><div class="no-row-height column-margin column-container"><div id="fn14"><p><sup>14</sup>&nbsp;forcément = necessarily, inevitably.</p></div></div></div>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Tip</span>permettre à qn de faire qch
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>to allow, to enable someone to do something - Le docteur ne lui permet pas de fumer.</p>
+</div>
+</div>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Tip</span>en avoir assez de qch
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>to be fed up with something. Also “en avoir marre de qch” (more informal and more stressed)<br>
+- J’en ai assez des examens. - J’en ai marre de son attitude. - J’en ai marre.</p>
+</div>
+</div>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Tip</span>plus question de faire qch
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>no longer possible to, out of the question to<br>
+- Est-ce que tu peux me donner un coup de main?<br>
+- Pas question! (out of the question! 没门儿🙅🏻)</p>
+</div>
+</div>
+</section>
+</section>
+</section>
+<div class="no-row-height column-margin column-container"><div id="fn3"><p><sup>3</sup>&nbsp;toit = roof, a play on words with “toi” = you.</p></div></div><section id="thème---translate-into-french" class="level2" data-number="4">
+<h2 data-number="4" class="anchored" data-anchor-id="thème---translate-into-french"><span class="header-section-number">4</span> Thème - Translate into French</h2>
+<ol type="1">
+<li><p>This travel route is designed specifically for university students.</p>
+<p><code>resérvé a</code></p>
+<blockquote class="blockquote">
+<p>Cet itinéraire de voyages est réservé aux étudiantsé. C’est un itinéraire de voyages réservé aux étudiants.</p>
+</blockquote></li>
+<li><p>After getting married, he completely changed his habits.</p>
+<p><code>changer</code></p>
+<blockquote class="blockquote">
+<p>Aprés le marriage, il a complétement changé ses habitudes de vie.</p>
+</blockquote></li>
+<li><p>I didn’t want to spend evenings alone when I first a few years I started working. Therefore, I rented an appartment with a single colleague.</p>
+<p><code>partager</code></p>
+<blockquote class="blockquote">
+<p>Pendant les années où j’ai commencé à travailler, je partageais mon appartment avec un collègue célibataire, car je ne voulais pas rester seule le soir.</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>Pendant les premières années de travail, je ne voulais pas rester seul le soir, je partageais donc mon appartement avec un collègue célebataire.</p>
+</blockquote></li>
+<li><p>We treasure our friendship because the five of us had fought Ebola for 74 days in a small village in Africa.</p>
+<p><code>attachée à</code> <code>lutter contre</code></p>
+<blockquote class="blockquote">
+<p>Comme nous avons lutté à cinq contre la maladie à virus Ebola dans un petit village en Afrique pendant 74 jours, nous sommes attachés profondément à notre amitié.</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>Nous sommes très attachés à notre amitié, car nous avons lutté à cinq contre la maladie à virus Ebola pendant 74 jours dans un petit village en Afrique.</p>
+</blockquote></li>
+</ol>
 
 
 </section>
+
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
