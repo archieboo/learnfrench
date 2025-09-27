@@ -9,4 +9,174 @@ citation-location: margin
 ## Text - La télé-réalité
 
 
+### part 2
+
+Présenté par Marcel Rufo et Charline Roux  
+Tous les dimanches à 17h10  
+Apportez vos témoignages[^1b1] pour nos prochaines émissions:  
+- Élever un enfant seul[^1b2].  
+- Leur histoire d'amour est impossible.  
+- Frères-sœurs: ils se détestent.  
+N'hésitez pas à contacter Anne-Céline par e-mail ou par téléphone au 01 41 86 00 00.
+
+
+[^1b1]: testimony, here refers to watching the show.
+[^1b2]: raising a child alone
+
+
+### part 3
+Appels à témoins[^1c1]  
+Vous êtes sur le point de changer de vie
+
+- Père de famille, vous souhaitez quitter votre emploi pour vous consacrer à vos enfants.  
+- Mère au foyer[^1c4] depuis de nombreuses années vous désidez de reprendre une activité professionelle.
+- Vous êtes sur le point de tout quitter (famille, emploi) pour rejoindre l'homme ou la femme de votre vie.
+- Vous choississez de fuir[^1c5] le stress de la vie citadine[^1c6] et de vous installer en famille à la campagne.
+
+Vous souhaitez témoigner:  
+Laissez-nous un message au 01 41 86 00 00 ou envoyez un e-mail en indiquant vos coordonnées téléphoniques, vos nom et prénom, en quoi votre profil peut nous interésser et les moments l'on peut vous joindre.
+
+
+:::{.callout-tip}
+#### ...être sur le point de...
+about to do something  
+- La valise est sur le point de tomber.  
+- Vous étiez sur le point de sortir quand ils sont arrivés hier soir.  
+:::
+
+
+:::{.callout-tip}
+#### ...consacrer à...
+se consacrer à quelque chose: to devote oneself to something  
+- Il se consacre à sa famille.
+- Elle se consacre à ses études.
+
+consacrer quelque chose à quelque chose: to devote something to something  
+- Pourriez-vous consacrer l'une de vos prochaines émissions aux personnes qui passent des heures et des heures sur Internet?  
+- Il a consacré toute sa jeunesse à sa passion du jazz.  
+- La première partie de cet exposé[^1c2] sera consacrée àu rappel[^1c3] des discussions de ces dernières années autour de ce problème.
+:::
+
+:::{.callout-tip}
+#### joindre vs. rejoindre
+- joindre quelqu'un: to reach someone (by phone, email, etc.)
+- rejoindre quelqu'un: to join someone (in person)
+:::
+
+
+[^1c1]: call for witnesses
+[^1c2]: report, presentation
+[^1c3]: recall
+[^1c4]: housewife
+[^1c5]: échapper, to escape
+[^1c6]: city life
+
+
+### part 4
+_Si vous souhaitez obtenir des informations concernant l'une de nos émissions ou suggérer un sujet, n'oubliez pas de nous laisser une adresse e-mail pour que nous puissions vous joindre facilement._
+
+Madame, Monsieur,  
+
+C'est avec beaucoup d'intérêt que j'ai suivi votre émission de cette semaine, << Frères-sœurs: ils se détestent >>, car ma meilleure amie vit cette situation avec son frère de 17 ans.
+Pendant cette émission, l'une des invités a parlé d'un psychologue parisien qui l'a beaucoup aidé. Comme mon amie est actuellement à la recherche[^1d1] d'une personne compétente dans ce domaine, je vous serais reconnaissante de m'adresser les coordonnées de ce psychologue.
+
+Je profite[^1d3] également de ce message pour vous faire une petite suggestion[^1d4]. Pourriez-vous consacrer l'une de vos prochaines émissions aux personnes qui passent des heures et des heures sur Internet? Comme il y en a des millions (j'en fais partie) en France, beaucoup de téléspectateurs sont concernés par ce sujet.
+
+Meilleures salutations. Merci d'avance. 
+
+
+:::{.callout-tip}
+#### concernant
+concerning, regarding
+
+Other pharases with similar meaning:  
+- qui concerne  
+- à propos de   
+- au sujet de  
+:::
+
+
+:::{.callout-tip}
+#### suggérer 
+suggérer (ou proposer) à qn de faire qch  
+- Je lui ai suggéré de prendre le métro à cause des embouteillages.  
+- Il m'a suggéré de partir plus tôt possible.
+:::
+
+
+:::{.callout-tip}
+#### oublier 
+oublier qch  
+oublier de faire qch  
+- Il a oublié ses clés.  
+- Il a oublié de prendre ses clés.
+:::
+
+
+:::{.callout-tip}
+#### pour que 
+so that, in order that  
+pour que = afin que, both followed by subjunctive  
+also = de sorte que, de façon que, but these can be followed by indicative
+:::
+
+
+:::{.callout-tip}
+#### c'est ... que ...
+It is ... that ... (emphatic structure) 强调句型. Note the first part should be a phrase without a verb, similar to English.
+- C'est en lisant beaucoup de romans de francais qu'il a fait un grand progrès en langue française.
+:::
+
+
+:::{.callout-tip}
+#### suivre
+suivre qch: to follow something (a class, a show, etc.)  
+- suivre une émission  
+- suivre un cours  
+- suivre les infos
+:::
+
+
+:::{.callout-tip}
+#### être reconnaissant à qn de faire qch
+to be grateful to someone for doing something  
+- Je lui est reconnaissant de m'avoir beaucoup aidé.
+
+remercier qn de faire qch  
+- Je le remercie de m'avoir beaucoup aidé.
+:::
+
+[^1d1]: à la recherche de = rechercher
+[^1d3]: profiter de = take advantage of
+[^1d4]: faire une suggestion à qn ; donner une proposition à qn
+
+
+## Thème
+
+
+1. She loves literature and spends 3 to 4 hours a day reading various kinds of novels.  
+      `Passionné de`, `toutes sortes de`  
+
+    > Passionnée de littérature, elle met, tous les jours, trois à quatre heures pour lire toutes sortes de romans.  
+    > Comme elle est passionnée de littérature, elle passe trois ou quatre heures par jour à lire des romans de toutes sortes.
+
+2. I am traveling for work tomororw. I need someone to take care of my kids.
+      `s'occuper de`, `avoir besoin de`  
+
+    > Je partirai demain en mission, j'aurais besoin de quelqu'un qui pourrait s'occuper de mes enfants.  
+
+
+3. I hope to find someone who can help with watering my plants in the garden and housekeeping.
+
+
+    > j'aimerais (je voudrais) trouver une femme de ménage qui pourrait arroser les jardin et nettoyer la maison.
+
+
+4. My birthday was yesterday. He sent me a french novel as a gift, which really meets my taste.
+
+    > Hier, c'était mon anniversaire. Il m'a offert un roman francais qui convenait parfaitement (toute à fait) à mon goût.
+
+
+
+
 
