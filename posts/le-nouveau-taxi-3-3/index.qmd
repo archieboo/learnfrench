@@ -40,9 +40,9 @@ On _pourrait_ aller au cinéma: qu'est-ce que tu en penses?
 
 ### un conseil
 
-Pour te détendre, tu _devrais_ faire du yoga.
-Tu _ferais_ mieux de sortir pour prendre l'air frais.
-Il _vaudrait_ mieux réserver la chambre le plus tôt possible.
+Pour te détendre, tu _devrais_ faire du yoga.  
+Tu _ferais_ mieux de sortir pour prendre l'air frais.  
+Il _vaudrait_ mieux réserver la chambre le plus tôt possible.  
 
 The following expressions often use the conditional:  
 `devoir`  
@@ -133,10 +133,118 @@ Auriez-vous ...
 
 ## Texte - Vous, moi, toit
 
+Besoin d'un service  
+Postez un annonce  
+Comparez les offres  
+Payez le juste prix  
+
+J'ai besoin d'un service.  
+Je propose mes services.  
+
+
+Votre baby-sitter n'est pas disponible ce soir?  
+Besoin de monter[^3a1] votre cuisine IKEA le week-end prochain?
+Envie de prendre des cours de guitare ou de chinois?
+Postez vos besoins et trouvez la personne qui vous convient.
+
+
+:::{.callout-tip}
+#### disponible
+Est-ce que vous êtes disponible ce soir?  
+Est-ce que votre voiture ets disponible? Je pourrais vous l'emprunter[^3a2]?
+:::
+
+:::{.callout-tip}
+#### convenir à
+to suit, to be suitable for...
+
+On se verra à trois heures, cela vous convient?  
+- Oui, ça me convient parfaitement.
+
+Cette activité ne convient pas aux personnes âgées.  
+Si cela vous convient, je peux vennir vous rencontrer demain matin dans votre bureau.
+
+:::
+
+
+Le garde de mes chiens  
+Y aurait-il dans mon quartier (gare d'Asnières) une personne qui pourrait s"occuper de mes 4 chiens en août?
+
+:::{.callout-tip}
+#### s'occuper de
+to look after, to take care of...
+
+Chez moi, c'est mon mari qui fait la cuisine. Moi, je m'occupe de la vaisselle.  
+Remariée, elle continue à s'occuper de la mère de son ex-mari mort dans un accident.
+:::
+
+
+Aimerions des cours de chinois (mandarin) à domicile 2 fois par semaine.
+
+:::{.callout-tip}
+#### domicile
+le travail à domicile = working from home  
+la livraison à domicile = home delivery  
+l'aide à domicile = home help  
+:::
+
+:::{.callout-tip}
+#### x fois par (semaine, mois, an...)
+x times per (week, month, year...)
+
+Il faut prendre ce médicament trois fois par jour.  
+En Chine, tout salarié ayant travaillé dix ans peut avoir dix jours de congé par an.
+:::
+
+
+Création site web
+Souhaiterais construire un site web perso[^3a3] et aurais besoin de quelqu'un capable[^3a4] de mettre mon projet en ligne.
+
+
+Cuisiner à domicile  
+Passionné de cuisine asiatique, je voudrais proposer mes services pour vos soirées entre amis.
+
+
+Aide à domicile  
+J'aurais besoin d'une personne 2 matinées par semaine pour quelques heures de ménage.
 
 
 
-## Thème - Translate into French
+
+
+[^3a1]: here it means to assemble (furniture)
+[^3a2]: to borrow
+[^3a3]: personal, or 个人主义的
+[^3a4]: capable de faire qch
+
+
+## Thème
+
+1. She loves literature and spends 3 to 4 hours a day reading various kinds of novels.  
+      `Passionné de`, `toutes sortes de`  
+
+    > Passionnée de littérature, elle met, tous les jours, trois à quatre heures pour lire toutes sortes de romans.  
+    > Comme elle est passionnée de littérature, elle passe trois ou quatre heures par jour à lire des romans de toutes sortes.
+
+2. I am traveling for work tomororw. I need someone to take care of my kids.
+      `s'occuper de`, `avoir besoin de`  
+
+    > Je partirai demain en mission, j'aurais besoin de quelqu'un qui pourrait s'occuper de mes enfants.  
+
+
+3. I hope to find someone who can help with watering my plants in the garden and housekeeping.
+
+
+    > j'aimerais (je voudrais) trouver une femme de ménage qui pourrait arroser les jardin et nettoyer la maison.
+
+
+4. My birthday was yesterday. He sent me a french novel as a gift, which really meets my taste.
+
+    > Hier, c'était mon anniversaire. Il m'a offert un roman francais qui convenait parfaitement (toute à fait) à mon goût.
+
+
+
+
 
 
 
