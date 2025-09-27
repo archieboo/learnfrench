@@ -1,0 +1,144 @@
+---
+title: "Le Nouveau Taxi 3 - Leçon 3"
+date: "2025-09-26"
+categories: ["Le Nouveau Taxi", "B1", "le conditionnel présent"]
+reference-location: margin
+citation-location: margin
+---
+
+## Grammaire: Le conditionnel présent
+
+:::{.callout-warning}
+#### Le conditionnel présent
+Le conditionnel se forme avec le radical du futur et la terminaison de l'impoarfait  
+- je **souhaiter**-ai -> je souhaiter**ais**  
+- tu **souhaiter**-ais -> tu souhaiter**ais**  
+- il/elle/on **souhaiter**-ait -> il/elle/on souhaiter**ait**  
+- nous **souhaiter**-ons -> nous souhaiter**ions**  
+- vous **souhaiter**-ez -> vous souhaiter**iez**  
+- ils/elles **souhaiter**-ont -> ils/elles souhaiter**aient**
+
+Le conditionnel présent peut servir:  
+- à exprimer un désir, un souhait  
+- à faire une demande polie  
+- à exprimer une hypothèse, une éventualité
+:::
+
+
+### un souhait
+
+Ils _aimeraient_ avoir un deuxième enfant.  
+Il _aurait_ besoin d'un assistant.
+
+
+### une demande polie
+
+_Pourriez_-vous me rendre un petit service?  
+_Je voudrais_ un café, s'il vous plaît.  
+On _pourrait_ aller au cinéma: qu'est-ce que tu en penses?
+
+
+### un conseil
+
+Pour te détendre, tu _devrais_ faire du yoga.
+Tu _ferais_ mieux de sortir pour prendre l'air frais.
+Il _vaudrait_ mieux réserver la chambre le plus tôt possible.
+
+The following expressions often use the conditional:  
+`devoir`  
+`il faut`  
+`il vaut mieux`  
+`faire mieux de ...`  
+
+
+### un hypothèse, une information non confirmée
+
+Il est arrivé un accident de voiture sur l'autoroute A9; il y _aurait_ une quarantaine de victimes.  
+D'après moi, il _obtiendrait_ son diplôme. (according to me, he would obtain...)  
+    
+
+### une éventualité
+
+Le ciel est gris, il _pleuvrait_.  
+Je connais une fille qui _accepterait_ de garder vos enfants.
+
+
+### une action imaginée
+
+Julien rêve d'habiter à Paris. Son appartement se _trouverait_ au Quartier Latin et ses fenetres _donneraient_ sur un jardin.
+
+Petit julien dit à Sophie: je _serais_ metteur en scéne (director), et toi, tu _serais_ comédienne.
+
+### une surprise
+
+Ils se _marieraient_? Ça alors!  
+Quoi? Il y _aurait_ encore un accident à ce carrefour?
+
+
+
+### Excercise: categorize the sentences
+
+|            |                      |
+|------------|----------------------|
+| Il aimerait partir plus tôt. | un souhait |
+| Je voudrais un café. | un souhait |
+| Je voudrais un café. | une demande polie |
+| Il faudrait arriver à temps. | un conseil |
+| Il y aurait beaucoup de victimes. | une information non confirmée |
+| Je pense qu'elle l'accepterait. | une information non confirmée |
+| Dans son rêve, il serait grand et charmant. | une action imaginée |
+| Quelle surprise! Il quitterait Paris? | une surprise |
+
+
+## Entraînez-vous
+
+1. Je suis infirmière-stagiaire, je suis disponible lundi et jeudi après-midi. _I gained a lot experience during my internship. I can look after both children and the elderly._
+
+    > Ayant acquis une grande expérience pendant mon stage, je _pourrais_ garder des enfants ou m'occuper d'une personne âgée.
+
+2. J'ai besoin d'argent pour payer mes études. _I could do a few hours of housekeeping_.  
+
+    > Je _serais_ prete à faire quelques heures de ménage.
+
+3. Nous organisons une fête samedi soir mais nous manquons de chaises. _Could you lend us some charirs?_
+
+    > _Auriez_-vous des chaises à nous prêter?
+
+4. Je suis retraité, j'aime beaucoup les animaux et ... _I can walk dogs in the afternoons_.
+
+    > Je _souhaiterais_ promener des chiens l'après-midi.
+
+5. J'utilise chaque matin les transports en commun pour me rendre au centre-ville mais... _I wold like to share the ride with someone_.
+
+    > Je préférerais y aller avec quelqu'un en voiture.
+
+6. Je déménage la semaine prochaine et... _I need a small truck._
+
+    > J'_aurais_ besoin d'une camionnette.
+
+:::{.callout-tip}
+#### Common expressions to start a conditional sentence
+
+je pourrais faire qch  
+je serais prêt(e) à faire qch
+
+j'aimerais  
+je préférerais  
+je souhaiterais  
+je voudrais  
+j'aurais besoin de qch  
+Auriez-vous ...  
+
+:::
+
+## Texte - Vous, moi, toit
+
+
+
+
+## Thème - Translate into French
+
+
+
+
+
