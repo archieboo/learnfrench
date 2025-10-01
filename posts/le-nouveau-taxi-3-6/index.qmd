@@ -1,0 +1,178 @@
+---
+title: "Le Nouveau Taxi 3 - Leçon 6"
+date: "2025-09-29"
+categories: ["Le Nouveau Taxi", "B1", "l'expression du temps"]
+reference-location: margin
+citation-location: margin
+---
+
+## Grammaire - L'expression du temps
+
+### durant
+Similar to "pendant", used to indicate a duration of time, usually in more formal contexts.
+
+Il a plu durant toute la nuit et les chemins sont plein de boue (mud).   
+Durant la réunion, on a discuté chaudement. 
+
+
+**pendant**  
+very similar to "durant", but more commonly used in everyday speech.
+
+Il a vécu en France pendant deux ans.
+Il a fait un stage pendant les vacances d'été.
+
+
+### depuis
+Depuis is often used to indicate the starting point of an action or event that continues into the present, thus it is usually in présent or passé composé.
+
+Pascal habite dans cet immeuble depuis deux ans.
+Je ne l'ai pas vu depuis six mois.
+
+**depuis** can be replaced by:  
+- **_ca fait ... que_**  
+- **_il y a ... que_**  
+- **_voilà ... que_**  
+Ça fait deux ans que Pascal habite dans cet immeuble.  
+Il y a six mois que je ne l'ai pas vu.
+
+
+### ça fait ... que / il y a ... que / voilà ... que
+
+Ça fait trois mois qu'ils sont mariés.  
+Il y a maintenant onze ans qu'elle vit en France.
+
+
+### en + durée
+Used to indicate the time taken to complete an action, like "in" in English.
+
+Ça s'est fait en deux ans.  
+Le travail sera fini en deux minutes.
+
+
+### Pour + durée
+Used to indicate the intended duration of an action, similar to "for" in English, often used with future actions.
+
+Le directeur l'a envoyé en Espagne pour deux ans.
+J'y suis parti pour deux semaines.
+
+
+
+## Entraînemez-vous
+
+Complétez le dialogue avec _durant_, _pour_, _en_, _il y a_, _ça fait...que_ et _il y a...que_.
+
+
+1. Kamel.........longtemps.........vos parents habitent en France?
+2. Oui, ils sont arrivés ici ......... ......... trente ans environ, au début des années 70. (note 70s is années 70)
+3. Et ...... toutes ces années, est-ce qu'ils ont pu acquérir la nationalité française?
+4. Ça a été difficile mais oui, ......... maintenant un peu plus de deux ans ......... ils sont français.
+5. Et vous alors?
+6. Et bien, moi, comme j'ai seize ans et que j'ai vécu en France toutes ces anées, j'ai pu demander ma naturalisation. Ça a été assez rapide: tout s'est fait ......... quelques semaines.
+7. Vous aimeriez retourner vivre là où vos parents sont nés?
+8. Oui! La preuve: j'y vais ......... un an, peut-être plus. (preuve: proof)
+
+
+
+
+
+
+Answers:
+
+1. Ça fait...que
+2. il y a
+3. durant
+4. ça fait...qu'
+5.     
+6. en
+7.     
+8. pour
+
+
+## Texte - europass
+
+**L'acquisition de la nationalité française**
+
+
+À compter du 1er septembre 1998, tout enfant né en France de parents étrangers acquiert la nationalité française à sa majorité[^2a1] (loi du 16 mars 1998 relative à la nationalité):
+
+- s'il est né en France à compter du 1er septembre 1980,
+- s'il a résidé en France au moment de sa majorité et s'il y a résidé pendant au moins 5 années, consécutives[^2a2] ou non, depuis l'âge de 11 ans.
+
+La loi prévoit également[^2a3] la possibilité d'anticiper cette acquisition de la nationalité française, avant la majorité.  
+La nationalité française peu également être réclamée[^2a4] par les parents étrangers de l'enfant mineur dès que celui-ci[^2a5] atteint[^2a6] l'âge de 13 ans, à condition que l'enfant donne son accord et qu'il réside en France, depuis au moins 5 ans, depuis l'âge de 8 ans. (article 21-11 du Code civil)
+
+
+:::{.callout-tip}
+#### acquisition
+l'acquisition d'un diplôme    
+acquis - adj. acquired, eg: la capacité acquise  
+acquérir un diplôme = obtenir un diplôme
+
+:::
+
+
+:::{.callout-tip}
+#### à compter de = à dater de = à partir de
+starting from, as of  
+À compter de demain, cet enfant ira au collège.
+
+:::
+
+
+:::{.callout-tip}
+#### relative à
+concerning, regarding  
+- une loi relative à la nationalité  
+- un film relatif à l'art  
+- un livre relatif à la sculpture
+
+:::
+
+
+:::{.callout-tip}
+#### au moment de qch / de faire qch
+= sur le point de faire qch  
+- Au moment de partir, j'apprends qu'il pleut dehors.
+
+:::
+
+
+:::{.callout-tip}
+#### prévoir
+to plan, to foresee  
+- Il a prévu le changement de temps. (foresee)
+
+prévoir de faire qch = envisager de faire qch = planifier de: plan to do sth  
+- Il a prévu de rentrer plus tôt. (*plan* to return earlier)
+
+être prévu = être réservé à  
+- Cette place est prévue pour les handicapés.
+
+:::
+
+
+:::{.callout-tip}
+#### à condition
+à condition que = pourvu que, + subjunctive  
+- Tu peur y aller à condition qu'il soit d'accord.
+
+à condition de + infinitive  
+- Tu peur y aller à condition d'acquérir son accord.
+
+:::
+
+
+
+
+
+[^2a1]: here it means becoming a legal adult (18 years old in France).
+[^2a2]: consécutif, consécutive
+[^2a3]: également = aussi (more formal)
+[^2a4]: réclamer = demander officiellement (to claim, to demand officially)
+[^2a5]: celui-ci, refers to the closest masculine singular noun, in this case "l'enfant".
+[^2a6]: atteindre = arriver à (to reach, to attain)
+
+
+## Thème
+
+
