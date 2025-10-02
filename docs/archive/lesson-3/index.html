@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2025-07-05">
 
-<title>Learn French</title>
+<title>Lesson 3 – Learn French</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,27 +24,25 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="./profile.jpg" rel="icon" type="image/jpeg">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dc55a5b9e770e841cd82e46aadbfb9b0.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-250a0ad726c327aed60c1b8aba93cc6c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../profile.jpg" rel="icon" type="image/jpeg">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dc55a5b9e770e841cd82e46aadbfb9b0.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-250a0ad726c327aed60c1b8aba93cc6c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -71,81 +70,23 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../../styles.css">
 </head>
 
 <body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+  <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./profile.jpg" alt="" class="navbar-logo light-content">
-    <img src="./profile.jpg" alt="" class="navbar-logo dark-content">
+    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../profile.jpg" alt="" class="navbar-logo light-content">
+    <img src="../../profile.jpg" alt="" class="navbar-logo dark-content">
     </a>
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Learn French</span>
     </a>
   </div>
@@ -156,7 +97,7 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./archive.html"> 
+    <a class="nav-link" href="../../archive.html"> 
 <span class="menu-text">Archive</span></a>
   </li>  
 </ul>
@@ -167,254 +108,110 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block"></header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(7)</span></div><div class="category" data-category="QjE=">B1 <span class="quarto-category-count">(7)</span></div><div class="category" data-category="bCdleHByZXNzaW9uJTIwZGUlMjBsYSUyMGNhdXNl">l'expression de la cause <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bCdleHByZXNzaW9uJTIwZHUlMjB0ZW1wcw==">l'expression du temps <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bCdleHByZXNzaW9uJTIwbiVDMyVBOWdhdGlm">l'expression négatif <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TCdpbXBhcmZhaXQ=">L'imparfait <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bGUlMjBjb25kaXRpb25uZWwlMjBwciVDMyVBOXNlbnQ=">le conditionnel présent <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TGUlMjBOb3V2ZWF1JTIwVGF4aQ==">Le Nouveau Taxi <span class="quarto-category-count">(7)</span></div><div class="category" data-category="bGUlMjBwbHVzLXF1ZS1wYXJmYWl0">le plus-que-parfait <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UGFzcyVDMyVBOSUyMENvbXBvcyVDMyVBOQ==">Passé Composé <span class="quarto-category-count">(1)</span></div></div></div>
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul class="collapse">
+  <li><a href="#dialogue" id="toc-dialogue" class="nav-link active" data-scroll-target="#dialogue"><span class="header-section-number">1</span> Dialogue</a></li>
+  <li><a href="#passé-composé" id="toc-passé-composé" class="nav-link" data-scroll-target="#passé-composé"><span class="header-section-number">2</span> Passé composé</a></li>
+  <li><a href="#exercice" id="toc-exercice" class="nav-link" data-scroll-target="#exercice"><span class="header-section-number">3</span> Exercice</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+<main class="content page-columns page-full" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Lesson 3</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">Pronom Complément Direct</div>
+    <div class="quarto-category">Pronom Complément Indirect</div>
+    <div class="quarto-category">passé composé</div>
+  </div>
+  </div>
 
 
 
+<div class="quarto-title-meta">
+
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">July 5, 2025</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
 
 
+</header>
 
 
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="TGUlMjBOb3V2ZWF1JTIwVGF4aSUyQ0IxJTJDbGUlMjBwbHVzLXF1ZS1wYXJmYWl0" data-listing-date-sort="1759294800000" data-listing-file-modified-sort="1759365721802" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1173">
-<div class="thumbnail"><a href="./posts/le-nouveau-taxi-3-7/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" style="height: 200px;">&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/le-nouveau-taxi-3-7/index.html" class="no-external">Le Nouveau Taxi 3 - Leçon 7</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('TGUlMjBOb3V2ZWF1JTIwVGF4aQ=='); return false;">Le Nouveau Taxi</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('QjE='); return false;">B1</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('bGUlMjBwbHVzLXF1ZS1wYXJmYWl0'); return false;">le plus-que-parfait</div>
-
+<section id="dialogue" class="level2 page-columns page-full" data-number="1">
+<h2 data-number="1" class="anchored" data-anchor-id="dialogue"><span class="header-section-number">1</span> Dialogue</h2>
+<p>Laisse-moi voir<br> Je laisse mon frère manger<br> Quitter vs.&nbsp;laisser<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> (leave sth. Available / let)<br> Elle a quitté son copain<br> Il a quitté son travail<br></p>
+<div class="no-row-height column-margin column-container"><div id="fn1"><p><sup>1</sup>&nbsp;Laisser is often used to mean “to let” or “to allow”, while “quitter” means “to leave” in the sense of departing from a place or a person.</p></div><div id="fn2"><p><sup>2</sup>&nbsp;leave me alone</p></div></div><p>J’ai laissé les clés sur la table<br> Laisse-moi tranquille<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a><br> Laisser + verbe à l’infinitif<br> Similar verbes: aller, vouloir, pouvoir, devoir<br></p>
+<p>Je te laisse conduire ma voiture<br> Je le laisse utiliser mon téléphone<br></p>
+<p><strong>Object direct vs.&nbsp;object indirect</strong></p>
+<p><em>Object direct</em> answers questions for: <code>quoi? qui?</code></p>
+<blockquote class="blockquote">
+<p>Qui est-ce que tu invites?<br> J’invite Marie.<br> Je l’invite<br></p>
+</blockquote>
+<p><em>Object indirect</em> answers questions for: <code>à quoi? à qui?</code></p>
+<blockquote class="blockquote">
+<p>Je parle.<br> à qui est-ce que tu parle?<br> Je parle à mon ami.<br> Je lui parle<br></p>
+</blockquote>
+<p><strong>Pronom Complément Direct:</strong></p>
+<p><code>Me, te, le/la, nous, vous, les</code><a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a></p>
+<div class="no-row-height column-margin column-container"><div id="fn3"><p><sup>3</sup>&nbsp;Les pronoms compléments directs “le, la, les” peuvent remplacer une (ou des) personne(s) OU une (ou des) chose(s)<br></p></div></div><p>Used by words like: <code>inviter, appeler, rencontrer, voir, prendre, mettre, faire</code></p>
+<p><strong>Pronom Complément Indirect:</strong></p>
+<p><code>Me, te, lui, nous, vous, leur</code></p>
+<p>Used by words like: <code>parler, dire, écrire, demander</code></p>
+<p><strong>Examples:</strong></p>
+<p>Object direct</p>
+<blockquote class="blockquote">
+<p>Tu vois ton ami aujourd’hui?<br> Oui, je le vois.<br> Tu vois ton amie aujourd’hui?<br> Oui, je la vois.<br> Tu mets les clés sur la table?<br> Oui, je les mets sur la table.<br> Tu as fait tes devoirs?<br> Oui, je les ai fait.<br></p>
+</blockquote>
+<p>Object indirect<br></p>
+<blockquote class="blockquote">
+<p>Tu parles à ton père?<br> Oui, je lui parle.<br> Tu as dit à ta sœur qu’hier, nous sommes sortis?<br> Oui, je lui ai dit.<br></p>
+</blockquote>
+</section>
+<section id="passé-composé" class="level2 page-columns page-full" data-number="2">
+<h2 data-number="2" class="anchored" data-anchor-id="passé-composé"><span class="header-section-number">2</span> Passé composé</h2>
+<p>Le passé composé est un temps du passé qui exprime une action achevée. Il est formé de deux parties : l’auxiliaire (avoir ou être) et le participe passé du verbe.</p>
+<p>Page 182 gives a good overview of the passé composé with <code>être</code></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="./passe-compose-etre-verbes.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:80.0%"></p>
+</figure>
 </div>
-<div class="delink listing-description"><a href="./posts/le-nouveau-taxi-3-7/index.html" class="no-external">
-<code>avoir</code> ou <code>être</code> à l’imparfait + participe passé
-</a></div>
+
+<div class="no-row-height column-margin column-container"><div class="">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="./less03.png" class="img-fluid figure-img" style="width:50.0%"></p>
+<figcaption>Dialogue</figcaption>
+</figure>
 </div>
-<div class="metadata">
-<a href="./posts/le-nouveau-taxi-3-7/index.html" class="no-external">
-<div class="listing-date">
-Oct 1, 2025
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="TGUlMjBOb3V2ZWF1JTIwVGF4aSUyQ0IxJTJDbCdleHByZXNzaW9uJTIwZHUlMjB0ZW1wcw==" data-listing-date-sort="1759122000000" data-listing-file-modified-sort="1759359422917" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1030">
-<div class="thumbnail"><a href="./posts/le-nouveau-taxi-3-6/index.html" class="no-external">
+</div></div></section>
+<section id="exercice" class="level2" data-number="3">
+<h2 data-number="3" class="anchored" data-anchor-id="exercice"><span class="header-section-number">3</span> Exercice</h2>
+<p>ex4 p125 + ex2 p127 + ex1 p208</p>
 
-<div class="listing-item-img-placeholder card-img-top" style="height: 200px;">&nbsp;</div>
 
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/le-nouveau-taxi-3-6/index.html" class="no-external">Le Nouveau Taxi 3 - Leçon 6</a>
-</h3>
-<div class="listing-categories">
+</section>
 
-<div class="listing-category" onclick="window.quartoListingCategory('TGUlMjBOb3V2ZWF1JTIwVGF4aQ=='); return false;">Le Nouveau Taxi</div>
 
-<div class="listing-category" onclick="window.quartoListingCategory('QjE='); return false;">B1</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('bCdleHByZXNzaW9uJTIwZHUlMjB0ZW1wcw=='); return false;">l'expression du temps</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/le-nouveau-taxi-3-6/index.html" class="no-external">
-Similar to “pendant”, used to indicate a duration of time, usually in more formal contexts.
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/le-nouveau-taxi-3-6/index.html" class="no-external">
-<div class="listing-date">
-Sep 29, 2025
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="TGUlMjBOb3V2ZWF1JTIwVGF4aSUyQ0IxJTJDUGFzcyVDMyVBOSUyMENvbXBvcyVDMyVBOSUyQ0wnaW1wYXJmYWl0" data-listing-date-sort="1759035600000" data-listing-file-modified-sort="1759357001187" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1341">
-<div class="thumbnail"><a href="./posts/le-nouveau-taxi-3-5/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" style="height: 200px;">&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/le-nouveau-taxi-3-5/index.html" class="no-external">Le Nouveau Taxi 3 - Leçon 5</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('TGUlMjBOb3V2ZWF1JTIwVGF4aQ=='); return false;">Le Nouveau Taxi</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('QjE='); return false;">B1</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('UGFzcyVDMyVBOSUyMENvbXBvcyVDMyVBOQ=='); return false;">Passé Composé</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('TCdpbXBhcmZhaXQ='); return false;">L'imparfait</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/le-nouveau-taxi-3-5/index.html" class="no-external">
-Le <strong>présent</strong> indique une situation actuelle ou une action poncturelle qui a lieu au moment où l’on parle:<br>
-- Cette Bordelaise de 21 ans étudie les relations internationales.
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/le-nouveau-taxi-3-5/index.html" class="no-external">
-<div class="listing-date">
-Sep 28, 2025
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="TGUlMjBOb3V2ZWF1JTIwVGF4aSUyQ0Ix" data-listing-date-sort="1758862800000" data-listing-file-modified-sort="1759357001187" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="950">
-<div class="thumbnail"><a href="./posts/le-nouveau-taxi-3-4/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" style="height: 200px;">&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/le-nouveau-taxi-3-4/index.html" class="no-external">Le Nouveau Taxi 3 - Leçon 4</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('TGUlMjBOb3V2ZWF1JTIwVGF4aQ=='); return false;">Le Nouveau Taxi</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('QjE='); return false;">B1</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/le-nouveau-taxi-3-4/index.html" class="no-external">
-Présenté par Marcel Rufo et Charline Roux<br>
-Tous les dimanches à 17h10<br>
-Apportez vos témoignages<sup>1</sup> pour nos prochaines émissions:<br>
-- Élever un enfant seul<sup>2</sup>.<br>
-- Leur histoire d’amour est impossible.<br>
--…<br>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/le-nouveau-taxi-3-4/index.html" class="no-external">
-<div class="listing-date">
-Sep 26, 2025
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="4" data-categories="TGUlMjBOb3V2ZWF1JTIwVGF4aSUyQ0IxJTJDbGUlMjBjb25kaXRpb25uZWwlMjBwciVDMyVBOXNlbnQ=" data-listing-date-sort="1758862800000" data-listing-file-modified-sort="1759357001187" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="959">
-<div class="thumbnail"><a href="./posts/le-nouveau-taxi-3-3/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" style="height: 200px;">&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/le-nouveau-taxi-3-3/index.html" class="no-external">Le Nouveau Taxi 3 - Leçon 3</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('TGUlMjBOb3V2ZWF1JTIwVGF4aQ=='); return false;">Le Nouveau Taxi</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('QjE='); return false;">B1</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('bGUlMjBjb25kaXRpb25uZWwlMjBwciVDMyVBOXNlbnQ='); return false;">le conditionnel présent</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/le-nouveau-taxi-3-3/index.html" class="no-external">
-Le conditionnel se forme avec le radical du futur et la terminaison de l’impoarfait<br>
-- je <strong>souhaiter</strong>-ai -&gt; je souhaiter<strong>ais</strong><br>
-- tu <strong>souhaiter</strong>-ais -&gt; tu souhaiter<strong>ais</strong><br>
-- il/elle/on <strong>souhaiter</strong>-ait -&gt;…<strong></strong><br><strong></strong><strong></strong><br><strong></strong><strong></strong><br><strong></strong><strong></strong>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/le-nouveau-taxi-3-3/index.html" class="no-external">
-<div class="listing-date">
-Sep 26, 2025
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="5" data-categories="TGUlMjBOb3V2ZWF1JTIwVGF4aSUyQ0IxJTJDbCdleHByZXNzaW9uJTIwZGUlMjBsYSUyMGNhdXNl" data-listing-date-sort="1758690000000" data-listing-file-modified-sort="1759357001187" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1394">
-<div class="thumbnail"><a href="./posts/le-nouveau-taxi-3-2/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" style="height: 200px;">&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/le-nouveau-taxi-3-2/index.html" class="no-external">Le Nouveau Taxi 3 - Leçon 2</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('TGUlMjBOb3V2ZWF1JTIwVGF4aQ=='); return false;">Le Nouveau Taxi</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('QjE='); return false;">B1</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('bCdleHByZXNzaW9uJTIwZGUlMjBsYSUyMGNhdXNl'); return false;">l'expression de la cause</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/le-nouveau-taxi-3-2/index.html" class="no-external">
-Used to answer teh question “pourquoi”
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/le-nouveau-taxi-3-2/index.html" class="no-external">
-<div class="listing-date">
-Sep 24, 2025
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="6" data-categories="TGUlMjBOb3V2ZWF1JTIwVGF4aSUyQ0IxJTJDbCdleHByZXNzaW9uJTIwbiVDMyVBOWdhdGlm" data-listing-date-sort="1758603600000" data-listing-file-modified-sort="1759357001187" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="11" data-listing-word-count-sort="2195">
-<div class="thumbnail"><a href="./posts/le-nouveau-taxi-3-1/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" style="height: 200px;">&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/le-nouveau-taxi-3-1/index.html" class="no-external">Le Nouveau Taxi 3 - Leçon 1</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('TGUlMjBOb3V2ZWF1JTIwVGF4aQ=='); return false;">Le Nouveau Taxi</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('QjE='); return false;">B1</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('bCdleHByZXNzaW9uJTIwbiVDMyVBOWdhdGlm'); return false;">l'expression négatif</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/le-nouveau-taxi-3-1/index.html" class="no-external">
-Elle <em>ne parle pas</em> italine.<br>
-Il <em>n’aime pas</em> les romans de science-fiction
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/le-nouveau-taxi-3-1/index.html" class="no-external">
-<div class="listing-date">
-Sep 23, 2025
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

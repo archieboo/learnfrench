@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2025-07-10">
 
-<title>Learn French</title>
+<title>Lesson 5 – Learn French</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,27 +24,25 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="./profile.jpg" rel="icon" type="image/jpeg">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dc55a5b9e770e841cd82e46aadbfb9b0.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-250a0ad726c327aed60c1b8aba93cc6c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../profile.jpg" rel="icon" type="image/jpeg">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dc55a5b9e770e841cd82e46aadbfb9b0.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-250a0ad726c327aed60c1b8aba93cc6c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -71,81 +70,23 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../../styles.css">
 </head>
 
 <body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+  <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./profile.jpg" alt="" class="navbar-logo light-content">
-    <img src="./profile.jpg" alt="" class="navbar-logo dark-content">
+    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../profile.jpg" alt="" class="navbar-logo light-content">
+    <img src="../../profile.jpg" alt="" class="navbar-logo dark-content">
     </a>
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Learn French</span>
     </a>
   </div>
@@ -156,7 +97,7 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./archive.html"> 
+    <a class="nav-link" href="../../archive.html"> 
 <span class="menu-text">Archive</span></a>
   </li>  
 </ul>
@@ -167,254 +108,72 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block"></header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(7)</span></div><div class="category" data-category="QjE=">B1 <span class="quarto-category-count">(7)</span></div><div class="category" data-category="bCdleHByZXNzaW9uJTIwZGUlMjBsYSUyMGNhdXNl">l'expression de la cause <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bCdleHByZXNzaW9uJTIwZHUlMjB0ZW1wcw==">l'expression du temps <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bCdleHByZXNzaW9uJTIwbiVDMyVBOWdhdGlm">l'expression négatif <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TCdpbXBhcmZhaXQ=">L'imparfait <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bGUlMjBjb25kaXRpb25uZWwlMjBwciVDMyVBOXNlbnQ=">le conditionnel présent <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TGUlMjBOb3V2ZWF1JTIwVGF4aQ==">Le Nouveau Taxi <span class="quarto-category-count">(7)</span></div><div class="category" data-category="bGUlMjBwbHVzLXF1ZS1wYXJmYWl0">le plus-que-parfait <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UGFzcyVDMyVBOSUyMENvbXBvcyVDMyVBOQ==">Passé Composé <span class="quarto-category-count">(1)</span></div></div></div>
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul class="collapse">
+  <li><a href="#dialogue" id="toc-dialogue" class="nav-link active" data-scroll-target="#dialogue"><span class="header-section-number">1</span> Dialogue</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+<main class="content page-columns page-full" id="quarto-document-content">
 
-
-
-
-
-
-
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="TGUlMjBOb3V2ZWF1JTIwVGF4aSUyQ0IxJTJDbGUlMjBwbHVzLXF1ZS1wYXJmYWl0" data-listing-date-sort="1759294800000" data-listing-file-modified-sort="1759365721802" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1173">
-<div class="thumbnail"><a href="./posts/le-nouveau-taxi-3-7/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" style="height: 200px;">&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/le-nouveau-taxi-3-7/index.html" class="no-external">Le Nouveau Taxi 3 - Leçon 7</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('TGUlMjBOb3V2ZWF1JTIwVGF4aQ=='); return false;">Le Nouveau Taxi</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('QjE='); return false;">B1</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('bGUlMjBwbHVzLXF1ZS1wYXJmYWl0'); return false;">le plus-que-parfait</div>
-
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Lesson 5</h1>
 </div>
-<div class="delink listing-description"><a href="./posts/le-nouveau-taxi-3-7/index.html" class="no-external">
-<code>avoir</code> ou <code>être</code> à l’imparfait + participe passé
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/le-nouveau-taxi-3-7/index.html" class="no-external">
-<div class="listing-date">
-Oct 1, 2025
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="TGUlMjBOb3V2ZWF1JTIwVGF4aSUyQ0IxJTJDbCdleHByZXNzaW9uJTIwZHUlMjB0ZW1wcw==" data-listing-date-sort="1759122000000" data-listing-file-modified-sort="1759359422917" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1030">
-<div class="thumbnail"><a href="./posts/le-nouveau-taxi-3-6/index.html" class="no-external">
 
-<div class="listing-item-img-placeholder card-img-top" style="height: 200px;">&nbsp;</div>
 
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/le-nouveau-taxi-3-6/index.html" class="no-external">Le Nouveau Taxi 3 - Leçon 6</a>
-</h3>
-<div class="listing-categories">
 
-<div class="listing-category" onclick="window.quartoListingCategory('TGUlMjBOb3V2ZWF1JTIwVGF4aQ=='); return false;">Le Nouveau Taxi</div>
+<div class="quarto-title-meta">
 
-<div class="listing-category" onclick="window.quartoListingCategory('QjE='); return false;">B1</div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">July 10, 2025</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
 
-<div class="listing-category" onclick="window.quartoListingCategory('bCdleHByZXNzaW9uJTIwZHUlMjB0ZW1wcw=='); return false;">l'expression du temps</div>
 
-</div>
-<div class="delink listing-description"><a href="./posts/le-nouveau-taxi-3-6/index.html" class="no-external">
-Similar to “pendant”, used to indicate a duration of time, usually in more formal contexts.
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/le-nouveau-taxi-3-6/index.html" class="no-external">
-<div class="listing-date">
-Sep 29, 2025
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="TGUlMjBOb3V2ZWF1JTIwVGF4aSUyQ0IxJTJDUGFzcyVDMyVBOSUyMENvbXBvcyVDMyVBOSUyQ0wnaW1wYXJmYWl0" data-listing-date-sort="1759035600000" data-listing-file-modified-sort="1759357001187" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1341">
-<div class="thumbnail"><a href="./posts/le-nouveau-taxi-3-5/index.html" class="no-external">
+</header>
 
-<div class="listing-item-img-placeholder card-img-top" style="height: 200px;">&nbsp;</div>
 
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/le-nouveau-taxi-3-5/index.html" class="no-external">Le Nouveau Taxi 3 - Leçon 5</a>
-</h3>
-<div class="listing-categories">
+<section id="dialogue" class="level2 page-columns page-full" data-number="1">
+<h2 data-number="1" class="anchored" data-anchor-id="dialogue"><span class="header-section-number">1</span> Dialogue</h2>
+<p><strong>Words about news</strong></p>
+<p>Une très mauvaise nouvelle<br> News = les nouvelles, les infos (actualité, actuel)<br> Les actualités<br> à la télévision<br></p>
+<p><strong>Answer Why, or provide context</strong></p>
+<p>Parce que = Because<br> &gt; Je suis en retard parce que j’ai raté le bus.<br></p>
+<p>C’est pour ça que = That’s why<br> &gt; J’ai raté le bus. C’est pour ça que je suis en retard.</p>
+<p>Je pensais<br></p>
+<p>Ils ont bien contrôle le feu<br> C’est une bonne nouvelle<br></p>
+<p>Ces derniers jours (in the last few days…)<br> récemment<br></p>
+<p>J’ai vu mes amis<br> Je suis sorti avec mes amis<br></p>
+<p>Visiter: pour les lieux (musée, Paris, une ville, etc.)<br></p>
+<p>Que tu connais d’où?<br> L’un d’eux (one of them)<br> L’un de mes amis<br> Je connais l’un d’eux de Shanghai<br> Et l’autre ami de Chicago<br> Nous nous sommes rencontrés à un bar il y a plus de 14 ans<br> C’est un vieil ami<br> Et depuis vous avez gardé contact<br> J’ai repris contact<br></p>
+<p>Après une année sabbatique, j’ai repris le travail avec plus d’energie<br> J’ai repris le tennis après une longue pause<br></p>
+<p><strong>Il faut que always starts subjonctif</strong> Il faut utiliser reprendre avec un nom<br></p>
+<p>Il faut se brosser les dents chaque soir<br> Il faut que + subjonctif<br></p>
+<p>Il est triste que tu aies perdu ton emploi<br> Il est important que tu sois attentif<br> Fais plus attention<br></p>
+<p>Au subjonctif les verbes en -ER se conjuguent presque de la même manière que les verbes à l’indicatif sauf pour: nous, vous<br></p>
 
-<div class="listing-category" onclick="window.quartoListingCategory('TGUlMjBOb3V2ZWF1JTIwVGF4aQ=='); return false;">Le Nouveau Taxi</div>
 
-<div class="listing-category" onclick="window.quartoListingCategory('QjE='); return false;">B1</div>
 
-<div class="listing-category" onclick="window.quartoListingCategory('UGFzcyVDMyVBOSUyMENvbXBvcyVDMyVBOQ=='); return false;">Passé Composé</div>
+<div class="no-row-height column-margin column-container"><div class="">
+<p><img src="./fig1.jpg" class="img-fluid"></p>
+</div></div></section>
 
-<div class="listing-category" onclick="window.quartoListingCategory('TCdpbXBhcmZhaXQ='); return false;">L'imparfait</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/le-nouveau-taxi-3-5/index.html" class="no-external">
-Le <strong>présent</strong> indique une situation actuelle ou une action poncturelle qui a lieu au moment où l’on parle:<br>
-- Cette Bordelaise de 21 ans étudie les relations internationales.
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/le-nouveau-taxi-3-5/index.html" class="no-external">
-<div class="listing-date">
-Sep 28, 2025
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="TGUlMjBOb3V2ZWF1JTIwVGF4aSUyQ0Ix" data-listing-date-sort="1758862800000" data-listing-file-modified-sort="1759357001187" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="950">
-<div class="thumbnail"><a href="./posts/le-nouveau-taxi-3-4/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" style="height: 200px;">&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/le-nouveau-taxi-3-4/index.html" class="no-external">Le Nouveau Taxi 3 - Leçon 4</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('TGUlMjBOb3V2ZWF1JTIwVGF4aQ=='); return false;">Le Nouveau Taxi</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('QjE='); return false;">B1</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/le-nouveau-taxi-3-4/index.html" class="no-external">
-Présenté par Marcel Rufo et Charline Roux<br>
-Tous les dimanches à 17h10<br>
-Apportez vos témoignages<sup>1</sup> pour nos prochaines émissions:<br>
-- Élever un enfant seul<sup>2</sup>.<br>
-- Leur histoire d’amour est impossible.<br>
--…<br>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/le-nouveau-taxi-3-4/index.html" class="no-external">
-<div class="listing-date">
-Sep 26, 2025
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="4" data-categories="TGUlMjBOb3V2ZWF1JTIwVGF4aSUyQ0IxJTJDbGUlMjBjb25kaXRpb25uZWwlMjBwciVDMyVBOXNlbnQ=" data-listing-date-sort="1758862800000" data-listing-file-modified-sort="1759357001187" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="959">
-<div class="thumbnail"><a href="./posts/le-nouveau-taxi-3-3/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" style="height: 200px;">&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/le-nouveau-taxi-3-3/index.html" class="no-external">Le Nouveau Taxi 3 - Leçon 3</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('TGUlMjBOb3V2ZWF1JTIwVGF4aQ=='); return false;">Le Nouveau Taxi</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('QjE='); return false;">B1</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('bGUlMjBjb25kaXRpb25uZWwlMjBwciVDMyVBOXNlbnQ='); return false;">le conditionnel présent</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/le-nouveau-taxi-3-3/index.html" class="no-external">
-Le conditionnel se forme avec le radical du futur et la terminaison de l’impoarfait<br>
-- je <strong>souhaiter</strong>-ai -&gt; je souhaiter<strong>ais</strong><br>
-- tu <strong>souhaiter</strong>-ais -&gt; tu souhaiter<strong>ais</strong><br>
-- il/elle/on <strong>souhaiter</strong>-ait -&gt;…<strong></strong><br><strong></strong><strong></strong><br><strong></strong><strong></strong><br><strong></strong><strong></strong>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/le-nouveau-taxi-3-3/index.html" class="no-external">
-<div class="listing-date">
-Sep 26, 2025
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="5" data-categories="TGUlMjBOb3V2ZWF1JTIwVGF4aSUyQ0IxJTJDbCdleHByZXNzaW9uJTIwZGUlMjBsYSUyMGNhdXNl" data-listing-date-sort="1758690000000" data-listing-file-modified-sort="1759357001187" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1394">
-<div class="thumbnail"><a href="./posts/le-nouveau-taxi-3-2/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" style="height: 200px;">&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/le-nouveau-taxi-3-2/index.html" class="no-external">Le Nouveau Taxi 3 - Leçon 2</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('TGUlMjBOb3V2ZWF1JTIwVGF4aQ=='); return false;">Le Nouveau Taxi</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('QjE='); return false;">B1</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('bCdleHByZXNzaW9uJTIwZGUlMjBsYSUyMGNhdXNl'); return false;">l'expression de la cause</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/le-nouveau-taxi-3-2/index.html" class="no-external">
-Used to answer teh question “pourquoi”
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/le-nouveau-taxi-3-2/index.html" class="no-external">
-<div class="listing-date">
-Sep 24, 2025
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="6" data-categories="TGUlMjBOb3V2ZWF1JTIwVGF4aSUyQ0IxJTJDbCdleHByZXNzaW9uJTIwbiVDMyVBOWdhdGlm" data-listing-date-sort="1758603600000" data-listing-file-modified-sort="1759357001187" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="11" data-listing-word-count-sort="2195">
-<div class="thumbnail"><a href="./posts/le-nouveau-taxi-3-1/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" style="height: 200px;">&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/le-nouveau-taxi-3-1/index.html" class="no-external">Le Nouveau Taxi 3 - Leçon 1</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('TGUlMjBOb3V2ZWF1JTIwVGF4aQ=='); return false;">Le Nouveau Taxi</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('QjE='); return false;">B1</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('bCdleHByZXNzaW9uJTIwbiVDMyVBOWdhdGlm'); return false;">l'expression négatif</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/le-nouveau-taxi-3-1/index.html" class="no-external">
-Elle <em>ne parle pas</em> italine.<br>
-Il <em>n’aime pas</em> les romans de science-fiction
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/le-nouveau-taxi-3-1/index.html" class="no-external">
-<div class="listing-date">
-Sep 23, 2025
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

@@ -8,13 +8,18 @@
       "/posts/le-nouveau-taxi-3-4/index.html",
       "/posts/le-nouveau-taxi-3-3/index.html",
       "/posts/le-nouveau-taxi-3-2/index.html",
-      "/posts/le-nouveau-taxi-3-1/index.html",
-      "/posts/lesson-5/index.html",
-      "/posts/lesson-4/index.html",
-      "/posts/lesson-3/index.html",
-      "/posts/lesson-2/index.html",
-      "/posts/lesson-1/index.html",
-      "/posts/lesson-0/index.html"
+      "/posts/le-nouveau-taxi-3-1/index.html"
+    ]
+  },
+  {
+    "listing": "/archive.html",
+    "items": [
+      "/archive/lesson-5/index.html",
+      "/archive/lesson-4/index.html",
+      "/archive/lesson-3/index.html",
+      "/archive/lesson-2/index.html",
+      "/archive/lesson-1/index.html",
+      "/archive/lesson-0/index.html"
     ]
   }
 ]
