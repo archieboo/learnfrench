@@ -1,0 +1,244 @@
+---
+title: "Le Nouveau Taxi 3 - Leçon 7"
+date: "2025-10-1"
+categories: ["Le Nouveau Taxi", "B1", "le plus-que-parfait"]
+reference-location: margin
+citation-location: margin
+---
+
+## Grammaire - le plus-que-parfait
+
+:::{.callout-warning}
+#### Formation du plus-que-parfait
+`avoir` ou `être` à l’imparfait + participe passé
+:::
+
+
+1. `marcher` 
+
+- j'`avais marché`
+- tu `avais marché`
+- il/elle/on `avait marché`
+- nous `avions marché`
+- vous `aviez marché`
+- ils/elles `avaient marché`
+
+
+2. `venir`
+
+- j'`étais venu(e)`
+- tu `étais venu(e)`
+- il/elle/on `était venu(e)(s)`
+- nous `étions venu(e)s`
+- vous `étiez venu(e)(s)`
+- ils/elles `étaient venu(e)s`
+
+
+3. se lever
+
+- je m'`étais levé(e)`
+- tu t'`étais levé(e)`
+- il/elle/on s'`était levé(e)(s)`
+- nous nous `étions levé(e)s`
+- vous vous `étiez levé(e)(s)`
+- ils/elles s'`étaient levé(e)s`
+
+
+### le passé du passé
+
+Un événement qui s'est passé avant un autre événement du passé. Il s'emploie souvent avant un passé composé ou un imparfait.
+
+- Je savais que tu étais venu à Paris en 2003.
+- Quand Quentin est arrivé, le train était déjà parti.
+- Vous n'avez pas apporté le document que je vous avais donné?
+- La rue était mouillée (wet). Il avait plu toute la nuit.
+
+::: {.callout-warning}
+#### des mouvement consécutifs
+For continuous movements, use passé composé.  
+- Ce matin, elle s'est levée, elle s'est lavée, elle s'est maquillée et elle est allée au bureau. (spoken, repeating the subject for clarity)  
+- Ce matin, elle s'est levée, lavée, maquillée et est allée au bureau. (written)
+
+:::
+
+
+
+## Entaînez-vous
+
+### part 1
+
+Le portier du Club 103 a refusé l'entrée de l'établissment à un jeune Sénégalais de 19 ans.  
+La victime a saisi la Halde parce que
+
+> La victime a saisi la Halde parce qu'on avait refusé l'acces à un club en raison de son origine.
+
+
+Pour ce poste de manager, l'entreprise a privilégié un home.  
+La victime a saisi la Halde parce que
+
+> La victime a saisi la Halde parce que les recruteurs avaient privilégié une candidature masculine.
+
+
+L'émission Nouveaux Talents a rejeté(抛弃，扔掉) la candidature de Julien N. à cause de son âge.
+La victime a saisi la Halde parce que
+
+> La victime a saisi la Halde parce que l'émission Nouveaux Talents avait refusé sa candidature en raison de son âge.
+
+
+Mlle H. a très souvent entendu des remarques désagréables sur son physique depuis son entrée dans l'entreprise.
+La victime a saisi la Halde parce que
+
+> La victime a saisi la Halde parce que ses collègues lui avaient rendu la vie impossible.  
+> La victime a saisi la Halde parce que ses collègues l'avaient bafoué(嘲笑) tout le temps.
+
+
+### part 2
+
+_Imparfait, passé compossé ou plus-que-parfait? Mettez les verbes entre parenthèses au temps qui convient._
+
+
+Monique F. de Rouen (_être engagé_) en août dernier au poste de secrétaire dans l'entreprise Merlo. Elle (_donner_) entière[^2b1] satisfaction à son supérieur hiérarchique et tous ses collègues (_l'apprécier_). Mais, en novembre dernier, elle (_recevoir_) sa lettre de licenciement[^2b2] pour raison économique. En fait, elle (_apprendre_) la semaine dernière par une employée de la sociéte que le directeur (_accorder_) le poste qu'elle (_occuper_) à une personne de sa famille et cela dans les jours qui (_suivre_) son départ.
+
+
+>
+- a été engagée  
+- donnait
+- l'appréciaient
+- a reçu
+- a apprendu
+- avait accordé
+- avait occupé
+- avaient suivi
+
+
+
+
+[^2b1]: entière = entirely
+[^2b2]: lettre de licenciement = letter of dismissal
+
+
+
+## Texte - Égalité pour tous
+
+Madame, Monsieur, 
+
+Comme je recherce actuellement un studio, j'ai pris contact par téléphone avec une agence immobilière. J'ai expliqué à la responsable de l'angence que je ne pouvais pas me déplacer: elle m'a alors envoyé un dossier que j'ai complété et envoyé par fax.
+Le lendemain[^3a1], elle m'a renvoyé le dossier que j'avais complété. Elle m'a simplement indiqué qu'elle n'avait plus de studios disponibles.
+
+Deux semaines plus tard, je suis passée devant cette agence: elle avait laissé les deux annonces dont elle m'avait initialement parlé au téléphone.
+Quand je suis entrée pour demander des explications, la directrice de l'agence m'a indiqué que les propriétaires des studios ne souhaitaient pas louer ces appartements à étudiants. 
+
+Pourriez-vous me dire s'ils ont le droit de faire cela?
+
+Merci pour votre aide.  
+Cordialement,  
+xxx
+
+
+
+:::{.callout-tip}
+#### saisir
+saisir = to take, to seize, to grab, to catch, to understand, to grasp...
+
+saisir un ballon  
+saisir une branche  
+saisir qn à bras le corps (catch, grab)
+
+saisir une occasion, une opportunité (seize...)  
+- Vous aves bien saisi ce que j'ai dit? (understand, grasp)
+
+saisir qn de qch (submit, present)  
+- saisir un tribunal d'une affaire (to bring a case before a court)  
+- saisir une commission d'un project de loi (to submit a bill to a committee)  
+- Le parquet a été saisi de l'affaire. (The public prosecutor's office has been notified of the case.)
+
+:::
+
+
+:::{.callout-tip}
+#### prendre contact avec qn
+to get in touch with sb, to contact sb  
+- Il va prendre contact avec elle dès ce soir. (dès = as soon as)  
+
+rester/être en contact avec qn, garder le contact avec qn (keep in touch with sb)  
+- Nous restons en contact par téléphone.  
+- Tu dois garder le contact avec lui.
+
+:::
+
+
+:::{.callout-tip}
+#### déplacer
+to move, to shift, to transfer, to displace  
+- Il a déplacé une chaise pour nettoyer le parquet (wooden floor).  
+- Le directeur a déplacé un employé à l'étranger.  
+- Elle a déplacé l'heure de la réunion. (She changed the time of the meeting.) 
+
+déplacer un problème (escape or shift a problem... not solve it)  
+régler un problème (solve a problem)  
+se contenter (to be satisfied with, to settle for)  
+- Il n'a rien réglé, il s'est contenté déplacer le probléme.
+
+se déplacer: to go somewhere, to get around  
+- Il ne se déplace jamais sans escorte. (He never goes anywhere without an escort.)
+
+:::
+
+
+:::{.callout-tip}
+#### au téléphone
+parler au téléphone = to speak on the phone  
+être au volant = driving (volant = steering wheel)  
+être au travail = at work
+
+:::
+
+
+::: {.callout-tip}
+#### indiquer
+to indicate, to point out, to show
+- Cette carte de restaurant n'indique pas le prix.  
+- indique l'heure à qn  
+- indiquer le chemin à qn
+
+:::
+
+
+:::{.callout-tip}
+#### avoir le droit de faire qch
+to have the right to do sth  
+- Les consommateurs ont le droit de savoir les ingrédients de l'aliment qu'ils achètent. (aliment = food stuff)  
+- Les mineurs n'ont pas le droit de voter.
+
+:::
+
+
+
+[^3a1]: the next/following day
+
+## Thème
+
+1. No one has the right to smoke in the hospital.  
+`personne ne`, `avoir le droit de faire qch`
+
+    > Personne n'a le droit de fumer à l'hôpital.
+
+2. I just reconnected with my classmates from college that I haven't seen for 3 years.  
+`venir de`, `prendre contact avec qn`
+
+    > Je viens de reprendre contact avec mon camarade de l'université que je n'avais pas vu depuis trois ans.
+
+
+3. Call my any time if you have any problem.  
+`si jamais`, `appeler qn` 
+
+    > Au cas où tu aurais des problèmes, n'hésite pas à m'appeler. (au cas où needs the conditional)  
+    > Si jamais tu rencontres des difficultés, tu peux me téléphoner à tout moment.  
+    > Si jamais tu as des ennuies, donne-moi un coup de fil quand tu veux. (donner un coup de fil = to give a call)
+
+
+4. Yesterday, he returned me the novel I lent him last week.
+
+    > Hier, il m'a rendu le roman qu eje lui avais prêté une semaine avant.
+
+
