@@ -1,0 +1,255 @@
+---
+title: "Le Nouveau Taxi 3 - Leçon 8"
+date: "2025-10-2"
+categories: ["Le Nouveau Taxi", "B1"]
+reference-location: margin
+citation-location: margin
+---
+
+
+## Texte
+
+
+### part 1
+
+#### Envie de **partir à la découverte de** l'Europe
+
+
+Les villes comme Londres, Milan, Madrid, Barcelone, Lisbonne, Berlin, Prague, Florence, Vienne ou Budapest **vous font rêver**? Alors le Pass InterRail **est fait pour** vous!  
+Le Pass InterRail, c'est le moyen plus simple pour visiter plusieur pays d'Europe en train!
+
+
+:::{.callout-tip}
+#### partir à la découverte de qch 
+to go off to discover sth  
+- Je souhaiterais partir à la découverte de mondes inexplorés (unexplored).
+:::
+
+
+:::{.callout-tip}
+#### faire faire qn
+to have sb do sth  
+- Toutes ces villes font rêver tout le monde.  
+- Il a fait monter le chien dans sa voiture.
+:::
+
+:::{.callout-tip}
+#### se faire / être fait pour qn
+to be made for sb  
+- Ça se fait pour vous.  
+- C'est fait pour vous.  
+- C'est taillé sur votre mesure (tailored to your size).
+:::
+
+
+#### C'est quoi le Pass InterRail?
+
+C'est un pass de libre circulation[^1a1] personnel et **nominatif** qui **vous permet de voyager** simplement et facilement sur la majorité des[^1a2] trains européens.
+
+:::{.callout-tip}
+#### nominatif
+registered with name, 实名的  
+- Un billet nominatif.
+- une liste d'employés nominatifs (a list of named employees).
+:::
+
+:::{.callout-tip}
+#### permettre à qn de faire qch
+to allow sb to do sth  
+- Ça vous permet de vous déplacer facilement.  
+- Ce moyen me permet de régler rapidement ce problème.
+:::
+
+
+#### C'est pour qui le Pass InterRail?
+
+Pour tout le monde! Le Passe Jeune, particuliièrement attractif[^1a3] par son prix et valable[^1a4] en 2nde classe uniquement **s'adresse aux** voyageux de moins de 26 ans.
+Le Pass Adulte qui s'adresse aux voyageurs de plus de 26 ans et le Pass Enfant (de 4 à moins de 12 ans) vous proposent des prix très avantageux **aussi bien** en 1re classe **qu**'en 2nde classe. Le Pass InterRail peut uniquement être utilisé par les résidents européens. Il n'est pas valable dans votre pays de résidence.
+
+
+:::{.callout-tip}
+#### s'adresser à qn
+to be aimed at sb...  
+- Il vaudrait mieux vous adresser à l'accueil pour plus d'informations. 
+- Ce livre s'adresse aux étudiants en médecine.
+
+similar expressions:  
+se préparer à qch  
+être réservé à qn  
+:::
+
+
+:::{.callout-tip}
+#### properser
+properser qch à qn - propose sth to sb  
+- On vous propose son project.  
+- Le recruteur m'a proposé des conditions favorables.
+:::
+
+:::{.callout-tip}
+#### aussi bien... que...
+as well... as... 既...又...  
+- Ce roman est une réussite aussi bien sur le fond que sur la forme. (...success in terms of content as well as in form).  
+- Sur leur site web, on trouve aussi bien des discussions concernant les questions de théorie que des extraits de traduction très intéressant. (...about discussions... as well as extracts of translations...)
+
+:::
+
+
+#### Valide dans 30 pays
+
+Avec l'InterRail Global Pass, vous pouvez visiter 30 pays: Autriche, Belgique, Bosnie-Herzégovine, Bulgarie, Croatie, République tchèque, Danemark, Finlade, France, ARY Macédoine, Allemagne, Grande-Bretagne, Grèce, Hongrie, Italie, Luxembourg, Monténégro, Pays-Bas, Norvège, Pologne, Portugal, République d'Irlande, Roumanie, Serbie, Slovaquie, Slovénie, Espagne, Suède, Suisse, Turquie.
+
+
+#### Que signifie flexible?
+
+Il y a deux types d'InterRail Global Pass: ceux à validité flexible et ceux à validité continue.  
+Vous avez un InterRail Global Pass flexible de 5 ou 10 jours? Dans ce cas, vous pouvez voyager 5 ou 10 jours différents de votre choix durant la période de validité du Pass.  
+Si vous avez un InterRail Global Pass continu de 22 jours ou 1 mois, vous pouvez voyager **aussi souvent que** vous le désirez dans la période de validité globale de l'InterRail Pass.  
+La différence entre deux types de validité **est comparable à** la différence entre un abonnement mensuel[^1a5] dans un club de remise en forme[^1a6] (vous pouvez y aller **n'importer quel** jour **au cours d**'une période d'un mois) et **un abonnement à** la carte pour 10 visites (vous pouvez participer à 10 cours pendant une certaine période de validité).
+
+
+:::{.callout-tip}
+#### aussi ... que ...
+as ... as ...  
+- Elle est plus courageuse que tu ne le pensais.  
+_(Notice the use of "ne" here, it is called ne explétif. It is stylistic and adds emphasis, but doesn't change the meaning. It is often used in formal french after certain conjunctions or comparative structures, like avant que, plus que, moins que, aussi que, autre que.)_  
+- Il n'est pas aussi brave que nous ne le croyez.
+:::
+
+:::{.callout-tip}
+#### n'importe quel (quelle, quels, quelles)
+any, whichever  
+- Vous pouvez choisir n'importe quel livre.
+
+n'importe is a fixed expression, kind of like 'no matter' + what / who / when / where / how...
+
+- n’importe qui = anyone
+- n’importe quoi = anything / nonsense (colloquially “that’s nonsense!”)
+- n’importe où = anywhere
+- n’importe quand = anytime
+- n’importe comment = anyhow / in any way
+
+:::
+
+:::{.callout-tip}
+#### au cours de qch
+during sth  
+- au cours d'une période  
+- au cours de la réunion  
+- Au cours de la soirée, il a chanté une chanson française.
+:::
+
+:::{.callout-tip}
+#### abonnement
+
+- s'abonner à qch = to subscribe to sth
+- un abonné = a subscriber
+- un abonnement = a subscription / membership
+:::
+
+
+[^1a1]: pass for free movement
+[^1a2]: la majorité des trains / la plupart des trains
+[^1a3]: = attirant
+[^1a4]: valid
+[^1a5]: monthly subscription
+[^1a6]: club de remise en forme = fitness club / gym, en forme = fit, remise en forme = getting back in shape
+
+
+
+### part 2
+
+Monsieur,
+
+Souhaitant découvrir la Grande-Bretagne et l'Irlande durant mes toutes premières semaines de retraite, je suis allèe il y a un mois exactement à la gare la plus proche de mon domicile pour y acheter un Pass valable 22 jours continus, en seconde classe.  
+
+La personne à qui je **me suis adressée** à ce moment-là était visiblement **inexpérimentée** et **il a fallu que** je lui explique - chose incroyable - les caractéristiques du Pass et le principe de validité.  
+
+**De toute évidence**[^1b1], cela n'a servi à rien; cette personne n'a pas compris ce que je désirais et m'a finalement vendu un Pass 10 jours / pendant 22 jours au prix d'un Pass 22 jours continus. Je **m'en** suis malheureusement **aperçu** trop tard, quand j'étais en Irlande **à la fin de** mon voyage.  
+
+Bien évidement, je n'ai pas pu prouver, sur place[^1b2], que j'avais acheté un Pass 22 jours continus; j'ai donc **été obligée de** payer une amende[^1b3]. Vous comprendrez, je l'espère[^1b4], ma colére devant une erreur qui m'a coûté très cher et m'a **gâché une partie de** mon séjour.  
+
+**C'est pourquoi** je vous demande aujourd'hui **non seulement** le remboursement[^1b5] intégral[^1b6] du Pass **mais également** celui de l'amende que j'ai payée.  
+
+Dans cette attente, recevez, Monsieur, mes salutations distinguées.  
+xxx
+
+
+:::{.callout-tip}
+#### s'adresser à qn
+to address sb / to speak to sb
+- Je me suis adressée à la réception pour plus d'informations. 
+- Ce livre s'adresse aux étudiants en médecine.
+:::
+
+:::{.callout-tip}
+#### ça n'a servi à rien
+it was useless / it was of no use
+:::
+
+
+:::{.callout-tip}
+#### s'apercevoir de qch
+to realize sth / to notice sth  
+- Il était très concerné sur son travail et ne s'est pas aperçu de mon arrivée.
+:::
+
+
+:::{.callout-tip}
+#### gâcher qch
+to spoil sth / to ruin sth  
+- gâcher du temps = to waste time  
+- gâcher du plaisir = to spoil the pleasure  
+- gâcher sa jeunesse = to waste one's youth
+:::
+
+
+:::{.callout-tip}
+#### non seulement... mais également / mais / mais aussi...
+not only... but also...
+:::
+
+
+
+[^1b1]: obviously, = visiblement
+[^1b2]: on the spot / on site
+[^1b3]: fine / penalty
+[^1b4]:  _le_ here, replaces the preceding clause (pronom COD): vous comprendrez ma colère, because _espèrer_ needs a pronoun (unlike in English). 
+[^1b5]: refund. rembourser qn de qch = to refund sb for sth
+[^1b6]: total / entier
+
+
+
+
+## Thème
+
+1. They left yesterday to explore the unknown world.
+
+    `à la découverte de`
+
+    > Ils sont partis hier à la découverte du monde inconnu. 
+
+
+2. The InterRail Pass can be purchased at ticket office at rail station as well as online.
+
+    `aussi bien...que`
+
+    > On peut acheter le pass InterRail aussi bien au guichet[^3a1] à la gare que sur Internet.
+
+
+3. This diploma can be considered as a passport to Europe.
+
+    `être comparable à`
+
+    > Ce diplôme pourrait être comparable au passport pour l'Europe[^3a2].
+
+4. Obviously, this staff memeber was inexperienced. She didn't understand what I meant.I had to explain the features of the pass.
+
+    > Bient évidemment, cette employée n'était aucune expérience. Non seulement elle n'a pas du tout compris ce que je désirais, mais encore il a fallu que moi, je lui explique les caractéristiques du Pass.
+    > De toute évidence, cette employée éetait entièrement inexpérimentée. Elle n'ai rien compris et j'ai obligée de lui expliquer les caractéristiques du Pass.
+
+
+
+
+[3a1]: ticket office / counter
+[3a2]: 通往或去到xx地方，通长用pour. e.g. partir pour Paris
