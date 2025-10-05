@@ -167,7 +167,7 @@ Vingt-sept ans après, la Fête de la musique est restée **conforme à** cet es
 << Ce seront en tout[^4c1] 20 000 concerts qui seront donnés en France cette année. Parmi ceux-ci, **les quatre cinquièmes** sont le fait d'amateurs[^4c2] ou de semi-professionnels >>, explique Sylvie Canal, coordinatrice générale de la Fête de la musique depuis 2008.
 Pour cette édition, les organisateurs ont choisi de célébrer 50 ans de chanson française, en écho au cinquantenaire[^4c3] du ministère de la Culture. 
 
-**Rendre la musique plus accessible** au public était le premier objectif de la Fête. Depuis 1982, les rapprochements[^4c4] entre Culture et Education **ont contribué à** l'avancée[^4c5] de l'enseignement musical. << Les écoles de musique et les conservatoires sont surpeuplés[^4c6], voilà une conséquence de **l'impact de** la Fête >>, affirme Sylvie Canal. 
+**Rendre la musique plus accessible** au public était le premier objectif de la Fête. Depuis 1982, les rapprochements[^4c4] entre Culture et Education **ont contribué à** l'avancée[^4c5] de l'enseignement[^4c9] musical. << Les écoles de musique et les conservatoires sont surpeuplés[^4c6], voilà une conséquence de **l'impact de** la Fête >>, affirme Sylvie Canal. 
 
 Le plus grand témoignage de la réussite de cette invention française est probablement son développement à l'etranger. Ce seront cette année 120 pays et 350 villes dans le  monde qui fêteront la musique, de New York à l'Australie. Capitale internationale de la fête, la ville de Paris accueillera dimanche pas moins de 400 manifestations **auxquelles il faut ajouter** les **démarches spontanées** qui continuent de faire le sel[^4c7] de cet événement pas commun[^4c8].
 
@@ -251,10 +251,38 @@ démarches = steps, actions, measures
 [^4c6]: surpeuplé = overcrowded, overpopulated
 [^4c7]: sel = salt, here means "add flavor/zest to"...
 [^4c8]: pas commun = uncommon; hors du commun, extraordinaire
+[^4c9]: teaching, education, instruction
 
 
 
 ## Thème
+
+1. You can take change trains as many times as you want with the same ticket. 
+
+    `autant de ... que`
+
+    > Vous pouvez changer de métro autant de fois que vous voulez en utilisant le même ticket.  
+    > Avec le même billet, vous pouvez changer de métro autant de fois que vous voulez.
+
+2. This year, the programs at the music festival are more abandant and varied than last year.
+    `varieé(e)`, `divers(e)`, `riche`
+
+    > Les programmes de la Fête de la musique cette année sont plus riches et plus varieés que ceux de l'année dernière.
+
+3. This course completely meets the requirements of the french language pedegogy and facilitates us better understand the french culture.
+    
+    `conforme à`, `se conformer à`, `permettre à qn de qch`
+
+    > Ce cours,  conforme (en tout / complètement / entièrement / totalement / tout entièr) au programme de l'enseignement en langue française, nous permet de mieux connaître la culture française.
+
+4. His participation will make our party more interesting and fun.
+    
+
+    > Sa présence rendra / rendrait notre soirée plus amusante et plus intéressante.  
+    > Sa participation fait le sel de notre soirée.
+
+
+
 
 
 
