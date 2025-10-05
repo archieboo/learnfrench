@@ -1,0 +1,263 @@
+---
+title: "Le Nouveau Taxi 3 - Leçon 9"
+date: "2025-10-4"
+categories: ["Le Nouveau Taxi", "B1", "la tendance", "le comparatif" ]
+reference-location: margin
+citation-location: margin
+---
+
+
+## Grammaire - La Tendance
+
+### de plus en plus
+
+Modify an adjective or adverb.
+
+>
+- Cette fête est de plus en plus populaire.  
+- Elle devient de plus en plus charmante.  
+
+Modify a verb alone, note the _s_ at the end is pronounced.
+
+>
+- Les gens sortent de plus en plus.  
+- On vit de plus en plus en ville.
+
+Modify a noun with _de_. Note the _s_ at the end is pronounced, and no article.
+
+>
+- Mon frère a de plus en plus de livres.
+- Il y a de plus en plus de gens qui aiment faire du sport.
+
+### de moins en moins
+
+Same rules as _de plus en plus_, means the opposite direction.
+
+>
+- Un ordinateur devient de moins en moins lourd (heavy).  
+- Elle est de moins en moins dynamique (energetic, active).
+
+>
+- Les enfants lisent de moins en moins.
+- Il sort de moins en moins.
+
+>
+- Il y a de moins en moins d'amateurs. 
+- On écrit de moins en moins de lettres.
+
+## Grammaire - Le Comparatif
+
+### plus ... que / moins ... que / autant ... que 比较级
+
+>
+- Cette année, il pleut plus que l'année dernière.  
+- Il sort moins que son ami le soir.
+- Il travaille autant que toi (as much as).
+
+### le plus ... (de) / le moins ... (de) 最高级
+>
+- Cette année, il pleut le plus de toutes ces dernières années.
+- Il sort le moins de tous ses amis.
+
+### plus de ... que / moins de ... que / autant de ... que 比较级 (with nouns)
+
+>
+- Il a visité plus de villes que Sophie.
+- Elle a lu moins de livres que Paul.
+- Pékin accueil chaque année autant de visiteurs que Shanghai.
+
+### le plus de ... (de) / le moins de ... (de) 最高级 (with nouns)
+
+>
+- Il a visité le plus de pays de tous ses amis.
+- Elle a cueilli (picked) le moins de fleurs de toutes les filles. 
+
+
+## Entraînez-vous
+
+Complétez le dialogue avec   
+**_plus que, de plus en plus, bien moins que, comme, le plus, autant que_**
+
+- Vraiment, Nicolas, il faut qu'on parle. Ça ne peut pas continuer comme ça. Tu sors (1) ________ !
+- Mais, arrête! Je ne sors pas (2) ________ mes copains. Et puis je ne vais quand même pas rester à la maison le soir de la Fête de la musique!
+- Peut-être, mais je te parle en général. J'ai rencontré la mère d'Aline au supermarché et on a discuté. Elle est raisonnable, elle! Elle sort (3) ________ toi!
+- Aline? Tu rigoles! Elle fait (4) ________ tout le monde! Elle sort (5) ________ moi. De toute façon, ce n'est pas moi qui sors (6) ________!
+
+:::{.column-margin}
+>
+1. de plus en plus
+2. plus que
+3. bien moins que
+4. comme
+5. autant que
+6. le plus
+
+puis = then, so  
+quand même = after all, still  
+rigoler = to joke, to kid
+
+:::
+
+
+## Texte
+
+### part 1
+
+Au programme de cette Fête de la musique 2009, un menu **aussi riche que varié**.
+
+**Amateurs à la guitare** ou grands chefs à la baguett[^4a1], groups de rock, de hip-hop ou de flamenco **se croiseront** dimanche pour la 28e édition de la Fête de la musique, dans les squares, les églises et même les salles de concerts, à Paris, Bordeaux, New York ou au Vanuatu.
+
+
+Cette année encore la SNCF et la RATP proposent différents **forfaits** et réductions à **l'occasion** de la Fête de la musique, dimanche 21 juin. Pour 2,50 euros, un forfait **donnera accès au métro**, au bus et au RER **autant de** fois **que** vous le souhaitez à partir de 17h le dimanche 21 juin, jusqu'à 7h le lundi 22 juin.
+
+
+:::{.callout-tip}
+#### un(e) xxx à la xxx
+= a person who plays xxx (instrument) or does xxx (activity/hobby)  
+- un amateur à la guitare  
+- un grand chef à la baguette  
+- un garçon àu T-shirt vert  
+- une fille aux baskets
+:::
+
+:::{.callout-tip}
+#### croiser
+croiser qn dans la rue = to run into someone in the street  
+se croiser = être au rendez-vous, to meet up
+:::
+
+:::{.callout-tip}
+#### forfait
+un forfait = cost of package deal  
+- Le forfait comprend l'avion, l'hôtel et la pension complète.
+:::
+
+:::{.callout-tip}
+#### donner accès à
+to give access to something  
+- Cette attestation de doctorant vous donne accès à la vieille Bibliothèque nationale.  
+
+avoir accès à quelque chose = to have access to something  
+- Le public n'a pas accès à ces dossiers.
+:::
+
+
+:::{.callout-tip}
+#### autant de ... que
+as much/many ... as  
+- Il a commis autant d'erreurs que son ami.
+- Il a commis autant d'erreurs que je (ne) le pensais.
+
+:::
+
+
+[^4a1]: baguette : stick, here refers to a conductor's baton
+
+
+
+### part 2
+
+#### 20 000 concerts pour la Fête de la musique
+
+_Depuis sa première édition, le 21 juin 1982, cette manifestation[^4b1] est devenue rendez-vous incontournable[^4b2] du début de l'éte._
+
+La volonté[^4b3] de la manifestation était de permettre aux cinq millions de **musiciens**[^4b4] **du dimanche** de pouvoir s'exprimer chaque 21 juin **en descendant dans la rue**[^4b5] avec leur instrument.
+Vingt-sept ans après, la Fête de la musique est restée **conforme à** cet esprit initial, même si l'événement a pris des proportions[^4b6] plus ambitieuses.
+
+<< Ce seront en tout[^4c1] 20 000 concerts qui seront donnés en France cette année. Parmi ceux-ci, **les quatre cinquièmes** sont le fait d'amateurs[^4c2] ou de semi-professionnels >>, explique Sylvie Canal, coordinatrice générale de la Fête de la musique depuis 2008.
+Pour cette édition, les organisateurs ont choisi de célébrer 50 ans de chanson française, en écho au cinquantenaire[^4c3] du ministère de la Culture. 
+
+**Rendre la musique plus accessible** au public était le premier objectif de la Fête. Depuis 1982, les rapprochements[^4c4] entre Culture et Education **ont contribué à** l'avancée[^4c5] de l'enseignement musical. << Les écoles de musique et les conservatoires sont surpeuplés[^4c6], voilà une conséquence de **l'impact de** la Fête >>, affirme Sylvie Canal. 
+
+Le plus grand témoignage de la réussite de cette invention française est probablement son développement à l'etranger. Ce seront cette année 120 pays et 350 villes dans le  monde qui fêteront la musique, de New York à l'Australie. Capitale internationale de la fête, la ville de Paris accueillera dimanche pas moins de 400 manifestations **auxquelles il faut ajouter** les **démarches spontanées** qui continuent de faire le sel[^4c7] de cet événement pas commun[^4c8].
+
+
+:::{.callout-tip}
+#### permettre à qn de faire qc
+to allow someone to do something  
+- Cette expérience a permis à cette Bordelaise de découvrir un autre pays.
+- Vos aides vont permettre à ces enfants de familles en grande difficulté de terminer leurs études primaires et secondaires.
+:::
+
+:::{.callout-tip}
+#### conforme à
+= in accordance with, in line with
+- C'est une traduction conforme au texte original.  
+
+conformément à = in accordance with, in line with  
+- Conformément à son engagement (commitment), il a tenu une conférence de presse.  
+
+se conformer à = to comply with, to conform to 
+- Il faut se conformer aux circonstances. 
+:::
+
+:::{.callout-tip}
+#### les quatre cinquièmes
+- 4/5 le quatre cinquièmes  
+- 5/7 les cinq septièmes  
+- 2/3 les deux **tiers** !!!  
+- 3/4 les trois **quarts** !!!  
+- 1/2 la moitié !!!
+:::
+
+:::{.callout-tip}
+#### en écho à
+in echo to, in response to
+:::
+
+:::{.callout-tip}
+#### rendre qc/qn + adj
+to make something/someone + adj  
+- Cette nouvelle nous arendu tristes.  
+- La mère a voulu rendre sa fille heureuse.
+:::
+
+:::{.callout-tip}
+#### contribuer à
+to contribute to  
+- Il a contribué beaucoup à cette recherche scientifique.  
+- Les volontaires pékinois ont beaucoup contribué à l'organisation des jeux Olympiques de 2008.  
+:::
+
+:::{.callout-tip}
+#### avoir l'impact sur qch
+- Son attitude a une grande impact sur ma décision.
+:::
+
+:::{.callout-tip}
+#### auxquelles il faut ajouter
+which must be added to, in addition to which
+
+ajouter qch à qch = to add something to something  
+- Il faut ajouter les démarches spontanées (spontaneous actions) à ces manifestations.  
+- Ce n'est pas la peine d'ajouter du sel à ce plat, il est suffisamment salé. (la peine de = the trouble / effort of)
+
+démarches = steps, actions, measures  
+- Il y a quelques démarches à suivre pour s'inscrire.
+:::
+
+
+[^4b1]: manifestation = demonstration, event
+[^4b2]: incontournable = unmissable, essential. contourner = to bypass, avoid
+[^4b3]: volonté = will, wish, desire
+[^4b4]: musiciens du dimanche = amateur musicians, weekend musicians
+[^4b5]: en descendant dans la rue = by going out into the street
+[^4b6]: proportions = size, scale, extent
+[^4c1]: en tout = au total
+[^4c2]: le fait de = the fact of
+[^4c3]: cinquantenaire = fiftieth anniversary
+[^4c4]: rapprochements = bringing together, closer links
+[^4c5]: avancée = advance, progress
+[^4c6]: surpeuplé = overcrowded, overpopulated
+[^4c7]: sel = salt, here means "add flavor/zest to"...
+[^4c8]: pas commun = uncommon; hors du commun, extraordinaire
+
+
+
+## Thème
+
+
+
+
+
+
