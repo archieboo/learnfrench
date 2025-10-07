@@ -88,17 +88,50 @@ _Note the à [tonic] are always after these verbs._
 Olivia Ruiz  
 _Chanteuse francaise, née à Carcassonne le 1er janvier 1980._
 
-Dès[^2a1] l'âge de 12 ans, Olivia Ruiz monte sur scène et dévelope des dons artistiques variés: elle prend des cours de danse, monte son propre groupe de rock, les Five, et chante en duo avec son père, Didier Blanc, lui-même musicien et chanteur. 
-
+Dès[^2a1] l'âge de 12 ans, Olivia Ruiz monte sur scène et dévelope des dons[^2a2] artistiques variés: elle prend des cours de danse, monte son propre groupe de rock, les Five, et chante en duo avec son père, Didier Blanc, lui-même musicien et chanteur. 
 
 :::{.callout-tip}
 #### monter
-monter sur scène - to go on stage
-
-monter un groupe - to form a group
+monter sur scène - to go on stage  
+monter un groupe - to form a group  
+monter une entreprise - to start a business  
+monter une tente - to set up a tent  
+monter une machine - to assemble a machine
 :::
 
-[^2a1]: from ...
+
+[^2a1]: dès = à partir de, depuis
+[^2a2]: le don = le talent
+
+
+
+Après avoir obtenu un BTS de communication, la jeune femme rejoint la saison 1 de la Star Academy, qui lui permet de se faire connaître. Ses deux albums, _J'aime pas l'amour_, sorti en 2003 et _la Femme chocolat_, en 2005, sont surprenants d'originalité. Lors des Victoires de la musique 2007, elle remporte la Victoire de l'Artiste interprète féminine de l'année et la Victoire du Spectacle musicale de l'année. 
+
+:::{.callout-tip}
+#### après avoir + [participe passé] / après être + [participe passé]
+avoir participe passé - a passé composé at the start of a sentence is a common construct in French, similar to English. Note, when the auxiliary verb is être and the verb is NOT reflexive, the auxiliary verb can be omitted.
+
+- Après avoir obtenu un diplôme, il a trouvé un emploi.  
+- Après être rentré / Rentré chez lui, il s'est effondré dans le canapé (effondré = collapsed, canapé = sofa).  
+- Après s'être parlé, ils se sont dit au revoir. 
+:::
+
+:::{.callout-tip}
+#### se faire + [infinitif]
+Note the difference between:  
+- faire [infinitif] à qu (to do something to someone)  
+- se faire [infinitif] à qn (to make something happen or done to oneself)  
+
+Il s'est fait couper les cheveux. (He had his hair cut.)
+
+
+:::
+
+
+
+
+
+
 
 ### part 2 - 
 
