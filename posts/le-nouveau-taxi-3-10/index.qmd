@@ -1,44 +1,106 @@
 ---
 title: "Le Nouveau Taxi 3 - Leçon 10"
-date: "2025-10-4"
+date: "2025-10-8"
 categories: ["Le Nouveau Taxi", "B1", "les pronoms complément" ]
 reference-location: margin
 citation-location: margin
 ---
 
 
-## Grammaire - Les pronoms compléments
+## Grammaire - Les pronoms compléments: des verbes qui n'utilisent pas de COI
 
+### à + qch - y
 
-### Des verbes qui n'utilisent pas de COI
+J'ai pensé à une idée.  
+→ J'y ai pensé.
 
+Il a réfléchi à cette proposition.  
+→ Il y a a réfléchi.
 
+### à + qn - les pronoms COI (me, te, lui, nous, vous, leur)
 
+Je lui ai donné un livre.  
+Il m'a offert un cadeau.  
+Nous leur avons raconté cette histoire.  
 
+### à + qn - les pronoms toniques (moi, toi, lui, elle, nous, vous, eux, elles)
 
+Remember these verbs use pronoms toniques, not COI pronouns:  
+- penser à  
+- songer à  (to think about)
+- avoir affaire à (to deal with)  
+- faire attention à (to pay attention to)  
+- être à qn (to belong to someone)
 
+Je pense à elle.  
+J'ai eu affaire à lui.  
+Cette voiture est à moi. 
 
+_Note the à [tonic] are always after these verbs._
 
+### à + qn - verbes reflexifs, always use tonic
 
+e.g.  
+se fier à (to trust)  
+s'habituer à (to get used to)  
+s'intéresser à (to be interested in)  
+se référer à (to refer to)  
+s'opposer à (to oppose)  
+s'adresser à (to address)  
+... etc.  
 
+Je m'intéresse beaucoup à lui.  
+Adressez-vous à elle, s'il vous plaît.
 
+_Note the à [tonic] are always after these verbs._
 
 ## Entraînez-vous
 
+- Dites-moi, << Luca >>, c'est votre véritable nom?  
+- Mais oui, ce nom je (1)_______ ai hérité de mes parents et j'(2)_______ tiens beaucoup. Pour rien au monde je ne (3)______ changerai!  
+- Seriez-vous d'accord pour dire que votre succès, vous (4)______ devez en partie[^2a1] à votre imprésario Johnny Res qui a disparu tragiquement l'été dernier?  
+- Oui, bien sûr, je (5)______ dois tout et je pense tous les jours à (6)______ . Ne plus (7)______ voir, ça, je ne m'(8)______ habitue pas!  
+- Certains professionnels du spectacle n'ont pas été tendre avec vous, vous (9)______ en voulez?  
+- Non, je ne m'intéresse pas à (10)______ et je (11)______ laisse le choix général, qu'elles soient bonnes ou mauvaises, je n'(12)______ fais pas attention.  
+
+>
+1. l'  
+2. y (tenir à qch: to care about something)  
+3. le (devoir qch à qn/qch: to owe something to someone/something)  
+4. le  
+5. lui  
+6. lui  
+7. le  
+8. y (s'habituer à qch: to get used to something)
+9. leur (en vouloir à qn: to be angry with someone)  
+10. eux  
+11. leur (laisser qch à qn)
+12. y (here it refers to the fact, not the people)
 
 
-
-
-
-
-
-
-
-
+[^2a1]: in part, partly
 
 
 ## Texte
 
+### part 1 - Olivia Ruiz
+
+Olivia Ruiz  
+_Chanteuse francaise, née à Carcassonne le 1er janvier 1980._
+
+Dès[^2a1] l'âge de 12 ans, Olivia Ruiz monte sur scène et dévelope des dons artistiques variés: elle prend des cours de danse, monte son propre groupe de rock, les Five, et chante en duo avec son père, Didier Blanc, lui-même musicien et chanteur. 
+
+
+:::{.callout-tip}
+#### monter
+monter sur scène - to go on stage
+
+monter un groupe - to form a group
+:::
+
+[^2a1]: from ...
+
+### part 2 - 
 
 
 
