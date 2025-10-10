@@ -1,6 +1,6 @@
 ---
 title: "Le Nouveau Taxi 3 - Leçon 11"
-date: "2025-10-8"
+date: "2025-10-10"
 categories: ["Le Nouveau Taxi", "B1", "les modalisateurs des adjectifs" ]
 reference-location: margin
 citation-location: margin
@@ -36,9 +36,9 @@ _sans doute, peut-être, certainement, plutôt, assez, super, trop, franchement[
 Vous le saviez, vous, que la chanson française et **au programme du** bac 2009? Pas comme matière[^2a1] obligatoire **quand même**, ce serait trop beau, mais en << musique, option facultative[^2a2] toutes séries >>, comme c'est écrit dans le bulletin officiel n° 19 du 8 mai 2008, sur le site du ministère de l'Éducation nationale.
 Des polyphonies de la Renaissance, et même...Jimi Hendrix, avaient eu droit à cet honneur il y a quelque années, mais pour la chanson d'ici et de maintenant, c'est la première fois. Et le choix de artistes retenus est, ma foi[^2a3], épatant; même si, pour la génération qui **planche dessus** depuis quelques mois, certains noms doivent être aussi inconnus que Christophe Maé chez les Indiens d'Amazonie.
 
-À tout seigeur[^2a4] tout honneur, c'est Léeo Ferré qui figure au sommet de la pile avec trois titres: Avec le temps, Requiem et Green, un poème de Verlaine. 
+À tout seigeur[^2a4] tout honneur, c'est Léo Ferré qui figure au sommet[^2a5] de la pile[^2a6] avec trois titres: Avec le temps, Requiem et Green, un poème de Verlaine. 
 
-Bon, c'est vrai que les élèves ne se précipitent pas sur l'option, mais leur nombre est suffisamment significatif pour qu'une prof de musique, qui les fait plancher depuis la rentrée, puisse affirmer qu'il y a << une véritable demande >>.
+Bon, c'est vrai que les élèves ne **se précipitent** pas sur l'option, mais leur nombre est **suffisamment significatif pour qu**'une prof de musique, qui les fait plancher depuis la rentrée, puisse affirmer[^2a7] qu'il y a << une véritable[^2a8] demande >>.
 
 
 :::{.callout-tip}
@@ -117,6 +117,10 @@ too ... so that...
 [^2a2]: optional, elective
 [^2a3]: really, honestly, indeed; ma foi = my faith
 [^2a4]: seigneur = lord; à tout seigneur tout honneur = give honour to whom honour is due
+[^2a5]: sommet = summit, top
+[^2a6]: pile = stack, pile, here it refers to a pile of songs
+[^2a7]: affirmer = to state, to assert
+[^2a8]: véritable = real, true, genuine
 
 
 ## Thème
