@@ -122,7 +122,7 @@ Note the difference between:
 - faire [infinitif] à qu (to do something to someone)  
 - se faire [infinitif] à qn (to make something happen or done to oneself)  
 
-Il s'est fait couper les cheveux. (He had his hair cut.)
+Il s'est fait couper les cheveux. (He had his hair cut.)  
 Il parle à haute voix opur se faire entendre. (He speaks loudly in order to be heard.)  
 Il se fait photographier. (He is having his picture taken.)  
 Je me suis fait voler dans le métro. (I got robbed in the metro.)
@@ -160,7 +160,7 @@ Elle sort un troisième album, Miss Météores, en avril 2009, qu'elle coréalis
 
 :::{.callout-tip}
 #### réussir à faire qch
-to succeed in doing something
+to succeed in doing something  
 Au bout de deux mois de recherche, on n'a toujours pas réussi à localiser l'avion disparu.
 :::
 
