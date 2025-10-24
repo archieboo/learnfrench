@@ -1,0 +1,146 @@
+---
+title: "Le Nouveau Taxi 3 - Leçon 14"
+date: "2025-10-24"
+categories: ["Le Nouveau Taxi", "B1" ]
+reference-location: margin
+citation-location: margin
+---
+
+## Texte
+
+### Livre d'or
+
+Extraordinaire! Et **quelle belle idée** d'avoir choisi le thème de la couleur, cette année! Nous avons **tout** particulièrement adoré le Jardin des couleurs captives, un lieu plein de poésie. C'est sûr, nous reviendrons l'année prochaine. _Maurice et Olga D., 12/08/09_
+
+Visit intéressante. Nous avons passé un bon moment. **Dommage qu**'il n'y _ait_ pas de tarif réduit pour les personnes âgées! _A. Manigand, 13/08/09_
+
+Ah! Quel bonheur de quitter la ville, les embouteillages[^1a1], la grisaille[^1a2] pour se retrouver dans cet endroit **agréable à visiter**! Tous les paysagistes[^1a3] qui ont participé à ce Festival on vraiment une bonne dose d'imagination. Merci à tous. _Louisa Tomasso (Paris), 13/08/09_
+
+
+:::{.callout-tip}
+### quel / quelle + nom !
+what a + noun!
+:::
+
+:::{.callout-tip}
+### tout as adverb
+very, really
+- Il est tout content.
+:::
+
+:::{.callout-tip}
+### dommage que + subjonctif
+it's a pity that + subjunctive
+
+Can also use: on regrette que + subjonctive  
+- On regrette qu'il n'y ait pas de tarif réduit.
+:::
+
+
+:::{.callout-tip}
+### un/une nom + adjectif + à + infinitif
+- un project difficile à réaliser. (a project difficult to carry out)
+- un problème facile à comprendre. (a problem easy to understand)
+:::
+
+
+
+[^1a1]: le embouteillage: traffic jam  
+[^1a2]: la grisaille: greyness, dullness  
+[^1a3]: paysagiste (m/f): landscaper; la grisaille du paysage: dullness of the landscape
+
+
+### Thème du Festival 2009: << Jardins de couleur >>
+
+Informations partiques
+
+Le Festival international des jardins est ouvert tous les jours du 29 avril au 18 octobre 2009, de 10h00 à 22h00. La visit guidée d'une sélection de jardins **dure** environ 1h15. La visite libre nécessite 2 heures.  
+
+À partir d'avril, le château est ouvert de 10h à 18h (horaires variables selon les saisons). Visite libres, visites guidées.   
+Tarif adultes: 9,50 euros/ Tarifs enfants: 7,00 euros (12-18 ans) et 4,00 euros (6-11 ans)  
+
+Chaumont-sur-Loire est situé entre Blois et Tours, à 185 km de Paris. Autoroute A10 et A85, sortie Blois ou Amboise. Nombreux trains directs chaque jour sur la ligne Paris Austerlitz - Orléans - Tours, arrêt à Onzain, Horaires et tarifs sur www.corailintercities.com
+
+
+:::{.callout-tip}
+### durer + temps
+to last (for time)
+- Je suis sûr que cette tradition durera.  
+- Sa joie n'a pas duré longtemps.  
+- Combien de temps cette fête a-t-elle duré?
+:::
+
+
+### Restauration
+
+Situé à l'entrée Sud du Domaine de Chaumont, le restaurant gastronomique << Le Grand Velum >> vous propose une cuisine inventive et raffinée[^1c1] conçue[^1c2] autour du thème du Festival des jardins: la couleur.  
+- Formules de 28,00 euros à 36,00 euros  
+- Ouverture de 12h00 à 14h30
+
+Situé **à proximité du** << Grand Velum >>, le << Comptoir méditerranéen >> accuille avec convivialité[^1c3], qualité et simplicité autour d'une cuisine réalisée devant vous: pâtes fraîches et sauces << maison >> à volonté[^1c4], jus de légumes bio, fuits frais, glaces artisanales et pain à l'huile d'olive.  
+- Formules à 16,50 euros pour les adultes et 11,00 euros pour les enfants de moins de 12 ans  
+- Ouverture de 12h00 à 15h00
+
+Le centre de formation[^1c5] propose des formations ouvertes à tous: elles s'organisent autour de quatre grands axes: le **fleurissement** des espaces publics, la conception de projects innovants, le développement durable[^1c6] dans les espaces verts et le management d'un service Espaces Verts.
+
+:::{.callout-tip}
+### à proximité de
+= à côté de, près de, dans les alentours de
+:::
+
+:::{.callout-tip}
+### fleur
+fleurir: to flower, to bloom; to flourish  
+fleur: flower  
+fleurissement: flowering; flower arrangement; landscaping  
+:::
+
+
+[^1c1]: refined (from raffiner)
+[^1c2]: conçu(e) (concevoir): conceived
+[^1c3]: friendliness, warmth
+[^1c4]: à volonté: as much as you want, unlimited
+[^1c5]: the training center
+[^1c6]: sustainable development
+
+
+## Thème
+
+
+1. This project needs at least 5 hours. 
+
+    `il faut que`, `nécessiter`, `mettre qch pour`
+
+> 
+Il faut au moins cinq heures pour ce travail.  
+Ce travail nécessite au moins cinq heures.
+
+
+2. It's a pity that the festival of gardens does not last longer.
+
+    `dommage que + subjonctif`  
+    `durer + temps`
+
+>
+Dommage que le festival des jardins ne dure pas plus longtemps.
+
+
+3. The restaurant recommend multiple local questions to visitors. 
+
+    `recommander qch à qn`, `proposer qch à qn`  
+    `le plat local`, `la spécialité locale`
+
+> 
+Ce petit restaurant propose aux touristes plusieurs spécialités de la région.
+
+4. This female singer's voice sounds very pleasant. 
+
+    `avoir l'air + adjectif`, `agréable à + infinitif`
+
+> 
+La voix de cette chanteuse a l'air très agréable à écouter.  
+Cette chanteuse a une voix très agréable à entendre.
+
+
+
+
