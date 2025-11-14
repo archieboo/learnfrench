@@ -123,7 +123,7 @@ also = de sorte que, de façon que, but these can be followed by indicative
 
 :::{.callout-tip}
 #### c'est ... que ...
-It is ... that ... (emphatic structure) 强调句型. Note the first part should be a phrase without a verb, similar to English.
+It is ... that ... (emphatic structure) 强调句型. Note the first part should be a phrase without a verb, similar to English.  
 - C'est en lisant beaucoup de romans de francais qu'il a fait un grand progrès en langue française.
 :::
 
@@ -140,7 +140,7 @@ suivre qch: to follow something (a class, a show, etc.)
 :::{.callout-tip}
 #### être reconnaissant à qn de faire qch
 to be grateful to someone for doing something  
-- Je lui est reconnaissant de m'avoir beaucoup aidé.
+- Je lui suis reconnaissant de m'avoir beaucoup aidé.
 
 remercier qn de faire qch  
 - Je le remercie de m'avoir beaucoup aidé.
