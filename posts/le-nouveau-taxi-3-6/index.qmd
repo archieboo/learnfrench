@@ -18,14 +18,14 @@ Durant la réunion, on a discuté chaudement.
 **pendant**  
 very similar to "durant", but more commonly used in everyday speech.
 
-Il a vécu en France pendant deux ans.
+Il a vécu en France pendant deux ans.  
 Il a fait un stage pendant les vacances d'été.
 
 
 ### depuis
 Depuis is often used to indicate the starting point of an action or event that continues into the present, thus it is usually in présent or passé composé.
 
-Pascal habite dans cet immeuble depuis deux ans.
+Pascal habite dans cet immeuble depuis deux ans.  
 Je ne l'ai pas vu depuis six mois.
 
 **depuis** can be replaced by:  
@@ -52,7 +52,7 @@ Le travail sera fini en deux minutes.
 ### Pour + durée
 Used to indicate the intended duration of an action, similar to "for" in English, often used with future actions.
 
-Le directeur l'a envoyé en Espagne pour deux ans.
+Le directeur l'a envoyé en Espagne pour deux ans.  
 J'y suis parti pour deux semaines.
 
 
@@ -181,21 +181,21 @@ prévoir de faire qch = envisager de faire qch = planifier de: plan to do sth
    >  À partir de l'année 2002, les Européens ont dû s'habituer à compter en euros.
 
 
-2. You can join our association on the condition that you fill out the form.
+2. You can join our association on the condition that you fill out the form.  
    `participer à`, `à condition que`  
 
    > Tu peux faire partie de notre association, mais à condition de remplir cette fiche.  
    > Vous pouvez faire partie de notre association, mais à condition de remplir ce formulaire.  
 
 
-3. In order to obtain the french nationality, you must have lived in France for at least 5 years.
+3. In order to obtain the french nationality, you must have lived in France for at least 5 years.  
    `il faut`
 
    >  Il faut avoir résidé en France pendant au moins 5 ans pour acquérir la nationalité française.  
    >  L'acquisition de la nationalité française demande/exige au moins 5 ans de résidence en France.
 
 
-1. I moved to Paris 10 years ago and worked there for 7 years. Afterwards, I lived in a small city in the south for 3 years. Comparing to Paris, things cost much less here. 
+1. I moved to Paris 10 years ago and worked there for 7 years. Afterwards, I lived in a small city in the south for 3 years. Comparing to Paris, things cost much less here.  
    `il y a`, `par rapport à`, `en comparaison de`  
 
    > J'étais arrivé à Paris il y a dix ans et j'y ai travaillé pendant 7 ans. Depuis trois ans, j'habit dans une petite ville dans le sud de la France, où la vie est beaucoup moins chère par rapport à Paris.

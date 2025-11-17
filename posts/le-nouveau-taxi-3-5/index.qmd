@@ -146,7 +146,7 @@ En résidant à l'étranger, on se rend compte que même si on a des langues et 
 :::{.callout-tip}
 #### au cours de
 during, in the course of  
-- Au cours de la réunion, le président a pris un discours.
+- Au cours de la réunion, le président a pris un discours.  
 - Au cours de ces années, il a beaucoup vielli.
 
 :::
