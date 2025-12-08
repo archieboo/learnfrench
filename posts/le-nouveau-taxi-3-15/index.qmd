@@ -1,6 +1,6 @@
 ---
 title: "Le Nouveau Taxi 3 - Leçon 15"
-date: "2025-10-24"
+date: "2025-12-08"
 categories: ["Le Nouveau Taxi", "B1" ]
 reference-location: margin
 citation-location: margin
@@ -11,7 +11,107 @@ citation-location: margin
 
 
 
+David a enfin **osé** m'aborder. Depuis le temps que j'attendais ce moment... A la fin du cours, il m'a attendue et m'a proposé d'aller sur les quai de Seine. J'ai **trouvé ça hyper** romantique **comme** idée! Et je dois dire que ça m'a fait plasir.
+Nous nous sommes donc retrouvés devant l'entrée du métro Saint-Paul sur l'île de la Cité, **aux environs de** 11 heures, ce matin. Puis, nous sommes allés sur les quais. Avec Paris plages, il y avait malheureusement pas mal de monde.
+Mes mains étaient posées sur le sable; quand David les a prises dans les siennes[^a1] et m'a avoué[^a2] qu'il me trouvait craquante[^a3], j'ai eu l'impression de redevenir une adolescente de quinze ans. Finalement, nous ne nous sommes pas quittés **de la journée**. Et nous avons décidé de partir ensemble à Honfleur ce week-end. 
+
+:::{.callout-warning}
+### agreement of past participle
+
+**avoir**: agree with pronom COD preceding verb  
+- J'ai pris les mains. → Je les ai prises.
+
+**être**: agree with subject  
+- Elle est partie. → Elles sont parties.
+
+COI does not require agreement  
+- Je lui ai parlé. (not parlée, even if "lui" refers to a woman)
+:::
+
+
+:::{.callout-tip}
+### oser faire qc
+to dare to do something  
+- Je n'ose pas lui parler.  
+:::
+
+
+:::{.callout-tip}
+### trouver qc + adjectif (note agreement of adjective)
+to find something + adjective  
+- Je trouve la fille charmante.  
+- Comment tu me trouves?
+:::
+
+
+:::{.callout-tip}
+### comme + nom
+as + noun  
+- Je travaille comme enseignant.  
+- Il me considère comme son amie.
+:::
+
+
+:::{.callout-tip}
+### aux environs de + heure ou lieu
+around + time or place, similar to "vers"
+
+à 11 heures = at 11 o'clock
+:::
+
+
+:::{.callout-tip}
+### de la + durée (journée, nuit, matinée, soirée)
+for + duration  
+- Elle est restée les yeux ouverts de la nuit. (She stayed up all night.)
+:::
+
+
+[^a1]: les siennes: hers (referring to hands)
+[^a2]: avouer: to confess, to admit
+[^a3]: craquant, charmant, ravissant, mignon, séduisant, aimable, adorable
+
+
 ## Thème
 
+
+1. His happiness is important to me.
+
+    `compter pour`, `important(e) pour qn`
+
+> 
+Son bonheur compte beaucoup pour moi.  
+Son bonheur est très important pour moi.
+
+2. I don't dare to speak to him because I think he is unfriendly.
+
+    `oser + infinitif`,   
+    `amical`, `gentil`, `aimable`, `difficile`
+
+>
+Je n'ose pas lui parler parce que je le trouve difficile.  
+Je n'ose pas lui parler, car je ne le trouve pas amical.  
+
+3. This french friend even offered to take me to ski in the alps, which makes me very happy.
+
+    `offrir de + infinitif`, `proposer à qn de + infinitif`  
+    `faire plaisir à qn`, `rendre qn + adjectif`  
+    `faire du ski`,  
+
+>
+Cet ami français m'a même proposé d'aller faire du ski dans les Alpes, ce qui me fait un grand plaisir.
+
+4. 40 years after graduation of middle school[^b1], my classmates decided to host an exhibition of their old photos to revisit their youth.
+
+
+    `décider de faire qc`  
+    `organiser qc`, `tenir qc`, `mettre en place qc`  
+    
+
+>
+40 ans après la fin du collège, les anciens camarades décident d'organiser une exposition de vieilles photos pour revivre les années de l'adolescence.
+
+
+[^b1]: école = 小学; collège = 初中; lycée = 高中; université = 大学; grande école = 精英大学
 
 
