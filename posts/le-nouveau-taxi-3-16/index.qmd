@@ -1,0 +1,136 @@
+---
+title: "Le Nouveau Taxi 3 - Leçon 16"
+date: "2025-12-18"
+categories: ["Le Nouveau Taxi", "B1" ]
+reference-location: margin
+citation-location: margin
+---
+
+## Texte
+
+
+Libération 29 april 2009 
+Transport, logement, tours...  
+La chef de l'Etat a dessiné ce mercredi sa vision du Grand Paris, dont le 
+chantier devra **démarrer** « avant 2012 ».
+
+
+#### Des idées pour Paris
+
+Vous avez des idées?  
+
+L'association Bien vivre dans le 2e arrondissement **lance** le concours « Des idée pour Paris ».
+Il **s'addresse** à toute personne ayant des idées réalisables et innovantes pour améliorer la qualité 
+de vie des Parisiens. Réalisables, innovantes ou simplement géniales, ce sont peut-être vos idées 
+qui feront le Grand Paris de demain!
+
+Ce concours **s'attaque à** un probleme majeur de Paris: la circulation. Les idées proposées doivent 
+permettre de trouver des moyens **d'inciter** les spectateurs de Paris et de banlieue à se rendre[^a1]
+au cinéma à Paris sans utiliser leur voiture individuelle.
+
+Toutes les idées sont recevables[^a2], mais elles seront jugées en fonction des critères suivants:  
+- originalité de l'idée,  
+- qualité de l'amélioration apportée[^a3],  
+- faisabilité de la solution.  
+Les popositions doivent contenir au minimum une présentation de l'idée, ses avantages et les conditions 
+de sa mise en  place[^a4].  
+
+La participation au concours se fait[^a5] **par l'intermédiaire du** forum de cet article en
+cliquant sur « Répondre à cet article » avant le 31 décembre 2009. Le jury 
+se réunira le 15 janvier 2010 pour choisir les trois meilleures propositions.
+
+
+:::{.callout-warning}
+### démarrer
+**démarrer** (verbe transitif) : to start, to launch (a vehicle, a machine)  
+- démarrer une voiture  
+- démarrer son travail  
+
+:::
+
+
+:::{.callout-warning}
+### lancer
+**lancer** (verbe transitif) : to launch, to throw  
+- lancer une balle  
+- lancer un projet  
+- lancer une campagne  
+:::
+
+:::{.callout-warning}
+### s'adresser à qqn
+**s'adresser** (verbe pronominal) : to address oneself to, to speak to  
+- Le prèsident s'addresse è tous les auditeurs.  
+- Vous pouves vous addresser à l'accueil.  
+:::
+
+:::{.callout-warning}
+### s'attaquer à qqch
+**s'attaquer** (verbe pronominal) : to tackle, to address (a problem)  
+- Il faut s'attaquer à ce probleme rapidement.  
+- Le gouvernement s'attaque à la crise économique.  
+
+porter sur (verbe transitif) : to deal with, to focus on
+:::
+
+:::{.callout-warning}
+### inciter qqn à faire qqch
+**inciter** (verbe transitif) : to encourage, to incite. Similar to "encourager / pouser qqn à faire qqch"    
+- Son discours m'a incité à réagir pour protéger l'environnement.  
+:::
+
+:::{.callout-warning}
+### par l'intermédiaire de
+**par l'intermédiaire de** (expression) : through, via  
+- J'ai réservé mon billet d'avion par l'intermédiaire d'une agence de voyages.
+- J'ai envoyé le colis par l'intermédiaire de la poste.  
+:::
+
+
+[^a1]: se rendre = aller
+[^a2]: acceptable
+[^a3]: apporter = bring
+[^a4]: mise en place = implementation
+[^a5]: se faire = to be done
+
+## Thème
+
+
+1. The government has put in major effort into improving the quality of life of its people.
+
+    `pour`, `afin de`,  
+    `améliorer`,  
+    `faire des efforts`,
+
+> 
+Pour améliorer la qualité de vie des habitants, le gouvernement a fait beaucoup d'efforts 
+
+
+2. This plan can encourage more young people to take public transportation.
+
+    `inciter qqn à faire qqch`, 
+
+>
+Ce projet incitera plus de jeunes à utiliser les moyens de transport en commun.
+
+
+3. This hotel offers rooms of different styles that you can choose based on your perference.
+
+    `proposer`,  
+    `en fonction de`, `selon`,  
+    `préférence`, `goût`   
+
+>
+Cet hôtel propose des chambres de styles différents. Vous pouvez chosir votre chembre en fonction de votre préférence.
+
+
+4. Citizens can submit their ideas to the government through our association.
+
+    `passer qch à qqn`, `proposer ach à qqn`, `remettre`,  
+    `par l'intermédiaire de`,  
+
+>
+Les habitants peuvent donner/proposer leurs idées à la municipalité par l'intermédiaire de notre association. 
+
+
+
