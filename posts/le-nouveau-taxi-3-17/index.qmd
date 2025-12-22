@@ -1,6 +1,6 @@
 ---
 title: "Le Nouveau Taxi 3 - Leçon 17"
-date: "2025-12-19"
+date: "2025-12-20"
 categories: ["Le Nouveau Taxi", "B1" ]
 reference-location: margin
 citation-location: margin
@@ -8,14 +8,159 @@ citation-location: margin
 
 ## Grammaire - Les adjectiffs indéfinis
 
-### n'importe quel(le)(s) 
+### n'importe quel(le)(s) + nom
 
-No matter which, any
+No matter which, any. `quel` needs to match plurality and gender fo the noun.
+
+- Avoir l'air plus jeune, d'accord, mais pas à n'importe quel prix. (Okay, looking younger, but not at any price.)
+- Tu peux venir chez moi n'importe quelle heure.
+
+### aucun(e)(s) + nom
+
+- Je n'ai vu aucun film de Luc Besson, vraiment pas un seul!
+- Aucun individu ne peut changer son âge véritable.
+
+
+### nul(le)(s) + nom
+
+nul is similar to aucun but is more formal and literary.
+
+- Il n'éprouve[^a1] nulle crainte[^a2] devant la mort. 
+- Je n'ai eu nul doute vis à vis[^a3] son discours.
+
+
+### divers(es) + nom
+
+Here divers means various, several, thus its describes soemthing in general, 
+not a specific one, thus articles can be omitted. 
+
+- Ce cinéma passe divers films. (This cinema shows various films.)
+- Le gouvernement a mis en place diverses mesures. 
+
+### diffèrent(e)(s) + nom
+
+Similar to divers, articles can be omitted. 
+
+- Différents scientifiques se sont penchés[^a4] sur ces problèmes. (Various scientists have studied these problems.)
+
+### même(s) + nom
+
+- Ce sont toujours les mêmes questions qui se posent. (It's always the same questions that arise.)
+- C'est la même idée.
+
+### autre(s) + nom
+
+- Tu es fatigué, on peut se voir un autre jour si tu préfères. 
+
+[^a1]: éprouver: to feel, to experience
+[^a2]: crainte: fear
+[^a3]: vis à vis: regarding, with regard to
+[^a4]: se pencher sur: to bend over (literally), to study, to look into
+
+
+
+## Texte
+
+### À 50 ans, tout est possible!
+
+À 53 ans, Gabriella a **tout** vendu - son appartement parisien, sa maison en Normandie - pour
+recommencer sa vie près d'Aix-en-Provence. Avec son nouveau chéri, elle **projette** d'ouvrir des chambres d'hôtes[^b1].
+« J'ai dû lâcher[^b2] mon agence de communication, dit-elle. J'ai aussi divorcé. Et puis je suis **tombée follement amoureuse d**'un ami que je n'avais pas revu depuis vingt-tois ans. » 
+
+Sa vie de famille recomposée - ses deux filles et le fils de son compagnon (58 ans) - commence en août après un déménagement qu'elle attend « comme un nouveau départ ». Tout est possible à 50 ans, vraiment?
+
+« C'est la première génération qui a vraiment compris les conséquences de l'allongement[^b4] de l'éspérance de vie[^b3], ce que cela signifie d'avoir encore trente ou quarante ans de vie devant soi », résume le sociologue Serge Guérin. Santé, travail, amour...
+
+D'abord, ces seniors on l'avantage du nombre. « **D'ici à moins de vingt ans**, **un Français sur deux** aura 50 ans et plus », calcule Serge Guérin. Ensuite, ces néo-seniors ont profité des immenses progrès de la médecine. Enfin et surtout, les quinquas[^b5] pèsent[^b6] lourd dans l'économie. Selon l'Insee, ils jouissent[^b7], en moyenne, des revenues et des patrimoines les plus conséquents[^b8]: 74% **d'entre eux** sont propriétaires de leur logement. 
+
+En avril, le magazine Elle **consacrait sa couverture[^b9] à** une Michelle Pfeiffer **éblouissante** sous ce titre: « Plus belle à 50 ans qu'à 20 ans ». À l'intérieur du magazine, une série de clichés choisis[^c1] de Madonna, Ségolène Royal et Inès de la Fressange, toute plus séduisantes aujourd'hui qu'hier... La pub, elle-même, **s'empare de** ces nouvelles Èves: Madonna est aujourd'hui l'égérie[^c2] de Louis Vuitton, Kim Basinger représente Lancaster et Nathalie Baye, Garnier.
+
+ 
 
 
 
 
 
+:::{.callout-note}
+### tout
+`tout` and `rien` are special in french. They are placed between the auxiliary verb and the past participle in compound tenses.
 
+- J'ai tout lu.  
+- Je veux tout faire pour lui.  
+- Il n'a rien vu.  
+- Il ne veut rien dire.  
+:::
+
+:::{.callout-note}
+### projeter de faire qch
+plan to do something  
+- Ils ont projeté un voyage en France. . 
+- Ils ont projeté de passer leurs vacances aux Etats-Unis. . 
+
+envisager de faire qch
+:::
+
+:::{.callout-note}
+### tomber amoureux/amoureuse de qn
+to fall in love with someone. Note amoureux/amoureuse agrees with the subject.
+:::
+
+:::{.callout-note}
+### d'ici
+from now,  or by (a certain time)  
+- d'ici 2020: by 2020
+- d'ici demain: by tomorrow
+:::
+
+:::{.callout-note}
+### x qch sur y
+x of y, x in y, x per y  
+- Un spectateur sur quatre a moins de 25 ans.  (one in four spectators is under 25)   
+- Sept consommateurs sur dix préfèrent 
+être informés de l'origine des produits qu'ils achètent. (7 out of 10 consumers...)
+:::
+
+:::{.callout-note}
+### d'entre eux/elles
+of them  
+- Parmi les étudiants, 60% d'entre eux travaillent à temps partiel.
+:::
+
+:::{.callout-note}
+### consacrer qch à qch
+to devote something to something  
+- Il a consacré tout son temps à son travail.  
+- Il a consacré toute sa vie à sa passion.
+:::
+
+:::{.callout-note}
+### éblouir
+to dazzle, to amaze  
+- La lumière m'a ébloui.  
+- une femme éblouissante / ravissante / splendide / rayonnante
+:::
+
+:::{.callout-note}
+### emparer
+emparer: to seize, to take over  
+- emparer une ville (take over a city)
+
+s'emparer: to be seized by, or taken over by  
+- La ville s'empare des caméras de surveillance.  
+- La pub s'empare des ces images. (The ad is taken over by these images.)
+:::
+
+
+[^b1]: chambres d'hôtes: bed and breakfast
+[^b2]: lâcher: to let go of, to give up
+[^b4]: allonger: to lengthen/extend, allonger une liste
+[^b3]: life expectancy
+[^b5]: quinqua: person in their fifties (informal), quinquagénaire (formal)
+[^b6]: peser: to weigh
+[^b7]: jouir de: to enjoy (something)
+[^b8]: substantial, significant
+[^b9]: cover
+[^c1]: past participle `choisi` as adj, agreetign with `clichés` (masculine plural)
+[^c2]: égérie: muse, spokesperson (for a brand)
 
 
