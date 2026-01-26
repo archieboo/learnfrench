@@ -205,7 +205,7 @@ Comment savoir à qui faire confiance? Pour tenter de répondre à cette questio
 
 ::::{.columns}
 
-::: {.column width="65%"}
+::: {.column width="63%"}
 
 **Le coup de pouce du CLEMI**
 
@@ -238,7 +238,7 @@ L'AFFAIRE RABEAU
 
 - Quelle piste suivre? Heureusement, les enquêteurs découvrent rapidement un indice sur le lieu du crime : une petite boucle d'oreille. D'homme ou de femme? Les analyses de l'ADN permettront d'en savoir plus.
 
-- Quel est le mobile du meurtre? L'argent? Mme Rabeau n'était apparment pas riche. La jalousie? Mme Rabeau vivait seule et sans amant connu. Y a-t-il des témoins? Non, personne n'a rien vu. Les voisins n'ont rien remarqué de louche = bizarre = suspect = étrange. 
+- Quel est le mobile du meurtre? L'argent? Mme Rabeau n'était apparemment pas riche. La jalousie? Mme Rabeau vivait seule et sans amant connu. Y a-t-il des témoins? Non, personne n'a rien vu. Les voisins n'ont rien remarqué de louche = bizarre = suspect = étrange. 
 
 - Y a-t-il eu bagarre? Apparemment, Mme Rabeau ne s'est pas défendue, mais le meurtrier a frappé sa victime avant de tirer sur elle. 
 
