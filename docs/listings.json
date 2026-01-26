@@ -1,24 +1,8 @@
 [
   {
-    "listing": "/index.html",
+    "listing": "/af-nice-b1.html",
     "items": [
-      "/posts/le-nouveau-taxi-3-17/index.html",
-      "/posts/le-nouveau-taxi-3-16/index.html",
-      "/posts/le-nouveau-taxi-3-15/index.html",
-      "/posts/le-nouveau-taxi-3-14/index.html",
-      "/posts/le-nouveau-taxi-3-13/index.html",
-      "/posts/le-nouveau-taxi-3-12/index.html",
-      "/posts/le-nouveau-taxi-3-11/index.html",
-      "/posts/le-nouveau-taxi-3-10/index.html",
-      "/posts/le-nouveau-taxi-3-9/index.html",
-      "/posts/le-nouveau-taxi-3-8/index.html",
-      "/posts/le-nouveau-taxi-3-7/index.html",
-      "/posts/le-nouveau-taxi-3-6/index.html",
-      "/posts/le-nouveau-taxi-3-5/index.html",
-      "/posts/le-nouveau-taxi-3-4/index.html",
-      "/posts/le-nouveau-taxi-3-3/index.html",
-      "/posts/le-nouveau-taxi-3-2/index.html",
-      "/posts/le-nouveau-taxi-3-1/index.html"
+      "/af-nice-b1/lesson-01/index.html"
     ]
   },
   {
@@ -30,6 +14,28 @@
       "/archive/lesson-2/index.html",
       "/archive/lesson-1/index.html",
       "/archive/lesson-0/index.html"
+    ]
+  },
+  {
+    "listing": "/le-nouveau-taxi-3.html",
+    "items": [
+      "/lenouveautaxi3/le-nouveau-taxi-3-17/index.html",
+      "/lenouveautaxi3/le-nouveau-taxi-3-16/index.html",
+      "/lenouveautaxi3/le-nouveau-taxi-3-15/index.html",
+      "/lenouveautaxi3/le-nouveau-taxi-3-14/index.html",
+      "/lenouveautaxi3/le-nouveau-taxi-3-13/index.html",
+      "/lenouveautaxi3/le-nouveau-taxi-3-12/index.html",
+      "/lenouveautaxi3/le-nouveau-taxi-3-11/index.html",
+      "/lenouveautaxi3/le-nouveau-taxi-3-10/index.html",
+      "/lenouveautaxi3/le-nouveau-taxi-3-9/index.html",
+      "/lenouveautaxi3/le-nouveau-taxi-3-8/index.html",
+      "/lenouveautaxi3/le-nouveau-taxi-3-7/index.html",
+      "/lenouveautaxi3/le-nouveau-taxi-3-6/index.html",
+      "/lenouveautaxi3/le-nouveau-taxi-3-5/index.html",
+      "/lenouveautaxi3/le-nouveau-taxi-3-4/index.html",
+      "/lenouveautaxi3/le-nouveau-taxi-3-3/index.html",
+      "/lenouveautaxi3/le-nouveau-taxi-3-2/index.html",
+      "/lenouveautaxi3/le-nouveau-taxi-3-1/index.html"
     ]
   }
 ]

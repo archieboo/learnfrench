@@ -1,0 +1,309 @@
+---
+title: "Lesson 1"
+date: "2026-01-26"
+categories: ["AF Nice", "B1", "subjonctif", "passé composé"]
+reference-location: margin
+citation-location: margin
+number-sections: false
+---
+
+# Course Standard
+
+s’est dévouée → se dévouer 
+Chouchouter → prendre soin de quelqu’un 
+
+
+## Correction des devoirs
+
+
+### Rappel: Le subjonctif passé (p.82)
+
+##### La forme: 
+
+“avoir” ou “être subjonctif présent + participe passé du verbe
+
+##### Exemple: 
+
+Lire → que nous ayons lu  
+Se promener → que tu te sois promené(e)
+
+##### L’emploi: 
+
+1. Il faut que / Il ne faut pas que → l’expression de l’obligation / interdiction (p.33)
+2. Bien que → l’expression de la concession (p.75)
+3. Penser / croire / trouver à la forme négative → l’expression de l’opinion (p.49)
+4. Avant que → l’expression de l’antériorité (p.67)
+5. Je suis surprise / ça m’étonne que / ça me surprend que → l’expression de la surprise (p.83)
+6. Je doute que → l’expression du doute 
+7. L’expression du but (p.81)
+
+→ avec toutes ces expressions, on peut employer le subjonctif passé si on parle d’une action passée.  
+
+::: {.callout-important}
+##### Attention
+
+On ne peut pas utiliser le subjonctif quand il y a deux fois le même sujet dans la phrase.  
+
+Exemple: Je suis contente que je sois dans la classe.  
+→ Je suis contente d’être dans la classe.  
+= on doit utiliser l’infinitif 
+
+:::
+
+
+## Vocabulaire de l’exercice:
+
+Être surprise(e) = être étonné(e)  
+La surprise (féminin) = l’étonnement (masculin)   
+
+La fierté = l’orgueil
+
+Se faire insulter → dire quelque chose de mal / vulgaire à quelqu’un 
+
+Se sentir bien dans sa peau // se sentir mal dans sa peau  
+→ être à l’aise // être mal à l’aise 
+
+Etre à l’aise  ET être confortable (deux choses différentes)  
+
+Être confortable dans une situation = être dans sa zone de confort / dans sa bulle   
+  
+2). Ça la rend satisfaite / fière que sa fille soit devenue ingénieure en aérospatial. Elle est fière que sa fille ait eu du succès.   
+3). Elle n’est pas contente qu’il y ait eu beaucoup de problèmes dans les hôpitaux. Ça l’énerve que les hôpitaux soient en mauvaise condition. Ça l’énerve que le gouvernement n’ait rien fait.   
+4). Elle trouve ça génial que des personnes handicapées aient été beaux et heureux.   
+5). Ça m'étonne / ça me surprend que les gens aient pris ces photos.  
+
+
+
+
+
+
+
+## Introduction à l’unité 6 (p.87)
+
+Comment vous tenez-vous informé(s)? 
+
+### Vocabulaire:
+
+>  
+Les groupes de chat  
+Les réseaux sociaux  
+La propagande  
+Rechercher la véracité des informations   
+Se tenir au courant / informé de quelque chose   
+L’actualité américaine  
+Les podcasts  
+Avoir une bonne réputation   
+Je ne m’intéresse pas à l’actualité   
+Lire la une des journaux → la première page sur laquelle il y a les gros titres   
+Les (journaux) quotidiens / hebdomadaires (quelque chose qui est publié / paraît chaque semaine)  
+Regarder l’actualité à la télévision   
+Déterminer  
+Les préjugés   
+Rester au courant   
+Les actualités sont déprimantes / ne sont pas encourageantes  
+Être intéressé(e) par quelque chose  
+Être bloqué(e) / l’accès à l’actualité est bloqué   
+Être tenu(e) au courant par quelqu’un d’autre   
+Devenir sourd / aveugle  
+Tourner le dos (expression idiomatique)  
+Avoir la responsabilité de s’informer / d’être au courant des agissements des hommes politiques  
+Voter (le vote)   
+
+
+::: {.callout-warning}
+
+#### DEVOIRS pour demain:
+
+- Lire le texte à la page 88 (rechercher les mots de vocabulaire difficiles en français)  
+- Pour mercredi, sujet de production écrite  
+Répondre à l’une des questions de l’encadré “Le rôle de d’Education nationale” (p.87)  
+→ occasion de mettre en pratique le vocabulaire des émotions et du subjonctif présent / passé 
+
+:::
+
+
+
+
+# Cours intensif
+
+## Lecture de la fiche “Les crimes et les faits divers”
+
+### Objectif: Enrichir son vocabulaire et faciliter sa compréhension des articles
+
+> 
+Le coupable = c’est le responsable du “crime”, un délit    
+Le coupable // l'innocent   
+Se sentir coupable de quelque chose   
+Légitime // illégitime   
+Une enquête = l’ensemble des recherches et des questions que les policiers vont poser   
+Lancer une enquête = commencer = débuter = démarrer   
+Un indice = une piste   
+Un amant OU une maîtresse (avoir une relation extraconjugale avec une autre personne)  
+Un(e) témoin = la personne qui a vu le délit   
+Témoigner de quelque chose  
+Une bagarre / se bagarrer / donner un coup de poing / pied  
+Frapper quelqu’un = donner un coup violent à quelqu’un   
+Un cambriolage = est un délit dans lequel quelqu’un entre et vole ce qu’il y a à l’intérieur (Le cambriolage du Louvre / Exemple: Lupin)   
+Des sommes d’argent versées   
+Verser de l’argent = envoyer de l’argent sur un compte bancaire   
+Se méfier de quelqu’un = sans se fier à quelqu’un = ne pas avoir confiance en quelqu’un   
+
+### Lecture de l’article de journal de Tracy: 
+
+[Les arbres, c’est bon pour la santé](https://pubhtml5.com/lonm/zjqp/Magazine_g%C3%A9n%C3%A9rations_N%C2%B0146_Juin)
+
+{{< pdf lecon01-lire01.pdf width = "100%" height = 800 button="Download PDF">}}
+
+
+::: {.callout-warning}
+#### DEVOIRS pour demain (en cours intensif):
+
+Faire la partie exercices de la première fiche distribuée sur les faits divers 
+:::
+
+
+
+# Devoirs
+
+
+## LE DÉCODEX, GUIDE POUR SAVOIR À QUI FAIRE CONFIANCE SUR INTERNET
+
+
+>
+Toute information se base[^dv1] sur des faits. Lorsqu'on s'informe via Facebook, Twitter ou même en utilisant Google News, il est parfois difficile de savoir si ce qu'on lit est fiable ou si les informations ont été adaptées, manipulées ou inventées par les internautes. Les sites sont très nombreux, leur forme est souvent proche, avec une photo, un titre, des rubriques... Mais sont-ils fiables? 
+
+Aux États-Unis ou en Grande-Bretagne, durant les dernières campagnes électorales, on a vu déferler des sites diffusant ainsi des informations partiellement voire totalement fausses, dont certaines ont été très partagées sur les réseaux sociaux, souvent bien plus que les articles qui démentaient ces mensonges. 
+
+[^dv1]: se baser sur = prendre pour référence = utiliser comme source
+
+**Le Décodex, un index de sites non fiables**
+
+Comment savoir à qui faire confiance? Pour tenter de répondre à cette question, "Les Décodeurs", une rubrique du journal Le Monde, ont lancé, début février 2017, un outil pour vous aider à naviguer. Baptisé le Décodex, il s'agit d'une base de données dans lequelle nous avons répertorié plus de 600 sites, dont certains diffusent des informations fausses, trompeuses ou très orientées. Pour chaque site, une courte notice explique ce qu'il est, qui sont ses responsables, quel courant ou tendance il représente, et renvoie à une fiche plus complète sur note site. 
+
+
+**Quelques conseils pour ne pas se faire piéger**
+
+::::{.columns}
+
+::: {.column width="50%"}
+
+- Le site est-il connu? Indique-t-il quelque part qui sont ses responsables légaux, Quelle est son équipe? Si ce n'est pas le cas, ce n'est pas un vrai organe de presse.  
+- L'article cite-t-il ses sources? Sont-elles identifiées? Y en a-t-il plusieurs? Un aticle reposant sur une seule source, ou citant un autre site, ne peut suffire, il faut remonter à l'origine de l'information.  
+- Peut-on retrouver cette information sur un autre site plus connu? La version est-elle proche ou différente?
+
+:::
+
+::: {.column width="50%"}
+- Ne jamais croire une vidéo our une image seule et sans contexte: il est extrêmement simple de détourner, recadrer, réutiliser dans un autre cadre un média imagé ou vidéo.  
+- Vérifier une image: le plus simple est d'utiliser la fonction de recherche inversée de Google, qui permet de savoir si l'image existe dans d'autres contextes.
+
+:::
+
+::::
+
+
+
+::::{.columns}
+
+::: {.column width="65%"}
+
+**Le coup de pouce du CLEMI**
+
+Ouvrir un compte familial sur Twitter pour suivre l'actualité des fact-checkeurs. Le fact-checking est une pratique journalistique consistant à vérifier l'exactitude des informations qui sont diffusées par des personnalités publiques sur les réseaux sociaux, le Web et les médias. Dans les rédactions, une équipe de fact-checkeurs trie le vrai du faux dans le flux de l'info. On les retrouve notamment sur le réseau social Twitter. 
+
+:::
+
+::: {.column width="35%"}
+
+::::: {.callout-tip}
+#### Ah bon?!
+Le CLEMI est un organisme chargé de l'éducation aux médias dans le système éducatif français. Son objectif est d'apprendre aux élèves à décrypter l'information et l'image, et à développer leur esprit critique.
+
+:::::
+
+:::
+
+::::
+
+
+
+
+## LES CRIMES ET LES FAITS DIVERS
+
+
+
+L'AFFAIRE RABEAU
+
+- Mme Rabeau est morte, sauvagement assassinée chez elle. Sons corps a été découvert mardi soir et l'arme du crime a été retrouvée : un revolver. Qui a tué Mme Rabeau? Comment identifier le coupable? Est-ce un dangerux criminel? Immédiatement après le drame, les policiers lancent leur enquête. 
+
+- Quelle piste suivre? Heureusement, les enquêteurs découvrent rapidement un indice sur le lieu du crime : une petite boucle d'oreille. D'homme ou de femme? Les analyses de l'ADN permettront d'en savoir plus.
+
+- Quel est le mobile du meurtre? L'argent? Mme Rabeau n'était apparment pas riche. La jalousie? Mme Rabeau vivait seule et sans amant connu. Y a-t-il des témoins? Non, personne n'a rien vu. Les voisins n'ont rien remarqué de louche = bizarre = suspect = étrange. 
+
+- Y a-t-il eu bagarre? Apparemment, Mme Rabeau ne s'est pas défendue, mais le meurtrier a frappé sa victime avant de tirer sur elle. 
+
+- Les policiers trouvent alors sur le compte en banque de Mme Rabeau de grosses sommes d'argent versées par la société Cred. On a peut-être tenté de voler son argent à Mme Rabeau. Comment le voleur est-il entré chez elle, alors? Il n'y a pas de trace de cambriolage, tout était en ordre dans l'appartement, la victime n'a pas été cambriolée. Mme Rabeau a ouvert la porte à son aggresseur sans se méfier. Donc, elle le connaissait et ne pensait pas qu'elle risquait sa vie, qu'elle pourrait se faire aggresser = être victime d'une agression ou d'un vol. Elle ne pensait pas être en danger. 
+
+
+
+### EXERCICES
+
+### 1. Associez
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+1). Le policier
+
+2). Le meurtrier
+
+3). La victime
+
+4). Le témoin
+
+:::
+
+::: {.column width="50%"}
+a. est assassinée. 
+b. est coupable.
+c. reconnaît le coupable.
+d. découvre un indice. 
+e. cherche le mobile du crime. 
+f. tue sa victime.
+g. se défend.
+h. suit une piste. 
+i. donne un indice.
+j. utilise une arme pour assassiner.
+k. voit l'agression. 
+l. démarre une enquête.
+
+:::
+::::
+
+### 2. Vrai ou faux?
+
+|                                                                     | VRAI|FAUX |
+|---------------------------------------------------------------------|-----|-----|
+|1. On a retrouve l'arme du crime = on connaît le mobile du crime.   |   ☐ | ☐   |
+|2. Le témoin a remarqué un comportement louche = le témoin était en danger. |   ☐ | ☐   |
+|3. On a volé de l'argent à un monsieur =  on a tiré sur ce monsieur.     |   ☐ | ☐   |
+|4. Les enquêteurs suivent une piste = ils connaissent l'agresseur.      |   ☐ | ☐   |
+|5. Un cambriolage a eu lieu = l'intérieur d'un logement a été volé.        |   ☐ | ☐   |
+|6. Une personne s'est fait agresser = elle a été assassinée.          |   ☐ | ☐   |
+|7. Il y a eu une bagarre = deux personnes se sont frappées.            |   ☐ | ☐   |
+
+
+### 3. Complétez par un terme approprié
+
+Le crime de la rue Breton
+
+Le mystérieux criminel a encore frappé! Deux __________ de femme ont été retrouvées hier soir devant leur maison. Un __________ dit avoir vu quelqu'un entrer chez elles vers 18h. Les ___________ ont été rapidement identifiés : il s'agit de deux jumelles, agées de 79 ans. Les ___________ ont commencé leur ___________, mais ils n'ont pas encore trouvé d' __________ sur le lieu du ___________. Le plus étrange est qu'on ne comprend pas le __________ de ce meurtre, puisque ces deux femmes étaient discrètes et plutôt pauvres.  Des ___________ de l'ADN vont être effectuées. 
+
+### 4. À vous !
+
+1). Un fait divers s'est-il produit dans votre ville ou votre région récemment? 
+
+2). En général, vous intéressez-vous aux faits divers? Pourquoi ?
+
+

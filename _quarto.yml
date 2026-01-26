@@ -1,9 +1,18 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - "**/*pdf"
+
   preview:
     port: 9595
     browser: false
+  render:
+    - '*.qmd'
+    - 'lenouveautaxi3/**/*.qmd'
+    - 'af-nice-b1-2/**/*.qmd'
+    - 'archive/**/*.qmd'
+
 
 website:
   title: "Learn French"
@@ -11,13 +20,18 @@ website:
   navbar:
     logo: profile.jpg
     # background: '#291B10'
+    left:
+      - text: "AF Nice"
+        href: af-nice-b1.qmd
+      - text: "Le Nouveau Taxi 3"
+        href: le-nouveau-taxi-3.qmd
     right:
       - text: Archive
         href: archive.qmd
 format:
   html:
     toc: true
-    toc-depth: 2
+    toc-depth: 3
     number-sections: true
     number-depth: 3
     theme:
