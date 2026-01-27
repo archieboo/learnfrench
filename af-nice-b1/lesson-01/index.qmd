@@ -1,14 +1,13 @@
 ---
 title: "Lesson 1"
 date: "2026-01-26"
-categories: ["AF Nice", "B1", "subjonctif", "passé composé"]
+categories: ["AF Nice", "B1", "défi3", "Unit6", "subjonctif", "passé composé"]
 reference-location: margin
 citation-location: margin
 number-sections: false
----
+--- 
 
 # Course Standard
-
 s’est dévouée → se dévouer 
 Chouchouter → prendre soin de quelqu’un 
 
@@ -164,66 +163,6 @@ Faire la partie exercices de la première fiche distribuée sur les faits divers
 
 
 # Devoirs
-
-
-## LE DÉCODEX, GUIDE POUR SAVOIR À QUI FAIRE CONFIANCE SUR INTERNET
-
-
->
-Toute information se base[^dv1] sur des faits. Lorsqu'on s'informe via Facebook, Twitter ou même en utilisant Google News, il est parfois difficile de savoir si ce qu'on lit est fiable ou si les informations ont été adaptées, manipulées ou inventées par les internautes. Les sites sont très nombreux, leur forme est souvent proche, avec une photo, un titre, des rubriques... Mais sont-ils fiables? 
-
-Aux États-Unis ou en Grande-Bretagne, durant les dernières campagnes électorales, on a vu déferler des sites diffusant ainsi des informations partiellement voire totalement fausses, dont certaines ont été très partagées sur les réseaux sociaux, souvent bien plus que les articles qui démentaient ces mensonges. 
-
-[^dv1]: se baser sur = prendre pour référence = utiliser comme source
-
-**Le Décodex, un index de sites non fiables**
-
-Comment savoir à qui faire confiance? Pour tenter de répondre à cette question, "Les Décodeurs", une rubrique du journal Le Monde, ont lancé, début février 2017, un outil pour vous aider à naviguer. Baptisé le Décodex, il s'agit d'une base de données dans lequelle nous avons répertorié plus de 600 sites, dont certains diffusent des informations fausses, trompeuses ou très orientées. Pour chaque site, une courte notice explique ce qu'il est, qui sont ses responsables, quel courant ou tendance il représente, et renvoie à une fiche plus complète sur note site. 
-
-
-**Quelques conseils pour ne pas se faire piéger**
-
-::::{.columns}
-
-::: {.column width="50%"}
-
-- Le site est-il connu? Indique-t-il quelque part qui sont ses responsables légaux, Quelle est son équipe? Si ce n'est pas le cas, ce n'est pas un vrai organe de presse.  
-- L'article cite-t-il ses sources? Sont-elles identifiées? Y en a-t-il plusieurs? Un aticle reposant sur une seule source, ou citant un autre site, ne peut suffire, il faut remonter à l'origine de l'information.  
-- Peut-on retrouver cette information sur un autre site plus connu? La version est-elle proche ou différente?
-
-:::
-
-::: {.column width="50%"}
-- Ne jamais croire une vidéo our une image seule et sans contexte: il est extrêmement simple de détourner, recadrer, réutiliser dans un autre cadre un média imagé ou vidéo.  
-- Vérifier une image: le plus simple est d'utiliser la fonction de recherche inversée de Google, qui permet de savoir si l'image existe dans d'autres contextes.
-
-:::
-
-::::
-
-
-
-::::{.columns}
-
-::: {.column width="63%"}
-
-**Le coup de pouce du CLEMI**
-
-Ouvrir un compte familial sur Twitter pour suivre l'actualité des fact-checkeurs. Le fact-checking est une pratique journalistique consistant à vérifier l'exactitude des informations qui sont diffusées par des personnalités publiques sur les réseaux sociaux, le Web et les médias. Dans les rédactions, une équipe de fact-checkeurs trie le vrai du faux dans le flux de l'info. On les retrouve notamment sur le réseau social Twitter. 
-
-:::
-
-::: {.column width="35%"}
-
-::::: {.callout-tip}
-#### Ah bon?!
-Le CLEMI est un organisme chargé de l'éducation aux médias dans le système éducatif français. Son objectif est d'apprendre aux élèves à décrypter l'information et l'image, et à développer leur esprit critique.
-
-:::::
-
-:::
-
-::::
 
 
 

@@ -1,0 +1,173 @@
+---
+title: "Lesson 2"
+date: "2026-01-27"
+categories: ["AF Nice", "B1", "Défi3", "Unit6" ]
+reference-location: margin
+citation-location: margin
+number-sections: false
+---
+
+# Course Standard
+
+## Les mots
+
+Avoir la flemme: être paresseux, avoir de la paresse  
+Amener qqun (venir avec une personne)  ET apporter qqch   
+Amener, apporter et emmener ???   
+Amener quelqu’un  
+Apporter quelque chose  
+Exemple: J’emmène ma gourde à l’AF (du point A au point B = mouvement)  
+Exemple: J’apporte ma gourde à l’AF (la direction)   
+
+Hocher de la tête: un mouvement de la tête pour montrer l’approbation   
+
+## LE DÉCODEX, GUIDE POUR SAVOIR À QUI FAIRE CONFIANCE SUR INTERNET {#sec-af-b1-l01-text1}
+
+
+>
+Toute information se base[^dv1] sur des faits. Lorsqu'on s'informe via Facebook, Twitter ou même en utilisant Google News, il est parfois difficile de savoir si ce qu'on lit est fiable ou si les informations ont été adaptées, manipulées ou inventées par les internautes. Les sites sont très nombreux, leur forme est souvent proche, avec une photo, un titre, des rubriques... Mais sont-ils fiables? 
+
+Aux États-Unis ou en Grande-Bretagne, durant les dernières campagnes électorales, on a vu déferler des sites diffusant ainsi des informations partiellement voire totalement fausses, dont certaines ont été très partagées sur les réseaux sociaux, souvent bien plus que les articles qui démentaient ces mensonges. 
+
+[^dv1]: se baser sur = prendre pour référence = utiliser comme source
+
+**Le Décodex, un index de sites non fiables**
+
+Comment savoir à qui faire confiance? Pour tenter de répondre à cette question, "Les Décodeurs", une rubrique du journal Le Monde, ont lancé, début février 2017, un outil pour vous aider à naviguer. Baptisé le Décodex, il s'agit d'une base de données dans lequelle nous avons répertorié plus de 600 sites, dont certains diffusent des informations fausses, trompeuses ou très orientées. Pour chaque site, une courte notice explique ce qu'il est, qui sont ses responsables, quel courant ou tendance il représente, et renvoie à une fiche plus complète sur note site. 
+
+
+**Quelques conseils pour ne pas se faire piéger**
+
+::::{.columns}
+
+::: {.column width="50%"}
+
+- Le site est-il connu? Indique-t-il quelque part qui sont ses responsables légaux, Quelle est son équipe? Si ce n'est pas le cas, ce n'est pas un vrai organe de presse.  
+- L'article cite-t-il ses sources? Sont-elles identifiées? Y en a-t-il plusieurs? Un aticle reposant sur une seule source, ou citant un autre site, ne peut suffire, il faut remonter à l'origine de l'information.  
+- Peut-on retrouver cette information sur un autre site plus connu? La version est-elle proche ou différente?
+
+:::
+
+::: {.column width="50%"}
+- Ne jamais croire une vidéo our une image seule et sans contexte: il est extrêmement simple de détourner, recadrer, réutiliser dans un autre cadre un média imagé ou vidéo.  
+- Vérifier une image: le plus simple est d'utiliser la fonction de recherche inversée de Google, qui permet de savoir si l'image existe dans d'autres contextes.
+
+:::
+
+::::
+
+
+
+::::{.columns}
+
+::: {.column width="63%"}
+
+**Le coup de pouce du CLEMI**
+
+Ouvrir un compte familial sur Twitter pour suivre l'actualité des fact-checkeurs. Le fact-checking est une pratique journalistique consistant à vérifier l'exactitude des informations qui sont diffusées par des personnalités publiques sur les réseaux sociaux, le Web et les médias. Dans les rédactions, une équipe de fact-checkeurs trie le vrai du faux dans le flux de l'info. On les retrouve notamment sur le réseau social Twitter. 
+
+:::
+
+::: {.column width="35%"}
+
+::::: {.callout-tip}
+#### Ah bon?!
+Le CLEMI est un organisme chargé de l'éducation aux médias dans le système éducatif français. Son objectif est d'apprendre aux élèves à décrypter l'information et l'image, et à développer leur esprit critique.
+
+:::::
+
+:::
+
+::::
+
+
+-----------
+
+Il s’agit d’un article publié sur le site Internet le CLEMI.  
+
+La Toile = Internet   
+La presse   
+Les internautes sont les utilisateurs d’Internet  
+Déferler = une information qui arrive avec force, puissance comme une vague et qui se répand de partout.   
+Démentir = démontrer la vérité / contredire = prétendre   
+Mentir → dire des informations fausses volontairement   
+Un mensonge   
+
+Voire = même (connecteur logique)   
+
+>
+Exemple: Mon stylo est bon voire merveilleux.   
+                Les conditions à l’hôpital sont mauvaises voire dangereuses.   
+                La situation est trop dure voire impossible à régler par Einstein.   
+                Le projet est difficile voire impossible.   
+
+::: {.callout-warning}
+voire must be followed by a adj or verbe infinitif
+:::
+  
+Donner un coup de pouce → apporter un peu d’aide à quelqu’un / rendre service à quelqu’un   
+Donner un coup de main   
+  
+Un vérificateur de faits  
+  
+Trier = différencier le vrai du faux / éliminer les informations en fonction de notre intérêt, des informations fausses.   
+Faire le tri (sélectif)   
+
+Le décalage horaire  = time difference  
+Le décollage (pour l’avion)   = take off
+
+## Point de langue: la forme passive (p.89)
+
+Dans la forme passive, on inverse le COD et le sujet. Le COD devient le sujet et le sujet devient le COD qui est, en général, précédé de la préposition par.
+
+> 
+Exemple: Les journalistes ont répertorié plus de 600 sites → Plus de 600 sites ont été répertoriés par les journalistes. 
+
+Le verbe à la forme passive se conjugue toujours avec l’auxiliaire “être” suivi du participe passé du verbe principal.   
+
+::: {.callout-important}
+#### ATTENTION!
+L’auxiliaire “être” se conjugue au temps du verbe de la forme active.  
+Seuls les verbes se construisant avec un COD peuvent être transformés à la forme passive. 
+:::
+
+
+> Exemples:
+>
+a). Un colis a été déposé devant ma porte ce matin.   
+b). La production écrite sur les médias a été difficile à rédiger (par moi).   
+c). La socca se mange chaude avec beaucoup de sel et de poivre.   
+Les personnes mangent de la socca chaude avec beaucoup de sel et poivre.   
+
+
+On peut utiliser *se faire + verbe à l’infinitif*  
+  
+> Exemples:
+>
+Hier, je suis allé(e) chez le coiffeur et je me suis fait couper les cheveux (par le coiffeur)   
+ Mes cheveux se coiffent très facilement.   
+ Mes cheveux se démêlent très facilement.   
+
+::: {.callout-warning}
+#### DEVOIRS pour demain:
+
+Faire l’exercice n°4 p.46 (dans le CA)  
+Apprendre le vocabulaire   
+Faire la production écrite (p.87) → voir notes de lundi   
+
+:::
+
+-----------
+
+Pour vous aider à rédiger votre article:
+
+>
+Qui?  
+Quoi?  
+Où?  
+Quand?  
+Comment?  
+Pourquoi?   
+
+
+

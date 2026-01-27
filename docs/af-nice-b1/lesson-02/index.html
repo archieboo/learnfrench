@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2026-01-27">
 
-<title>af-nice-b1 – Learn French</title>
+<title>Lesson 2 – Learn French</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,27 +24,25 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="./profile.jpg" rel="icon" type="image/jpeg">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-250a0ad726c327aed60c1b8aba93cc6c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../profile.jpg" rel="icon" type="image/jpeg">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-250a0ad726c327aed60c1b8aba93cc6c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -71,81 +70,23 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../../styles.css">
 </head>
 
 <body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+  <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./profile.jpg" alt="" class="navbar-logo light-content">
-    <img src="./profile.jpg" alt="" class="navbar-logo dark-content">
+    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../profile.jpg" alt="" class="navbar-logo light-content">
+    <img src="../../profile.jpg" alt="" class="navbar-logo dark-content">
     </a>
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Learn French</span>
     </a>
   </div>
@@ -156,17 +97,17 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./af-nice-b1.html" aria-current="page"> 
+    <a class="nav-link" href="../../af-nice-b1.html"> 
 <span class="menu-text">AF Nice</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./le-nouveau-taxi-3.html"> 
+    <a class="nav-link" href="../../le-nouveau-taxi-3.html"> 
 <span class="menu-text">Le Nouveau Taxi 3</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./archive.html"> 
+    <a class="nav-link" href="../../archive.html"> 
 <span class="menu-text">Archive</span></a>
   </li>  
 </ul>
@@ -177,102 +118,220 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block"></header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="QUYlMjBOaWNl">AF Nice <span class="quarto-category-count">(2)</span></div><div class="category" data-category="QjE=">B1 <span class="quarto-category-count">(2)</span></div><div class="category" data-category="RCVDMyVBOWZpMw==">Défi3 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ZCVDMyVBOWZpMw==">défi3 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="cGFzcyVDMyVBOSUyMGNvbXBvcyVDMyVBOQ==">passé composé <span class="quarto-category-count">(1)</span></div><div class="category" data-category="c3Viam9uY3RpZg==">subjonctif <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VW5pdDY=">Unit6 <span class="quarto-category-count">(2)</span></div></div></div>
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#course-standard" id="toc-course-standard" class="nav-link active" data-scroll-target="#course-standard">Course Standard</a>
+  <ul class="collapse">
+  <li><a href="#les-mots" id="toc-les-mots" class="nav-link" data-scroll-target="#les-mots">Les mots</a></li>
+  <li><a href="#sec-af-b1-l01-text1" id="toc-sec-af-b1-l01-text1" class="nav-link" data-scroll-target="#sec-af-b1-l01-text1">LE DÉCODEX, GUIDE POUR SAVOIR À QUI FAIRE CONFIANCE SUR INTERNET</a></li>
+  <li><a href="#point-de-langue-la-forme-passive-p.89" id="toc-point-de-langue-la-forme-passive-p.89" class="nav-link" data-scroll-target="#point-de-langue-la-forme-passive-p.89">Point de langue: la forme passive (p.89)</a></li>
+  </ul></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+<main class="content page-columns page-full" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Lesson 2</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">AF Nice</div>
+    <div class="quarto-category">B1</div>
+    <div class="quarto-category">Défi3</div>
+    <div class="quarto-category">Unit6</div>
+  </div>
+  </div>
 
 
 
+<div class="quarto-title-meta">
+
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">January 27, 2026</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
 
 
+</header>
 
 
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="QUYlMjBOaWNlJTJDQjElMkNEJUMzJUE5ZmkzJTJDVW5pdDY=" data-listing-date-sort="1769468400000" data-listing-file-modified-sort="1769544688673" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1089">
-<div class="thumbnail"><a href="./af-nice-b1/lesson-02/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" style="height: 200px;">&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./af-nice-b1/lesson-02/index.html" class="no-external">Lesson 2</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('QUYlMjBOaWNl'); return false;">AF Nice</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('QjE='); return false;">B1</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('RCVDMyVBOWZpMw=='); return false;">Défi3</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('VW5pdDY='); return false;">Unit6</div>
-
-</div>
-<div class="delink listing-description"><a href="./af-nice-b1/lesson-02/index.html" class="no-external">
-Avoir la flemme: être paresseux, avoir de la paresse<br>
+<section id="course-standard" class="level1 page-columns page-full">
+<h1>Course Standard</h1>
+<section id="les-mots" class="level2">
+<h2 class="anchored" data-anchor-id="les-mots">Les mots</h2>
+<p>Avoir la flemme: être paresseux, avoir de la paresse<br>
 Amener qqun (venir avec une personne) ET apporter qqch<br>
 Amener, apporter et emmener ???<br>
 Amener quelqu’un<br>
 Apporter quelque chose<br>
-Exemple: J’emmène…<br>
-</a></div>
+Exemple: J’emmène ma gourde à l’AF (du point A au point B = mouvement)<br>
+Exemple: J’apporte ma gourde à l’AF (la direction)</p>
+<p>Hocher de la tête: un mouvement de la tête pour montrer l’approbation</p>
+</section>
+<section id="sec-af-b1-l01-text1" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="sec-af-b1-l01-text1">LE DÉCODEX, GUIDE POUR SAVOIR À QUI FAIRE CONFIANCE SUR INTERNET</h2>
+<div class="page-columns page-full"><blockquote class="blockquote">
+<p>Toute information se base<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> sur des faits. Lorsqu’on s’informe via Facebook, Twitter ou même en utilisant Google News, il est parfois difficile de savoir si ce qu’on lit est fiable ou si les informations ont été adaptées, manipulées ou inventées par les internautes. Les sites sont très nombreux, leur forme est souvent proche, avec une photo, un titre, des rubriques… Mais sont-ils fiables?</p>
+</blockquote><div class="no-row-height column-margin column-container"><div id="fn1"><p><sup>1</sup>&nbsp;se baser sur = prendre pour référence = utiliser comme source</p></div></div></div>
+<p>Aux États-Unis ou en Grande-Bretagne, durant les dernières campagnes électorales, on a vu déferler des sites diffusant ainsi des informations partiellement voire totalement fausses, dont certaines ont été très partagées sur les réseaux sociaux, souvent bien plus que les articles qui démentaient ces mensonges.</p>
+<p><strong>Le Décodex, un index de sites non fiables</strong></p>
+<p>Comment savoir à qui faire confiance? Pour tenter de répondre à cette question, “Les Décodeurs”, une rubrique du journal Le Monde, ont lancé, début février 2017, un outil pour vous aider à naviguer. Baptisé le Décodex, il s’agit d’une base de données dans lequelle nous avons répertorié plus de 600 sites, dont certains diffusent des informations fausses, trompeuses ou très orientées. Pour chaque site, une courte notice explique ce qu’il est, qui sont ses responsables, quel courant ou tendance il représente, et renvoie à une fiche plus complète sur note site.</p>
+<p><strong>Quelques conseils pour ne pas se faire piéger</strong></p>
+<div class="columns">
+<div class="column" style="width:50%;">
+<ul>
+<li>Le site est-il connu? Indique-t-il quelque part qui sont ses responsables légaux, Quelle est son équipe? Si ce n’est pas le cas, ce n’est pas un vrai organe de presse.<br>
+</li>
+<li>L’article cite-t-il ses sources? Sont-elles identifiées? Y en a-t-il plusieurs? Un aticle reposant sur une seule source, ou citant un autre site, ne peut suffire, il faut remonter à l’origine de l’information.<br>
+</li>
+<li>Peut-on retrouver cette information sur un autre site plus connu? La version est-elle proche ou différente?</li>
+</ul>
+</div><div class="column" style="width:50%;">
+<ul>
+<li>Ne jamais croire une vidéo our une image seule et sans contexte: il est extrêmement simple de détourner, recadrer, réutiliser dans un autre cadre un média imagé ou vidéo.<br>
+</li>
+<li>Vérifier une image: le plus simple est d’utiliser la fonction de recherche inversée de Google, qui permet de savoir si l’image existe dans d’autres contextes.</li>
+</ul>
 </div>
-<div class="metadata">
-<a href="./af-nice-b1/lesson-02/index.html" class="no-external">
-<div class="listing-date">
-Jan 27, 2026
 </div>
-</a>
+<div class="columns">
+<div class="column" style="width:63%;">
+<p><strong>Le coup de pouce du CLEMI</strong></p>
+<p>Ouvrir un compte familial sur Twitter pour suivre l’actualité des fact-checkeurs. Le fact-checking est une pratique journalistique consistant à vérifier l’exactitude des informations qui sont diffusées par des personnalités publiques sur les réseaux sociaux, le Web et les médias. Dans les rédactions, une équipe de fact-checkeurs trie le vrai du faux dans le flux de l’info. On les retrouve notamment sur le réseau social Twitter.</p>
+</div><div class="column" style="width:35%;">
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Tip</span>Ah bon?!
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="QUYlMjBOaWNlJTJDQjElMkNkJUMzJUE5ZmkzJTJDVW5pdDYlMkNzdWJqb25jdGlmJTJDcGFzcyVDMyVBOSUyMGNvbXBvcyVDMyVBOQ==" data-listing-date-sort="1769382000000" data-listing-file-modified-sort="1769529839965" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1574">
-<div class="thumbnail"><a href="./af-nice-b1/lesson-01/index.html" class="no-external">
+<div class="callout-body-container callout-body">
+<p>Le CLEMI est un organisme chargé de l’éducation aux médias dans le système éducatif français. Son objectif est d’apprendre aux élèves à décrypter l’information et l’image, et à développer leur esprit critique.</p>
+</div>
+</div>
+</div>
+</div>
+<hr>
+<p>Il s’agit d’un article publié sur le site Internet le CLEMI.</p>
+<p>La Toile = Internet<br>
+La presse<br>
+Les internautes sont les utilisateurs d’Internet<br>
+Déferler = une information qui arrive avec force, puissance comme une vague et qui se répand de partout.<br>
+Démentir = démontrer la vérité / contredire = prétendre<br>
+Mentir → dire des informations fausses volontairement<br>
+Un mensonge</p>
+<p>Voire = même (connecteur logique)</p>
+<blockquote class="blockquote">
+<p>Exemple: Mon stylo est bon voire merveilleux.<br>
+Les conditions à l’hôpital sont mauvaises voire dangereuses.<br>
+La situation est trop dure voire impossible à régler par Einstein.<br>
+Le projet est difficile voire impossible.</p>
+</blockquote>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Warning
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>voire must be followed by a adj or verbe infinitif</p>
+</div>
+</div>
+<p>Donner un coup de pouce → apporter un peu d’aide à quelqu’un / rendre service à quelqu’un<br>
+Donner un coup de main</p>
+<p>Un vérificateur de faits</p>
+<p>Trier = différencier le vrai du faux / éliminer les informations en fonction de notre intérêt, des informations fausses.<br>
+Faire le tri (sélectif)</p>
+<p>Le décalage horaire = time difference<br>
+Le décollage (pour l’avion) = take off</p>
+</section>
+<section id="point-de-langue-la-forme-passive-p.89" class="level2">
+<h2 class="anchored" data-anchor-id="point-de-langue-la-forme-passive-p.89">Point de langue: la forme passive (p.89)</h2>
+<p>Dans la forme passive, on inverse le COD et le sujet. Le COD devient le sujet et le sujet devient le COD qui est, en général, précédé de la préposition par.</p>
+<blockquote class="blockquote">
+<p>Exemple: Les journalistes ont répertorié plus de 600 sites → Plus de 600 sites ont été répertoriés par les journalistes.</p>
+</blockquote>
+<p>Le verbe à la forme passive se conjugue toujours avec l’auxiliaire “être” suivi du participe passé du verbe principal.</p>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Important</span>ATTENTION!
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>L’auxiliaire “être” se conjugue au temps du verbe de la forme active.<br>
+Seuls les verbes se construisant avec un COD peuvent être transformés à la forme passive.</p>
+</div>
+</div>
+<blockquote class="blockquote">
+<p>Exemples:</p>
+<p>a). Un colis a été déposé devant ma porte ce matin.<br>
+b). La production écrite sur les médias a été difficile à rédiger (par moi).<br>
+c). La socca se mange chaude avec beaucoup de sel et de poivre.<br>
+Les personnes mangent de la socca chaude avec beaucoup de sel et poivre.</p>
+</blockquote>
+<p>On peut utiliser <em>se faire + verbe à l’infinitif</em></p>
+<blockquote class="blockquote">
+<p>Exemples:</p>
+<p>Hier, je suis allé(e) chez le coiffeur et je me suis fait couper les cheveux (par le coiffeur)<br>
+Mes cheveux se coiffent très facilement.<br>
+Mes cheveux se démêlent très facilement.</p>
+</blockquote>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Warning</span>DEVOIRS pour demain:
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Faire l’exercice n°4 p.46 (dans le CA)<br>
+Apprendre le vocabulaire<br>
+Faire la production écrite (p.87) → voir notes de lundi</p>
+</div>
+</div>
+<hr>
+<p>Pour vous aider à rédiger votre article:</p>
+<blockquote class="blockquote">
+<p>Qui?<br>
+Quoi?<br>
+Où?<br>
+Quand?<br>
+Comment?<br>
+Pourquoi?</p>
+</blockquote>
 
-<div class="listing-item-img-placeholder card-img-top" style="height: 200px;">&nbsp;</div>
 
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./af-nice-b1/lesson-01/index.html" class="no-external">Lesson 1</a>
-</h3>
-<div class="listing-categories">
+</section>
+</section>
 
-<div class="listing-category" onclick="window.quartoListingCategory('QUYlMjBOaWNl'); return false;">AF Nice</div>
 
-<div class="listing-category" onclick="window.quartoListingCategory('QjE='); return false;">B1</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('ZCVDMyVBOWZpMw=='); return false;">défi3</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('VW5pdDY='); return false;">Unit6</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('c3Viam9uY3RpZg=='); return false;">subjonctif</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('cGFzcyVDMyVBOSUyMGNvbXBvcyVDMyVBOQ=='); return false;">passé composé</div>
-
-</div>
-<div class="delink listing-description"><a href="./af-nice-b1/lesson-01/index.html" class="no-external">
-s’est dévouée → se dévouer Chouchouter → prendre soin de quelqu’un
-</a></div>
-</div>
-<div class="metadata">
-<a href="./af-nice-b1/lesson-01/index.html" class="no-external">
-<div class="listing-date">
-Jan 26, 2026
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
