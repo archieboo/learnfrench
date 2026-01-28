@@ -75,10 +75,10 @@ Mâcher[^2a5]
 
 ### Comment alléger[^3a1] son information 2.0?
 
-**7h**. L'alarme de mon smartphone sonne, je l'attrape[^3a2] et je fais défiler les notifications: ça gazouille, ça alerte, ça like, ça notifie, ça retweete... **7h30**, mon cerveau bugge[^3a3] déjà.
+**7h**. L'alarme de mon smartphone sonne, je l'attrape[^3a2] et je fais défiler[^3a10] les notifications: ça gazouille, ça alerte, ça like, ça notifie, ça retweete... **7h30**, mon cerveau bugge[^3a3] déjà.
 L'été arrive et les régimes[^3a4] font la une des magazines féminins ET masculins (l'égalité, c'est comme le mariage, on partage le meilleur et le pire). Et soudain... le parallèle entre la malboufe et l'infobésité devient une evidence: mon flux d'informations me gave de nouvelles absolutement inutiles. Après avoir googlé "infobésité" (ou googlisé pour les puristes), je suis convaincue des conséquences nocives de cette maladie numérique: perte de temps, fatique mentale, baisse de l'activité cérébrale (entre nous, je ne suis pas sûre que le dernier symptôme soit correct, mais si Internet le dit...). 
 
-Aux grands maux[^3a5], les grands remèdes: Le jeûne? Je ne sais pas trop... J'ai des doutes sur ma capacité à rompre complètement aveec la Toile. Allez, je l'avoue, je sais que je ne peux pas suivre sans Internet. Je suis accro à l'actualité comme ma grand-mère était accro aux faits divers dans son journal. 
+Aux grands maux[^3a5], les grands remèdes: Le jeûne? Je ne sais pas trop... J'ai des doutes sur ma capacité à rompre complètement avec la Toile. Allez, je l'avoue, je sais que je ne peux pas survivre sans Internet. Je suis accro à l'actualité comme ma grand-mère était accro aux faits divers dans son journal. 
 
 ::::{.columns}
 
@@ -110,6 +110,7 @@ Je doute que vous ayez beaucoup appris en lisant ce billet d'humeur, mais si vou
 [^3a6]: to delete, to remove
 [^3a7]: information or misinformation (infox = fake news)
 [^3a8]: en boucle = on loop, repeatedly
+[^3a10]: faire défiler = to scroll through
 
 >
 Gazouiller → un oiseau gazouille   
