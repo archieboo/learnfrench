@@ -7,7 +7,6 @@ citation-location: margin
 number-sections: false
 ---
 
-# Course Standard
 
 ## Les mots
 
