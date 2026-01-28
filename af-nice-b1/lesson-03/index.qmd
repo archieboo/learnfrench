@@ -1,0 +1,201 @@
+---
+title: "Lesson 3"
+date: "2026-01-28"
+categories: ["AF Nice", "B1", "Défi3", "Unit6" ]
+reference-location: margin
+citation-location: margin
+number-sections: false
+---
+
+# Course Standard
+
+## Les mots
+
+Le grignotage → grignoter[^1a1]   
+= manger entre les repas (plutôt péjoratif = pour faire attention à sa propre santé)   
+Dans les pubs, on peut lire: “évitez de grignoter entre les repas”  
+
+Goûter quelque chose  
+Un casse-croûte → casser la croûte[^1a2] (expression la croûte)  
+Manger sur le pouce (expression idiomatique) = l’idée de manger quelque chose très rapidement
+
+J’assume ma gamelle → prendre ses responsabilités  
+Une gamelle = une chute, une erreur, une faute, une bêtise
+
+Je passe mon tour (skip my turn)
+
+[^1a1]: to nibble/snack/graze
+[^1a2]: snack, like a sandwich before/after going to a party
+
+
+## Correction des devoirs
+
+Exercice n°4 p.46: 
+
+> 
+Nous sommes informés   
+Les informations sont tweetées  
+Nous nous faisons bombarder   
+Les sanctions seront renforcées  
+Téhéran sera sanctionné(e)  
+Les articles sur les réseaux sociaux sont partagés  
+Sans être lus   
+Un type de presse se fait appeler   
+Les articles se lisent   
+Aucune publicité ne s’y trouve  
+Aucune actualité “chaude” n’y est publiée (par quelqu’un)  
+Le plaisir … est mis   
+Les lecteurs ne sont pas coupés  
+  
+Quand tu pèses beaucoup = peser  
+La balance   
+Combien pesez-vous?  
+
+Revenir à nos moutons  (expression idiomatique) = revenir au sujet principal
+
+Le grignotage  
+La malbouffe[^2a1]   
+Bouffer[^2a2] (familier)   
+La bouffe[^2a6]   
+Une surcharge d’information  
+Digérer[^2a3]]  
+La gourmandise[^2a7]  
+Se goinfrer = se gaver [^2a4]  
+Mâcher[^2a5]   
+
+[^2a1]: junk food
+[^2a2]: to eat (slang)
+[^2a6]: food (slang)
+[^2a3]: to digest
+[^2a4]: to stuff oneself 狼吞虎咽
+[^2a5]: to chew
+[^2a7]: greediness, gluttony
+  
+## Lexique du texte (p.90)
+
+### Comment alléger[^3a1] son information 2.0?
+
+**7h**. L'alarme de mon smartphone sonne, je l'attrape[^3a2] et je fais défiler les notifications: ça gazouille, ça alerte, ça like, ça notifie, ça retweete... **7h30**, mon cerveau bugge[^3a3] déjà.
+L'été arrive et les régimes[^3a4] font la une des magazines féminins ET masculins (l'égalité, c'est comme le mariage, on partage le meilleur et le pire). Et soudain... le parallèle entre la malboufe et l'infobésité devient une evidence: mon flux d'informations me gave de nouvelles absolutement inutiles. Après avoir googlé "infobésité" (ou googlisé pour les puristes), je suis convaincue des conséquences nocives de cette maladie numérique: perte de temps, fatique mentale, baisse de l'activité cérébrale (entre nous, je ne suis pas sûre que le dernier symptôme soit correct, mais si Internet le dit...). 
+
+Aux grands maux[^3a5], les grands remèdes: Le jeûne? Je ne sais pas trop... J'ai des doutes sur ma capacité à rompre complètement aveec la Toile. Allez, je l'avoue, je sais que je ne peux pas suivre sans Internet. Je suis accro à l'actualité comme ma grand-mère était accro aux faits divers dans son journal. 
+
+::::{.columns}
+
+::: {.column width="60%"}
+Néanmoins, il est clair que je dois réduire ma consommation digitale si je ne veux pas faire une overdose numérique. Alors comment mieux nourrir mon cerveau pour éviter "l'in(fo)digestion"? Soignons le mal par le mal: je regarde sur le Net pour trouver une cure adaptée à mon alimentation médiatique.
+:::
+::: {.column width="33%"}
+:::::{.callout-tip}
+##### ...
+*Je dois réduire ma consommation digitale si je ne veux pas faire une overdose numérique.*
+:::::
+:::
+::::
+
+**Tois heures plus tard...**
+
+Je me doutais bien que c'était une mauvaise idée: trop d'information tue l'information. J'ai toutefois trouvé quelques conseils: fermer les alertes de toutes les applications, supprimer[^3a6]
+certaines sources traitant des mêmes informations, S'AUTOGÉRER (!!!). J'ai même découvert un mantra: "Je prends le contrôle sur l'information qui rentre dans mon cerveau". Á se répéter en boucle[^3a8] pour plus d'efficacité...Finalement, l'information, c'est comme l'alcool: à consommer avec modération. 
+
+Je doute que vous ayez beaucoup appris en lisant ce billet d'humeur, mais si vous avez souri à sa lecture, vous aurez perdu 50 calories. Info ou infox[^3a7]? Attendez, je vais vérifier... Aucun doute, mon cas est désespéré ;-D
+
+
+
+[^3a1]: to lighten, to make lighter
+[^3a2]: to grab, to catch
+[^3a3]: to bug, to glitch
+[^3a4]: diet(s)
+[^3a5]: maux = mal(s), for serious problems
+[^3a6]: to delete, to remove
+[^3a7]: information or misinformation (infox = fake news)
+[^3a8]: en boucle = on loop, repeatedly
+
+>
+Gazouiller → un oiseau gazouille   
+Se gaver (d’information)  
+Nocif = nocive → toxique, mauvaise, dangereuse  
+Sain // malsain   
+Rompre = cesser = arrêter = couper  
+Rompre avec quelqu’un (vocabulaire amoureux)  
+Avouer quelque chose = admettre = confesser = reconnaître   
+Une addiction   
+Être accro à quelque chose OU quelqu’un   
+Soigner (un soin)  
+Exemple: Les infirmiers soignent les patients.   
+Prendre soin de toi   
+néanmoins = cependant = toutefois
+Guérir   
+Être déguisé(e) = être caché(e)  
+Éliminer le crime  
+Tuer quelqu’un de sang froid  
+La relation a été rompue   
+  
+  
+  
+## Point de langue: L’expression de la certitude ou incertitude (p.90)
+
+::::{.columns}
+::: {.column width="50%"}
+
+#### Exprimer la certitude  
+
+* être certain(e) / sûr(e) / convaincu(e) QUE + phrase à l’indicatif  
+
+* être certain(e) / sûr(e) / convaincu(e) DE + un nom  
+
+> Exemple: Je suis convaincue des conséquences nocives.   
+
+* Il est certain / sûr / évident QUE + phrase à l’indicatif  
+
+> Exemple: Il est clair que je dois réduire ma consommation.   
+
+* Savoir QUE + phrase à l’indicatif  
+
+> Exemple: Je sais que je ne peux pas survivre sans Internet.   
+
+:::
+  
+::: {.column width="50%"}
+
+#### Exprimer le doute  
+
+* ne pas être certain(e) / sûr(e) QUE + phrase au subjonctif  
+
+> Exemple: Je ne suis pas sûre que les derniers symptômes soient …   
+
+* avoir des doutes sur + un nom  
+
+> Exemple: J’ai des doutes sur ma capacité à rompre …  
+
+* douter que + phrase au subjonctif   
+
+> Exemple: je doute que vous ayez beaucoup appris …  
+
+* douter de + un nom  
+
+> Exemple: Je doute de ma capacité à rompre …   
+
+* ne pas trop savoir   
+
+* Se douter QUE + phrase indicatif  
+
+> Exemple: Je me doutais bien que c’était une mauvaise idée
+
+:::
+::::
+
+
+
+:::{.callout-warning}
+#### DEVOIRS pour demain:
+
+- Apprendre le vocabulaire
+- Rechercher dans le texte (p.90) le vocabulaire pour parler de la nourriture (ou la relation à la nourriture) + l’infobésité comme une maladie
+- Écrire 3 phrases pour exprimer votre certitude ou incertitude sur votre propre utilisation des médias et votre relation à l’information
+:::
+
+
+
+
+
