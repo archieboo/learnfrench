@@ -1,0 +1,149 @@
+---
+title: "Lesson 4"
+date: "2026-01-29"
+categories: ["AF Nice", "B1", "Défi3", "Unit6" ]
+reference-location: margin
+citation-location: margin
+number-sections: false
+---
+
+# Course standard
+
+## Les mots
+
+
+#### cogiter  
+= l’action de penser longuement, profondément à quelque chose  
+
+> 
+Exemple: Je dois cogiter sur la situation pour trouver une solution.   
+
+#### une pépite // un bibelot  
+= en général, est un mot pour caractériser quelque chose que l’on trouve et qui a une valeur de “trésor”, de grande valeur → une pépite d’or  
+
+>
+Exemple: En ce moment, il y a les soldes et j’ai trouvé une pépite dans mon magasin préféré.   
+  
+### Avec la certitude, on emploie généralement l’indicatif.  
+
+> 
+Exemple: Je suis certain que je vais à l’école demain = NON  
+                → il y a deux fois le même sujet → Je suis certain d’aller à l’école demain.   
+Exemple: Il est certain qu’il va passer un examen (forme impersonnelle)   
+
+
+### Avec le doute, on emploie le subjonctif (présent / passé).  
+
+>
+Exemple: Je ne suis pas sûr que tu puisses parler cinq langues.   
+Exemple: Je doute que les jeunes adolescents aient l’intelligence de séparer le bien du mal et de rompre (avec les médias) si nécessaire.   
+  
+:::{.callout-important}
+#### ATTENTION
+- douter que + subjonctif
+- se douter que + indicatif  
+:::
+
+### Compréhension écrite: L’influence des publicités alimentaires (p.94)
+
+### Vidéo d’introduction
+
+{{<video https://www.youtube.com/watch?v=1gRLzIhvA-Y>}}
+
+Une preuve   
+Oeuf / coeur / boeuf   
+
+Les bambins = gamin(e)s = les gosses = les enfants   
+Inciter à faire quelque chose = influencer / encourager quelqu’un à faire quelque chose   
+Acquérir = obtenir = avoir = recevoir = gagner   
+
+Retourner // revenir ??  
+Retourner (dans un même lieu)  
+Revenir (en général)   
+
+Emprunter → j’emprunte quelque chose et je le rends (rendre)   
+  
+Je n’en reviens pas (de cela) = c’est incroyable, je ne peux pas le croire (beaucoup de surprise)   
+
+## Les textes
+
+### Quelle est l'influence des publicités alimentaires sur la santé des enfants?
+
+**Dimanche, l'Assemblée nationale a refusé d'interdire les publicités pour la malbouffe à destination des enfants. Alors qu'un enfant sur six[^3a0] est en surpoids our obèse, chercheurs, politiques et ONG lancent un cri d'alarme et appellent à reconnaître l'influence considérable des publicités sur la santé des enfants.**
+
+Depuis 2018, (*les publicité télévisées*) sont uniquement interdites sur les chaînes du service public, aux horaires des programmes pour enfants. Mais en dehors de ce créneau[^3a1], les publicités alimentaires à destination des enfants ne sont pas du tout regulées. "*Les enfants sont souvent devant l'écran de télévision pendant les repas familiaux, de sorte qu[^3a2]'ils sont exposés à la publicité pour la malbouffe*", a regretté dimanche le député Prud'homme. Entre 1997 et 2009, la proportion de personnes obèses a presque doublé, passant de 8,5% à 14,5%. "*Une étude américaine a montré qu'un tiers des enfants obèses ne le serait pas devenue s'il n'y avait pas eu de publicité alimentaire à la télévision pour la malbouffe*", note Didier Courbet, professeur à l'Université d'Aix-Marseille spécialisé sur les influences des technologies digitales et des médias.
+
+L'image de la marque du produit les enfants, de sorte qu'une marque qui apparaît à la télévision est une marque que l'enfant va davantage apprécier. "*À force de[^3a3] voir des publicités pour McDo, Coca-Cola, ou M&M's, l'enfant va vouloir acheter ces marques-là*", explique Courbet. Ces publicités incitent les bambins à prendre des habitudes alimentaires particulièrement malsaines, qu'ils peuvent garder toute sa leur vie. "*Plus les enfants prennent des habitudes alimentaires tôt, plus elles leur resteront quand ils seront adultes*"[^3a4], nous précise Didier Courbet. "*Les personnes s'attachent à la marque, qui aquiert ainsi[^3a5] un capital sympathie[^3a7]. On se souvient qu'on allait au McDo avec ses parents ou ses copains quand on était enfant*". Si ces publi
+cités sur la malbouffe continuent à prospérer et à manipuler les enfants, "*la société va y perdre[^3a8], sur le plan humaniste et social*"[^3a6], soupire Courbet. "*L'obésité est un catastrophe pour la santé publique en France.*"
+
+
+[^3a0]: un enfant sur six = one child out of six
+[^3a1]: créneau = plage horaire = time slot
+[^3a2]: de sorte que = so that, in such a way that
+[^3a3]: à force de = by, through
+[^3a4]: the earlier children acquire eating habits, the more they will keep them as adults
+[^3a5]: ainsi = thus, in this way
+[^3a6]: sur le plan humaniste et social = on a humanistic and social level
+[^3a7]: capital sympathie = goodwill, positive image
+[^3a8]: y = à cette situation / à ces publicités, perdre à / gagner à = to lose / to gain from
+
+
+
+
+# Cours intensif
+
+## Le discours indirect au passé 
+
+### Correction de l’exercice n°18 p.49 (dans le CA):
+
+1). France Culture a indiqué que nos yeux voyaient …  
+2). P.G a soupiré que nous savions que la publicité ciblait les imbéciles et qu’il découvrait que ça marchait aussi auprès des abrutis profonds.   
+3). M.B.B a déclaré que la répétition faisait la réputation.   
+
+### La forme interrogative → demander, vouloir savoir …
+
+a). Qu’est-ce que tu veux faire après le cours?  
+     Qu’est-ce qu’il t’est arrivé hier?  
+→ Il a demandé ce que je voulais faire après le cours.   
+→ Il a demandé ce qui m’était arrivé hier.   
+
+b). Est-ce que tu veux manger un morceau après le cours?  
+     Est-ce que tu veux manger un casse-croûte sur le chemin?  
+→ Il m’a demandé si je voulais manger un morceau après le cours.   
+→ Il m’a demandé si je voulais manger …   
+
+c). Pourquoi tu apprends le français?  
+     Combien de temps tu mets pour venir à l’AF?   
+→ Il m’a demandé pourquoi j’apprenais le français.   
+→ Il m’a demandé combien de temps je mettais …   
+
+
+
+:::{.callout-warning}
+#### DEVOIRS pour demain:
+
+Apprendre le vocabulaire
+Faire l’exercice n°20 p.49 (dans le CA) 
+:::
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
