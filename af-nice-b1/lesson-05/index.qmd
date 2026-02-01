@@ -1,0 +1,134 @@
+---
+title: "Lesson 5"
+date: "2026-01-30"
+categories: ["AF Nice", "B1", "Défi3", "Unit6" ]
+reference-location: margin
+citation-location: margin
+number-sections: false
+---
+
+# Course standard
+
+## Compréhension écrite: La lettre formelle (p.96)
+
+
+**Nom de l’expéditeur**  
+**Adresse de l’expéditeur**  
+[**Nom de l'entreprise**]{style="display: block; text-align: right;"}
+[**Adresse de l'entreprise**]{style="display: block; text-align: right;"}
+
+::::{.columns}
+::: {.column width="50%"}
+Objet : réclamation
+:::
+::: {.column width="50%" style="text-align: right;"}
+Lieu et date
+:::
+::::
+
+Madame, Monsieur,
+
+J'ai aujourd'hui constaté[^1a3] que l'autocollant STOP PUB que j'ai apposé[^1a4] sur ma boîte aux lettres de façon visible n'a pas été respecté. En effet, je me retrouve en possession, contre ma volonté, d'un imprimé[^1a5] non adressé au nom de votre enseigne.
+
+La démarche[^1a6] du STOP PUB est le reflet de l'importance que les Français accordent à la lutte[^1a7] contre la production massive de déchets[^1a8] dans notre société. Par ailleurs, les personnes plaçant[^1a9] un tel autocollant sur leur boîte aux lettres ne lisent pas les prospectus[^2a1] reçus contre leur gré. Il s'agit donc d'une publicité tout à fait contre-productive, car ces imprimés sont ainsi immédiatement jetés à la poubelle[^2a2]. Un foyer[^2a3] peut recevoir plus de 30kg de prospectus chaque année, consommant autant de ressources en bois, en eau, en produits chimiques, en énergie et en transports tout au long de la chaîne. 
+
+Je souhaite aussi vous rappeler que le l'article R633-6 du Code pénal érige[^2a4] le non-respect du STOP PUB en infraction, passible d'une amende de 450 euros. 
+
+Je vous demande donc de modifier vos pratiques et, le cas échéant[^2a5], de sensibiliser vos distributeurs dont vous êtes donneur d'ordre et responsables. Je vous invite également à prendre toute vos dispositions afin de mettre un terme à ces agissements manifestement illégaux, et au demeurant[^2a6] irrespectueux[^2a7] pour les perssonnes concernées.
+
+Restant à votre disposition pour tout complément d'information, je vous prie de croire, Madame, Monsieur, en l'expression de mes sentiments respectueux.
+
+
+[Signature]{style="display: block; text-align: right;"}
+
+
+-------------
+
+[^1a3]: constater = to observe, to note, to find out
+[^1a4]: apposer = to affix, to put on
+[^1a5]: un imprimé = a printed matter (flyer, leaflet, etc.)
+[^1a6]: une démarche = an approach, a step, a process
+[^1a7]: la lutte = the fight, the struggle
+[^1a8]: un déchet = a waste, a garbage
+[^1a9]: placer = to place, to put
+[^2a1]: un prospectus = a flyer, a leaflet
+[^2a2]: une poubelle = a trash can
+[^2a3]: un foyer = a household
+[^2a4]: ériger = to establish, to erect
+[^2a5]: le cas échéant = if necessary, if applicable, échéant = due
+[^2a6]: au demeurant = moreover, besides, furthermore
+[^2a7]: irrespectueux = disrespectful
+
+
+Le gaspillage = (waste, gaspiller)  
+Commettre une infraction = commit an offense  
+Payer une amende = pay a fine  
+Interpeller (dans ce contexte) = avertir = signaler quelque chose à quelqu’un   
+Interpeller quelqu’un → la police interpelle un conducteur   
+
+Télécharger = to download (a file, an app, etc.)
+Facturer quelque chose = pay for soemthing
+Contre ma volonté = sans ma permission, sans mon autorisation, sans ma bénédiction  
+
+Contre mon gré  =  against my will (contre le gré de quelqu’un)  
+La volonté = le plaisir = le souhait → vouloir, plaire, souhaiter  
+Une enseigne = une marque   
+D’ailleurs (besides, as in the sense of "Joe is smart; besides/plus, he won the champion of math...")  
+Par ailleurs (moreover, furthermore)  
+au fait = by the way (as in introducing a random or sometimes unrelated topic/comment, etc.)
+
+---------------
+
+#### Formules de politesse: 
+
+> Madame, Monsieur, je vous prie d’agréer l’expression de mes salutations distinguées.  
+> Madame, Monsieur, je vous prie de bien vouloir croire en l’expression de mes sincères salutations. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

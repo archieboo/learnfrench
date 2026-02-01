@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2026-01-30">
 
-<title>af-nice-b1 – Learn French</title>
+<title>Lesson 5 – Learn French</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,27 +24,25 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="./profile.jpg" rel="icon" type="image/jpeg">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-250a0ad726c327aed60c1b8aba93cc6c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../profile.jpg" rel="icon" type="image/jpeg">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-250a0ad726c327aed60c1b8aba93cc6c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -71,81 +70,23 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../../styles.css">
 </head>
 
 <body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+  <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./profile.jpg" alt="" class="navbar-logo light-content">
-    <img src="./profile.jpg" alt="" class="navbar-logo dark-content">
+    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../profile.jpg" alt="" class="navbar-logo light-content">
+    <img src="../../profile.jpg" alt="" class="navbar-logo dark-content">
     </a>
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Learn French</span>
     </a>
   </div>
@@ -156,17 +97,17 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./af-nice-b1.html" aria-current="page"> 
+    <a class="nav-link" href="../../af-nice-b1.html"> 
 <span class="menu-text">AF Nice</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./le-nouveau-taxi-3.html"> 
+    <a class="nav-link" href="../../le-nouveau-taxi-3.html"> 
 <span class="menu-text">Le Nouveau Taxi 3</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./archive.html"> 
+    <a class="nav-link" href="../../archive.html"> 
 <span class="menu-text">Archive</span></a>
   </li>  
 </ul>
@@ -177,205 +118,104 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block"></header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(5)</span></div><div class="category" data-category="QUYlMjBOaWNl">AF Nice <span class="quarto-category-count">(5)</span></div><div class="category" data-category="QjE=">B1 <span class="quarto-category-count">(5)</span></div><div class="category" data-category="RCVDMyVBOWZpMw==">Défi3 <span class="quarto-category-count">(4)</span></div><div class="category" data-category="ZCVDMyVBOWZpMw==">défi3 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="cGFzcyVDMyVBOSUyMGNvbXBvcyVDMyVBOQ==">passé composé <span class="quarto-category-count">(1)</span></div><div class="category" data-category="c3Viam9uY3RpZg==">subjonctif <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VW5pdDY=">Unit6 <span class="quarto-category-count">(5)</span></div></div></div>
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#course-standard" id="toc-course-standard" class="nav-link active" data-scroll-target="#course-standard">Course standard</a>
+  <ul class="collapse">
+  <li><a href="#compréhension-écrite-la-lettre-formelle-p.96" id="toc-compréhension-écrite-la-lettre-formelle-p.96" class="nav-link" data-scroll-target="#compréhension-écrite-la-lettre-formelle-p.96">Compréhension écrite: La lettre formelle (p.96)</a></li>
+  </ul></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+<main class="content page-columns page-full" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Lesson 5</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">AF Nice</div>
+    <div class="quarto-category">B1</div>
+    <div class="quarto-category">Défi3</div>
+    <div class="quarto-category">Unit6</div>
+  </div>
+  </div>
 
 
 
+<div class="quarto-title-meta">
+
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">January 30, 2026</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
 
 
+</header>
 
 
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="QUYlMjBOaWNlJTJDQjElMkNEJUMzJUE5ZmkzJTJDVW5pdDY=" data-listing-date-sort="1769727600000" data-listing-file-modified-sort="1769982558637" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="552">
-<div class="thumbnail"><a href="./af-nice-b1/lesson-05/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" style="height: 200px;">&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./af-nice-b1/lesson-05/index.html" class="no-external">Lesson 5</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('QUYlMjBOaWNl'); return false;">AF Nice</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('QjE='); return false;">B1</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('RCVDMyVBOWZpMw=='); return false;">Défi3</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('VW5pdDY='); return false;">Unit6</div>
-
-</div>
-<div class="delink listing-description"><a href="./af-nice-b1/lesson-05/index.html" class="no-external">
-<strong>Nom de l’expéditeur</strong><br>
+<section id="course-standard" class="level1 page-columns page-full">
+<h1>Course standard</h1>
+<section id="compréhension-écrite-la-lettre-formelle-p.96" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="compréhension-écrite-la-lettre-formelle-p.96">Compréhension écrite: La lettre formelle (p.96)</h2>
+<p><strong>Nom de l’expéditeur</strong><br>
 <strong>Adresse de l’expéditeur</strong><br>
-<span style="display: block; text-align: right;"><strong>Nom de l’entreprise</strong></span> <span style="display: block; text-align: right;"><strong>Adresse de l’entreprise</strong></span>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./af-nice-b1/lesson-05/index.html" class="no-external">
-<div class="listing-date">
-Jan 30, 2026
-</div>
-</a>
+<span style="display: block; text-align: right;"><strong>Nom de l’entreprise</strong></span> <span style="display: block; text-align: right;"><strong>Adresse de l’entreprise</strong></span></p>
+<div class="columns">
+<div class="column" style="width:50%;">
+<p>Objet : réclamation</p>
+</div><div class="column" style="text-align: right;">
+<p>Lieu et date</p>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="QUYlMjBOaWNlJTJDQjElMkNEJUMzJUE5ZmkzJTJDVW5pdDY=" data-listing-date-sort="1769641200000" data-listing-file-modified-sort="1769702743990" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="993">
-<div class="thumbnail"><a href="./af-nice-b1/lesson-04/index.html" class="no-external">
+<p>Madame, Monsieur,</p>
+<p>J’ai aujourd’hui constaté<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> que l’autocollant STOP PUB que j’ai apposé<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a> sur ma boîte aux lettres de façon visible n’a pas été respecté. En effet, je me retrouve en possession, contre ma volonté, d’un imprimé<a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a> non adressé au nom de votre enseigne.</p>
+<div class="no-row-height column-margin column-container"><div id="fn1"><p><sup>1</sup>&nbsp;constater = to observe, to note, to find out</p></div><div id="fn2"><p><sup>2</sup>&nbsp;apposer = to affix, to put on</p></div><div id="fn3"><p><sup>3</sup>&nbsp;un imprimé = a printed matter (flyer, leaflet, etc.)</p></div><div id="fn4"><p><sup>4</sup>&nbsp;une démarche = an approach, a step, a process</p></div><div id="fn5"><p><sup>5</sup>&nbsp;la lutte = the fight, the struggle</p></div><div id="fn6"><p><sup>6</sup>&nbsp;un déchet = a waste, a garbage</p></div><div id="fn7"><p><sup>7</sup>&nbsp;placer = to place, to put</p></div><div id="fn8"><p><sup>8</sup>&nbsp;un prospectus = a flyer, a leaflet</p></div><div id="fn9"><p><sup>9</sup>&nbsp;une poubelle = a trash can</p></div><div id="fn10"><p><sup>10</sup>&nbsp;un foyer = a household</p></div></div><p>La démarche<a href="#fn4" class="footnote-ref" id="fnref4" role="doc-noteref"><sup>4</sup></a> du STOP PUB est le reflet de l’importance que les Français accordent à la lutte<a href="#fn5" class="footnote-ref" id="fnref5" role="doc-noteref"><sup>5</sup></a> contre la production massive de déchets<a href="#fn6" class="footnote-ref" id="fnref6" role="doc-noteref"><sup>6</sup></a> dans notre société. Par ailleurs, les personnes plaçant<a href="#fn7" class="footnote-ref" id="fnref7" role="doc-noteref"><sup>7</sup></a> un tel autocollant sur leur boîte aux lettres ne lisent pas les prospectus<a href="#fn8" class="footnote-ref" id="fnref8" role="doc-noteref"><sup>8</sup></a> reçus contre leur gré. Il s’agit donc d’une publicité tout à fait contre-productive, car ces imprimés sont ainsi immédiatement jetés à la poubelle<a href="#fn9" class="footnote-ref" id="fnref9" role="doc-noteref"><sup>9</sup></a>. Un foyer<a href="#fn10" class="footnote-ref" id="fnref10" role="doc-noteref"><sup>10</sup></a> peut recevoir plus de 30kg de prospectus chaque année, consommant autant de ressources en bois, en eau, en produits chimiques, en énergie et en transports tout au long de la chaîne.</p>
+<p>Je souhaite aussi vous rappeler que le l’article R633-6 du Code pénal érige<a href="#fn11" class="footnote-ref" id="fnref11" role="doc-noteref"><sup>11</sup></a> le non-respect du STOP PUB en infraction, passible d’une amende de 450 euros.</p>
+<div class="no-row-height column-margin column-container"><div id="fn11"><p><sup>11</sup>&nbsp;ériger = to establish, to erect</p></div><div id="fn12"><p><sup>12</sup>&nbsp;le cas échéant = if necessary, if applicable, échéant = due</p></div><div id="fn13"><p><sup>13</sup>&nbsp;au demeurant = moreover, besides, furthermore</p></div><div id="fn14"><p><sup>14</sup>&nbsp;irrespectueux = disrespectful</p></div></div><p>Je vous demande donc de modifier vos pratiques et, le cas échéant<a href="#fn12" class="footnote-ref" id="fnref12" role="doc-noteref"><sup>12</sup></a>, de sensibiliser vos distributeurs dont vous êtes donneur d’ordre et responsables. Je vous invite également à prendre toute vos dispositions afin de mettre un terme à ces agissements manifestement illégaux, et au demeurant<a href="#fn13" class="footnote-ref" id="fnref13" role="doc-noteref"><sup>13</sup></a> irrespectueux<a href="#fn14" class="footnote-ref" id="fnref14" role="doc-noteref"><sup>14</sup></a> pour les perssonnes concernées.</p>
+<p>Restant à votre disposition pour tout complément d’information, je vous prie de croire, Madame, Monsieur, en l’expression de mes sentiments respectueux.</p>
+<p><span style="display: block; text-align: right;">Signature</span></p>
+<hr>
+<p>Le gaspillage = (waste, gaspiller)<br>
+Commettre une infraction = commit an offense<br>
+Payer une amende = pay a fine<br>
+Interpeller (dans ce contexte) = avertir = signaler quelque chose à quelqu’un<br>
+Interpeller quelqu’un → la police interpelle un conducteur</p>
+<p>Télécharger = to download (a file, an app, etc.) Facturer quelque chose = pay for soemthing Contre ma volonté = sans ma permission, sans mon autorisation, sans ma bénédiction</p>
+<p>Contre mon gré = against my will (contre le gré de quelqu’un)<br>
+La volonté = le plaisir = le souhait → vouloir, plaire, souhaiter<br>
+Une enseigne = une marque<br>
+D’ailleurs (besides, as in the sense of “Joe is smart; besides/plus, he won the champion of math…”)<br>
+Par ailleurs (moreover, furthermore)<br>
+au fait = by the way (as in introducing a random or sometimes unrelated topic/comment, etc.)</p>
+<hr>
+<section id="formules-de-politesse" class="level4">
+<h4 class="anchored" data-anchor-id="formules-de-politesse">Formules de politesse:</h4>
+<blockquote class="blockquote">
+<p>Madame, Monsieur, je vous prie d’agréer l’expression de mes salutations distinguées.<br>
+Madame, Monsieur, je vous prie de bien vouloir croire en l’expression de mes sincères salutations.</p>
+</blockquote>
 
-<div class="listing-item-img-placeholder card-img-top" style="height: 200px;">&nbsp;</div>
 
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./af-nice-b1/lesson-04/index.html" class="no-external">Lesson 4</a>
-</h3>
-<div class="listing-categories">
+</section>
+</section>
+</section>
 
-<div class="listing-category" onclick="window.quartoListingCategory('QUYlMjBOaWNl'); return false;">AF Nice</div>
 
-<div class="listing-category" onclick="window.quartoListingCategory('QjE='); return false;">B1</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('RCVDMyVBOWZpMw=='); return false;">Défi3</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('VW5pdDY='); return false;">Unit6</div>
-
-</div>
-<div class="delink listing-description"><a href="./af-nice-b1/lesson-04/index.html" class="no-external">
-= l’action de penser longuement, profondément à quelque chose
-</a></div>
-</div>
-<div class="metadata">
-<a href="./af-nice-b1/lesson-04/index.html" class="no-external">
-<div class="listing-date">
-Jan 29, 2026
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="QUYlMjBOaWNlJTJDQjElMkNEJUMzJUE5ZmkzJTJDVW5pdDY=" data-listing-date-sort="1769554800000" data-listing-file-modified-sort="1769621287211" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1058">
-<div class="thumbnail"><a href="./af-nice-b1/lesson-03/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" style="height: 200px;">&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./af-nice-b1/lesson-03/index.html" class="no-external">Lesson 3</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('QUYlMjBOaWNl'); return false;">AF Nice</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('QjE='); return false;">B1</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('RCVDMyVBOWZpMw=='); return false;">Défi3</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('VW5pdDY='); return false;">Unit6</div>
-
-</div>
-<div class="delink listing-description"><a href="./af-nice-b1/lesson-03/index.html" class="no-external">
-Le grignotage → grignoter<sup>1</sup><br>
-= manger entre les repas (plutôt péjoratif = pour faire attention à sa propre santé)<br>
-Dans les pubs, on peut lire: “évitez de grignoter entre les repas”
-</a></div>
-</div>
-<div class="metadata">
-<a href="./af-nice-b1/lesson-03/index.html" class="no-external">
-<div class="listing-date">
-Jan 28, 2026
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="QUYlMjBOaWNlJTJDQjElMkNEJUMzJUE5ZmkzJTJDVW5pdDY=" data-listing-date-sort="1769468400000" data-listing-file-modified-sort="1769544688673" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1089">
-<div class="thumbnail"><a href="./af-nice-b1/lesson-02/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" style="height: 200px;">&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./af-nice-b1/lesson-02/index.html" class="no-external">Lesson 2</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('QUYlMjBOaWNl'); return false;">AF Nice</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('QjE='); return false;">B1</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('RCVDMyVBOWZpMw=='); return false;">Défi3</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('VW5pdDY='); return false;">Unit6</div>
-
-</div>
-<div class="delink listing-description"><a href="./af-nice-b1/lesson-02/index.html" class="no-external">
-Avoir la flemme: être paresseux, avoir de la paresse<br>
-Amener qqun (venir avec une personne) ET apporter qqch<br>
-Amener, apporter et emmener ???<br>
-Amener quelqu’un<br>
-Apporter quelque chose<br>
-Exemple: J’emmène…<br>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./af-nice-b1/lesson-02/index.html" class="no-external">
-<div class="listing-date">
-Jan 27, 2026
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="4" data-categories="QUYlMjBOaWNlJTJDQjElMkNkJUMzJUE5ZmkzJTJDVW5pdDYlMkNzdWJqb25jdGlmJTJDcGFzcyVDMyVBOSUyMGNvbXBvcyVDMyVBOQ==" data-listing-date-sort="1769382000000" data-listing-file-modified-sort="1769529839965" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1574">
-<div class="thumbnail"><a href="./af-nice-b1/lesson-01/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" style="height: 200px;">&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./af-nice-b1/lesson-01/index.html" class="no-external">Lesson 1</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('QUYlMjBOaWNl'); return false;">AF Nice</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('QjE='); return false;">B1</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('ZCVDMyVBOWZpMw=='); return false;">défi3</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('VW5pdDY='); return false;">Unit6</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('c3Viam9uY3RpZg=='); return false;">subjonctif</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('cGFzcyVDMyVBOSUyMGNvbXBvcyVDMyVBOQ=='); return false;">passé composé</div>
-
-</div>
-<div class="delink listing-description"><a href="./af-nice-b1/lesson-01/index.html" class="no-external">
-s’est dévouée → se dévouer Chouchouter → prendre soin de quelqu’un
-</a></div>
-</div>
-<div class="metadata">
-<a href="./af-nice-b1/lesson-01/index.html" class="no-external">
-<div class="listing-date">
-Jan 26, 2026
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
