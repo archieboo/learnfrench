@@ -1,0 +1,148 @@
+---
+title: "Lesson 6"
+date: "2026-2-3"
+categories: ["AF Nice", "B1", "Défi3", "Unit7" ]
+reference-location: margin
+citation-location: margin
+number-sections: false
+---
+
+# Course standard
+
+## HOME DÉTRITUS versus HOMO RECYCLUS
+
+::::{.columns}
+::: {.column width="49%"}
+##### HOMO DÉTRITUS
+
+L'homo détritus est un citoyen mal informé. Il n'a pas conscience qu'il faut plus de 400 ans pour qu'un sac plastique se décompose. Il n'a jamais entendu parler d'un continent de plastique, donc il ne sait pas que le plastique qu'il jette peut un jour se retrouver dans son assiette. Il est prêt à recycler à condition que ce soit facile et que ça lui demande peu d'effort. Mais il ne participerait pas à une initiative citoyenne pour défendre l'environnement. 
+:::
+::: {.column width="2%"}
+:::
+::: {.column width="49%"}
+##### HOMO RECYCLUS
+
+L'homo recyclus est un citoyen responsable. Il est prêt à faire des efforts pour réduire ses déchets. Il sait qu'en les triant il aide à consommer moins de pétrole. Il est conscient que 90% des déchets marins sont composés de plastique. Il sait aussi que fabriquer un emballage consomme plus d'énergie que le recycler. Enfin, il est sensible à une chose: l'industrie du recyclage permettrait la création de milliers d'emplois.  
+:::
+::::
+
+
+---------
+
+## Recycler, à condition de bien trier
+
+Le tri selectif est aujourd'hui une habitude de beaucoup de Français. Cependant, c'est parfois un vrai casse-tête[^2a1] de trier. car toutes les villes n'ont pas les mêmes règles et les mêmes codes de sur les poubelles. De plus, seule une petite partie de nos déches sont recyclables. Pour être recyclé, un objet doit presenter certaines caractéristiques (matériau, épaisseur, composition, etc.). En 2022, toute la France aura les mêmes règles, mais pour vous aider à bien trier aujourd'hui, la mairie de Cuges vous propose de tester vos connaissances!
+
+[^2a1]: casse-tête: puzzle, headache
+
+#### LE VERRE
+
+1). Le verre est une des seules matières recyclables à l'infini...  
+A. y compris le verre cassé  
+B. sauf s'il est cassé
+
+2). Dans les containers de verre, on peut jeter toutes les bouteilles...  
+A. à condition qu'elles n'aient pas contenu de produits toxiques  
+B. y compris les bouteilles de produits dangereux
+
+3). On peut jeter les bouteilles avec leur bouchon[^2a2]...  
+A. à conidtion qu'elle soit bien fermé  
+B. excepté si les bouchons en métal
+
+
+#### LE PLASTIQUE
+
+4). Dans la poubelle pour le recyclage plastique...  
+A. on peut jeter les briques alimentaires[^2a3] (lait, jus, etc.) et les boîtes de conserves  
+B. on ne peut jeter que du plastique
+
+5). Dans la poubelle jaune, on peut jeter les emballages en plastique...  
+A. sans les avoir lavés avant  
+B. sauf si on les avoir lavés avant
+
+6). On peut jeter les bouteilles en plastique dans les containers...  
+A. à condition de les compresser  
+B. à l'exception des bouteilles compressées
+
+#### LE PAPIER ET LES CARTONS
+
+7). On met dans la poubelle "carton" tous les cartons...  
+A. à condition qu'ils ne soient pas trop sales ou trop humides  
+B. les emballages sales inclus
+
+8). Les papier sont presque toujours recyclés...
+A. sauf les papiers photos, qui sont plastifiés et nécessitent un traitement spécifique  
+B. à condition d'être coupés en petits morceaux[^2a4]
+
+#### LES MÉTAL
+
+9). L'acier et l'aluminium sont recyclables...  
+A. sauf s'ils sont trop fins  
+B. y compris de capsules de café
+
+#### LES DÉCHETS ALLIMENTAIRES
+
+10). Il ne faut pas jeter les huiles alimentaires dans les canalisations[^2a5]...  
+A. sinon ça les bouche[^2a6]  
+B. sauf si on les filtre avec un appareil spécial
+
+#### LES VÊTEMENTS
+
+11). On peut déposer dans des containers tous les vêtements...  
+A. à condition qu'ils soient propres et secs  
+B. le cuir et la fourrure exclus[^2a7]
+
+12). On peut aussi déposer des chaussures...   
+A. si elles sont attachées en paires  
+B. y compris celles en mauvais état
+
+:::{.callout-tip}
+##### RÉSULTATS: Vous aves une majorité de
+
+**A.** Vous ête un/une vrai pro du tri sélectif. Félicitations! Mais, si vous aves des questions ou des doutes, n'hésitez pas à venir nous voir.   
+**B.** Le recyclage est vraiment un caisse-tête pour vous. Consultez notre guide pour un recyclage pratique et responsable.
+
+
+:::
+
+
+[^2a2]: bouchon = cap
+[^2a3]: brique alimentaire = carton box for food/drink
+[^2a4]: morceau = piece
+[^2a5]: canalisation = pipe
+[^2a6]: if not, it clogs them
+[^2a7]: cuir et la fourrure = leather and fur
+
+
+
+### Les mots dans la rue
+
+soûler, se soûler : to get drunk  
+prendre un cuit: to get wasted  
+gueule de bois : hangover  
+on va mettre la petite soeur : we're going to get drunk  
+se mettre une caisse : to get wasted  
+être torchon carpette: to be wasted  
+une quille: a joint  
+faire reflechir sur qch: to make think about sth  
+une campagne de sensibilisation: awareness campaign  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

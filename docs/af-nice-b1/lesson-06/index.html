@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2026-02-03">
 
-<title>af-nice-b1 – Learn French</title>
+<title>Lesson 6 – Learn French</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,27 +24,25 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="./profile.jpg" rel="icon" type="image/jpeg">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-250a0ad726c327aed60c1b8aba93cc6c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../profile.jpg" rel="icon" type="image/jpeg">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-250a0ad726c327aed60c1b8aba93cc6c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -71,81 +70,23 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../../styles.css">
 </head>
 
 <body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+  <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./profile.jpg" alt="" class="navbar-logo light-content">
-    <img src="./profile.jpg" alt="" class="navbar-logo dark-content">
+    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../profile.jpg" alt="" class="navbar-logo light-content">
+    <img src="../../profile.jpg" alt="" class="navbar-logo dark-content">
     </a>
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Learn French</span>
     </a>
   </div>
@@ -156,17 +97,17 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./af-nice-b1.html" aria-current="page"> 
+    <a class="nav-link" href="../../af-nice-b1.html"> 
 <span class="menu-text">AF Nice</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./le-nouveau-taxi-3.html"> 
+    <a class="nav-link" href="../../le-nouveau-taxi-3.html"> 
 <span class="menu-text">Le Nouveau Taxi 3</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./archive.html"> 
+    <a class="nav-link" href="../../archive.html"> 
 <span class="menu-text">Archive</span></a>
   </li>  
 </ul>
@@ -177,238 +118,169 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block"></header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(6)</span></div><div class="category" data-category="QUYlMjBOaWNl">AF Nice <span class="quarto-category-count">(6)</span></div><div class="category" data-category="QjE=">B1 <span class="quarto-category-count">(6)</span></div><div class="category" data-category="RCVDMyVBOWZpMw==">Défi3 <span class="quarto-category-count">(5)</span></div><div class="category" data-category="ZCVDMyVBOWZpMw==">défi3 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="cGFzcyVDMyVBOSUyMGNvbXBvcyVDMyVBOQ==">passé composé <span class="quarto-category-count">(1)</span></div><div class="category" data-category="c3Viam9uY3RpZg==">subjonctif <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VW5pdDY=">Unit6 <span class="quarto-category-count">(5)</span></div><div class="category" data-category="VW5pdDc=">Unit7 <span class="quarto-category-count">(1)</span></div></div></div>
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#course-standard" id="toc-course-standard" class="nav-link active" data-scroll-target="#course-standard">Course standard</a>
+  <ul class="collapse">
+  <li><a href="#home-détritus-versus-homo-recyclus" id="toc-home-détritus-versus-homo-recyclus" class="nav-link" data-scroll-target="#home-détritus-versus-homo-recyclus">HOME DÉTRITUS versus HOMO RECYCLUS</a></li>
+  <li><a href="#recycler-à-condition-de-bien-trier" id="toc-recycler-à-condition-de-bien-trier" class="nav-link" data-scroll-target="#recycler-à-condition-de-bien-trier">Recycler, à condition de bien trier</a>
+  <ul class="collapse">
+  <li><a href="#les-mots-dans-la-rue" id="toc-les-mots-dans-la-rue" class="nav-link" data-scroll-target="#les-mots-dans-la-rue">Les mots dans la rue</a></li>
+  </ul></li>
+  </ul></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+<main class="content page-columns page-full" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Lesson 6</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">AF Nice</div>
+    <div class="quarto-category">B1</div>
+    <div class="quarto-category">Défi3</div>
+    <div class="quarto-category">Unit7</div>
+  </div>
+  </div>
 
 
 
+<div class="quarto-title-meta">
+
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">February 3, 2026</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
 
 
+</header>
 
 
+<section id="course-standard" class="level1 page-columns page-full">
+<h1>Course standard</h1>
+<section id="home-détritus-versus-homo-recyclus" class="level2">
+<h2 class="anchored" data-anchor-id="home-détritus-versus-homo-recyclus">HOME DÉTRITUS versus HOMO RECYCLUS</h2>
+<div class="columns">
+<div class="column" style="width:49%;">
+<section id="homo-détritus" class="level5">
+<h5 class="anchored" data-anchor-id="homo-détritus">HOMO DÉTRITUS</h5>
+<p>L’homo détritus est un citoyen mal informé. Il n’a pas conscience qu’il faut plus de 400 ans pour qu’un sac plastique se décompose. Il n’a jamais entendu parler d’un continent de plastique, donc il ne sait pas que le plastique qu’il jette peut un jour se retrouver dans son assiette. Il est prêt à recycler à condition que ce soit facile et que ça lui demande peu d’effort. Mais il ne participerait pas à une initiative citoyenne pour défendre l’environnement.</p>
+</section>
+</div><div class="column" style="width:2%;">
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="QUYlMjBOaWNlJTJDQjElMkNEJUMzJUE5ZmkzJTJDVW5pdDc=" data-listing-date-sort="1770073200000" data-listing-file-modified-sort="1770153193062" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="747">
-<div class="thumbnail"><a href="./af-nice-b1/lesson-06/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" style="height: 200px;">&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./af-nice-b1/lesson-06/index.html" class="no-external">Lesson 6</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('QUYlMjBOaWNl'); return false;">AF Nice</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('QjE='); return false;">B1</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('RCVDMyVBOWZpMw=='); return false;">Défi3</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('VW5pdDc='); return false;">Unit7</div>
-
-</div>
-<div class="delink listing-description"><a href="./af-nice-b1/lesson-06/index.html" class="no-external">
-L’homo détritus est un citoyen mal informé. Il n’a pas conscience qu’il faut plus de 400 ans pour qu’un sac plastique se décompose. Il n’a jamais entendu parler d’un continent de plastique, donc il…
-</a></div>
-</div>
-<div class="metadata">
-<a href="./af-nice-b1/lesson-06/index.html" class="no-external">
-<div class="listing-date">
-Feb 3, 2026
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="QUYlMjBOaWNlJTJDQjElMkNEJUMzJUE5ZmkzJTJDVW5pdDY=" data-listing-date-sort="1769727600000" data-listing-file-modified-sort="1770149913751" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="552">
-<div class="thumbnail"><a href="./af-nice-b1/lesson-05/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" style="height: 200px;">&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./af-nice-b1/lesson-05/index.html" class="no-external">Lesson 5</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('QUYlMjBOaWNl'); return false;">AF Nice</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('QjE='); return false;">B1</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('RCVDMyVBOWZpMw=='); return false;">Défi3</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('VW5pdDY='); return false;">Unit6</div>
-
-</div>
-<div class="delink listing-description"><a href="./af-nice-b1/lesson-05/index.html" class="no-external">
-<strong>Nom de l’expéditeur</strong><br>
-<strong>Adresse de l’expéditeur</strong><br>
-<span style="display: block; text-align: right;"><strong>Nom de l’entreprise</strong></span> <span style="display: block; text-align: right;"><strong>Adresse de l’entreprise</strong></span>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./af-nice-b1/lesson-05/index.html" class="no-external">
-<div class="listing-date">
-Jan 30, 2026
-</div>
-</a>
+</div><div class="column" style="width:49%;">
+<section id="homo-recyclus" class="level5">
+<h5 class="anchored" data-anchor-id="homo-recyclus">HOMO RECYCLUS</h5>
+<p>L’homo recyclus est un citoyen responsable. Il est prêt à faire des efforts pour réduire ses déchets. Il sait qu’en les triant il aide à consommer moins de pétrole. Il est conscient que 90% des déchets marins sont composés de plastique. Il sait aussi que fabriquer un emballage consomme plus d’énergie que le recycler. Enfin, il est sensible à une chose: l’industrie du recyclage permettrait la création de milliers d’emplois.</p>
+</section>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="QUYlMjBOaWNlJTJDQjElMkNEJUMzJUE5ZmkzJTJDVW5pdDY=" data-listing-date-sort="1769641200000" data-listing-file-modified-sort="1769702743990" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="993">
-<div class="thumbnail"><a href="./af-nice-b1/lesson-04/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" style="height: 200px;">&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./af-nice-b1/lesson-04/index.html" class="no-external">Lesson 4</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('QUYlMjBOaWNl'); return false;">AF Nice</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('QjE='); return false;">B1</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('RCVDMyVBOWZpMw=='); return false;">Défi3</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('VW5pdDY='); return false;">Unit6</div>
-
+<hr>
+</section>
+<section id="recycler-à-condition-de-bien-trier" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="recycler-à-condition-de-bien-trier">Recycler, à condition de bien trier</h2>
+<p>Le tri selectif est aujourd’hui une habitude de beaucoup de Français. Cependant, c’est parfois un vrai casse-tête<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> de trier. car toutes les villes n’ont pas les mêmes règles et les mêmes codes de sur les poubelles. De plus, seule une petite partie de nos déches sont recyclables. Pour être recyclé, un objet doit presenter certaines caractéristiques (matériau, épaisseur, composition, etc.). En 2022, toute la France aura les mêmes règles, mais pour vous aider à bien trier aujourd’hui, la mairie de Cuges vous propose de tester vos connaissances!</p>
+<div class="no-row-height column-margin column-container"><div id="fn1"><p><sup>1</sup>&nbsp;casse-tête: puzzle, headache</p></div></div><section id="le-verre" class="level4 page-columns page-full">
+<h4 class="anchored" data-anchor-id="le-verre">LE VERRE</h4>
+<p>1). Le verre est une des seules matières recyclables à l’infini…<br>
+A. y compris le verre cassé<br>
+B. sauf s’il est cassé</p>
+<p>2). Dans les containers de verre, on peut jeter toutes les bouteilles…<br>
+A. à condition qu’elles n’aient pas contenu de produits toxiques<br>
+B. y compris les bouteilles de produits dangereux</p>
+<p>3). On peut jeter les bouteilles avec leur bouchon<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a>…<br>
+A. à conidtion qu’elle soit bien fermé<br>
+B. excepté si les bouchons en métal</p>
+<div class="no-row-height column-margin column-container"><div id="fn2"><p><sup>2</sup>&nbsp;bouchon = cap</p></div></div></section>
+<section id="le-plastique" class="level4 page-columns page-full">
+<h4 class="anchored" data-anchor-id="le-plastique">LE PLASTIQUE</h4>
+<p>4). Dans la poubelle pour le recyclage plastique…<br>
+A. on peut jeter les briques alimentaires<a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a> (lait, jus, etc.) et les boîtes de conserves<br>
+B. on ne peut jeter que du plastique</p>
+<div class="no-row-height column-margin column-container"><div id="fn3"><p><sup>3</sup>&nbsp;brique alimentaire = carton box for food/drink</p></div></div><p>5). Dans la poubelle jaune, on peut jeter les emballages en plastique…<br>
+A. sans les avoir lavés avant<br>
+B. sauf si on les avoir lavés avant</p>
+<p>6). On peut jeter les bouteilles en plastique dans les containers…<br>
+A. à condition de les compresser<br>
+B. à l’exception des bouteilles compressées</p>
+</section>
+<section id="le-papier-et-les-cartons" class="level4 page-columns page-full">
+<h4 class="anchored" data-anchor-id="le-papier-et-les-cartons">LE PAPIER ET LES CARTONS</h4>
+<p>7). On met dans la poubelle “carton” tous les cartons…<br>
+A. à condition qu’ils ne soient pas trop sales ou trop humides<br>
+B. les emballages sales inclus</p>
+<p>8). Les papier sont presque toujours recyclés… A. sauf les papiers photos, qui sont plastifiés et nécessitent un traitement spécifique<br>
+B. à condition d’être coupés en petits morceaux<a href="#fn4" class="footnote-ref" id="fnref4" role="doc-noteref"><sup>4</sup></a></p>
+<div class="no-row-height column-margin column-container"><div id="fn4"><p><sup>4</sup>&nbsp;morceau = piece</p></div></div></section>
+<section id="les-métal" class="level4">
+<h4 class="anchored" data-anchor-id="les-métal">LES MÉTAL</h4>
+<p>9). L’acier et l’aluminium sont recyclables…<br>
+A. sauf s’ils sont trop fins<br>
+B. y compris de capsules de café</p>
+</section>
+<section id="les-déchets-allimentaires" class="level4 page-columns page-full">
+<h4 class="anchored" data-anchor-id="les-déchets-allimentaires">LES DÉCHETS ALLIMENTAIRES</h4>
+<p>10). Il ne faut pas jeter les huiles alimentaires dans les canalisations<a href="#fn5" class="footnote-ref" id="fnref5" role="doc-noteref"><sup>5</sup></a>…<br>
+A. sinon ça les bouche<a href="#fn6" class="footnote-ref" id="fnref6" role="doc-noteref"><sup>6</sup></a><br>
+B. sauf si on les filtre avec un appareil spécial</p>
+<div class="no-row-height column-margin column-container"><div id="fn5"><p><sup>5</sup>&nbsp;canalisation = pipe</p></div><div id="fn6"><p><sup>6</sup>&nbsp;if not, it clogs them</p></div></div></section>
+<section id="les-vêtements" class="level4 page-columns page-full">
+<h4 class="anchored" data-anchor-id="les-vêtements">LES VÊTEMENTS</h4>
+<p>11). On peut déposer dans des containers tous les vêtements…<br>
+A. à condition qu’ils soient propres et secs<br>
+B. le cuir et la fourrure exclus<a href="#fn7" class="footnote-ref" id="fnref7" role="doc-noteref"><sup>7</sup></a></p>
+<div class="no-row-height column-margin column-container"><div id="fn7"><p><sup>7</sup>&nbsp;cuir et la fourrure = leather and fur</p></div></div><p>12). On peut aussi déposer des chaussures…<br>
+A. si elles sont attachées en paires<br>
+B. y compris celles en mauvais état</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
 </div>
-<div class="delink listing-description"><a href="./af-nice-b1/lesson-04/index.html" class="no-external">
-= l’action de penser longuement, profondément à quelque chose
-</a></div>
-</div>
-<div class="metadata">
-<a href="./af-nice-b1/lesson-04/index.html" class="no-external">
-<div class="listing-date">
-Jan 29, 2026
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="QUYlMjBOaWNlJTJDQjElMkNEJUMzJUE5ZmkzJTJDVW5pdDY=" data-listing-date-sort="1769554800000" data-listing-file-modified-sort="1769621287211" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1058">
-<div class="thumbnail"><a href="./af-nice-b1/lesson-03/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" style="height: 200px;">&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./af-nice-b1/lesson-03/index.html" class="no-external">Lesson 3</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('QUYlMjBOaWNl'); return false;">AF Nice</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('QjE='); return false;">B1</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('RCVDMyVBOWZpMw=='); return false;">Défi3</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('VW5pdDY='); return false;">Unit6</div>
-
-</div>
-<div class="delink listing-description"><a href="./af-nice-b1/lesson-03/index.html" class="no-external">
-Le grignotage → grignoter<sup>1</sup><br>
-= manger entre les repas (plutôt péjoratif = pour faire attention à sa propre santé)<br>
-Dans les pubs, on peut lire: “évitez de grignoter entre les repas”
-</a></div>
-</div>
-<div class="metadata">
-<a href="./af-nice-b1/lesson-03/index.html" class="no-external">
-<div class="listing-date">
-Jan 28, 2026
-</div>
-</a>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Tip</span>RÉSULTATS: Vous aves une majorité de
 </div>
 </div>
-<div class="quarto-post image-right" data-index="4" data-categories="QUYlMjBOaWNlJTJDQjElMkNEJUMzJUE5ZmkzJTJDVW5pdDY=" data-listing-date-sort="1769468400000" data-listing-file-modified-sort="1769544688673" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1089">
-<div class="thumbnail"><a href="./af-nice-b1/lesson-02/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" style="height: 200px;">&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./af-nice-b1/lesson-02/index.html" class="no-external">Lesson 2</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('QUYlMjBOaWNl'); return false;">AF Nice</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('QjE='); return false;">B1</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('RCVDMyVBOWZpMw=='); return false;">Défi3</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('VW5pdDY='); return false;">Unit6</div>
-
-</div>
-<div class="delink listing-description"><a href="./af-nice-b1/lesson-02/index.html" class="no-external">
-Avoir la flemme: être paresseux, avoir de la paresse<br>
-Amener qqun (venir avec une personne) ET apporter qqch<br>
-Amener, apporter et emmener ???<br>
-Amener quelqu’un<br>
-Apporter quelque chose<br>
-Exemple: J’emmène…<br>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./af-nice-b1/lesson-02/index.html" class="no-external">
-<div class="listing-date">
-Jan 27, 2026
-</div>
-</a>
+<div class="callout-body-container callout-body">
+<p><strong>A.</strong> Vous ête un/une vrai pro du tri sélectif. Félicitations! Mais, si vous aves des questions ou des doutes, n’hésitez pas à venir nous voir.<br>
+<strong>B.</strong> Le recyclage est vraiment un caisse-tête pour vous. Consultez notre guide pour un recyclage pratique et responsable.</p>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="5" data-categories="QUYlMjBOaWNlJTJDQjElMkNkJUMzJUE5ZmkzJTJDVW5pdDYlMkNzdWJqb25jdGlmJTJDcGFzcyVDMyVBOSUyMGNvbXBvcyVDMyVBOQ==" data-listing-date-sort="1769382000000" data-listing-file-modified-sort="1769529839965" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1574">
-<div class="thumbnail"><a href="./af-nice-b1/lesson-01/index.html" class="no-external">
+</section>
+<section id="les-mots-dans-la-rue" class="level3">
+<h3 class="anchored" data-anchor-id="les-mots-dans-la-rue">Les mots dans la rue</h3>
+<p>soûler, se soûler : to get drunk<br>
+prendre un cuit: to get wasted<br>
+gueule de bois : hangover<br>
+on va mettre la petite soeur : we’re going to get drunk<br>
+se mettre une caisse : to get wasted<br>
+être torchon carpette: to be wasted<br>
+une quille: a joint<br>
+faire reflechir sur qch: to make think about sth<br>
+une campagne de sensibilisation: awareness campaign</p>
 
-<div class="listing-item-img-placeholder card-img-top" style="height: 200px;">&nbsp;</div>
 
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./af-nice-b1/lesson-01/index.html" class="no-external">Lesson 1</a>
-</h3>
-<div class="listing-categories">
+</section>
+</section>
+</section>
 
-<div class="listing-category" onclick="window.quartoListingCategory('QUYlMjBOaWNl'); return false;">AF Nice</div>
 
-<div class="listing-category" onclick="window.quartoListingCategory('QjE='); return false;">B1</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('ZCVDMyVBOWZpMw=='); return false;">défi3</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('VW5pdDY='); return false;">Unit6</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('c3Viam9uY3RpZg=='); return false;">subjonctif</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('cGFzcyVDMyVBOSUyMGNvbXBvcyVDMyVBOQ=='); return false;">passé composé</div>
-
-</div>
-<div class="delink listing-description"><a href="./af-nice-b1/lesson-01/index.html" class="no-external">
-s’est dévouée → se dévouer Chouchouter → prendre soin de quelqu’un
-</a></div>
-</div>
-<div class="metadata">
-<a href="./af-nice-b1/lesson-01/index.html" class="no-external">
-<div class="listing-date">
-Jan 26, 2026
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
