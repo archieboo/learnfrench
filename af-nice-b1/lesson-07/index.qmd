@@ -1,0 +1,60 @@
+---
+title: "Lesson 7"
+date: "2026-2-6"
+categories: ["AF Nice", "B1", "Défi3", "Unit7" ]
+reference-location: margin
+citation-location: margin
+number-sections: false
+---
+
+# Standard course
+
+## DES INITIATIVES EN FRANCOPHONIE CONTRE LE PLASTIQUE
+
+Si on ne fait rien, en 2050, il y aura dans les océans plus de plastique que de poissons. Face à ce constat[^1a1] terrifiant[ˆ1a2], en 2018, des pays comme Bénin ou des villes comme Montréal ont interdit les sacs en plastique.
+Aux Seychelles, une campaigne de sensibilisation a conduit à l'interdiction des pailles en plastique à usage unique sur l'archipel[^1a3]. Mais que peut-on faire au niveau individuel? Focus sur quelques initiatives écocitoyennes.
+
+[^1a1]: constat = observation, fait
+[^1a2]: terrifiant = effrayant, inquiétant
+[^1a3]: archipel = groupe d'îles
+
+#### Au Congo
+
+Bien que la République du démocratique du Congo ait interdit officiellement les sacs plastiques en 2012 pour résoudre[^2a1] le problème des déchets plastiques, ils sont toujours distribués surs les marchés et finissent souvent dans le fleuve[^2a2] congo. À Bunia, dans le nord-est du pays, Toussaint Bobo tente[^2a3] de sensibiliser les habitants au recyclage, en transformant les déchets plastiques en objets d'artisant qu'il vend sur les marchés (des sacs à main, des babouches[^2a4] ou des vêtements). Avec cette modeste initative, Toussaint Bobo arrive à vivre et à faire travailler une vingtaine de personnes. 
+
+[^2a1]: résoudre = régler, trouver une solution à
+[^2a2]: fleuve = rivière de grande taille
+[^2a3]: tenter = essayer de
+[^2a4]: babouches = chaussures traditionnelles
+
+#### En France
+
+Les pailles sont l'un des déchets plastiques les plus retrouvé sur les plages. Dans la restauration rapide, on en jette chaque jour près de neuf millions! C'est pourquoi, au lycée Kléber à Strasbourg, huit élèves et un prof d'économie ont décidé de se mobiliser en créant une entreprise. Ils ont consacré du temps et beaucoup d'énergie à leur projet. Résultat? PopStraw, une mini-entreprise produisant des pailles qui se décomposent en six à neuf mois. Beaucoup de bars strassbourgeois se fournissent[^3a1] auprès[^3a2] de PopStraw, et certains supermarchés de la région commercialisent désormais[^3a3] les pailles écolo.
+
+[^3a1]: se fournir chez = acheter auprès de
+[^3a2]: auprès de = chez, à côté de
+[^3a3]: désormais = maintenant, à présent
+
+#### En Belgique
+
+Le mouvement citloyent Plastic Attack dénonce le suremballage dans nos grandes surfaces. En se réunissant dans les supermarchés pour liberer les produits suremballés de leur plastique (après les avoir payés!). Leur but? Alerter et responsabiliser[^4a1] les chaînes[^4a2] de grande distribution de manière pacifique et participative[^4a3]. Plastic Attack existe aussi en France, où le groupe a lancé une pétition en ligne pour demander aux supermarchés d'éliminer de leurs rayons les emballages plastique inutiles. Et ça semble marcher, certain supermarchés ont déjà pris des engagements. 
+
+[^4a1]: alerter = prévenir, avertir; responsabiliser = faire prendre conscience de ses responsabilités
+[^4a2]: chaîne = groupe de magasins
+[^4a3]: pacifique = non violent; participatif = qui implique la participation de tous
+
+
+## LES VERBES DE LÉNGAGEMENT CITOYEN
+
+- Résourdre *qc* (trouver une solution à un problème)  
+- Sensibiliser *qn* à *qc* (faire prendre conscience de l'importance de quelque chose)  
+- Consacrer *qc* à *qc/qn* (dédier du temps, de l'énergie à une cause ou à une personne)  
+- Dénoncer *qc* (exprimer une critique ou une dénonciation)  
+- Alerter *qn* de / sur / à propos de *qc* (prévenir quelqu'un d'un danger ou d'une situation préoccupante)  
+- Responsabiliser *qn* de / sur / à propos de *qc* (faire prendre conscience à quelqu'un de ses responsabilités concernant quelque chose)  
+
+
+
+
+
+
