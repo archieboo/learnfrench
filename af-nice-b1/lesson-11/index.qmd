@@ -1,0 +1,115 @@
+---
+title: "Lesson 11"
+date: "2026-2-9"
+categories: ["AF Nice", "B2", "Défi4", "Unit1" ]
+reference-location: margin
+citation-location: margin
+number-sections: false
+---
+
+# Standard course
+
+## LE TEXT
+
+### LES GRANDES TENDANCES DE L'URBANISME DU FUTUR
+
+Selon l'ONU, 66% de la population mondiale vivra en zones urbaines d'ici 2050 (2% au début du XIXème siècle, 30% en 1950, 54% en 2015). L'exode[^1a1] rural, qui coïncide toujours avec le développement industriel, atteint[^1a2] des niveaux très élevés en Inde, en Chine et au Nigeria. La grande variété de tailles et de niveaux de développement, ajoutée[^1a3] aux différences de politiques publiques et de comportements[^1a4] sociétaux, exclut[^1a5] qu'il y ait un seul type de ville du futur. Cependant, malgré les différences, il est possible de dégager[^1a6] quatre grandes tendances dans l'évolution des villes.
+
+
+[^1a1]: exode = an exodus
+[^1a2]: atteindre = to reach
+[^1a3]: ajouter = to add, ajouter qc à qc
+[^1a4]: behaviors
+[^1a5]: exclure que = excludes that
+[^1a6]: dégager = to identify, dégager qc de qc
+
+#### Les écoquartiers
+
+Immeubles au bilan[^2a1] énergétique positif, écoquartiers[^2a2], métropoles vertes: les territoires, à différentes échelles[^2a3], prennent de plus en plus d'importance. Leur ambition est de se rapprocher[^2a4] des principes du développement durable. Ils aspirent, en particulier, produire eux-mêmes leur énergie renouvelable et à l'autoconsommer[^2a5] sur place pour chauffer l'habitat, alimenter les équipements électriques, assurer la mobilité et soutenir[^2a6] une industrie de proximité. 
+
+
+[^2a1]: bilan = balance sheet, bilan énergétique = energy balance
+[^2a2]: écoquartier = eco-neighborhood
+[^2a3]: at different scales, échelle = scale
+[^2a4]: se rapprocher de = to get closer to
+[^2a5]: autoconsommer = to self-consume
+[^2a6]: soutenir = to support
+
+#### Le big data urbain
+
+Les données numériques sont aujourd'hui partout dans la gestion[^3a1] urbaine. On les utilise notamment pour maîtriser[^3a2] les dépenses énergétiques des immeubles, car elles permettent d'avoir une meilleure connaissance de la consommation des foyers. Les données collectées par des capteurs[^3a3] et les systèmes de géolocalisation permettent aussi de mieux gérer les flux[^3a4] de circulation. De plus, les enregistrements[^3a5] vidéo ont été multipliés pour garantir une meilleure sécurité en ville. Les services publics et l'administration des citoyens se numérisent à tous les niveaux. Ce big data impose de nouvelles régulations pour assurer à la fois une gestion efficace[^3a6] et la liberté individuelle des citoyens.
+
+
+[^3a1]: mangement, administration, governance
+[^3a2]: maîtriser = to control, to master
+[^3a3]: capteur = sensor
+[^3a4]: flux = flow
+[^3a5]: enregistrement = recording
+[^3a6]: efficace = efficient
+
+#### Les espaces de vie
+
+Après des années d'aspiration à la maison individuelle, la densification des villes est recommandée par de nombreux urbanistes pour éviter un étalement[^4a1] qui menace[^4a2] les zones rurales et les espaces naturels. Cette approche de l'urbanisation a également pour objectif de rapprocher[^4a3] le lieu de travail du domicile. Par ailleurs, la réintroduction des végétaux sur les friches[^4a4] industrielles ou autour des immeubles ("les coulées vertes") permet d'augmenter la capacité des zones urbaines à capter le $CO_2$ et de réduire la chaleur urbaine. 
+
+
+[^4a1]: étalement = sprawl, extension
+[^4a2]: menacer = to threaten, menacer de faire qc = to threaten to do something
+[^4a3]: rapprocher = to bring closer, rapprocher qc de qc = to bring something closer to something
+[^4a4]: friche = wasteland
+
+#### La mobilité
+
+L'accroissement[^5a1] de la population urbaine demande une meilleure gestion des déplacements. De la notion de "transports urbains", on est passé au concept de "mobilité" qui indique la diversification des moyens de déplacement, la nécessité de les connecter, et la variété des usages. Les moyens de déplacement se multipplient: tramways automatiques, télephériques[^5a2], véhicules autonomes[^5a3], vélos, trottinettes ou hoverboards. Les usages se diversifient: autopartage, covoiturage, location en liber-service de voitures ou de vélos, transport à la demande avec réservation par applications mobiles, etc.
+
+[^5a1]: accroissement = increase, growth
+[^5a2]: téléphérique = cable car
+[^5a3]: véhicules autonomes = autonomous vehicles
+
+
+
+## Activité 1 : Mise en route
+
+Échangez en petits groupes. 
+
+#### Comment imaginez-vous la ville de demain ? 
+
+Groupe 1 : ChatGPT - l’utilisation de l’électricité - digital - augmentation de la population  
+Groupe 2 : Autonomisation - IA - une voiture autonome - l’influence de l’IA sur la recherche - changement climatique  
+Groupe 3 : IA et les changements dans le monde - le travail (moins de travail manuel) - classe économique 
+
+#### Quel type de villes du futur présentent-elles ? 
+
+Image 1 : une éolienne - un panneau solaire : énergie renouvelable. Ville écolo  
+Image 2 : connexion - digitalisation - icônes Internet. Ville connectée.  
+Image 3 : jardin vertical - gratte-ciel. Ville verte.   
+Image 4 : interconnexion - mode de transport. Ville mobile.   
+
+## Activité 2 : Compréhension écrite
+
+#### Lecture des paragraphes
+
+En petits groupes. Lisez chacun un paragraphe, puis présentez-le aux autres.   
+Paragraphe 1 : Favoriser l’autoproduction énergétique, importance aux énergies renouvelables.   
+Paragraphe 2 :Volonté actuelle des urbanistes à densifier les zones urbaines. Les données numériques pour maîtriser les dépenses energétiques. et pour gérer le flux de circulation.   
+Paragraphe 3 : Réintroduire des végétaux pour réduire la chaleur. Plus de densification dans les villes pour éviter les menaces dans les espaces ruraux + de végétaux dans la ville en général (bâtiment) et augmenter la capacité de CO2.  
+Paragraphe 4 : Croissance de la population, il y aura un changement des modes de transports, ça deviendra + public qu’individuel (voiture → covoiturage).   
+
+
+
+## Devoirs
+
+:::{.callout-important}
+#### devoirs
+Pour le mardi 10 février    
+
+- Apprendre le vocabulaire.  
+- Répondez à la question suivante à l’écrit (environ 10 lignes) :  
+  **_À quoi ressemblerait votre ville en 2030 ?_**
+
+:::
+
+
+> 
+Une grande ville d'economie, science, technologie, et politiques, Chicago est en train de se placer bien pour réinventer elle-même pour le futur. Grâce à une serie d'initiatives ecologiques, les friches industrielles au long du canal ont transformé aux espaces verts urbains. En 2030, plus de zones industrielles au long de la rivière Chicago et les chemins de fer désertés transformeront aux industries plus écologique. Les frontières du lac seront non seulement les espaces verts pour les habitants mais aussi fonctionneront comme infrastructures climatiques qui protegent la ville contre les inondations et les chaleurs. La majorité de l'infrastructure transport sera hyper connectée et equipée avec intelligence qui permet de "tout à heure" (real-time) données numeriques et donc facilite  meilleures circulations. Par ailleurs, la ville embrassera les modes electriques. La plupart de la rue s'installera des équipements pour se recharger. De plus, la ville mettra nouvelles politiques ecologiques pour combattre contre les changements climatiques, inclus des meilleures isolations de bâtiments etc. En fin, Chicago c'est une ville pour la population et les citoyens de Chicago en général soutiennent les politiques qui assurent le futur de la ville et des gens.
+
+
