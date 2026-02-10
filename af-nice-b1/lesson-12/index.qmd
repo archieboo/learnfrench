@@ -70,69 +70,83 @@ Mais tous ceux qui essayaient de sortir étaient aussitôt[^4a1] capturés par l
 ## Activité 1 : Mise en route
 
 Qu’est-ce qu’un roman ?   
-C’est une histoire écrite qui a été publiée.   
-Histoire d’amour - fiction - aventure - science fiction   
-Lire pour le plaisir   
+
+- C’est une histoire écrite qui a été publiée.   
+- Histoire d’amour - fiction - aventure - science fiction   
+- Lire pour le plaisir   
 
 Quel(s) roman(s) français connaissez-vous ?   
-Albert Camus : L’étranger - La peste  
-Antoine de St Exupéry : Le petit prince  
-Alexandre Dumas : Le comte de Monte-Cristo - Les trois mousquetaires  
-Jean-Paul Sartre  
-Guy de Maupassant   
-Victor Hugo   
-Molière   
-Simone de Beauvoir   
+
+- Albert Camus : L’étranger - La peste  
+- Antoine de St Exupéry : Le petit prince  
+- Alexandre Dumas : Le comte de Monte-Cristo - Les trois mousquetaires  
+- Jean-Paul Sartre  
+- Guy de Maupassant   
+- Victor Hugo   
+- Molière   
+- Simone de Beauvoir   
 
 
 ## Activité 2 : Compréhension écrite
 
-Livre de l’élève p.25  
+**Livre de l’élève p.25**
+
 Première lecture  
 Lisez l’extrait du roman Les furtifs d’Alain Damasio. Que raconte le narrateur ?   
 
-💡Pour vous aider :   
-Les caractéristiques du fonctionnement de la ville :   
-Quelle est la comparaison ?   
-Quelle est la critique ?   
+Pour vous aider :   
 
-C’est l’histoire d’une ville qui a été vendue / privatisée. L’entreprise à fait 3 classes sociales. Les gens qui ne pouvaient pas payer pour avoir accès à ce service, n’avaient pas d’endroits où vivre. Ils se révoltent.   
-Les gens qui se révoltent n’ont pas réussi de lutter contre les entreprises / la situation.   
-→ Privatisation des services publics / augmentation des loyers / surveillance publique   
+- Les caractéristiques du fonctionnement de la ville :   
+- Quelle est la comparaison ?   
+- Quelle est la critique ?   
+
+
+<br>
+
+- C’est l’histoire d’une ville qui a été vendue / privatisée. L’entreprise à fait 3 classes sociales. Les gens qui ne pouvaient pas payer pour avoir accès à ce service, n’avaient pas d’endroits où vivre. Ils se révoltent.   
+- Les gens qui se révoltent n’ont pas réussi de lutter contre les entreprises / la situation.   
+- → Privatisation des services publics / augmentation des loyers / surveillance publique   
   
-À votre avis, pourquoi les expressions villes “libérées” et “redynamiser le centre urbain” sont-elles entre guillemets ?   
-Pour convaincre le public   
-Ironie   
-Pour mettre de la distance avec l’idée.   
+À votre avis, pourquoi les expressions villes “libérées” et “redynamiser le centre urbain” sont-elles entre guillemets[^6a1] ?   
+
+- Pour convaincre le public   
+- Ironie   
+- Pour mettre de la distance avec l’idée.   
+
+
+[^6a1]: guillemet = quotation mark, inverted commas, quote marks
+
+
+
 
 ## Activité 3 : Grammaire  
 
-**Livre de l’élève p.27**  
+**_Livre de l’élève p.27_**  
 
 ### Étape 1 : Réflexion  
 
 **Lisez ces phrases extraites du roman d’Alain Damasio.**
 
-C’était le statut même de la ville qui se jouait. Tout le monde le sentait. 
+> C’était le statut même de la ville qui se jouait. Tout le monde le sentait. 
 
 Que remplace le pronom le ?   
-Le pronom remplace la proposition.   
+
+- Le pronom remplace la proposition.   
 
 **Réécrivez la phrase sans le pronom.** 
 
-	Tout le monde sentait que c’était le statut même de la ville qui se jouait.   
+> Tout le monde sentait que c’était le statut même de la ville qui se jouait.   
 
 ### Étape 2 : La règle   
 
-**Le pronom neutre le peut remplacer :   **  
-** Un adjectif**
+**Le pronom neutre le peut remplacer : **
 
-Exemple  : C’est une ville magnifique et elle le sera toujours. 
+- Un adjectif
+  - Exemple  : _C’est une ville magnifique et elle le sera toujours._
 
 
-**Une proposition / une phrase ou une idée**
-
-Exemple : C’était le statut même de la ville qui se jouait. Tout le monde le sentait. 
+- Une proposition / une phrase ou une idée
+  - Exemple : _C’était le statut même de la ville qui se jouait. Tout le monde le sentait._
 
 
 ### Étape 3 : Exercices 
@@ -154,26 +168,93 @@ Elle va annoncer le nouveau projet qu’elle a pour la ville la semaine prochain
   
 **À deux, imaginez ce que remplace le pronom neutre le dans les phrases suivantes : **
 
-Les villes le sont de plus en plus.   
-Chères   
-Les citadins le sont de moins en moins.   
-Les entreprises du numérique le veulent.   
-Les élus l’oublient quelquefois.  
-Les élus oublient quelquefois la qualité de vie dans la banlieue.   
-La professeure le dit souvent.   
-Attends   
+- Les villes le sont de plus en plus.   
+- Chères   
+- Les citadins le sont de moins en moins.   
+- Les entreprises du numérique le veulent.   
+- Les élus l’oublient quelquefois.  
+- Les élus oublient quelquefois la qualité de vie dans la banlieue.   
+- La professeure le dit souvent.   
+- Attends   
   
-**Dites vos réponses à un autre binôme qui doit deviner à quelle phrase elles correspondent.  **
 
-Vocabulaire  
-Un fumigène (n.m)  
-Un forfait (n.m)  
-Tenir bon (exp.) = résister (v.)   
-Un huissier (n.m)  
-Dérisoire (adj.)   
-Un guillemet (n.m)  
+### Vocabulaire  
+
+- Un fumigène (n.m)  
+- Un forfait (n.m)  
+- Tenir bon (exp.) = résister (v.)   
+- Un huissier (n.m)  
+- Dérisoire (adj.)   
+- Un guillemet (n.m)  
   
   
-  
+------------  
+
+## Devoirs
+
+:::{.callout-warning}
+##### Devoirs
+Pour le mercredi 11 février  
+
+Revoir la leçon de grammaire sur le pronom neutre `le`.   
+:::
+
+###  Faire l’exercice suivant : 
+
+#### Exercice : Modifiez la réponse en utilisant le pronom `le` pour éviter la répétition.  
+
+**Exemple:**  
+
+- Est-ce que ma commande est prête, s'il vous plaît?  
+- Attendez... Non, elle n'est pas encore prête, elle sera prête dans une heure.  
+
+> → Attendez... Non, elle ne l’est pas encore, elle le sera dans une heure.  
+
+**a).**   
+
+- Lucas Pouille n'est pas le meilleur joueur français!  
+- Non, mais il sera bientôt le meilleur joueur français, j'en suis certain.  
+
+> → Non, mais il `le` sera bientôt, j'en suis certain.
+
+**b).**
+
+- Le studio, il est en bon état[^7a3]?  
+- Oui, il est en bon état: il a été refait l'année dernière.  
+
+> → Oui, il `l`'est: il a été refait l'année dernière.
+
+**c).**  
+
+- Est-ce que Julie a invité Alice à son mariage?  
+- Je ne crois pas qu'elle ait invité Alice à son mariage.  
+
+> →  Je ne `le` crois pas.
+
+**d).**  
+
+- Tu as contacté Pasquier pour la réparation?  
+- Non! Personne ne m'a demandé de contacter Pasquier pour la réparation!  
+
+> →  Non! personne ne me `l`'a demandé.
+
+
+**e).**   
+
+- Tu n'es plus fâchée[^7a1] avec Lorène?  
+- Moi, fâchée ? Mais je n'ai jamais été fâchée!  
+
+> →  Moi, fâchée? Mais je ne `l`'ai jamais été!
+
+**f).**  
+
+- Bon, puisque[^7a2] c'est comme ça, je pars!  
+- Mais non, je t'interdis de partir!  
+
+> →  Mais non, je `le` interdis!
+
+[^7a1]: angry, upset, mad
+[^7a2]: since, as, because
+[^7a3]: condition, state
 
 

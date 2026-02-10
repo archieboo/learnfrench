@@ -18,7 +18,19 @@ format: revealjs
 
 Class notes and exercises for my B1 course at AF-Nice.
 
+:::{.columns}
+
+::::{.column width="49%"}
 [![](af-nice-b1/defi3-cover.png){width=180px}](af-nice-b1.html)
+::::
+
+::::{.column width="2%"}
+::::
+
+::::{.column width="49%"}
+[![](af-nice-b1/defi4-cover.png){width=180px}](af-nice-b1.html)
+::::
+:::
 
 # Le Nouveau Taxi 3
 
