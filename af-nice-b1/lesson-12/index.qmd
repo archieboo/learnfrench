@@ -11,67 +11,169 @@ number-sections: false
 
 ## LE TEXT
 
-### QUELLES TRANSPORMATIONS LA VILLE INTELLIGENTE ENGENDRERA-T-ELLE?
+### EXTRAIT DU ROMAN "*LES FURTIFS, D'ALAIN DAMASIO*"
 
 
-Cette communication propose d'analyser les attraits[^1a1] des villes intelligentes pour les autorités publiques ainsi que[^1a2] les menaces qui en découlent[^1a3]. Ensuite, je terminerai en montrant les impacts que peut avoir l'exploitation des données numeriques sur les citoyens et la démocratie.
+Alors, notre ville...? Comment s'est-elle construite? D'où sort-elle?... 
 
-[^1a1]: attractiveness
-[^1a2]: ainsi que = as well as
-[^1a3]: découler = to result from
+Une ville dite "libérée" est une ville soustraite[^1a1] à la gestion publique et intégralement détenue[^1a2] et gérée par une entreprise privée. Son maire est nommé par les actionnaires[^1a3], à la majorité simples des parts[^1a4]. En 2030, la ville de vos parents, qui s'applait Orange, a donc été rachetée par la multinationale du même nom, pour un prix dérisoire[^1a5]. ... 
 
-Intelligence technique, sysèmique, politique et culturelle... Il y a tellement de conceptions de *smart cities* que j'ai centré mon étude sur les villes qui collectent et traitent des données numériques pour optimiser leur fonctionnement. Dans ces villes, les autorités publiques travaillent notamment à fluidifier[^2a1] la mobilité urbaine, optimiser la consommation énergétique et améliorer la gestion de l'eau et des déchets. Malgré leurs enjeux[^2a2] communs, les objectifs visés[^2a3] par une ville comme Bankok sont assez éloignés[^2a4] de ceux d'Amsterdam. C'est pourquoi aucunne ville intelligente ne se ressemble vraiment. Néanmoins, elles partagent toutes un objectif ambitieux : vivre de mieux en mieux[^2a5] en ensemble. À Singapour, l'analyse du big data a permis, entre autres[^2a6], l'amélioration de la sécurité. 
+[^1a1]: soustraitre = to remove, to take away, to subtract
+[^1a2]: intégralement détenue = fully owned, entirely owned, détenir = to own, to hold
+[^1a3]: actionnaires = shareholders
+[^1a4]: à la majorité simple des parts = by a simple majority of shares
+[^1a5]: dérisoire = derisory, ridiculously low, paltry, negligible
 
-[^2a1]: fluidifier = to make more fluid
-[^2a2]: enjeux = stakes
-[^2a3]: visé = aimed at
-[^2a4]: far from, éloigner = to move away from
-[^2a5]: vivre de mieux en mieux = to live better and better
-[^2a6]: entre autres = among other things
+Je vous rappelle que Paris, racheté par LVMH, ou Cannes, racheté par la Warner, ont vendu leur nom à des prix astronomiques. ...
 
 
-Les mérites[^3a1] des villes intelligentes sont indéniables de sorte que[^3a2] certains élus[^3a3] les considèrent comme le remède[^3a4] à tous les maux. Par exemple, la proposition d'aménagement du quartier en friche de Quayside à Toronto (par Sidewalk Labs, filiale de Google) présente des innovations audacieuses: rues chauffants, Abribus capables de se déployer automatiquement en cas d'intempéries[^3a5], couloirs[^3a6] réservés aux différents modes de transport pouvant changer en fonction du trafic... Les avantages sont nombreux, au point qu'on[^3a7] pourrait oublier que dangers existent. L'usage abusif du big data conduit à une surveillance de masse des citoyens, si bien qu'on[^3a8] peut légitimement se demander: qui gourvernera la ville de demain? De ce fait, j'exposerai[^3a10] les menaces que représente l'exploitation des données numériques par une entreprise privée, car cette mainmise[^3a9] pourrait amener cette entreprise à devenir "propriétaire" de la ville.
+Alors, Orange a commencé par faire ce qu'ils font dans toutes les villes "libérées". Ils ont mis en place leurs trois forfaits[^2a1] citoyens: un forfait priviège pour les citoyens aisés[^2a2] et leur famille, un forfait premium pour les classes moyennes, et un forfait standard pour les plus démunis[^2a3]. Et à ceux qui ne pouvaient pas payer le forfait standard, ils ont proposé de partir. D'abord gentiment, avec une prime de départ[^2a4], puis un peu moins courtoisement avec des lettres et des huissiers[^2a7], puis encore moins courtoisement[^2a5] avec les retrait[^2a6] des aides sociales et l'interdiction de l'école aux enfants. Ça a suffis neuf fois sur dix. Mais les dix pour cent restant n'ont pas voulu céder et ils se sont battus[^2a8] jusqu'au bout[^2a9]. Afin de[^2a10] garder[^2a11] leur logement et de rester citoyens de la ville. ...
 
-[^3a1]: mérites = merits
-[^3a2]: de sorte que = so that
-[^3a3]: élus = elected officials
-[^3a4]: remède = remedy
-[^3a5]: intempéries = bad weather
-[^3a6]: couloirs = lanes
-[^3a7]: au point que = to the point that
-[^3a8]: si bien que = so much so that
-[^3a9]: mainmise = control
-[^3a10]: exposer = to expose, to present
-
-
-La ville est une société où cohabitent la vidéosurveillance, les réseaux sociaux et les objets connectés. Ces nouvelles formes de surveillance et de contrôle de la population sont sournoises[^4a1]. Tout est miniaturisé[^4a2] et caché: capteurs, caméras et objets connectés sont omniprésents et espionnent[^4a3] les habitants avec ou sans leur consentement. La collecte et l'analyse de toutes ces données (itinéraires, achats, propos sur les réseaux sociaux...) mènent[^4a4] à une société panoptique[^4a5] menaçant[^4a6] notre vie privée et la démocratie. D'où la nécessité d'instaurer des mesures pour que la "*smartification*" des villes se fasse dans l'intérêt de chacun et pas uniquement pour le profit de quelques géants du numérique. C'est la raison pour laquelle je présenterai plusieurs solutions pour la protection des données, telles[^4a7] les techniques d'anonymisation ou le développement de technologies protectrices de la vie privée. 
+[^2a1]: forfait = package, plan, subscription
+[^2a2]: aisé = wealthy, affluent
+[^2a3]: démunis = destitute, deprived, underprivileged
+[^2a4]: prime de départ = severance pay, departure bonus, prime = bonus, allowance
+[^2a5]: courtoisement = courteously, politely, with courtesy
+[^2a6]: retrait = withdrawal, removal
+[^2a7]: huissier = bailiff, court officer
+[^2a8]: se battre = to fight, to struggle
+[^2a9]: jusqu'au bout = until the end, to the end
+[^2a10]: afin de = in order to
+[^2a11]: garder = to keep, to retain
 
 
-[^4a1]: sournois = sneaky, underhanded
-[^4a2]: miniaturized, miniaturiser = to miniaturize
-[^4a3]: espionner = to spy on
-[^4a4]: mener à = to lead to
-[^4a5]: a society where everyone is under constant surveillance, named after the Panopticon prison design where inmates could be watched at all times without knowing when they were being observed
-[^4a6]: menacer = to threaten
-[^4a7]: telles que = such as, telles = such as, note the agreement with the plural noun "mesures" (feminine plural)
+Orange a commencé par déstruire des cités et des tours[^3a1], pour "redynamiser le centre urbain", en expulsant[^3a2] les habitants et en les relogeant[^3a3] hors de la ville, dans les hôtels-péniches[^3a4] que vous connaissez, sur le Rhône. Toutefois[^3a5] une tour a tenu bon[^3a6]. On l'a vite rebaptisée[^3a7] la Tour-Rouge à cause des fumigènes[^3a8] qui brûlaient toutes les nuits sur le toit[^3a9], pour flouer[^3a10] les drones. Orange a choisi la voie jurisdique dure et a décidé d'en faire le siège, pendant plus de cent jours. Après un mois, les habitants de la tour ont commencé crever[^3a11] de faim, ils étaient heureusement ravitaillés[^3a12] par les caves, par les toits, des drones pirates les livraient[^3a13] sur les balcons...
+
+[^3a1]: cité = housing estate, tower block, cité = city, town; tour = tower, here refers to high rise buildings for housing
+[^3a2]: expulser = to evict, to expel, to remove
+[^3a3]: reloger = to rehouse, to relocate
+[^3a4]: hôtel-péniche = hotel barge, a hotel on a boat, péniche = barge
+[^3a5]: toutefois = however, nevertheless, nonetheless
+[^3a6]: tenir bon = to hold out, to hold firm, to stand firm, tenir = to hold, to keep
+[^3a7]: rabaptiser qch = to rename sth
+[^3a8]: fumigène = smoke bomb
+[^3a9]: toit = roof, top
+[^3a10]: flouer = to deceive, to trick, to fool
+[^3a11]: crever de faim = to starve, to die of hunger, crever = to burst, to die
+[^3a12]: ravitailler = to supply, to provide, to resupply
+[^3a13]: livrer = to deliver, to supply
+
+Mais tous ceux qui essayaient de sortir étaient aussitôt[^4a1] capturés par les milices[^4a2] et incarcérés[^4a3] pour violation du droit de propriété. La résistance était âpre[^4a4] parce que c'était le statut même de la ville qui se jouait[^4a5] là-bas. Tout le monde le sentait. Si la Tour-Rouge tombait, les gens savaient que cette ville cesserait de fonctionner comme une démocratie. 
+
+[^4a1]: aussitôt = immediately, as soon as
+[^4a2]: milice = militia
+[^4a3]: incarcérer = to incarcerate
+[^4a4]: âpre = rough, tough, fierce, harsh
+[^4a5]: se jouer = to be at stake
 
 
-Dans le cadre de cette communication, je questionnerai le discours binaire[^5a1] opposant "fascination technologique" et "peur de Big Brother". Comme le précise[^5a2] l'économiste Jean Haëntjens, deux visions de la ville du futur sont en train de se dessiner: "D'un côté, la cité politique, dirigée[^5a3] par un maire élu par des citoyens, qui se fixe[^5a4] des ambitions à long terme en visant un intérêt général; de l'autre, la ville-service numerisée, pilotée par les 'maîtres des algorithmes', et qui vise à repondre en temps réel aux demandes des usages." La démocratie n'est pas forcément[^5a5] condamnée, c'est aux citadins de choisir, puisqu'ils sont à la fois citoyens et usagers. 
+## Activité 1 : Mise en route
 
-[^5a1]: binaire = binary, opposant = opposing
-[^5a2]: noted, préciser = to specify, to clarify, to point out
-[^5a3]: dirigé = directed, dirigé par = led by
-[^5a4]: se fixer = to set oneself, to set goals
-[^5a5]: pas forcément = not necessarily
+Qu’est-ce qu’un roman ?   
+C’est une histoire écrite qui a été publiée.   
+Histoire d’amour - fiction - aventure - science fiction   
+Lire pour le plaisir   
+
+Quel(s) roman(s) français connaissez-vous ?   
+Albert Camus : L’étranger - La peste  
+Antoine de St Exupéry : Le petit prince  
+Alexandre Dumas : Le comte de Monte-Cristo - Les trois mousquetaires  
+Jean-Paul Sartre  
+Guy de Maupassant   
+Victor Hugo   
+Molière   
+Simone de Beauvoir   
 
 
+## Activité 2 : Compréhension écrite
+
+Livre de l’élève p.25  
+Première lecture  
+Lisez l’extrait du roman Les furtifs d’Alain Damasio. Que raconte le narrateur ?   
+
+💡Pour vous aider :   
+Les caractéristiques du fonctionnement de la ville :   
+Quelle est la comparaison ?   
+Quelle est la critique ?   
+
+C’est l’histoire d’une ville qui a été vendue / privatisée. L’entreprise à fait 3 classes sociales. Les gens qui ne pouvaient pas payer pour avoir accès à ce service, n’avaient pas d’endroits où vivre. Ils se révoltent.   
+Les gens qui se révoltent n’ont pas réussi de lutter contre les entreprises / la situation.   
+→ Privatisation des services publics / augmentation des loyers / surveillance publique   
+  
+À votre avis, pourquoi les expressions villes “libérées” et “redynamiser le centre urbain” sont-elles entre guillemets ?   
+Pour convaincre le public   
+Ironie   
+Pour mettre de la distance avec l’idée.   
+
+## Activité 3 : Grammaire  
+
+**Livre de l’élève p.27**  
+
+### Étape 1 : Réflexion  
+
+**Lisez ces phrases extraites du roman d’Alain Damasio.**
+
+C’était le statut même de la ville qui se jouait. Tout le monde le sentait. 
+
+Que remplace le pronom le ?   
+Le pronom remplace la proposition.   
+
+**Réécrivez la phrase sans le pronom.** 
+
+	Tout le monde sentait que c’était le statut même de la ville qui se jouait.   
+
+### Étape 2 : La règle   
+
+**Le pronom neutre le peut remplacer :   **  
+** Un adjectif**
+
+Exemple  : C’est une ville magnifique et elle le sera toujours. 
 
 
+**Une proposition / une phrase ou une idée**
+
+Exemple : C’était le statut même de la ville qui se jouait. Tout le monde le sentait. 
 
 
+### Étape 3 : Exercices 
 
 
+**Cahier d’activité p.10**  
+**Réécrivez les phrases suivantes en remplaçant ce qui est en gras par le pronom le.**
+  
+Je lui ai répété plusieurs fois d’être plus économe mais rien ne change.   
+→   
+Il est sublime, sans aucun doute !   
+→   
+Nous souhaitons que ça change et nous ferons tout pour avoir ce changement.   
+→   
+Vous dites que vous vous excusez mais vous ne pensez pas vos excuses.   
+→   
+Elle va annoncer le nouveau projet qu’elle a pour la ville la semaine prochaine.   
+→   
+  
+**À deux, imaginez ce que remplace le pronom neutre le dans les phrases suivantes : **
 
+Les villes le sont de plus en plus.   
+Chères   
+Les citadins le sont de moins en moins.   
+Les entreprises du numérique le veulent.   
+Les élus l’oublient quelquefois.  
+Les élus oublient quelquefois la qualité de vie dans la banlieue.   
+La professeure le dit souvent.   
+Attends   
+  
+**Dites vos réponses à un autre binôme qui doit deviner à quelle phrase elles correspondent.  **
 
+Vocabulaire  
+Un fumigène (n.m)  
+Un forfait (n.m)  
+Tenir bon (exp.) = résister (v.)   
+Un huissier (n.m)  
+Dérisoire (adj.)   
+Un guillemet (n.m)  
+  
+  
+  
 
 
