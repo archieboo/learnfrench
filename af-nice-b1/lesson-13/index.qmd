@@ -64,9 +64,87 @@ Dans le cadre de cette communication, je questionnerai le discours binaire[^5a1]
 [^5a4]: se fixer = to set oneself, to set goals
 [^5a5]: pas forcément = not necessarily
 
+## Activité 3 : Grammaire
+
+*Livre de l’élève p.26*  
+
+### Étape 1 : Réflexion   
+
+#### Dans les phrases ci-dessous, qu'est-ce que les termes en gras introduisent?  
+
+- *Les avantages sont nombreux (cause)*, au point qu'on pourrait oublier que des dangers existent (conséquence).
+  - Intensité
+
+- Il y a tellement de conceptions de smart cities que j'ai centré mon étude sur les villes qui traitent les données.
+  - Intensité 
+
+Convaincre les lecteurs de son point de vue.
+
+#### À deux, lisez ces phrases. Qu'introduisent les verbes en gras? Reformulez les phrases avec des verbes différents.
+
+- L'analyse du big data a permis l'amélioration de la sécurité.  
+  - → L’analyse du big data a aidé / a facilité / a favorisé / a provoqué / à rendre possible l’amélioration de la sécurité.  
+
+- Les villes intelligentes engendreront des transformations.  
+  - → Les villes intelligentes produiront / provoqueront / concevront / conduiront à / mèneront à / généreront des transformations.
+
+- L'usage du big data conduit à une surveillance de masse.  
+  - → L’usage du big data produit / a permis / donne naissance à / entraîne / mène à / a pour conséquence / a provoqué une surveillance de masse.
+
+### Étape 2 : La règle 
+
+**Pour exprimer la conséquence, on peut utiliser :**   
+
+- Un connecteur : donc, ainsi, du coup (à l’oral), par conséquent, c’est pourquoi, de ce fait, d’où.
+  - ⚠️ D’où est suivi d’un nom.
+
+- Un verbe : amener, causer, créer, mener à, provoquer, entraîner, susciter, aboutir à, permettre, donner naissance à, rendre possible, être le résultat de, engendrer, conduire à, découler de.
+
+- Une expression + phrase à l'indicatif : de manière que, de façon que, de sorte que, si bien que, c’est la raison pour laquelle.
+
+**Pour exprimer une conséquence avec une notion d’intensité ou de quantité, on utilise :**  
+
+- Tant de / tellement de + nom + que  
+- Au point que / à tel point que + phrase  
+- Verbe + tellement / tant + que + phrase
+
+
+## Vocabulaire
+
+- Avoir la mainmise (exp.) sur quelque chose.  (= have control over something)
+- Élire (v.) quelqu’un  (= to elect someone)
+- Un colloque (n.m)  (= a conference)
+- Engendrer (v.) quelque chose :   (= to generate something)
+  - → Donner naissance à quelqu’un (sens littéraire)  (= to give birth to someone)
+  - → Donner naissance à quelque chose (usage)  (= to give birth to something, to generate something)
+- Diriger (v.)   (= to lead, to direct)
+- Contrôler (v.)   (= to control)
+- Instaurer (v.)  (= to establish, to set up)
+- Sournois.e (adj.)  (= sneaky, underhanded)
+- Une intempérie (n.f)  (= bad weather)
+- Une filiale (n.f)  (= a subsidiary, a branch)
+- Emprisonner (v.)   (= to imprison)
+- Un engouement (n.m)  (= enthusiasm, craze)
 
 
 
+## Devoirs
+
+:::{.callout-important}
+#### Devoirs
+Pour le jeudi 12 février  
+
+- Revoir la leçon de grammaire sur l’expression de la conséquence.  
+- Exercice 19 p.26 du livre de l’élève (livre blanc). 
+  - Faire l’exercice suivant à l’écrit (5 causes / conséquences) :   
+  - Observez l'affiche des Utopiales, le festival international de science-fiction à Nantes. Décrivez la Nantes du futur en expliquant les causes et les conséquences des changements urbains.
+
+:::
+
+>
+**Nantes en 2050**
+>
+Nantes en 2050, c'est une ville de culture, de nature, d'intelligence, de beauté, et surtout des gens. La ville a transformé par réimaginer et rédessiner avec les intelligences et les écologiques. Les transformations sont tellement réussies que la ville consomme toutes les énergies des sources renouvables. De ce fait, l'air et les rivières là-bas sont toujours clairs et sains. De nombreux secteurs industriels on cédé à les espaces vertes, au point que est possible les algoricultures urbaines en grande échelle. Ces concessions et le retour de la nature dans et autour de la ville n'ont diminué pas la population urbaine. Au contraire, l'amélioration de l'ambiance et de l'environnement ont bien plus mené des gens à la ville. C'est la raison pour laquelle Nante a surpassé Paris et ensuite devient la prémière ville en France.  
 
 
 

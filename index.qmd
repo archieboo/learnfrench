@@ -14,9 +14,9 @@ title-block-banner: true
 format: revealjs
 ---
 
-# AF-Nice B1
+# AF-Nice B1/B2
 
-Class notes and exercises for my B1 course at AF-Nice.
+Class notes and exercises for my B1/B2 course at AF-Nice.
 
 :::{.columns}
 
