@@ -1,7 +1,7 @@
 ---
 title: "Lesson 14"
 date: "2026-2-12"
-categories: ["AF Nice", "B2", "Défi4", "Unit2" ]
+categories: ["AF Nice", "B2", "Défi4", "Unit1" ]
 reference-location: margin
 citation-location: margin
 number-sections: false
@@ -11,63 +11,151 @@ number-sections: false
 
 ## LE TEXT
 
-### INITIATIVES AGRICOLES AU MAGHREB
+### RÉDIGIER UN LETTRE OUVERTE
 
-Le Maroc, l'Algérie et la Tunisie partagent le même climat, la même végétation et les mêmes problématiques: la sècheresse[^1a1] des sols et la diminution des terres cultivables. Autres points communs: une population rurale très importante et un potentiel agricole porté par des femmes, dans des exploitations à taille[^1a2] humaine. Ces initiatives locales nous montrent que, parfois, des solutions résident dans les problèmes.
+Lettre ouverte contre le construction d'un nouveau centre commercial
+[À Liège, le 27 juin 2018]{style="display: block; text-align: right;"}
 
+Monsieur le Bourgmestre,
 
-[^1a1]: sècheresse = dryness, drought
-[^1a2]: à taille humaine = human scale, taille = size
+J'ai l'honneur de vous écrire au nom de l'asbl Liègeurb pour vous demander de renoncer à la construction du centre commercial "Au bord de quai" sur friche industrielle d'Omni-Tech. En effet, notre association doute de la nécessité de construire un centre commercial supplémentaire. Les arguments à son encontre[^1a1] sont nombreux. 
 
-#### Focus Maroc
+Tout d'abord, nous tenons à rappeler[^1a2] que plusieurs études socio-économiques indiquent une saturation des zones commerciales en province de Liège. La mutiplication de ces zones en périphérie de la ville a conduit à une augmentation du trafic automobile et à un étalement[^1a3] urbain démesuré[^1a4]. En parallèle, ces denières années, divers centres commerciaux ont été construits au cœur de la ville pour la redynamiser. Mais, ces projets affaiblissent[^1a5] les commerçants indépendants et enlaidissent[^1a6] le paysage[^1a7] urbain. 
 
-Avril 2019, le SIAM, le Salon international de l'agriculture au Maroc, présente pour la première fois un espace réservé à l'agriculture biologique. Parmi les exposants[^2a1], Malika Mouilek, 2éme lauréate du prix Terre de Femmes Maroc 2019, défend à la fois l'agriculture biologique et le travail des femmes dans son village de Dour Laglalcha. Selon elle, l'agriculture intensive a fait diminuer les stocks d'eau et a dégradé la qualité du sol. Uniquement vendus sur les marchés locaux et traités[^2a2] avec des insecticides naturels, les agrumes[^2a3] et produits maraîchers[^2a4] biologiques de ces femmes ne bénéficient pas de certifications bio. Elle veulent se constituer[^2a5] en coopérative pour bénéficier d'aides gouvernementales et pérenniser[^2a6] les emplois d'une trentaine de saisonnières[^2a7].
+[^1a1]: encontre = against, in opposition to
+[^1a2]: tenir à rappeler = to want to remind, to wish to recall
+[^1a3]: a sprawl, étaler= to spread out, to expand
+[^1a4]: excessive
+[^1a5]: affaiblir = to weaken 
+[^1a6]: enlaidir = to make ugly; laid = ugly (adj.)
+[^1a7]: a landscape, a scenery
 
+Sur le plan de[^2a1] la mobilité, nous pensons qu'il est incohérent d'autoriser la construction d'un parking de 2350 places, alors que[^2a2] le conseil communal s'est engagé à diminuer le trafic automobile. C'est d'autant plus inacceptable que[^2a3] cette zone est déjà saturée par la circulation automobile et très bien desservie par les transports public. 
 
-[^2a1]: exhibitors
-[^2a2]: treated
-[^2a3]: citrus fruits
-[^2a4]: produits maraîchers = garden products / vegetables
-[^2a5]: se constituer = to form, to set up
-[^2a6]: to make sustainable, pérenniser = to make sustainable, immortalise
-[^2a7]: seasonal workers
+Sur le plan esthétique, il nous paraît[^2a4] infiniment[^2a5] triste de voir une ville tourner le dos à son cours d'eau[^2a6]. Le projet prevoit la construction d'un mur de 20 mètres de haut sur plus de 200 mètres de long des rives[^2a7] de la Meuse. Quelle absurdité pour notre ville qui porte le titre de capitale wallone de l'eau!
 
-#### Focus Algérie
+[^2a1]: on the level of, in terms of 
+[^2a2]: alors que = while, whereas
+[^2a3]: it's all the more unacceptable that; d'autant plus (adj.) que = all the more (adj.) that...
+[^2a4]: paraître = to seem, to appear
+[^2a5]: infinitely 
+[^2a6]: la rive = bank, shore; la rivière = river; le rivage = coastline 
 
-Le figuier[^3a1] de Barbarie, très répandu[^3a2] en Méditerranée, a ranimé[^3a3] la commune de Sidi Fredj, près d'Alger, où beaucoup de jeunes sans emploi rêvaient d'émigration. L'effet de mode[^3a4] autour des qualités cosmétiques et alimentaires de ce cactus a permis d'augmenter la production. À l'exception des épines[^3a5], tout est utilisable (pépins, fleurs, pulp du fruit...) dans cette plante capable de pousser[^3a6] sur des terres arides. Depuis 2013, les autorités agricoles locales encouragent le développement de la culture de cette plante, dont on extrait une des huiles[^3a7] les plus chères au monde utilisée en cosmétique. Certifiée bio par des organismes étrangers (une telle certification n'existe pas en Algérie), l'huile de figue de Barbarie s'exporte en France, en Allemagne et au Qatar. Dans la région, la transformation du cactus a fait émerger une économie familiale qui offre aux femmes employées pour la récolte[^3a8] une indépendance financière, et aux jeunes un espoir[^3a9] d'avenir.
+Par conséquent[^3a1], nous proposons de réhabiliter cette friche industrielle en y développant un espace vert, ce projet nous semble une initiative susceptible[^3a2] de contribuer au bien-être des Liégois. Par ailleurs, le développement d'un parc au cœur de la ville permettra de réduire la chaleur urbaine tout en créant[^3a3] un lien social. 
 
-[^3a1]: figuier de Barbarie = prickly pear cactus; figuier = fig tree
-[^3a2]: widespread; répandre = to spread
-[^3a3]: revived, reanimated; ranimer = to revive, to reanimate
-[^3a4]: l'effet de mode = trend, fashion trend, craze
-[^3a5]: épine = thorn, spine; pépin = seed
-[^3a6]: here means to grow, pousser = push, grow, etc.
-[^3a7]: une des huiles = one of the oils; une des = one of the
-[^3a8]: récolte = harvest; récolter 
-[^3a9]: hope, expectation
+En espérant que ces arguments pourront influencer votre décision, nous vous prions de croire[^3a4], Monsieur le Bourgmestre, en notre respectueuse considération[^3a5]. 
 
-#### Focus Tunisie
+Patrice Deweeler, président de l'asbl Liègeurb
 
-Grâce à ses racines profondes[^4a1], l'acacia moringa[^4a3] puise[^4a2] l'eau à 60 mètres sous terre. Sa culture permet de limiter l'arrosage , car il protège le sol avec ses feuilles et l'humidifie. Depuis 2012, Sarah Toumi plante ces arbustes[^4a4] dans la région agricole au nord de Sfax. Son idée est simple: implanter l'acacia dans les cultures[^4a5] du pays et changer les habitudes des agriculteurs. Elle a d'abord commencé à travailler avec des femmes, pour la plupart propriétaires de petites parcelles de terre. Aujourd'hui, son initiative intitulée[^4a6] Acacias pour tous fournit[^4a7] des graines aux agricultrices. Elles produisent ensuite du miel ou des tisanes[^4a8] destinés aux marché européen. Elles travaillent dans le cadre d'une coopérative qui leur offre la possibilité de commercialiser leurs production. 
-
-
-[^4a1]: profondes = deep; racines profondes = deep roots
-[^4a2]: puiser = to draw, to tap into
-[^4a3]: acacia moringa = moringa tree, a plant native to parts of Africa and Asia that is known for its drought resistance and nutritional value
-[^4a4]: arbuste = shrub, bush
-[^4a5]: cultures = crops, farming
-[^4a6]: intitulée = entitled, named
-[^4a7]: fournir = to provide
-[^4a8]: tisanes = herbal teas
+[^3a1]: par conséquent = consequently; note conséquent is adj. the noun is conséquence 
+[^3a2]: susceptible de = likely to, liable to, capable of 
+[^3a3]: tout en créant = all the while creating...; tout en + gérondif = all the while + present participle 
+[^3a4]: prier de croire = to beg to believe, to ask to believe
+[^3a5]: respectful consideration; respectueux/respectueuse = respectful
 
 
+## Vocabulaire
+
+- Un bourgmestre (n.m) = a mayor (in Belgium and Luxembourg) 
+- Une bourgmestre (n.f)  
+- Un magistrat (n.m)   = a magistrate, a judge (in France) 
+- Une magistrate (n.f)  
+- Un juge (n.m)  
+- Une juge (n.f)  
+- Un étalement (n.m)  
+- Étaler (v.)   
+- Laid (adj.)   
+- Enlaidir (v.) = to make ugly  
+- Un enlaidissement (n.m)  
+- Faible (adj.)  
+- Faiblir (v.) = to weaken, to become weak  
+- Affaiblir (v.)  = to weaken, to make weak  
+- Un affaiblissement (n.m)  = a weakening, a decline - Un affaiblissement de la santé, de l'économie, etc.  
+- Prendre congé  
+
+
+
+## Devoirs
+
+:::{.callout-important}
+#### Devoirs
+
+Pour le vendredi 13 février : 
+
+- Revoir les leçons sur les points de grammaire vus cette semaine et le vocabulaire.
+- Rédiger une lettre ouverte. 
+  - Choisissez un sujet, déterminez un objectif et le destinataire de votre lettre ouverte.
+  - Sujets : 
+    - [Embellir la ville.]{style="background-color: #90ee90;"}
+    - [Rendre la ville plus poétique.]{style="background-color: #add8e6;"}
+    - [Interdire la voiture en ville.]{style="background-color: #ffcccb;"}
+    - [Créer un péage (toll) urbain.]{style="background-color: #ffeccb;"}
+    - [Réglementer la circulation des trottinettes.]{style="background-color: #ff80cb;"} 
+
+
+**_conseils_**:  
+
+- Respectez les règles formelles de la lettre (destinataire, date, lieu, expéditeur...).  
+- Structurez-la en paragraphes (faits, arguments, proposition...) et utilisez des connecteurs logiques.  
+- Choisissez soigneusement vos arguments et utilisez-les avec des exemples concrets.  
+- Faites des phrases courtes 
+- Prenez le temps de faire brouillon. (brouillon = draft)
+
+
+**_lexique_**: 
+
+Pour commencer la lettre  
+
+- J'ai l'honneur de vous écrire pour vous demander de ...  
+- Ce qui motive cette lettre, c'est ...  
+
+Pour présenter les arguments  
+
+- Les arguments à son encontre sont ...  
+- Nous tenons à dire / signaler / dénoncer ...  
+- Les études indiquent que ...  
+- Sur le plan de ... 
+- Ces projets contribuent à ...   
+
+Pour exprimer une opinion 
+
+- Il nous paraît triste / évident / scandaleux / essentiel de ...   
+
+Pour proposer  
+
+- Face à ce problème, nous proposons ...  
+- Nous souhaitons / demandons que ...  
+
+Pour conclure 
+
+- En espérant que ces arguments pourront influencer ...
+
+
+:::
 
 
 
 
 
-
-
+>
+>**Lettre ouverte pour réglementer la circulation des trottinettes à Pandaville**
+>
+>[À Pandaville, le 12 fevrier 2026]{style="display: block; text-align: right; font-weight: bold"}
+>
+**Monsieur le Maire,**
+>
+J'ai l'honneur de vous écrire au nom de l'association Chevaliers Dragons pour vous demander de réglementer la circulation des trottinettes dans notre ville. Dans le cadre de la loi existant, rien ne régle les utilisations et les gestions de trottinette.  
+>
+Prémierment, nous tenons à rappeler que plusieurs études indiquent une augmentation de les accidents à cause des trottinettes. L'utilisation de trottinette par le public sans régulations a contribué aux problèmes de sécurité publique. De plus, sans la supervision adéquate, les trottoirs pourraient devenir inaccessibles. 
+>
+Sur le plan de l'obligation de l'enterprise, nous pensons lorsque une enterprise privée qui conduit et profite de l'opération de trottinettes, celle-ci soit obligée à gérer des parkings ordrés des trottinettes et à assumer les résponsibilités légales en cas des accidents.   
+>
+Finalement, nous croyons que le gouvernement de la ville est responsable d'assuer la qualité et le recyclage prudent des trottinettes, surtout des batteries. Les trottinettes, c'est une mode écologique de transport. Mais, c'est vrai uniquement si les utilisations sont réglementées efficacement 
+>
+En espérant que ces propositions pourront influencer votre décisions, nous vous prions de croire, Monsieur le Maire, en notre respectueuse considération.
+>
+>
+>[Maître Shifu, président de la association de Chevaliers Dragons]{style="display: block; text-align: right; font-weight: bold"}
 
 
 
