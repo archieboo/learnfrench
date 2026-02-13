@@ -1,7 +1,7 @@
 ---
 title: "Lesson 15"
 date: "2026-2-13"
-categories: ["AF Nice", "B2", "Défi4", "Unit2" ]
+categories: ["AF Nice", "B2", "Défi4", "Unit1", "cause", "conséquence", "grammaire"]
 reference-location: margin
 citation-location: margin
 number-sections: false
@@ -9,65 +9,130 @@ number-sections: false
 
 # Standard course
 
-## LE TEXT
 
-### INITIATIVES AGRICOLES AU MAGHREB
+## EXPRESSION DE LA CAUSE
 
-Le Maroc, l'Algérie et la Tunisie partagent le même climat, la même végétation et les mêmes problématiques: la sècheresse[^1a1] des sols et la diminution des terres cultivables. Autres points communs: une population rurale très importante et un potentiel agricole porté par des femmes, dans des exploitations à taille[^1a2] humaine. Ces initiatives locales nous montrent que, parfois, des solutions résident dans les problèmes.
-
-
-[^1a1]: sècheresse = dryness, drought
-[^1a2]: à taille humaine = human scale, taille = size
-
-#### Focus Maroc
-
-Avril 2019, le SIAM, le Salon international de l'agriculture au Maroc, présente pour la première fois un espace réservé à l'agriculture biologique. Parmi les exposants[^2a1], Malika Mouilek, 2éme lauréate du prix Terre de Femmes Maroc 2019, défend à la fois l'agriculture biologique et le travail des femmes dans son village de Dour Laglalcha. Selon elle, l'agriculture intensive a fait diminuer les stocks d'eau et a dégradé la qualité du sol. Uniquement vendus sur les marchés locaux et traités[^2a2] avec des insecticides naturels, les agrumes[^2a3] et produits maraîchers[^2a4] biologiques de ces femmes ne bénéficient pas de certifications bio. Elle veulent se constituer[^2a5] en coopérative pour bénéficier d'aides gouvernementales et pérenniser[^2a6] les emplois d'une trentaine de saisonnières[^2a7].
+### LES CONJONCTIONS
 
 
-[^2a1]: exhibitors
-[^2a2]: treated
-[^2a3]: citrus fruits
-[^2a4]: produits maraîchers = garden products / vegetables
-[^2a5]: se constituer = to form, to set up
-[^2a6]: to make sustainable, pérenniser = to make sustainable, immortalise
-[^2a7]: seasonal workers
+- ["parce que"]{.mark}, ["comme"]{.mark}, ["puisque"]{.mark} sont les conjonctions les plus courantes.  
 
-#### Focus Algérie
+  - ["Parce que"]{.mark} répond à la question _"Pourquoi?"_   
+    La cause est considérée comme banale[^1a1]. ["parce que"]{.mark} n'est pas, en général, en tête de phase:  
+      - _Exemple:  Il est allé voir le médecin [parce qu]{.mark}'il a de la fièvre[^1a2] depuis plusieurs jours._   
+<br><br>
 
-Le figuier[^3a1] de Barbarie, très répandu[^3a2] en Méditerranée, a ranimé[^3a3] la commune de Sidi Fredj, près d'Alger, où beaucoup de jeunes sans emploi rêvaient d'émigration. L'effet de mode[^3a4] autour des qualités cosmétiques et alimentaires de ce cactus a permis d'augmenter la production. À l'exception des épines[^3a5], tout est utilisable (pépins, fleurs, pulp du fruit...) dans cette plante capable de pousser[^3a6] sur des terres arides. Depuis 2013, les autorités agricoles locales encouragent le développement de la culture de cette plante, dont on extrait une des huiles[^3a7] les plus chères au monde utilisée en cosmétique. Certifiée bio par des organismes étrangers (une telle certification n'existe pas en Algérie), l'huile de figue de Barbarie s'exporte en France, en Allemagne et au Qatar. Dans la région, la transformation du cactus a fait émerger une économie familiale qui offre aux femmes employées pour la récolte[^3a8] une indépendance financière, et aux jeunes un espoir[^3a9] d'avenir.
+  - ["Comme"]{.mark} se place en tête de la phrase et met la cause en valeur:  
+    - _Exemple: [Comme]{.mark} il n'a pas plu depuis un mois, on est obligé d'arroser le jardin tous les jours._  
+<br><br>
 
-[^3a1]: figuier de Barbarie = prickly pear cactus; figuier = fig tree
-[^3a2]: widespread; répandre = to spread
-[^3a3]: revived, reanimated; ranimer = to revive, to reanimate
-[^3a4]: l'effet de mode = trend, fashion trend, craze
-[^3a5]: épine = thorn, spine; pépin = seed
-[^3a6]: here means to grow, pousser = push, grow, etc.
-[^3a7]: une des huiles = one of the oils; une des = one of the
-[^3a8]: récolte = harvest; récolter 
-[^3a9]: hope, expectation
-
-#### Focus Tunisie
-
-Grâce à ses racines profondes[^4a1], l'acacia moringa[^4a3] puise[^4a2] l'eau à 60 mètres sous terre. Sa culture permet de limiter l'arrosage , car il protège le sol avec ses feuilles et l'humidifie. Depuis 2012, Sarah Toumi plante ces arbustes[^4a4] dans la région agricole au nord de Sfax. Son idée est simple: implanter l'acacia dans les cultures[^4a5] du pays et changer les habitudes des agriculteurs. Elle a d'abord commencé à travailler avec des femmes, pour la plupart propriétaires de petites parcelles de terre. Aujourd'hui, son initiative intitulée[^4a6] Acacias pour tous fournit[^4a7] des graines aux agricultrices. Elles produisent ensuite du miel ou des tisanes[^4a8] destinés aux marché européen. Elles travaillent dans le cadre d'une coopérative qui leur offre la possibilité de commercialiser leurs production. 
+  - ["Puisque"]{.mark} introduit une cause évidente pour celui qui parle et en général connue de l'interlocuteur[^1a3]  
+    - _Exemple: [Puisqu]{.mark}'il fait beau, déjeunons sur la terrasse._  
+    - _Exemple: Tu devrais aller voir cette exposition, [puisque]{.mark} tu aimes Picasso._  
+<br><br>
 
 
-[^4a1]: profondes = deep; racines profondes = deep roots
-[^4a2]: puiser = to draw, to tap into
-[^4a3]: acacia moringa = moringa tree, a plant native to parts of Africa and Asia that is known for its drought resistance and nutritional value
-[^4a4]: arbuste = shrub, bush
-[^4a5]: cultures = crops, farming
-[^4a6]: intitulée = entitled, named
-[^4a7]: fournir = to provide
-[^4a8]: tisanes = herbal teas
+- ["étant donné que"]{.mark}, ["du fait que"]{.mark} introduisent une cause connue de tous. Ces locutions[^1a4] se placent en tête de phrase ou après la conséquence.  
+
+  - "[Étant donné que]{.mark}" s'emploie surtout à l'écrit: 
+    - _Exemple: [Étant donné qu]{.mark}'il a dix-huit ans, il peut passer le permis de conduire._  
+    - _Exemple: Les enfants ont dû rester à la maison [étant donné que]{.mark} les professeurs des écoles étaient en grève._  
+<br><br>
+
+  - "[Du fait que]{.mark}" est employé à l'oral et à l'écrit:  
+    - _Exemple: [Du fait que]{.mark} toute le monde était fatiqué, nous avons arrêté la réunion._  
+    - _Exemple: Le ministre a laissé ses fonctions [du fait qu]{.mark}'il était très malade._
+<br><br>
+
+  - ["sous prétexte que"]{.mark} introduit une cause fausse:  
+    - _Exemple: Il n'est pas venu [sous prétexte qu]{.mark}'il était malade. (mais je ne le crois pas)_  
+
+
+[^1a1]: courante, évidente, normale, habituelle
+[^1a2]: fever
+[^1a3]: person you are talking to
+[^1a4]: expressions formed by several words
+
+
+### LES PREPOSITIONS
+
+- ["grâce à"]{.mark} introduit une cause dont la conséquence est positive. Il est suivi d'un nom ou d'un pronom.
+Quand il y a deux causes, la seconde cause est introduite par ["à"]{.mark}:
+  - _Exemple: Elle a trouvé un appartement [grâce à]{.mark} des amis qui travaillent dans une agence._  
+  - _Exemple: Il a pu réussir [grâce à]{.mark} elle et [à]{.mark} quelques amis._  
+<br><br>
+
+- ["à cause de"]{.mark} introduit en général une cause dont la conséquence est négative; il est suivi d'un nom ou d'un pronom. Quand il y a deux causes, la seconde est introduite par ["de"]{.mark}.  
+  - _Exemple: Le match n'a pas eu lieu [à cause du]{.mark} mauvais temps._
+  - _Exemple: On est arrivés en retard au théâtre [à cause de]{.mark} lui et [des]{.mark} embouteillages._  
+<br><br>
+
+- ["en raison de"]{.mark} introduit une cause dont la conséquence est neutre; il est suivi d'un nom; il est employé surtout à l'écrit:  
+  - _Exemple: _Le magasin sera fermé [en raison des]{.mark} fêtes de Pâques._  
+<br><br>
+
+
+- ["étant donné de"]{.mark} et ["du fait de"]{.mark} introduisent une cause connue de tous; ils sont suivis d'un nom:  
+  - _Exemple: [Étant donné]{.mark} la pollution dans les grandes villes, les gens préfèrent aller vivre en province._  
+  - _Exemple: Ils sont allés vivre en banlieue [du fait de]{.mark} l'augmentation des loyers en ville._  
 
 
 
+### LES MOTS DE LIAISON
+
+- ["car"]{.mark} est employé plutôt à l'écrit; il introduit une explication à ce qui vient d'être dit:  
+  - _Exemple: Ils avaient passé l'après-midi à bavarder[^2a1] au coin du feu [car]{.mark} dehors il faisait très froid._  
+<br><br>
+
+- ["en effet"]{.mark} est employé à l'oral et à l'écrit; il introduit une explication à ce qui vient d'être dit:  
+  - _Exemple: Ils commencèrent à se dépêcher[^2a2]; [en effet]{.mark} le ciel s'assombrissait[^2a3] et annonçait un orage._
+  - _Exemple: Tu es pressé? - [En effet]{.mark}, je suis en retard; j'ai un rendez-vous._   
 
 
 
+[^2a1]: bavarder = gossip, chat
+[^2a2]: se dépêcher = hurry up
+[^2a3]: s'assombrir = darken
+
+
+## EXPRESSION DE LA CONSEQUENCE
+
+
+### LES CONJUNCTIONS
+
+- ["si bien que"]{.mark} n'a pas de nuance particulière; il peut être renforcé par ["tant et si bien que"]{.mark}  
+  - _Exemple: Il ment beaucoup [si bien que]{.mark} personne ne croit ce qu'il dit._  
+  - _Exemple: Il s'est opposé au gouvernement [tant et si bien qu]{.mark}'il a dû démissionner._  
+<br><br>
+
+- ["de sorte que"]{.mark} est une  nuance de ["si bien que"]{.mark} et introduit une conséquence certaine.  
+  - _Exemple: Il conduisait sans permis [de sorte qu]{.mark}'il a été condamné à la prison. _  
+<br><br>
+
+- ["si"]{.mark}, ["tellement"]{.mark}, ["tant"]{.mark} + [que]{.mark} expriment l'intensité.  
+
+- ["si"]{.mark} donne un caractère intensif à l'adjectif et à l'adverbe. Il est aussi employé avec certaines expressions comme avoir faim, soif, peur, envie, etc.:  
+  - _Exemple: Elle était [si]{.mark} généreuse [que]{.mark} tout le monde l'aimait._  
+  - _Exemple: Il conduit [si]{.mark} vit [que]{.mark} personne ne veut monter dans sa voiture._  
+  - _Exemple: J'étais [si]{.mark} en colère [que]{.mark} je suis parti sans dire au revoir._  
+<br><br>
+
+- ["tant"]{.mark} donne un caractère quantitatif au verbe, ["tant de"]{.mark} au nom:  
+  - _Exemple: Il pleut [tant que]{.mark} les champs sont inondés._  
+  - _Exemple: Ils ont fait [tant de]{.mark} bruit [que]{.mark} les voisins se sont plaints[^3a1]._
+<br><br>
+
+- ["tellement"]{.mark} donne un caractère intensif et quantitatif à l'adjectif, à l'adverbe et au verbe; ["tellement de"]{.mark} au nom.  
+  - _Exemple: Ce chien est [tellement]{.mark} agressif [qu]{.mark}'il aboie[^3a2] sans arrêt._  
+  - _Exemple: Ils habitent [tellement de]{.mark} loin [que]{.mark} nous ne les voyons pas souvent._  
+  - _Exemple: On a [tellement]{.mark} ri[^3a3] [qu]{.mark}'on n'a pas vu qu'il était très tard._  
+  - _Exemple: J'ai [tellement de]{.mark} travail [que]{.mark} je ne prendrai pas de vacances._  
 
 
 
+[^3a1]: se plaindre = complain
+[^3a2]: aboyer = bark
+[^3a3]: rire = laugh
 
 
 

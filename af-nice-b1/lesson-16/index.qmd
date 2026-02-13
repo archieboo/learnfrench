@@ -1,0 +1,76 @@
+---
+title: "Lesson 16"
+date: "2026-2-16"
+categories: ["AF Nice", "B2", "Défi4", "Unit2" ]
+reference-location: margin
+citation-location: margin
+number-sections: false
+---
+
+# Standard course
+
+## LE TEXT
+
+### INITIATIVES AGRICOLES AU MAGHREB
+
+Le Maroc, l'Algérie et la Tunisie partagent le même climat, la même végétation et les mêmes problématiques: la sècheresse[^1a1] des sols et la diminution des terres cultivables. Autres points communs: une population rurale très importante et un potentiel agricole porté par des femmes, dans des exploitations à taille[^1a2] humaine. Ces initiatives locales nous montrent que, parfois, des solutions résident dans les problèmes.
+
+
+[^1a1]: sècheresse = dryness, drought
+[^1a2]: à taille humaine = human scale, taille = size
+
+#### Focus Maroc
+
+Avril 2019, le SIAM, le Salon international de l'agriculture au Maroc, présente pour la première fois un espace réservé à l'agriculture biologique. Parmi les exposants[^2a1], Malika Mouilek, 2éme lauréate du prix Terre de Femmes Maroc 2019, défend à la fois l'agriculture biologique et le travail des femmes dans son village de Dour Laglalcha. Selon elle, l'agriculture intensive a fait diminuer les stocks d'eau et a dégradé la qualité du sol. Uniquement vendus sur les marchés locaux et traités[^2a2] avec des insecticides naturels, les agrumes[^2a3] et produits maraîchers[^2a4] biologiques de ces femmes ne bénéficient pas de certifications bio. Elle veulent se constituer[^2a5] en coopérative pour bénéficier d'aides gouvernementales et pérenniser[^2a6] les emplois d'une trentaine de saisonnières[^2a7].
+
+
+[^2a1]: exhibitors
+[^2a2]: treated
+[^2a3]: citrus fruits
+[^2a4]: produits maraîchers = garden products / vegetables
+[^2a5]: se constituer = to form, to set up
+[^2a6]: to make sustainable, pérenniser = to make sustainable, immortalise
+[^2a7]: seasonal workers
+
+#### Focus Algérie
+
+Le figuier[^3a1] de Barbarie, très répandu[^3a2] en Méditerranée, a ranimé[^3a3] la commune de Sidi Fredj, près d'Alger, où beaucoup de jeunes sans emploi rêvaient d'émigration. L'effet de mode[^3a4] autour des qualités cosmétiques et alimentaires de ce cactus a permis d'augmenter la production. À l'exception des épines[^3a5], tout est utilisable (pépins, fleurs, pulp du fruit...) dans cette plante capable de pousser[^3a6] sur des terres arides. Depuis 2013, les autorités agricoles locales encouragent le développement de la culture de cette plante, dont on extrait une des huiles[^3a7] les plus chères au monde utilisée en cosmétique. Certifiée bio par des organismes étrangers (une telle certification n'existe pas en Algérie), l'huile de figue de Barbarie s'exporte en France, en Allemagne et au Qatar. Dans la région, la transformation du cactus a fait émerger une économie familiale qui offre aux femmes employées pour la récolte[^3a8] une indépendance financière, et aux jeunes un espoir[^3a9] d'avenir.
+
+[^3a1]: figuier de Barbarie = prickly pear cactus; figuier = fig tree
+[^3a2]: widespread; répandre = to spread
+[^3a3]: revived, reanimated; ranimer = to revive, to reanimate
+[^3a4]: l'effet de mode = trend, fashion trend, craze
+[^3a5]: épine = thorn, spine; pépin = seed
+[^3a6]: here means to grow, pousser = push, grow, etc.
+[^3a7]: une des huiles = one of the oils; une des = one of the
+[^3a8]: récolte = harvest; récolter 
+[^3a9]: hope, expectation
+
+#### Focus Tunisie
+
+Grâce à ses racines profondes[^4a1], l'acacia moringa[^4a3] puise[^4a2] l'eau à 60 mètres sous terre. Sa culture permet de limiter l'arrosage , car il protège le sol avec ses feuilles et l'humidifie. Depuis 2012, Sarah Toumi plante ces arbustes[^4a4] dans la région agricole au nord de Sfax. Son idée est simple: implanter l'acacia dans les cultures[^4a5] du pays et changer les habitudes des agriculteurs. Elle a d'abord commencé à travailler avec des femmes, pour la plupart propriétaires de petites parcelles de terre. Aujourd'hui, son initiative intitulée[^4a6] Acacias pour tous fournit[^4a7] des graines aux agricultrices. Elles produisent ensuite du miel ou des tisanes[^4a8] destinés aux marché européen. Elles travaillent dans le cadre d'une coopérative qui leur offre la possibilité de commercialiser leurs production. 
+
+
+[^4a1]: profondes = deep; racines profondes = deep roots
+[^4a2]: puiser = to draw, to tap into
+[^4a3]: acacia moringa = moringa tree, a plant native to parts of Africa and Asia that is known for its drought resistance and nutritional value
+[^4a4]: arbuste = shrub, bush
+[^4a5]: cultures = crops, farming
+[^4a6]: intitulée = entitled, named
+[^4a7]: fournir = to provide
+[^4a8]: tisanes = herbal teas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
