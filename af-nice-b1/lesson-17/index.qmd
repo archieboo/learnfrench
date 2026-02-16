@@ -1,0 +1,74 @@
+---
+title: "Lesson 17"
+date: "2026-2-17"
+categories: ["AF Nice", "B2", "Défi4", "Unit2" ]
+reference-location: margin
+citation-location: margin
+number-sections: false
+---
+
+# Standard course
+
+## LE TEXT
+
+
+### LE FORUM DE L'AGRICULTURE AFRI-SAINE
+
+Même si l'Afrique utilise moins de pesticides qu'ailleurs dans le monde, ces faibles quantités présentent un risque très élevé pour la santé et l'environnement. La première démarche[^1a1] consiste donc à limiter l'utilisation à ces produits, et cela passe évidemment par la sensibilisation de la population. C'est ce que fait PAN Africa en éditant et diffusant ces affiches. Et vous? Que pensez-vous de l'usage des pesticides? Participez au débat sur ce forum. 
+
+**_Nadège:_**  
+
+>
+Je suppose que la toxicité des pesticides est connue dans les pays européens. Au Burkina Faso, leurs conditions d'utilisation font froid dans le dos[^1a2]. À ce qu'il paraît, la moitié[^1a3] des vendeurs et des agriculteurs ne savent pas ni lire ni écrire, ils ignorent le nom des produits qu'ils utilisent... Ça me révolte[^1a4]! J'ai aussi lu un reportage sur xxxxxx à propos de l'expérience du coton transgénique menée au Burkina Faso. En principe, ça devait enrichir les paysans en leur faisant économiser sur l'engrais[^1a5] et les pesticides. Tu parles! Beaucoup se sont retrouvés sur la paille[^1a6] (sans jeu de mots). J'en veux terriblement à tous ceux qui pensent plus au profit qu'aux humains[^1a7] (Monsanto, l'État, la liste serait longue...).
+
+
+[^1a1]: first step. démarche: approach, process, step.
+[^1a2]: faire froid dans le dos: send chills down the spine, be scary.
+[^1a3]: à ce qu'il paraît: apparently, it seems that. moitié = half.
+[^1a4]: ça me révolte: it makes me angry, it outrages me.
+[^1a5]: faire économiser: save, make save. engrais = fertilizer.
+[^1a6]: se retrouver sur la paille: be broke, be penniless. paille = straw. Tu parles! = You can say that again! No kidding!
+[^1a7]: en vouloir à quelqu'un: be angry with someone. 
+
+**_Zakaria:_**  
+
+>
+Au risque de choquer, je crois qu'il ne faut pas complètement diaboliser les pesticides. Je vous rappelle que le secteur agricole constitue la principale source de revenus environ 90% des Burkinabés. Comment voulez-vous que la population se nourisse si on ne protège pas les cultures? Sans parler du fait que les pesticides tuent les moustiques, porteurs[^2a1] de maladies mortelles[^2a2]...
+
+[^2a1]: porteur: carrier (of diseases).
+[^2a2]: mortel: deadly, fatal.
+
+
+**_Maïmouna:_**  
+
+>
+À mon sens, ce qui est révoltant, c'est que certains pesticides sont interdits en Europe depuis longtemps, mais continuent d'être vendus et utilisés en Afrique. J'halucine[^3a1] quand j'entends que le coût total des maladies et des blessures[^3a2] liées[^3a3] aux pesticides pourrait atteindre[^3a4] 90 milliards[^3a5] de dollars d'ici 2020. C'est intensé! Rien que ça[^3a6], ça devrait faire réfléchir, non?
+
+[^3a1]: halluciner: be amazed, be shocked
+[^3a2]: injuries.
+[^3a3]: lié à: related to, linked to.
+[^3a4]: reach, attain
+[^3a5]: billion, mille = K, million = M, milliard = B.
+[^3a6]: Rien que ça = Just that, That alone.
+
+
+**_Aboubakar:_**  
+
+>
+J'admets[^4a1] que les pesticides facilitent le travail des agriculteurs, mais il est indéniable qu'ils sont noctifs[^4a2] pour l'humain! Il est évidemment indispensable de sensibiliser les populations[^4a3], mais c'est insuffisant. Selon le docteur Hubert Bationo, de l'université de Ouagadougou, il faut encourager la recherche sur les biopesticides et promouvoir[^4a4] ceux qui sont déjà connus. Sauf erreur de ma part[^4a5], c'est déjà le cas dans certains pays, notamment le Bénin. Prenons exemple sur eux!
+
+[^4a1]: admettre = admit, acknowledge.
+[^4a2]: nocif = harmful, detrimental
+[^4a3]: sensibiliser les populations = raise awareness among the population. sensibiliser = raise awareness.
+[^4a4]: promouvoir = promote, encourage.
+[^4a5]: sauf erreur de ma part = unless I'm mistaken
+
+
+
+
+
+
+
+
+
+
