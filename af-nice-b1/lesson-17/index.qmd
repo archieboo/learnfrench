@@ -64,9 +64,9 @@ J'admets[^4a1] que les pesticides facilitent le travail des agriculteurs, mais i
 [^4a5]: sauf erreur de ma part = unless I'm mistaken
 
 
-### LA GRAMMAIRE
+## LA GRAMMAIRE
 
-#### Pour exprimer la subjectivité on peut utiliser
+### Pour exprimer la subjectivité on peut utiliser
 
 - La ponctuation : 
   - Les points de suspension: ... 
@@ -135,7 +135,7 @@ J'admets[^4a1] que les pesticides facilitent le travail des agriculteurs, mais i
 
 [^F1]: Note here it's the verb "scandaliser". It's different from the "Ça me rend + adj" structure.
 
-### VOCABULAIRE
+## VOCABULAIRE
 
 - Ne pas voir le temps passer (= so absorbed in something that you don't notice the time passing)  
 - Semer (= to sow, to plant, e.g. semer des graines)  
@@ -147,7 +147,7 @@ J'admets[^4a1] que les pesticides facilitent le travail des agriculteurs, mais i
 - Un bénéfice (n.m)  
 
 
-### DEVOIRS
+## DEVOIRS
 
 :::{.callout-important}
 ##### Devoirs
