@@ -1,0 +1,81 @@
+---
+title: "Lesson 18"
+date: "2026-2-18"
+categories: ["AF Nice", "B2", "Défi4", "Unit2" ]
+reference-location: margin
+citation-location: margin
+number-sections: false
+---
+
+# Standard course
+
+## LE TEXT
+
+### NOTRE PLANÈTE NE TOURNE PAS ROND!
+
+Le concept de "kilomètre alimentaire" est apparu au début des années 1990 au Royume-Uni en raison de la globalisation commerciale dont certaines conséquences dépassent aujourd'hui l'entendement[^1a1]. Même si cela semble démentiel[^1a3], la distance moyenne parcourue[^1a4] par un produit alimentaire entre son lieu de production et l'assiette du consommateur est de plus de 2 000 kilomètres! Sommes-nous devenues fous? Plusieurs exemples tendent à prouver que le monde marche sur la tête[^1a5]...
+
+[^1a1]: dépasser l'entendement: be beyond understanding, be incomprehensible. dépasser = exceed, go beyond. entendement = understanding, comprehension.
+[^1a3]: démentiel: crazy, insane, outrageous.
+[^1a4]: parcourir une distance: cover a distance. parcourir = to travel, to cover (a distance).
+[^1a5]: marcher sur la tête: be crazy, be upside down (literally: walk on the head)
+
+
+La logique du commerce international n'a pas grand-chose à voir avec[^2a5] le bon sens paysans. La France est en effect le premier producteur de volaille[^2a1] en Europe. Pourtant[^2a2] aujourd'hui, 45% du poulet mangé en France est importé. La situation est encore plus kafkaïenne[^2a3] quand on sait que, paradoxelement, l'Hexagone exporte sa volaille vers les pays d'Afrique. Toute sa volaille? Non! Seulement les parties "moins nobles" que les Français ne mangent pas. Décidément[^2a4], notre planète ne tourne pas rond...
+
+[^2a1]: poultry
+[^2a2]: however, yet, still, even so.
+[^2a3]: kafkaïen: kafkaesque, absurd, surreal.
+[^2a4]: décidément: certainly, definitely, indeed.
+[^2a5]: avoir à voir avec: have to do with, be related to. eg. avoir grand-chose à voir avec: have much to do with; avoir peu à voir avec: have little to do with
+
+
+Cultivée et récoltée[^3a1] en Afrique, transformée en Amérique latine et consommée en Europe, la noix de cajou est devenue un symbole de la mondialisation alimentaire. Depuis 2010, avec 50% d'augmentation de la demande, ce fruit sec fait un parcours stupéfiant[^3a2] de plus de 10 000 km: de la Côte d'Ivoire (premier producteur mondial) en passant par le Brésil (en usines de nettoyage et d'épluchage), avant d'arriver en France où il est salé, grillé, emballé et vendu pour environ 15 euros le killo. 
+
+[^3a1]: récolter: to harvest
+[^3a2]: a staggering journey; stupéfiant: astonishing, staggering; parcours: journey; 
+
+En 2014, La France découvre le voyage ubuesque[^4a1] des coquilles[^4a2] Saint-Jacques des Côtes d'Armor, en Bretagne. Élevées en France, elles sont ensuite envoyées en Chine pour y être nettoyées avant de revenir en Bretagne pour être cuisinées. L'explication? "Ça semble bizzare, mais c'est une question de coût. One est sur des différences de salaires qui vont de 1 à 100", selon un responsable d'une usine bretonnne. Il reconnaît néanmoins que "c'est un peu choquant, je préférerais que ça se fasse ici". 
+
+[^4a1]: absurd, ridiculous
+[^4a2]: coquille Saint-Jacques: scallop
+
+
+La crevette est l'un des produits de consommation les plus polluants[^5a1] au monde. Dans un court-métrage[^5a2] déroutant[^5a3] de la chaîne de télévision Arte sur le parcours d'une crevette grise, nous découvrons , sans autre commentaire qu'un compteur kilométrique[^5a4], que 13 jours se sont écoulés[^5a5] entre le moment de la pêche et le moment de la mise en vente[^5a6] en supermarché. Un comble[^5a7] pour un produit frais! La crevette grise, pêchée dans la mer du Nord, effectue[^5a8] pas moins de 6 756 km à travers différents pays dont le Maroc, avant de revenir à son point de départ[^5a9]...
+
+[^5a1]: polluting, pollutant
+[^5a2]: short film; métrage: length (of a film) 
+[^5a3]: disorienting, confusing; dérouter: reroute, disorient, confuse
+[^5a4]: with no other comment than a mileage counter
+[^5a5]: s'écouler: to elapse, to pass (time)
+[^5a6]: mise en vente: put on sale, sale
+[^5a7]: comble: irony, paradox; c'est un comble = it's ironic, it's a paradox
+[^5a8]: effectuer: to carry out, to perform, to make (a journey)
+[^5a9]: before returning to its starting point
+
+
+Avant d'atterrir[^6a1] dans les congélateurs[^6a2] des Français, le cabillaud[^6a3] pêché en Norvège est envoyé en Chine pour y être coupé en filets, 15 000 km de voyage aller-retour[^6a4] pour économiser la main-d'œuvre[^6a5]. Aussi incroyable que cela puisse paraître[^6a6], on injecte aussi de l'eau dans le poisson pour qu'il semble plus gros. 
+
+[^6a1]: atterrir: to land
+[^6a2]: freezer
+[^6a3]: cod
+[^6a4]: round trip
+[^6a5]: la main-d'œuvre: labor, workforce 
+[^6a6]: as incredible as it may seem; aussi... que: as... as
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

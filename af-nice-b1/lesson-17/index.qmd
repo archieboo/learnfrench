@@ -64,7 +64,60 @@ J'admets[^4a1] que les pesticides facilitent le travail des agriculteurs, mais i
 [^4a5]: sauf erreur de ma part = unless I'm mistaken
 
 
+### LA GRAMMAIRE
 
+#### Pour exprimer la subjectivité on peut utiliser
+
+- La ponctuation : 
+  - Les points de suspension: ... 
+  - Le point d'exclamation !
+  - Le point d'interrogation ?
+
+- Des verbes :   
+  [reconnaître]{.mark}, [imaginer]{.mark}, [estimer]{.mark}, [admettre]{.mark},  [supposer]{.mark}, [révolter]{.mark}, [choquer]{.mark}
+
+- Des adjectifs :  
+  [intolérable]{.mark}, [absurde]{.mark}, [scandaleux]{.mark}, [insensé]{.mark}, [inadmissible]{.mark}, [insuffisant]{.mark}
+
+- Des adverbes : 
+  [absolument]{.mark}, [probablement]{.mark}, [terriblement]{.mark}, [complètement]{.mark}, [évidemment]{.mark}, [notamment]{.mark}
+
+- Des expressions pour:  
+  - nuancer un propos:   
+    [d'après ce qu'on dit]{.mark}, [si je ne me trompe pas]{.mark}, [sans vouloir heurter]{.mark}, [sauf erreur de ma part]{.mark}, [au risque de choquer]{.mark}, [à ce qu’il paraît]{.mark}  
+  - exprimer son opinion :   
+    [pour moi]{.mark}, [à mon avis]{.mark}, [à mon sens]{.mark}, [je crois que]{.mark}
+  - exprimer un sentiment fort :   
+    [je rêve!]{.mark}, [c’est une blague ?]{.mark}, [ça me scandalise]{.mark}, [je suis en colère contre]{.mark}, [j’en veux terriblement]{.mark}, [c’est inadmissible]{.mark}, [c’est insensé]{.mark}, [ça me révolte!]{.mark}
+  - dire qu'on ne dit pas :  
+    [je ne parlerai pas de]{.mark}, [je n'en dis pas plus]{.mark}
+  - contester :  
+    [mon cil!]{.mark}, [mon oeil!]{.mark}, [tu parles!]{.mark}
+
+
+### VOCABULAIRE
+
+- Ne pas voir le temps passer (= so absorbed in something that you don't notice the time passing)  
+- Semer (= to sow, to plant, e.g. semer des graines)  
+- Pousser quelqu’un à faire quelque chose (= to push someone to do something)  
+- La nostalgie (n.f)  
+- Être nostalgique (adj.)  
+- Malsain (adj.) / malsaine (adj.) (= unhealthy)  
+- Suivre les bonnes pratiques / les bons procédés  ( = to follow good practices)
+- Un bénéfice (n.m)  
+
+
+### DEVOIRS
+
+:::{.callout-important}
+##### Devoirs
+Pour le mercredi 18 février  
+Faire l’exercice de la page suivante.  
+Production écrite : Choisissez un sujet et développez votre colère !  
+
+> Les voitures de luxe - Les jeux Olympiques - Les nouvelles technologies - Mon beau-père / Ma belle-mère - Les extraterrestres - Autre
+
+:::
 
 
 
