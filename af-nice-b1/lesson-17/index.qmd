@@ -74,26 +74,66 @@ J'admets[^4a1] que les pesticides facilitent le travail des agriculteurs, mais i
   - Le point d'interrogation ?
 
 - Des verbes :   
-  [reconnaître]{.mark}, [imaginer]{.mark}, [estimer]{.mark}, [admettre]{.mark},  [supposer]{.mark}, [révolter]{.mark}, [choquer]{.mark}
+  - [reconnaître]{.mark}: to recognize, to admit, to acknowledge  (similaire à admettre)
+  - [imaginer]{.mark}: (similaire à supposer)
+  - [estimer]{.mark}: to estimate  
+  - [admettre]{.mark}  
+  - [supposer]{.mark}  
+  - [révolter]{.mark}: to revolt, to outrage  
+  - [choquer]{.mark}: to shock, to offend  
 
 - Des adjectifs :  
-  [intolérable]{.mark}, [absurde]{.mark}, [scandaleux]{.mark}, [insensé]{.mark}, [inadmissible]{.mark}, [insuffisant]{.mark}
+  - [intolérable]{.mark}  
+  - [absurde]{.mark}  
+  - [scandaleux]{.mark}  
+  - [insensé]{.mark}: senseless, absurd, insane  
+  - [inadmissible]{.mark}: unacceptable
+  - [insuffisant]{.mark}  
 
 - Des adverbes : 
-  [absolument]{.mark}, [probablement]{.mark}, [terriblement]{.mark}, [complètement]{.mark}, [évidemment]{.mark}, [notamment]{.mark}
+  - [absolument]{.mark}  
+  - [probablement]{.mark}  
+  - [terriblement]{.mark}: very much, terribly  
+  - [complètement]{.mark}  
+  - [évidemment]{.mark}: obviously  
+  - [notamment]{.mark}: notably, especially  
 
 - Des expressions pour:  
   - nuancer un propos:   
-    [d'après ce qu'on dit]{.mark}, [si je ne me trompe pas]{.mark}, [sans vouloir heurter]{.mark}, [sauf erreur de ma part]{.mark}, [au risque de choquer]{.mark}, [à ce qu’il paraît]{.mark}  
-  - exprimer son opinion :   
-    [pour moi]{.mark}, [à mon avis]{.mark}, [à mon sens]{.mark}, [je crois que]{.mark}
-  - exprimer un sentiment fort :   
-    [je rêve!]{.mark}, [c’est une blague ?]{.mark}, [ça me scandalise]{.mark}, [je suis en colère contre]{.mark}, [j’en veux terriblement]{.mark}, [c’est inadmissible]{.mark}, [c’est insensé]{.mark}, [ça me révolte!]{.mark}
-  - dire qu'on ne dit pas :  
-    [je ne parlerai pas de]{.mark}, [je n'en dis pas plus]{.mark}
-  - contester :  
-    [mon cil!]{.mark}, [mon oeil!]{.mark}, [tu parles!]{.mark}
+    - [d'après ce qu'on dit]{.mark}: from what people say, according to what people say  
+    - [si je ne me trompe pas]{.mark}: if I'm not mistaken  
+    - [sans vouloir heurter]{.mark}: without wanting to hurt (someone's feelings), _eg. sans vouloir heurter les agriculteurs, je pense que..._  
+    - [sauf erreur de ma part]{.mark}: unless I'm mistaken, _eg. sauf erreur de ma part, c'est déjà le cas dans certains pays..._  
+    - [au risque de choquer]{.mark}: at the risk of shocking, _eg. au risque de choquer, je crois qu'il ne faut pas complètement diaboliser les pesticides..._  
+    - [à ce qu’il paraît]{.mark}: apparently, _eg. à ce qu'il paraît, la moitié des vendeurs et des agriculteurs ne savent pas ni lire ni écrire..._  
 
+  - exprimer son opinion :   
+    - [pour moi]{.mark}  
+    - [à mon avis]{.mark}: in my opinion  
+    - [à mon sens]{.mark}: in my opinion, to my mind  
+    - [je crois que]{.mark}  
+
+  - exprimer un sentiment fort :   
+    - [je rêve!]{.mark}: I can't believe it!, No way! (usually negative). _eg. Je rêve! Comment peut-on vendre des produits interdits en Europe à des populations qui ne sont pas informées des risques?_  
+    - [c’est une blague ?]{.mark}: Is this a joke? (blague: joke)  
+    - [ça me scandalise]{.mark}: It scandalizes me, it makes me angry. _eg. Ça me scandalise[^F1] que les pesticides soient interdits en Europe mais continuent d'être vendus et utilisés en Afrique._
+    - [je suis en colère contre]{.mark}  
+    - [j’en veux terriblement à qqn]{.mark}: I am very angry with someone. _eg. J'en veux terriblement à tous ceux qui pensent plus au profit qu'aux humains._
+    - [c’est inadmissible]{.mark}  
+    - [c’est insensé]{.mark}
+    - [ça me révolte!]{.mark}: It makes me angry, it outrages me. _eg. Ça me révolte que certains pesticides soient interdits en Europe depuis longtemps, mais continuent d'être vendus et utilisés en Afrique._
+
+  - dire qu'on ne dit pas :  
+    - [je ne parlerai pas de]{.mark}: I'm not going to talk about... _eg. Je ne parlerai pas de Monsanto, mais c'est un exemple parmi tant d'autres..._
+    - [je n'en dis pas plus]{.mark}: I won't say more. _eg. Je n'en dis pas plus, mais c'est un sujet qui me tient à cœur..._
+
+  - contester :  
+    - [mon cil!]{.mark}: I don't believe it!, No way! (literally: my eyelash). _eg. Mon cil! Comment peut-on vendre des produits interdits en Europe à des populations qui ne sont pas informées des risques?_
+    - [mon oeil!]{.mark}: same as mon cil! (literally: my eye)
+    - [tu parles!]{.mark}: You can say that again! No kidding! _eg. Tu parles! Beaucoup se sont retrouvés sur la paille (sans jeu de mots)._ (sans jeu de mots = no pun intended)
+
+
+[^F1]: Note here it's the verb "scandaliser". It's different from the "Ça me rend + adj" structure.
 
 ### VOCABULAIRE
 
@@ -120,8 +160,8 @@ Production écrite : Choisissez un sujet et développez votre colère !
 :::
 
 
-
-
-
+> 
+En l'esprit de persister dans mes désagrément aux trottinettes à Pandaville, je continue de exprimer mes reproches sur ceux. Á mon sens, bravo pour choisir une mode de transport probablement plus écologique, mais plusieurs des gens qui utilisent les trottinettes ne les retournent pas aux lieux désignés. 
+C'est intensé qu'on aille trouver chaque jour quelques trottinettes laissées dans les trottoirs, voire complètement bloquant les passes. Comment pouvait-on quelqu'un handicapé passer? Ce sont des gens qui considérent personne que eux-mêmes. Ça me révolte! Au risque de choquer, je crois que chaque personne a autant de besoins que de résponsabilités pour garder l'ordre d'espaces publiques. Alors, tous les citoyens de Pandaville, vous pouvez faire mieux!
 
 
