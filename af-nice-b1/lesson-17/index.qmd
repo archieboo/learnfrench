@@ -174,7 +174,7 @@ Pour le jeudi 19 février :
 
 :::
 
-![Pesticides en l'environnement (Source: [Williams 2023](https://about.ebsco.com/sites/default/files/acquiadam-assets/Pathways-to-Research-Sustainability-Sample-Pesticides.pdf))](https://www.researchgate.net/profile/Brian-Williams-48/publication/368352134/figure/fig2/AS:11431281118794648@1675867239131/Pesticides-in-the-environment.jpg)
+![Pesticides en l'environnement (Source: [Williams 2023](https://about.ebsco.com/sites/derfault/files/acquiadam-assets/Pathways-to-Research-Sustainability-Sample-Pesticides.pdf))](../../asset/af-nice/pesticide-difusion.png)
 
 
 
