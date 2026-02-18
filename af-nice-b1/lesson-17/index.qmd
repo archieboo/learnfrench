@@ -176,5 +176,17 @@ Pour le jeudi 19 février :
 
 ![Pesticides en l'environnement (Source: [Williams 2023](https://about.ebsco.com/sites/derfault/files/acquiadam-assets/Pathways-to-Research-Sustainability-Sample-Pesticides.pdf))](../../asset/af-nice/pesticide-difusion.png)
 
+- la degradation par la lumière UV
+- l'accumulation dans les animaux
+- la deposition avec les précipitations
+- les dérives avec le vent et les courants d'air
+- l'évaporation dans l'atmosphère
+- l'accumulation dans les plantes
+- les résidus sur les surfaces
+- la liaison avec les particules de sol
+- la décomposition par les microbes et les produits chimiques dans le sol
+- l'accumulation dans les animaux
+- le ruissellement dans les rivières et les plans d'eau
+
 
 
