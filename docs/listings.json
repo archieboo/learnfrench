@@ -1,5 +1,17 @@
 [
   {
+    "listing": "/defi4.html",
+    "items": [
+      "/defi4/unite-01/index.html"
+    ]
+  },
+  {
+    "listing": "/defi3.html",
+    "items": [
+      "/defi3/unite-01/index.html"
+    ]
+  },
+  {
     "listing": "/af-nice-b1.html",
     "items": [
       "/af-nice-b1/lesson-18/index.html",
@@ -50,18 +62,6 @@
       "/lenouveautaxi3/le-nouveau-taxi-3-3/index.html",
       "/lenouveautaxi3/le-nouveau-taxi-3-2/index.html",
       "/lenouveautaxi3/le-nouveau-taxi-3-1/index.html"
-    ]
-  },
-  {
-    "listing": "/defi4.html",
-    "items": [
-      "/defi4/unite-01/index.html"
-    ]
-  },
-  {
-    "listing": "/defi3.html",
-    "items": [
-      "/defi3/unite-01/index.html"
     ]
   }
 ]
