@@ -1,0 +1,59 @@
+/*-- scss:defaults --*/
+
+// 1. Import EB Garamond from Google Fonts
+$web-font-path: "https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Roboto:wght@400;500;700&display=swap" !default;
+
+// 2. Define the font variable
+$font-family-serif: "EB Garamond", serif !default;
+
+/*-- scss:rules --*/
+
+// 3. Apply to Headings and Main Article Content
+h1, h2, h3, h4, h5, h6,
+.title, 
+section {
+  font-family: $font-family-serif;
+}
+
+// Targeting the Quarto main content area specifically
+#quarto-content {
+  font-family: $font-family-serif;
+  font-size: 1.15rem; // Optional: Garamond usually needs to be slightly larger to be legible
+}
+
+// 4. Target the Blog Index (Listing Page)
+.listing-date,
+.listing-title,
+.listing-description,
+.metadata,
+.quarto-listing-table td {
+  font-family: $font-family-serif;
+  text-transform: none; // Sandstone often forces uppercase; this reverts it for Garamond
+}
+
+//5. bump font size for better readability
+#quarto-content {
+  font-size: 1.15rem;
+}
+
+// Shared styles for all marker classes
+.markred, .markorange, .markyellow, .markgreen, .markteal, 
+.markblue, .markpurple, .markpink, .marksilver, .markslate {
+  padding: 0 0.25em;
+  margin: 0 0.05em;
+  border-radius: 3px;
+  -webkit-box-decoration-break: clone; // Ensures highlights wrap nicely across lines
+  box-decoration-break: clone;
+}
+
+// 10 Color Palette
+.markred    { background-color: #f9d7d7; } 
+.markpink   { background-color: #fce7f3; }
+.markorange { background-color: #fde4cf; }
+.markyellow { background-color: #fef3c7; }
+.markgreen  { background-color: #dcfce7; }
+.markteal   { background-color: #ccfbf1; }
+.markblue   { background-color: #dbeafe; }
+.markpurple { background-color: #f3e8ff; }
+.marksilver { background-color: #f3f4f6; } // Warm Light Gray
+.markslate  { background-color: #e2e8f0; } // Cool Medium Gray
