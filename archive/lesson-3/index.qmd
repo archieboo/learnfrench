@@ -6,7 +6,6 @@ reference-location: margin
 ---
 
 
-
 ## Dialogue
 
 
@@ -19,7 +18,7 @@ Il a quitté son travail<br>
 J’ai laissé les clés sur la table<br>
 Laisse-moi tranquille[^2]<br>
 Laisser + verbe à l’infinitif<br>
-Similar verbes: aller, vouloir, pouvoir, devoir<br>
+Similaire verbes: aller, vouloir, pouvoir, devoir<br>
 
 Je te laisse conduire ma voiture<br>
 Je le laisse utiliser mon téléphone<br>
