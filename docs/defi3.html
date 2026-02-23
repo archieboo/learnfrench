@@ -6,9 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2026-02-16">
 
-<title>Lesson 16 – Learn French</title>
+<title>defi3 – Bonjour!</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -24,25 +23,27 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../../">
-<link href="../../profile.jpg" rel="icon" type="image/jpeg">
-<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
-<script src="../../site_libs/quarto-html/popper.min.js"></script>
-<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-250a0ad726c327aed60c1b8aba93cc6c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./profile.jpg" rel="icon" type="image/jpeg">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-8095d95d1594dd08045ae422590ca547.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -70,24 +71,82 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
 
-<link rel="stylesheet" href="../../styles.css">
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="styles.css">
 </head>
 
 <body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top">
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../../profile.jpg" alt="" class="navbar-logo light-content">
-    <img src="../../profile.jpg" alt="" class="navbar-logo dark-content">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./profile.jpg" alt="" class="navbar-logo light-content">
+    <img src="./profile.jpg" alt="" class="navbar-logo dark-content">
     </a>
-    <a class="navbar-brand" href="../../index.html">
-    <span class="navbar-title">Learn French</span>
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">Bonjour!</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -97,21 +156,35 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../af-nice-b1.html"> 
-<span class="menu-text">AF Nice</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../../defi4.html"> 
+    <a class="nav-link" href="./defi4.html"> <i class="bi bi-book" role="img">
+</i> 
 <span class="menu-text">Défi 4</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../le-nouveau-taxi-3.html"> 
+    <a class="nav-link active" href="./defi3.html" aria-current="page"> <i class="bi bi-book" role="img">
+</i> 
+<span class="menu-text">Défi 3</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./af-nice-b1.html"> <i class="bi bi-backpack" role="img">
+</i> 
+<span class="menu-text">AF Nice</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./le-nouveau-taxi-3.html"> <i class="bi bi-youtube" role="img">
+</i> 
 <span class="menu-text">Le Nouveau Taxi 3</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../archive.html"> 
+    <a class="nav-link" href="https://espacevirtuel.emdl.fr"> <i class="bi bi-clouds-fill" role="img">
+</i> 
+<span class="menu-text">L’espace Virtuel</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./archive.html"> <i class="bi bi-archive" role="img">
+</i> 
 <span class="menu-text">Archive</span></a>
   </li>  
 </ul>
@@ -122,85 +195,58 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<header id="title-block-header" class="quarto-title-block"></header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#standard-course" id="toc-standard-course" class="nav-link active" data-scroll-target="#standard-course">Standard course</a>
-  <ul class="collapse">
-  <li><a href="#le-text" id="toc-le-text" class="nav-link" data-scroll-target="#le-text">LE TEXT</a>
-  <ul class="collapse">
-  <li><a href="#initiatives-agricoles-au-maghreb" id="toc-initiatives-agricoles-au-maghreb" class="nav-link" data-scroll-target="#initiatives-agricoles-au-maghreb">INITIATIVES AGRICOLES AU MAGHREB</a></li>
-  </ul></li>
-  </ul></li>
-  </ul>
-</nav>
-    </div>
+        
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="QjE=">B1 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ZCVDMyVBOWZpMw==">défi3 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VW5pdGUx">Unite1 <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
-<main class="content page-columns page-full" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Lesson 16</h1>
-  <div class="quarto-categories">
-    <div class="quarto-category">AF Nice</div>
-    <div class="quarto-category">B2</div>
-    <div class="quarto-category">Défi4</div>
-    <div class="quarto-category">Unit2</div>
-  </div>
-  </div>
+<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
 
 
-<div class="quarto-title-meta">
-
-    
-    <div>
-    <div class="quarto-title-meta-heading">Published</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date">February 16, 2026</p>
-    </div>
-  </div>
-  
-    
-  </div>
-  
 
 
-</header>
 
 
-<section id="standard-course" class="level1 page-columns page-full">
-<h1>Standard course</h1>
-<section id="le-text" class="level2 page-columns page-full">
-<h2 class="anchored" data-anchor-id="le-text">LE TEXT</h2>
-<section id="initiatives-agricoles-au-maghreb" class="level3 page-columns page-full">
-<h3 class="anchored" data-anchor-id="initiatives-agricoles-au-maghreb">INITIATIVES AGRICOLES AU MAGHREB</h3>
-<p>Le Maroc, l’Algérie et la Tunisie partagent le même climat, la même végétation et les mêmes problématiques: la sècheresse<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> des sols et la diminution des terres cultivables. Autres points communs: une population rurale très importante et un potentiel agricole porté par des femmes, dans des exploitations à taille<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a> humaine. Ces initiatives locales nous montrent que, parfois, des solutions résident dans les problèmes.</p>
-<div class="no-row-height column-margin column-container"><div id="fn1"><p><sup>1</sup>&nbsp;sècheresse = dryness, drought</p></div><div id="fn2"><p><sup>2</sup>&nbsp;à taille humaine = human scale, taille = size</p></div></div><section id="focus-maroc" class="level4 page-columns page-full">
-<h4 class="anchored" data-anchor-id="focus-maroc">Focus Maroc</h4>
-<p>Avril 2019, le SIAM, le Salon international de l’agriculture au Maroc, présente pour la première fois un espace réservé à l’agriculture biologique. Parmi les exposants<a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a>, Malika Mouilek, 2éme lauréate du prix Terre de Femmes Maroc 2019, défend à la fois l’agriculture biologique et le travail des femmes dans son village de Dour Laglalcha. Selon elle, l’agriculture intensive a fait diminuer les stocks d’eau et a dégradé la qualité du sol. Uniquement vendus sur les marchés locaux et traités<a href="#fn4" class="footnote-ref" id="fnref4" role="doc-noteref"><sup>4</sup></a> avec des insecticides naturels, les agrumes<a href="#fn5" class="footnote-ref" id="fnref5" role="doc-noteref"><sup>5</sup></a> et produits maraîchers<a href="#fn6" class="footnote-ref" id="fnref6" role="doc-noteref"><sup>6</sup></a> biologiques de ces femmes ne bénéficient pas de certifications bio. Elle veulent se constituer<a href="#fn7" class="footnote-ref" id="fnref7" role="doc-noteref"><sup>7</sup></a> en coopérative pour bénéficier d’aides gouvernementales et pérenniser<a href="#fn8" class="footnote-ref" id="fnref8" role="doc-noteref"><sup>8</sup></a> les emplois d’une trentaine de saisonnières<a href="#fn9" class="footnote-ref" id="fnref9" role="doc-noteref"><sup>9</sup></a>.</p>
-<div class="no-row-height column-margin column-container"><div id="fn3"><p><sup>3</sup>&nbsp;exhibitors</p></div><div id="fn4"><p><sup>4</sup>&nbsp;treated</p></div><div id="fn5"><p><sup>5</sup>&nbsp;citrus fruits</p></div><div id="fn6"><p><sup>6</sup>&nbsp;produits maraîchers = garden products / vegetables</p></div><div id="fn7"><p><sup>7</sup>&nbsp;se constituer = to form, to set up</p></div><div id="fn8"><p><sup>8</sup>&nbsp;to make sustainable, pérenniser = to make sustainable, immortalise</p></div><div id="fn9"><p><sup>9</sup>&nbsp;seasonal workers</p></div></div></section>
-<section id="focus-algérie" class="level4 page-columns page-full">
-<h4 class="anchored" data-anchor-id="focus-algérie">Focus Algérie</h4>
-<p>Le figuier<a href="#fn10" class="footnote-ref" id="fnref10" role="doc-noteref"><sup>10</sup></a> de Barbarie, très répandu<a href="#fn11" class="footnote-ref" id="fnref11" role="doc-noteref"><sup>11</sup></a> en Méditerranée, a ranimé<a href="#fn12" class="footnote-ref" id="fnref12" role="doc-noteref"><sup>12</sup></a> la commune de Sidi Fredj, près d’Alger, où beaucoup de jeunes sans emploi rêvaient d’émigration. L’effet de mode<a href="#fn13" class="footnote-ref" id="fnref13" role="doc-noteref"><sup>13</sup></a> autour des qualités cosmétiques et alimentaires de ce cactus a permis d’augmenter la production. À l’exception des épines<a href="#fn14" class="footnote-ref" id="fnref14" role="doc-noteref"><sup>14</sup></a>, tout est utilisable (pépins, fleurs, pulp du fruit…) dans cette plante capable de pousser<a href="#fn15" class="footnote-ref" id="fnref15" role="doc-noteref"><sup>15</sup></a> sur des terres arides. Depuis 2013, les autorités agricoles locales encouragent le développement de la culture de cette plante, dont on extrait une des huiles<a href="#fn16" class="footnote-ref" id="fnref16" role="doc-noteref"><sup>16</sup></a> les plus chères au monde utilisée en cosmétique. Certifiée bio par des organismes étrangers (une telle certification n’existe pas en Algérie), l’huile de figue de Barbarie s’exporte en France, en Allemagne et au Qatar. Dans la région, la transformation du cactus a fait émerger une économie familiale qui offre aux femmes employées pour la récolte<a href="#fn17" class="footnote-ref" id="fnref17" role="doc-noteref"><sup>17</sup></a> une indépendance financière, et aux jeunes un espoir<a href="#fn18" class="footnote-ref" id="fnref18" role="doc-noteref"><sup>18</sup></a> d’avenir.</p>
-<div class="no-row-height column-margin column-container"><div id="fn10"><p><sup>10</sup>&nbsp;figuier de Barbarie = prickly pear cactus; figuier = fig tree</p></div><div id="fn11"><p><sup>11</sup>&nbsp;widespread; répandre = to spread</p></div><div id="fn12"><p><sup>12</sup>&nbsp;revived, reanimated; ranimer = to revive, to reanimate</p></div><div id="fn13"><p><sup>13</sup>&nbsp;l’effet de mode = trend, fashion trend, craze</p></div><div id="fn14"><p><sup>14</sup>&nbsp;épine = thorn, spine; pépin = seed</p></div><div id="fn15"><p><sup>15</sup>&nbsp;here means to grow, pousser = push, grow, etc.</p></div><div id="fn16"><p><sup>16</sup>&nbsp;une des huiles = one of the oils; une des = one of the</p></div><div id="fn17"><p><sup>17</sup>&nbsp;récolte = harvest; récolter</p></div><div id="fn18"><p><sup>18</sup>&nbsp;hope, expectation</p></div></div></section>
-<section id="focus-tunisie" class="level4 page-columns page-full">
-<h4 class="anchored" data-anchor-id="focus-tunisie">Focus Tunisie</h4>
-<p>Grâce à ses racines profondes<a href="#fn19" class="footnote-ref" id="fnref19" role="doc-noteref"><sup>19</sup></a>, l’acacia moringa<a href="#fn20" class="footnote-ref" id="fnref20" role="doc-noteref"><sup>20</sup></a> puise<a href="#fn21" class="footnote-ref" id="fnref21" role="doc-noteref"><sup>21</sup></a> l’eau à 60 mètres sous terre. Sa culture permet de limiter l’arrosage , car il protège le sol avec ses feuilles et l’humidifie. Depuis 2012, Sarah Toumi plante ces arbustes<a href="#fn22" class="footnote-ref" id="fnref22" role="doc-noteref"><sup>22</sup></a> dans la région agricole au nord de Sfax. Son idée est simple: implanter l’acacia dans les cultures<a href="#fn23" class="footnote-ref" id="fnref23" role="doc-noteref"><sup>23</sup></a> du pays et changer les habitudes des agriculteurs. Elle a d’abord commencé à travailler avec des femmes, pour la plupart propriétaires de petites parcelles de terre. Aujourd’hui, son initiative intitulée<a href="#fn24" class="footnote-ref" id="fnref24" role="doc-noteref"><sup>24</sup></a> Acacias pour tous fournit<a href="#fn25" class="footnote-ref" id="fnref25" role="doc-noteref"><sup>25</sup></a> des graines aux agricultrices. Elles produisent ensuite du miel ou des tisanes<a href="#fn26" class="footnote-ref" id="fnref26" role="doc-noteref"><sup>26</sup></a> destinés aux marché européen. Elles travaillent dans le cadre d’une coopérative qui leur offre la possibilité de commercialiser leurs production.</p>
 
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="QjElMkNkJUMzJUE5ZmkzJTJDVW5pdGUx" data-listing-date-sort="1771826400000" data-listing-file-modified-sort="1771868806841" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="4">
+<div class="thumbnail"><a href="./defi3/unite-01/index.html" class="no-external">
 
-<div class="no-row-height column-margin column-container"><div id="fn19"><p><sup>19</sup>&nbsp;profondes = deep; racines profondes = deep roots</p></div><div id="fn20"><p><sup>20</sup>&nbsp;acacia moringa = moringa tree, a plant native to parts of Africa and Asia that is known for its drought resistance and nutritional value</p></div><div id="fn21"><p><sup>21</sup>&nbsp;puiser = to draw, to tap into</p></div><div id="fn22"><p><sup>22</sup>&nbsp;arbuste = shrub, bush</p></div><div id="fn23"><p><sup>23</sup>&nbsp;cultures = crops, farming</p></div><div id="fn24"><p><sup>24</sup>&nbsp;intitulée = entitled, named</p></div><div id="fn25"><p><sup>25</sup>&nbsp;fournir = to provide</p></div><div id="fn26"><p><sup>26</sup>&nbsp;tisanes = herbal teas</p></div></div></section>
-</section>
-</section>
-</section>
+<div class="listing-item-img-placeholder card-img-top" style="height: 200px;">&nbsp;</div>
 
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./defi3/unite-01/index.html" class="no-external">Unité 1: Ville en ville</a>
+</h3>
+<div class="listing-categories">
 
-</main> <!-- /main -->
+<div class="listing-category" onclick="window.quartoListingCategory('QjE='); return false;">B1</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('ZCVDMyVBOWZpMw=='); return false;">défi3</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('VW5pdGUx'); return false;">Unite1</div>
+
+</div>
+<div class="delink listing-description"><a href="./defi3/unite-01/index.html" class="no-external">
+L’espace Virtuel
+</a></div>
+</div>
+<div class="metadata">
+<a href="./defi3/unite-01/index.html" class="no-external">
+<div class="listing-date">
+Feb 23, 2026
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

@@ -14,23 +14,35 @@ title-block-banner: true
 format: revealjs
 ---
 
-# AF-Nice B1/B2
+# Défi 4 & Défi 3
 
-Class notes and exercises for my B1/B2 course at AF-Nice.
+Textbook and exercises as I go through the textbook. 
+
 
 :::{.columns}
 
 ::::{.column width="49%"}
-[![](af-nice-b1/defi3-cover.png){width=180px}](af-nice-b1.html)
+[![](defi4/defi4-cover.png){width=300px}](defi4.html)
 ::::
 
 ::::{.column width="2%"}
 ::::
 
 ::::{.column width="49%"}
-[![](af-nice-b1/defi4-cover.png){width=180px}](af-nice-b1.html)
+[![](defi3/defi3-cover.png){width=300px}](defi3.html)
 ::::
 :::
+
+
+# AF-Nice B1/B2
+
+Notes pour mes classes de français à l'AF-Nice.
+
+
+[![](af-nice-b1/af-nice-cafe.png){width=400px}](af-nice-b1.html)
+
+
+
 
 # Le Nouveau Taxi 3
 

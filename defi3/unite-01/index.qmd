@@ -1,0 +1,19 @@
+---
+title: "Unité 1: Ville en ville"
+date: "2026-02-23"
+categories: ["B1", "défi3", "Unite1"]
+reference-location: margin
+citation-location: margin
+number-sections: false
+--- 
+
+# DOSSIER 1
+
+[L'espace Virtuel](https://espacevirtuel.emdl.fr)
+
+
+## TEXTE: 
+
+
+
+

@@ -1,0 +1,164 @@
+---
+title: "Unité 1: Ville en ville"
+date: "2026-02-23"
+categories: ["B2", "défi4", "Unite1"]
+reference-location: block # margin, block, section, document
+citation-location: document #margin
+number-sections: false
+# mainfont: "EB Garamond"
+--- 
+
+# DOSSIER 1
+
+
+## TEXTE: UN BRIN DE POÉSIE URBAINE
+
+On a tendance à associer la poésie à la nature, aux mouvement de l'âme, à l'amour, voire à la mort. Accueillante ou austère[^1a1], la ville, aussi, inspire les poètes. La poésie se goûte[^1a2] avec le cœur, elle fait appel aux[^1a3] émotions. Bien plus que de simples descriptions, ces poèmes invitent au voyage dans divers paysages urbains. Comme aucun lecteur n'entre dans un poème par le même chemin, quel sera le vôtre?
+
+[^1a1]: welcoming or austere
+[^1a2]: se goûter à: to be savored by
+[^1a3]: faire appel à: to call upon
+
+
+> Il pleure dans mon cœur  
+> Comme il pleut sur la ville;  
+> Quelle est cette langueur  
+> Qui pénètre mon cœur?  
+> Ô bruit doux de la pluie  
+> Par terre et sur les toits!  
+> Pour un cœur qui s'ennuie,  
+> Ô le chant de la pluie!  
+>
+> _[Paul Verlaine (1874)]{.marksilver}_  
+> _["Il pleure dans mon cœur", 1874]{.marksilver}_  
+
+
+> New York! D'abord j'ai été confondu par ta beauté, ces grandes filles d'or aux jambes longues.  
+> Si timide d'abord devant tes yeux de métal bleu, ton sourire de givre  
+> Si timide. Et l'angoisse au fond des rues à gratte-ciel  
+> Levant des yeux de chouette parmi l'éclipse du soleil
+> 
+> _[Léopold Sédar Senghor (1906-2001)]{.marksilver}_  
+> _["Éthiopiques", 1956]{.marksilver}_
+
+
+> Gratter le ciel de l'ongle sur la vitre du train  
+> Et derrière tout soudain, s'élance le jet d'eau  
+> Nos pas vont de travers, Cornavin à Bel-Air  
+> Et dans la rue du Stand, ç sent le marron chaud  
+> Voir la ville griser, givrer, rêver d'hiver  
+> Entourée des montagnes de nos vies à vau-l'eau  
+>
+> _[Amélie Charcosset (1988-)]{.marksilver}_  
+> _["Genève", 2019]{.marksilver}_  
+
+
+> Mon enfance captive a vécu dans des pierres,  
+> Dans la ville où sans fin, vomissant le charbon,  
+> L'usine en feu dévore un peuple moribond,  
+> Et pour voir des jardins je fermais les paupières  
+>  
+> _[Albert Samain (1858-1900)]{.marksilver}_  
+> _["Mon enfance captive", 1901]{.marksilver}_
+
+
+> Tu es cible  
+> je suis cible  
+> Nous sommes cibles  
+> cibles pour balles  
+> fanatique  
+> qui se glisse  
+> dans nos plis  
+> fracasse ma ta carcasse  
+> je suis tu es  
+> potentielle fracassée  
+> je suis tu es tu es  
+> cible cible  
+> la haine ronge l'âme  
+> dans les rues de Bruxelles  
+> un pigeon frôle le visage d'un homme  
+> nous nous sourions  
+> nos yeux se disent  
+> que nous sommes cibles oui  
+> cibles d'amour  
+> danseurs de nos peaux cibles  
+> tous nos possibles  
+> ma ville  
+> au cœur  
+> fêté  
+> nos peaux cibles  
+> dans tes rues dansent  
+> aujourd'hui  
+> demain  
+> tous nos possibles  
+>
+> _[Laurence Vielle (1968-)]{.marksilver}_  
+> _["Tu es cible", 2016]{.marksilver}_
+
+
+
+
+## TEXTE: LA REVANCHE D'UNE MOCHE
+
+Avec ses usine en ruine, ses hangars à l'abandon et son ring disgracieux[^2a1], Chaleroi est certainement la ville belge [au plus lourd]{.mark} passé industriel[^2a2]. Cette ancienne cité minière et aussi l'ex-capitale de la métallurgie[^2a3] belge. [Suite au]{.mark}[^2a4] choc provoqué par le titre de "la ville la plus laide[^2a5] du monde" décerné[^2a6] au 2008 par le journal néerlandais De Volkskrant, Charleroi s'est lancée dans une gigantesque chantier[^2a7]. À force de[^2a8] volonté[^2a9] politique, artistique et citoyenne, elle renaît de ses cendres[^2a11]. Zoom sur une agglomération[^2a12] en pleine métamorphose.
+
+[^2a1]: disgracieux/se: ugly, unattractive
+[^2a2]: the Belgian city with the heaviest industrial past. Note how à la / au + plus + adj. used to describe
+[^2a3]: métallurgie: metallurgy, metal industry
+[^2a4]: suite à: following, as a result of
+[^2a5]: laid = ugly
+[^2a6]: décerné à: awarded to
+[^2a7]: chantier: construction site, project
+[^2a8]: à force de: through, by means of
+[^2a9]: volonté: will, determination
+[^2a11]: renaître de ses cendres: to rise from the ashes, cendre = ash
+[^2a12]: aggloméreration: urban area/district; agglomérer: to agglomerate, to cluster together
+
+
+##### **Revitalisation de l'espace urbain**
+
+Comme dans [d'autres]{.mark}[^3a1] villes wallonnes, le centre-ville s'est lentement vidé [du fait de]{.mark}[^3a2] l'exode de la bourgeoisie [vers]{.mark} les banlieues vertes et de la délocalisation[^3a3] des centres commerciaux en périphérie. Ainsi, pour redynamiser le bas du centre-ville et le rendre plus attrayant, les autorités publiques ont rénové le passage de la Bourse - une galerie classée au patrimoine[^3a4] wallon - et ont autorisé la construction d'un collossal centre commercial de 38 000 m², comprenant 95 commerces, des bureaux, des hotels et des logements. [Dès l'instant]{.mark}[^3a5] où la galerie marchande Rive Gauche a ouvert ses portes en 2017, le quartier [a repris vie]{.mark}[^3a6], et le réaménagement[^3a7] des quais de la Sambre l'a embelli. En se promenant [le long de]{.mark} ses rives, on découvre une ville agréable et attractive qui aura bientôt sa marina! Les immeubles insalubres[^3a8] [font place à]{.mark}[^3a9] des logements de qualité, et les autorités publiques espèrent le retour des classes moyennes dans ces quartiers. 
+
+[^3a1]: note dans **d**'autres villes, not dans autres villes
+[^3a2]: du fait de: due to, because of
+[^3a3]: délocaliser: relocate
+[^3a4]: patrimoine: heritage
+[^3a5]: dès l'instant: from the moment, as soon as
+[^3a6]: reprendre vie: to come back to life. When the noun expresses a state, an emotion, a quality, or an abstract condition, french often treats it like an advertial concept, thus drop the article.
+[^3a7]: réaménagement: redevelopment, renovation
+[^3a8]: insalubre: unhealthy, unsanitary
+[^3a9]: faire place à: to give way to, to make room for
+
+
+##### **Rénovation de bâtiments** 
+
+En centre-ville, après ces importants travaux dans la Ville-Basse, c'est [au tour de]{.mark} la Ville-Haute de un seconde souffle[^4a1]. Par ses rénovations, Chaleroi souhaite redonner[^4a2] un rôle économique à ce quartier. Son objectif: la création d'un centre de congrès[^4a3] et la renovation du Palais des Beaux-Arts et du Palais des expositions. Celui-ci est un bâtiment emblématique[^4a4] datant des années 1950. 
+
+[^4a1]: souffle: breath. un seconde souffle: a new lease on life
+[^4a2]: redonner: to give back, to restore
+[^4a3]: un congrès: a conference, a convention
+[^4a4]: emblématique: emblematic, iconic
+
+
+##### **Entre culture classique...**
+
+Depuis quelque temps, le Pays noir se réinvente et redore[^5a1] son image [grâce à]{.mark} un élément fédérateur[^5a2]: la culture. Des lieux et des initiatives existaient déjà: situé dans un édifice religieux réaménagé[^5a3], le musée de la Photographie (inauguré en 1987) est le plus grand musée d'Europe dédié à cet art. Par ailleurs, Charleroi Danse (le centre chorégraphique Wallonie-Bruxelles) et le BPS22 (le Musée d'art de la Province de Hainaut) ont fait peau neuve[^5a4] entre 2014 et 2015. Comme ce dernier[^5a5] a l'ambition d'être plus qu'un simple musée, il propose également diverses activités pour [s'interroger sur]{.mark}[^5a6] la relation entre l'art et la société. 
+
+[^5a1]: redorer: to restore, to improve
+[^5a2]: élément fédérateur: unifying element; fédérer: to unite, to bring together; fédérateur: unifying, uniting
+[^5a3]: un édifice religieux réaménagé: a repurposed religious building. un édifice: a building, from édifier: to build
+[^5a4]: faire peau neuve: to be revamped, to be renovated
+[^5a5]: ce dernier: the latter
+[^5a6]: s'interroger sur: to question, to reflect on
+
+
+
+
+
+
+
+
+
+
+
+

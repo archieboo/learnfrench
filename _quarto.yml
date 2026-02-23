@@ -13,22 +13,35 @@ project:
     - '*.qmd'
     - 'lenouveautaxi3/**/*.qmd'
     - 'af-nice-b1-2/**/*.qmd'
+    - 'defi*/**/*.qmd'
     - 'archive/**/*.qmd'
 
 
 website:
-  title: "Learn French"
+  title: "Bonjour!"
   favicon: profile.jpg
   navbar:
     logo: profile.jpg
     # background: '#291B10'
     left:
+      - text: "Défi 4"
+        icon: book
+        href: defi4.qmd
+      - text: "Défi 3"
+        icon: book
+        href: defi3.qmd
       - text: "AF Nice"
+        icon: backpack
         href: af-nice-b1.qmd
       - text: "Le Nouveau Taxi 3"
+        icon: youtube
         href: le-nouveau-taxi-3.qmd
     right:
+      - text: "L'espace Virtuel"
+        icon: clouds-fill
+        href: "https://espacevirtuel.emdl.fr"
       - text: Archive
+        icon: archive
         href: archive.qmd
 format:
   html:
@@ -37,11 +50,15 @@ format:
     number-sections: true
     number-depth: 3
     theme:
-      - lumen
+      # - lumen
       # - united
       # - yeti
       # - sandstone
-    css: styles.css
+      - sandstone
+      - custom.scss
+    css: 
+      - styles.css
+    
 
 
 
