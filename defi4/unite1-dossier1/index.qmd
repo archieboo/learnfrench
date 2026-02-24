@@ -2,7 +2,7 @@
 title: "Unité 1: Ville en ville - Dossier 1"
 date: "2026-02-23"
 categories: ["B2", "défi4", "Unité1", "Exprimer la cause", "Éviter les répétitions"]
-reference-location: block # margin, block, section, document
+reference-location: section # margin, block, section, document
 citation-location: document #margin
 image: "https://images.unsplash.com/photo-1509137705736-c15e10d9ce62?q=80&w=640"
 --- 
@@ -203,6 +203,58 @@ Aujourd'hui, on découvre une ville rajeunie[^7a1], la redynamisation urbaine et
 
 # GRAMMAIRE: Exprimer la cause
 
+
+- [parce que, car, comme, puisque + **phrase**]{.markgreen} <br>
+  _Ex.: [Comme]{.markgreen} le musée a l'ambition d'être plus qu'un simple musée, il propose également diverses activités._
+
+- [en raison de, à cause de[^k1], dû à[^k2], faute de[^k3], suite à[^k4], à la suite de[^k5], à force de[^k6], du fait de[^k7], grâce à + **nom**]{.markgreen} <br>
+  _Ex.: [Suite à]{.markgreen} un choc provoqué par le titre..._  
+  _Ex.: [À force de]{.markgreen} volonté politique, artistique et citoyenne..._  
+  _Ex.: Le centre-ville s'est lentement vidé [du fait de]{.markgreen} l'exode de la bourgeoisie..._  
+  _Ex.: Le pays noir se réinvente et redore son image [grâce à]{.markgreen} la culture._  
+
+[^k1]: à cause de: because of, due to (negative connotation, unlike grâce à which has a positive connotation)
+[^k2]: dû à: due to, caused by (neutral connotation)
+[^k3]: faute de: for lack of, for want of (negative connotation)
+[^k4]: suite à: following, as a result of (neutral connotation)
+[^k5]: à la suite de: following, as a result of (neutral connotation)
+[^k6]: à force de: through, by means of (neutral connotation)
+[^k7]: du fait de: due to, because of (neutral connotation)
+
+
+- [à force de, sous prétexte de[^k9] + **infinitif**]{.markgreen} <br>
+  _Ex.: [Sous prétexte de]{.markgreen} rénover la ville, la commmune de Bruxelles a détruit les vieux quartiers..._  
+  _Ex.: [À force de]{.markgreen} vouloir rénover la ville, la commune de Bruxelles a détruit les vieux quartiers..._
+
+[^k9]: sous prétexte de: under the pretext of, on the grounds of (negative connotation)
+
+  
+- [vue que[^k10], étant donné que[^k11], d'autant plus que[^k12] + **phrase**]{.markgreen} <br>
+  _Ex.: [Vue que]{.markgreen} le musée a l'ambition d'être plus qu'un simple musée, il propose également diverses activités pour s'interroger sur la relation entre l'art et la société._  
+  _Ex.: [Étant donné que]{.markgreen} la ville était fermement déterminée à apporter de la couleur..._  
+  _Ex.: [D'autant plus que]{.markgreen} l'image positive de la ville commerce à s'étendre au-delà de ses frontières..._
+
+[^k10]: vue que: given that, seeing that (neutral connotation, often used in writing)
+[^k11]: étant donné que: given that, considering that (neutral connotation, often used in writing)
+[^k12]: d'autant plus que: all the more so because, especially since (neutral connotation, often used in writing)
+
+- [avec, sans, par, pour + **nom**]{.markgreen} <br>
+  _Ex.: [Avec]{.markgreen} ses usine en ruine, ses hangars à l'abandon et son ring disgracieux..._  
+  _Ex.: [Sans]{.markgreen} ces importants travaux dans la Ville-Basse, c'est au tour de la Ville-Haute de un seconde souffle._  
+  _Ex.: [Par]{.markgreen} ses rénovations, Chaleroi souhaite redonner un rôle économique à ce quartier._  
+  _Ex.: [Pour]{.markgreen} redynamiser le bas du centre-ville et le rendre plus attrayant..._
+
+- [maintenant que[^k13], dès l'instant où[^k14] + **phrase**]{.markgreen} <br>
+  _Ex.: [Maintenant que]{.markgreen} la galerie marchande Rive Gauche a ouvert ses portes en 2017..._  
+  _Ex.: [Dès l'instant où]{.markgreen} la galerie marchande Rive Gauche a ouvert ses portes en 2017..._
+
+[^k13]: maintenant que: now that (neutral connotation, often used in writing)
+[^k14]: dès l'instant où: from the moment that, as soon as (neutral connotation, often used in writing)
+
+:::{.callout-tip .column-margin}
+###### Exercices
+Cahier d'exercices P.7
+:::
 
 # GRAMMAIRE: Éviter les répétitions
 

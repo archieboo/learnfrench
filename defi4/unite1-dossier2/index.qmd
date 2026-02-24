@@ -2,13 +2,15 @@
 title: "Unité 1: Ville en ville - Dossier 2"
 date: "2026-02-24"
 categories: ["B2", "défi4", "Unité1", "exprimer la conséquence", "pronom le"]
-reference-location: block # margin, block, section, document
+reference-location: section # margin, block, section, document
 citation-location: document #margin
 image: "https://images.unsplash.com/photo-1556983852-43bf21186b2a?q=80&w=640"
 --- 
 
 
 # TEXTE: Les grandes tendances de l'urbanisme du futur
+
+![](https://images.unsplash.com/photo-1619697101606-7c092a8e6281?q=80&w=640){.column-margin}
 
 _Selon l'ONU, 66% de la population mondiale vivra en zones urbaines [d'ici 2050]{.mark} (2% au début du $XIX^e$ siècle, 30% en 1950, 54% en 2015). L'exode rural, qui coïncide toujours avec le développement industriel, atteit des niveaux très élevés en Inde, en Chine et au Nigeria. La grande variété de tailles et de niveaux de développement, [ajoutée aux]{.mark} différences de politiques publiques et de comportement[^1a1] sociétaux, [exclut qu]{.mark}'il y ait un seule type de ville du futur. Cependant, malgré les différences, [il est possible de]{.mark} dégager[^1a2] quatre grandes tendances dans l'évolution des villes._
 
@@ -55,6 +57,101 @@ L'accroissement[^5a1] de la population urbaine demande une meilleure gestion des
 
 # TEXTE: Quelles transformations la ville intelligente engendrera-t-elle?
 
+![](https://images.unsplash.com/photo-1525838808082-a422ecbce2ff?q=80&w=640){.column-margin}
+
+[_Intervenante:_]{.markblue} _Alice Beaufort, enseignante-chercheuse_  
+_23 mars 2020 $III^e$ colloque[^6a1] international sur les villes connectées_
+
+Cette communication propose d'analyser les attraits des villes intelligentes pour les autorités publiques ainsi que[^6a2] les menaces qui en découlent[^6a3]. Ensuite, je terminerai en montrant les impacts que peut avoir l'exploitation des données numériques sur les citoyens et la démocratie.
+
+Intelligence technique, systémique, politique et culturelle... Il y a [tellement de]{.markteal} conceptions de _smart cities_ [que]{.markteal} j'ai [centré mon étude sur]{.mark} les villes qui collectent et traitent des données numériques pour optimiser leur fonctionnement. Dans ces villes, les autorités publiques travaillent notamment à fluidifier la mobilité urbaine, optimiser la consommation énergétique et améliorer la gestion de l'eau et des déchets[^6a4]. Malgrés leurs enjeux[^6a5] communs, les objectifs visés[^6a6] par une ville comme Bangkok sont assez éloignés[^6a7] de [ceux]{.markorange} d'Amersterdam. C'est pourquoi aucune ville intelligente ne se resesemble vraiment. [Néanmoins]{.mark}, [elles]{.markpurple} partagent [toutes]{.markpurple} un objectif ambitieux: vivre de [mieux en mieux]{.mark} ensemble. À Singapour, l'analyse de big data a permis, entres autres, l'amélioration de la securité. 
+
+[^6a1]: conference
+[^6a2]: ainsi que = as well as
+[^6a3]: découler = to result from, to arise from
+[^6a4]: déchets = waste
+[^6a5]: enjeux = stakes, issues
+[^6a6]: visé = targeted, aimed at; viser = to target, to aim at
+[^6a7]: éloigné = far from, distant from; éloigner = to distance, to move away from
+
+Les mérites des villes intelligentes sont indéniables [de sorte que]{.mark} certains élus[^7a1] les considèrent comme le remède à tous les maux. Par exemple, la proposition d'aménagement[^7a2] du quartier en friche de Quaiside à Toronto (par Sidewalk Labs, filiale de Google) présente des innovations audacieuses: rues chauffantes, Abribus capables de se déployer automatiquement en cas d'intempéries[^7a3], couloirs[^7a4] réservés aux différentes modes de transports pouvant changer en fonction du traffic... Les avantages sont nombreux, [au point qu]{.mark}[^7a4]'on  pourrait oublier que des dangers existent. L'usage abusif du big data [conduit à]{.mark} une surveillance de masse des citoyens, [si bien qu]{.mark}[^7a5]'on peut légitimement se demander: qui gouvernera la ville de demain? [De ce fait]{.mark}[^7a6], j'exposerai les menaces que represente l'exploitation des données numériques par une entreprise privée, car cette mainmise[^7a7] pourrait amener cette entreprise à devenir "propriétaire" de la ville. 
+
+[^7a1]: élus = elected officials
+[^7a2]: aménagement = development, planning
+[^7a3]: l'intempérie (n.f.) = bad weather
+[^7a4]: couloir (n.m.) = lane
+[^7a5]: si bien que = so much so that; use it to express a consequence
+[^7a6]: de ce fait = as a result; use it to express a consequence
+[^7a7]: mainmise (n.f.) = control, grip
+
+
+La ville est une société où cohabitent la vidéo surveillance, les réseaux sociaux et les objets connectés. Ces nouvelles formes de surveillance et de contrôle de la population sont sournoises[^8a1]. Tout est miniaturisé et caché: capteurs, caméras et objets connectés sont omniprésents et espionnent les habitants avec ou sans leur consentement. La collecte et l'analyse de toutes ces données (itinéraires, achats, propos sur les réseaux socieaux...) [mènent à]{.mark}[^8a2] une société panoptique menaçant notre vie privée et la démocratie. [D'où]{.mark}[^8a3] la nécessité d'instaurer[^8a4] des mesures [pour que]{.markteal}[^8a5] la "smartification" des villes [se fasse]{.markteal} dans l'intérêt de chacun et pas uniquement pour le profit de quelques géants du numérique. [C'est la raison pour laquelle]{.mark}[^8a6] je présenterai plusieurs solutions pour la protection des données, telles les techniques d'anonymisation ou le développement de technologies protectrices de la vie privée[^8a7].
+
+[^8a1]: sournois = sneaky
+[^8a2]: mener à = to lead to
+[^8a3]: d'où = hence, that's why; use it to express a consequence
+[^8a4]: instaurer = to establish, to set up
+[^8a5]: pour que = so that; use it to express a consequence; note subjonctif
+[^8a6]: c'est la raison pour laquelle, use it to express a cause
+[^8a7]: protectrice (n.f.) = protector; telles = such as
+
+Dans le cadre de cette communication, je questionnerai le discours binaire opposant[^9a1] "fascination technologique" et "peur de Big Brother". Comme le précise[^9a2] l'économiste Jean Haëntjens, deux visions de la ville du futur sont en train de se dessiner: "[D'un côté]{.mark}, la cité politique, dirigée[^9a3] par un maire élu par des citoyens, qui se fixe des ambitions à long terme en visant un intérêt général; [de l'autre]{.mark}, la ville-service numérisée, pilotée par les 'maîtres[^9a4] des algorithmes' et qui [vise à]{.mark} répondre en temps réel aux demandes des usagers." La démocratie n'est pas forcément condemnée, c'est aux citadins de choisir, puisqu'ils sont à la fois citoyens et usagers. 
+
+[^9a1]: an opposing binary discourse
+[^9a2]: as xxx points out; préciser = to specify, to point out
+[^9a3]: dirigé = directed, led by; diriger = to direct, to lead
+[^9a4]: maîtres (n.m.pl.) = masters
+
+# TEXTE: Extrait du roman _Les Furtifs_, d'Alain Damasio
+
+Alors, notre ville...? Comment s'est-elle construite? D'ou sort-elle? [...] 
+
+Une ville dite "liberté"[^f1] est une soustraite[^f2] à la gestion publique et intégralement[^f3] détenue[^f4] et gérée[^f5] par une entreprise privée. Son maire est nommé par les actionnaires[^f7], à la majorité simple des parts[^f6]. En août 2030, la ville de vos parents, qui s'appelait Orange, a donc été rachetée[^f8] par la multinationale du même nom, pour un prix dérisoire[^f9].[...]  
+
+[^f1]: a so called "free"city, here "dite" is a partitif passé turned adj.
+[^f2]: soustraite = subcontracted, outsourced; soustraire = to subtract, to take away
+[^f3]: intégralement = entirely, completely
+[^f4]: détenue = owned; détenir = to own
+[^f5]: gérée = managed; gérer = to manage
+[^f6]: à la majorité simple des parts = by a simple majority of the shares; parts = shares, stocks
+[^f7]: actionnaires = shareholders
+[^f8]: rachetée = bought, purchased; racheter = to buy, to purchase
+[^f9]: dérisoire = derisory, ridiculously low
+
+Je vous rappelle que Paris, rachetée par LVMH, ou Cannes, rachetée par la Warner, ont vendu leur nom à des prix astronomiques. [...] 
+
+Alors Orange a commencé par faire ce qu'ils font dans toutes les villes "libertées". Ils ont mis en place leurs trois forfaits[^g1] citoyens: un forfait privilège pour les citoyens aisés[^g2] et leur famille, un forfait premium pour les classes moyennes et un forfait standard pour les plus démunis[^g2]. Et à ceux qui ne pouvaient pas payer le forfait standard, ils sont proposés de partir. D'abord gentiment, avec une prime de départ, puis un peu moins courtoisement avec des lettres et des huissiers[^g3], puis encore moins courtoisement avec le retrait[^g4] des aides sociales et l'interdiction de l'école des enfants. Ça a suffi[^g5] [neuf fois sur dix]{.mark}. Mais les dix pour cent restants n'ont pas voulu céder[^g6] et ils se sont battus[^g7] jusqu'au bout. [Afin de]{.mark}[^g8] garder leur logement et de rester citoyens de la ville. [...]
+
+[^g1]: forfait citoyen: citizen plan, like a phone plan, with different levels of service and price
+[^g2]: aisé = well off, wealthy
+[^g3]: huissier = bailiff, the officer who delivers legal documents and can enforce court orders
+[^g4]: retrait = withdrawal, removal; retirer = to withdraw, to remove
+[^g5]: suffire = to be enough, to suffice
+[^g6]: céder = to give in, to yield
+[^g7]: se battre = to fight
+[^g8]: afin de = in order to
+
+
+Orange a commencé par détruire[^j1] des cités et des tours, pour "redynamiser le centre urbain", en explusant[^j2] les habitants et en les relogeant[^j3] hors de la ville, dans le hôtel-péniches[^j4] que vous connaissez, sur le Rhône. Toutefois[^j5] une tour [a tenu bon]{.mark}[^j6]. On l'a vite rebaptisée la Tour-Rouge à cause des fumigènes[^j7] qui brûlaient[^j8] toute les nuis sur le toit[^j9], pour flouer[^j10] des drones. Orange a choisi la voie juridique dure[^j11] et [a décidé d]{.mark}'en faire le siège, pendant plus de cent jours. Après un mois, les habitants de la tour ont commencé à [crever de faim]{.mark}[^j12], ils étaient heureusement ravitaillés[^j13] par les caves, par les toits, des drones pirates les livraient sur les balcons... Mais touts ceux qui essayaient de sortir étaient aussitôt capturés par les milices[^j14] et in carcérés pour violation du droit de propriété. La résistance était âpre[^j15] parce que c'était le statut même de la ville qui se jouait là-bas[^j15]. Tout le monde le sentait. Si la Tour-Route tombait, les gens savaient que cette ville cesserait[^j16] de fonctionner comme une démocratie. 
+
+
+[^j1]: détruire = to destroy
+[^j2]: expulser = to expel, to evict
+[^j3]: reloger = to rehouse, to relocate
+[^j4]: hôtel-péniche = hotel barge, a boat converted into a hotel; péniche = barge
+[^j5]: toutefois = however, nevertheless
+[^j6]: tenir bon = to hold out, to hold firm
+[^j7]: fumigène = smoke bomb, smoke grenade, (n.m.)
+[^j8]: brûler = to burn
+[^j9]: toit = roof, (n.m.)
+[^j10]: flouer = to trick, to fool
+[^j11]: la voie juridique dure = the hard legal way, meaning a strict legal approach, with no compromise
+[^j12]: crever de faim = to starve to death; crever = to burst, to die (informal)
+[^j13]: ravitailler = to supply, to provide with supplies
+[^j14]: milice = militia, paramilitary force
+[^j15]: âpre = fierce, tough
+[^j16]: le statut même de la ville qui se jouait = the very status of the city was at stake; se jouer = to be at stake
+[^j17]: cesser = to cease
 
 # GRAMMAIRE: Exprimer la conséquence
 

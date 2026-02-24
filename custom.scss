@@ -82,12 +82,12 @@ section {
 /* Specifically override the navbar title to use the new font */
 .navbar-title {
   font-family: 'Neonderthaw', cursive !important;
-  font-size: 3rem;  
+  font-size: 2.5rem;  
   font-weight: 400;    /* Neonderthaw only comes in one weight (400) */
   line-height: 1;
   padding-top: 5px; // centers vertically in dark bar
-  padding-bottom: 10px; // centers vertically in dark bar
-  padding-right: 10px; // adds some space from the edge
+  padding-bottom: 5px; // centers vertically in dark bar
+  padding-right: 5px; // adds some space from the edge
   overflow: visible !important; // ensures text-shadow is not cut off
   display: inline-block; // allows text-shadow to render properly
   transition: all 0.3s ease; // smooth transition when hovering 
@@ -103,5 +103,5 @@ section {
 /* Add a hover effect to the navbar title */
 .navbar-title:hover {
   color: #ff4d00 !important;       
-  text-shadow: 0 0 15px #ff4d00;
+  text-shadow: 0 0 10px #ff4d00;
 }
