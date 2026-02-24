@@ -10,6 +10,49 @@ image: "https://images.unsplash.com/photo-1556983852-43bf21186b2a?q=80&w=640"
 
 # LE TEXTE: Les grandes tendances de l'urbanisme du futur
 
+_Selon l'ONU, 66% de la population mondiale vivra en zones urbaines [d'ici 2050]{.mark} (2% au début du $XIX^e$ siècle, 30% en 1950, 54% en 2015). L'exode rural, qui coïncide toujours avec le développement industriel, atteit des niveaux très élevés en Inde, en Chine et au Nigeria. La grande variété de tailles et de niveaux de développement, [ajoutée aux]{.mark} différences de politiques publiques et de comportement[^1a1] sociétaux, [exclut qu]{.mark}'il y ait un seule type de ville du futur. Cependant, malgré les différences, [il est possible de]{.mark} dégager[^1a2] quatre grandes tendances dans l'évolution des villes._
+
+[^1a1]: comportement = behavior
+[^1a2]: dégager = to identify, to highlight
+
+
+##### [Les écoquartiers]{.markslate}
+
+Immeubles au bilan[^2a1] énergétique positif, écoquartiers, métropoles vertes: les territoires, à différentes échelles[^2a2], prennent de plus en plus d'importance. Leur ambition [est de se rapporcher]{.mark} des principes du développement durable. Ils [aspirent, en particulier, à produire]{.mark} eux-mêmes leur énergie renouvelable et à l'autoconsommer[^2a3] sur place pour chauffer l'habitat, alimenter[^2a4] les équipements électriques, et assurer la mobilité et soutenir[^2a5] une industrie de proximité. 
+
+[^2a1]: bilan = balance sheet, assessment
+[^2a2]: at different scales
+[^2a3]: autoconsommer sur place: to self-consume on site
+[^2a4]: to power, to supply
+[^2a5]: to support
+
+##### [Le big data urbain]{.markslate}
+
+Les données numériques sont aujourd'hui partout dans la gestion urbaine. On les utilise notamment pour maîtriser[^3a1] les dépenses énergétiques des immeubles, car elles [permettent d'avoir]{.mark} une meilleure connaissance de la consommation des foyers[^3a2]. Les données collectées par des capteurs et systèmes de géolocalisation permettent aussi de mieux gérer les flux[^3a3] de circulation. [De plus]{.mark}, les enregistrements[^3a4] vidéo ont été multipliés pour garantir une meilleure sécurité en ville. Les services publics et l'administration des citoyens se numérisent[^3a5] à tous les niveaux. Ce big data impose de nouvelles régulations pour assurer [à la fois]{.mark} une gestion efficace et la liberté individuelle des citoyens.
+
+[^3a1]: maîtriser = to control
+[^3a2]: households
+[^3a3]: traffic flows
+[^3a4]: ensregistrements = recordings
+[^3a5]: se numériser = to go digital
+
+
+##### [Les espaces de vie]{.markslate}
+
+Après des années d'aspiration à la maison individuelle, la densification des villes est recommandée par de nombreux urbanistes pour éviter un étalement[^4a1] qui menace[^4a2] les zones rurales et les espaces naturels. Cette approche de l'urbanisation [a également pour objectif de]{.mark}[^4a3] rapprocher le lieu de travail du domicile. [Par ailleurs]{.mark}, la réintroduction des végétaux sur les friches[^4a4] industrielles ou autour des immeubles ("les coulées vertes") permet d'augmenter la capacité des zones urbaines à capter $CO_2$ et de réduire la chaleur urbaine. 
+
+[^4a1]: étalement = sprawl, étaler = to sprawl
+[^4a2]: menacer = to threaten
+[^4a3]: avoir pour objectif de = to have as an objective
+[^4a4]: friches = wasteland
+
+##### [La mobilité]{.markslate}
+
+L'accroissement[^5a1] de la population urbaine demande une meilleure gestion des déplacements. De la notion de "transports urbains", on [est passé au concept de]{.mark}[^5a2] "mobilité" qui indique la diversification des moyens de déplacement, la nécessité de les connecter, et la variété des usages. Les moyens de déplacement se multiplient: tramways automatiques, téléphériques, véhicules autonomes, vélos, trottinettes ou hoverboards. Les usages se diversifient: autopartage, covoiturage, location en libre-service de voitures ou vélos, transport à la demande avec réservation par applications mobiles, etc.
+
+[^5a1]: accroissement = increase
+[^5a2]: passer au concept de = to move to the concept of
+
 # LE TEXTE: Quelles transformations la ville intelligente engendrera-t-elle?
 
 
