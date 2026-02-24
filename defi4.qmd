@@ -1,19 +1,18 @@
 ---
-# title: "Défi 4"
+title: "Défi 4"
 listing:
   contents: defi4
+  type: default 
+  image-height: 200px
+  categories: true
+  sort-ui: false
   sort: 
     - "date desc"
     - "title desc"
-  image-height: 200px
-  type: default
-  sort-ui: false
   filter-ui: false
-  max-description-length: 200
-  categories: true
+  max-description-length: 150
 page-layout: full
 title-block-banner: true
-format: html
 ---
 
 

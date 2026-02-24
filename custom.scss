@@ -57,3 +57,21 @@ section {
 .markpurple { background-color: #f3e8ff; }
 .marksilver { background-color: #f3f4f6; } // Warm Light Gray
 .markslate  { background-color: #e2e8f0; } // Cool Medium Gray
+
+/* Custom footnote in block */
+.footnotes {
+  font-family: $font-family-sans-serif;
+  font-size: 0.65em; // Slightly smaller than body text
+  
+  ol li {
+    margin-bottom: 0.5rem; // controls the gap between footnotes
+    padding-bottom: 0;
+
+    line-height: 1.2; // control gap between lines of same footnote
+    
+    p {
+      margin-bottom: 0 !important; // Removes the paragraph gap inside the list item
+    }
+  }
+}
+

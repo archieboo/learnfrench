@@ -3,4 +3,6 @@ format:
   html:
     number-sections: false
     title-block-banner: true
+    reference-location: block
+    citation-location: margin
 

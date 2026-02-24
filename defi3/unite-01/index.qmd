@@ -1,18 +1,113 @@
 ---
-title: "Unité 1: Ville en ville"
+title: "Unité 1: Des racines et des ailes"
 date: "2026-02-23"
-categories: ["B1", "défi3", "Unite1"]
-reference-location: margin
-citation-location: margin
+categories: ["B1", "défi3", "Unité1"]
 number-sections: false
+reference-location: margin
 --- 
 
 # DOSSIER 1
 
-[L'espace Virtuel](https://espacevirtuel.emdl.fr)
+## LE TEXTE: La fabrique des souvenirs
+
+_Docteur Grise, spécialiste du cerveau, a répondu aux questions de nos lecteurs[^1a1] à la mémoire et des souvenirs._
+
+[^1a1]: readers
 
 
-## TEXTE: 
+[Comment fabriquons-nous nos souvenirs?]{.markslate}
+
+C'est tout un processus[^1a2]! D'abord, nous recevons[^1a3] les informations [grâce à]{.mark} des organes récepteurs: les oreilles, le nez, les yeux, la peau et la langue. Ces récepteurs envoient des messages au cerveau qui traite[^1a4] les informations, [puis]{.mark} le cerveau les stocke[^1a5] et crée nos souvenirs. Savez-vous que nous avons différents mémoires? Par exemple, c'est la mémoire autobiographique[^1a6] qui active[^1a7] les sourvenirs d'enfance[^1a8] et qui nous fait revivre[^1a9] des événements que nous avons déjà vécus. 
+
+[^1a2]: process
+[^1a3]: recevoir
+[^1a4]: traiter = to process, to treat
+[^1a5]: stocker = to store
+[^1a6]: autobiographical memory
+[^1a7]: activer = to activate
+[^1a8]: souvenirs d'enfance = childhood memories
+  [^1a9]: to relive, to experience again
+
+
+[Comment s'activent ces souvenirs?]{.markslate}
+
+De différents façons: marcher dans la rue, sentir un parfum, écouter une chanson peuvent nous rappeler quelque chose, évoquer un  moment de notre enfance, une personne, un lieu... C'est la fameuse madeleine de Proust!
+
+
+[Quelle est l'origine de cette expression?]{.markslate}
+
+Dans son roman _À la recherche du temps perdu_, Marcel Proust raconte comment il s'est souvenu de sa tante et de la ville où il a passé une partie de son enfance en mangeant une madeleine avec du thé. Depuis, l'expression "la madeleine de Proust" est entrée dans le langage courant. 
+
+[Est-ce que nos souvenirs changent]{.markslate}
+
+Oui, les souvenirs évoluent avec l'âge, avec notre imagination et avec les histoires qu'on [nous a transmises]{.markred}[^1a10]. 
+
+[^1a10]: transmettre = to pass on, to transmit; note pronom COD before verb thus participe passé agrees with COD
+
+[Pourquoi certains souvenirs disparaissent?]{.markslate}
+
+On ne peut pas se souvenir de tout! On ne sait pas pourquoi nous nous souvenons de certains choses et pourquoi nous [en]{.mark} oublions d'autres. Mais, on sait que les souvenirs se fixent[^2a1] souvent [grâce à]{.mark} des émotions fortes: la peur, la joie, etc. [Par contre]{.mark}, on peut aussi se souvenir de choses sans importance. 
+
+[^2a1]: se fixer = to become fixed, to become established
+
+
+[Pourquoi c'est important de se souvenir?]{.markslate}
+
+Nos souvenirs construisent notre identité, ils nous permettent de garder le lien avec nos racines. Ils expliquent aussi nos comportements[^2a2] à l'âge adulte. On dit souvent que si on ne sait pas d'où on vient, on ne peut pas où on va!
+
+[^2a2]: le comportement = behavior; comporter = to behave, to include, to involve
+
+
+
+## LE TEXTE: Dis-moi d'où tu viens
+
+[Abou raconte l'histoire de son père Alpha]{.markslate}
+
+Mon père est né en Guinée, à Conakry, en 1979. Il allait souvent en France pour les vacances. En 1995, il a visité Marseille. Et voici l'histoire: il montait vers l'égalise Notre-Dame-de-la-Garde et, soudain, il a fait un malaise. [D'après]{.mark}[^3a1] lui, c'était parce qu'il faisait trop froid à Marseille! Une femme l'a aidé (ma m`ère), et ils ne sont plus quittés. Mon père a quitté son pays par amour, il était enthousiaste, mais il était nerveux de rencontrer la famille de ma mère. Rester sans travail, ça l'inquiétait aussi. Il cherchait depuis six mois un ami lui a proposé un boulot dans le bâtiment. Ce n'était pas de ses rêves, mail il se sentait utile[^3a3]! Travailler, [c'était aussi montrer qu]{.mark}[^3a4]'il avait sa place ici. 
+Avec le temps, mon père a fait des économies et a ouvert un petit commerce, il s'est épanoui[^3a5] en France et il [y a construit]{.mark}[^3a6] sa vie. Il a toujour gardé le lien avec sa famille, mais il n'a pas [le mal du pays]{.mark}[^3a7]. Il me parle toujours de mes origines, de sa jeunesse à Conakry. Il me transmet la mémoire de l'amour de son pays. Il me dit: "Tu es né en France mon fils, mais tu es aussi guinéen!"
+
+
+[^3a1]: d'après = according to
+[^3a3]: se sentir utile = to feel useful
+[^3a4]: c'est + verbe infinitif: it is to show/say/etc. that...
+[^3a5]: s'épanouir = to flourish, to thrive
+[^3a6]: "y" here is the pronom replace à + lieu
+[^3a7]: le mal du pays = homesickness
+
+
+[Inès raconte l'histoire de sa grand-mère Baya]{.markslate}
+
+Ma grand-mère est née dans un petit village kabyle, en Algérie. La vie y était agréable [lorsque]{.mark}[^4a1] la guerre a éclaté[^4a2] en 1954. Il fallait partir, mais elle ne voulait pas quitter sa terre natale. Sur le bateau qui l'emmenait en France, elle était terrifiée. Comment vivre la-bas, loin et sans sa famille? Les premiers mois à Marseille ont été durs, mais ma grand-mère était courageuse. Elle [ne savait ni lire ni écrire]{.mark}, alors elle a appris. Pour elle, c'était une chance d'aller à l'école. Et puis, plus tard, elle a rencontré mon grand-père. Ils [se sont mariés]{.mark}, ils ont eu des enfants. Ma grand-mère est heureuse en France, son pays d'accueil. Mais elle est parfois nostalgique. Son pays natal, sa région, la douce Kabylie, [lui manque]{.mark}. Quand elle en parle, elle est triste, raconter ses souvenirs [la fait souffrir][^4a3]{.mark}. 
+
+[^4a1]: lorsque = when; used in more formal contexts than "quand"
+[^4a2]: éclater = to break out (war, conflict, etc.)
+[^4a3]: faire + infinitif: to make someone do something; here, to make her suffer, souffrir = suffer
+
+
+
+## LE TEXTE: 13 millions de branches
+
+
+_Vous pensez que le monde est grand? [Au contraire]{.mark}, il est tout petit! [La preuve]{.mark} est dans le magazine Science de mars 2018, qui présente le plus grand arbre généalogique au monde!_
+
+
+Pour Créer cet arbre, des chercheurs ont téléchargé les données de 86 millions de personnes. Ils [les ont trouvées]{.mark} sur un site Internet où des gens, comme vous et moi, entrent des informations qu'ils ont collectées sur eux et leurs ancêtres: dates de naissance et de décès, noms et prénoms, marriages... Les données provenaient[^5a1] surtout d'Amerique du Nord et d'Europe. Ensuite, les chercheurs les ont analysées. 
+
+Grâce à l'arbre qu'ils ont créé, les chercheurs ont relié 13 millions de personnes, sur onze générations et 500 ans! Ça veut dire que toutes ces personnes ont des parents communs!
+
+Certains résultats que les chercheurs ont trouvés sont sans [surprise]{.markgreen}: par exemple, on savait déjà qu'il y a eu de grandes migrations pendant les deux guerres mondiales. Mais l'arbre presente aussi des tendances étonnantes. On apprend [ainsi qu]{.mark}[^5a2]'avant 1750 les Américains rencontraient leur conjoint à 10 km de leur lieu de naissance, mais deux siècles plus tard, en 1950, ils les rencontraient à plus de 100 km. 
+
+[^5a1]: provenir de = to come from, to originate from
+[^5a2]: ainsi que = so that; used to introduce a new fact or idea
+
+[Le profil]{.mark} des gens qui s'interessent à[^5a3] la généalogie a changé. Il y a vingt ans, c'étaient surtout les personnes âgées qui fréquentaient les archives pour faire des recherches sur leurs ancêtres. Aujourd'hui, les jeunes actifs trentenaires [se sont mis à]{.mark}[^5a4] la généalogie, c'est devenu plus facile grâce à la numérisation des documents. 
+
+Alors, découvrir l'histoire de votre famille, Ça vous dit? Vous trouverez sûrement des histoires [surprenantes]{.markgreen}[^5a5] et peut-être même de nouveaux cousins!
+
+[^5a3]: s'intéresser à = to be interested in
+[^5a4]: se mettre à + infinitif: to start doing something
+[^5a5]: surprenant = surprising; la surprise = surprise
+
 
 
 

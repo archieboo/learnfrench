@@ -1,5 +1,5 @@
 ---
-# title: "Défi 3"
+title: "Défi 3"
 listing:
   contents: defi3
   sort: 
@@ -13,7 +13,6 @@ listing:
   categories: true
 page-layout: full
 title-block-banner: true
-format: html
 ---
 
 

@@ -1,24 +1,29 @@
 ---
 title: "Unité 1: Ville en ville"
 date: "2026-02-23"
-categories: ["B2", "défi4", "Unite1"]
+categories: ["B2", "défi4", "Unité1"]
 reference-location: block # margin, block, section, document
 citation-location: document #margin
-number-sections: false
-# mainfont: "EB Garamond"
+image: "https://images.unsplash.com/photo-1560390816-3400050aab0b?q=80&w=640"
 --- 
+
 
 # DOSSIER 1
 
+## LE TEXTE: Un Brin de poésie urbaine
 
-## TEXTE: UN BRIN DE POÉSIE URBAINE
 
 On a tendance à associer la poésie à la nature, aux mouvement de l'âme, à l'amour, voire à la mort. Accueillante ou austère[^1a1], la ville, aussi, inspire les poètes. La poésie se goûte[^1a2] avec le cœur, elle fait appel aux[^1a3] émotions. Bien plus que de simples descriptions, ces poèmes invitent au voyage dans divers paysages urbains. Comme aucun lecteur n'entre dans un poème par le même chemin, quel sera le vôtre?
+
+
+
 
 [^1a1]: welcoming or austere
 [^1a2]: se goûter à: to be savored by
 [^1a3]: faire appel à: to call upon
 
+::::{.columns}
+:::{.column width="50"}
 
 > Il pleure dans mon cœur  
 > Comme il pleut sur la ville;  
@@ -32,6 +37,21 @@ On a tendance à associer la poésie à la nature, aux mouvement de l'âme, à l
 > _[Paul Verlaine (1874)]{.marksilver}_  
 > _["Il pleure dans mon cœur", 1874]{.marksilver}_  
 
+:::
+
+:::{.column width="1%"}
+:::
+
+:::{.column width="49%"}
+
+<br>
+
+![](https://images.unsplash.com/photo-1560390816-3400050aab0b?q=80&w=640)
+
+:::
+::::
+
+
 
 > New York! D'abord j'ai été confondu par ta beauté, ces grandes filles d'or aux jambes longues.  
 > Si timide d'abord devant tes yeux de métal bleu, ton sourire de givre  
@@ -40,6 +60,7 @@ On a tendance à associer la poésie à la nature, aux mouvement de l'âme, à l
 > 
 > _[Léopold Sédar Senghor (1906-2001)]{.marksilver}_  
 > _["Éthiopiques", 1956]{.marksilver}_
+
 
 
 > Gratter le ciel de l'ongle sur la vitre du train  
@@ -61,6 +82,9 @@ On a tendance à associer la poésie à la nature, aux mouvement de l'âme, à l
 > _[Albert Samain (1858-1900)]{.marksilver}_  
 > _["Mon enfance captive", 1901]{.marksilver}_
 
+
+::::{.columns}
+:::{.column width="50"}
 
 > Tu es cible  
 > je suis cible  
@@ -95,10 +119,27 @@ On a tendance à associer la poésie à la nature, aux mouvement de l'âme, à l
 > _[Laurence Vielle (1968-)]{.marksilver}_  
 > _["Tu es cible", 2016]{.marksilver}_
 
+:::
+
+:::{.column width="1%"}
+:::
+
+:::{.column width="49%"}
+
+<br>  
+![](https://images.unsplash.com/photo-1516496636080-14fb876e029d?q=80&w=640)
+
+:::
+::::
 
 
 
-## TEXTE: LA REVANCHE D'UNE MOCHE
+
+
+## LE TEXTE: La revanche d'une moche
+
+![](https://images.unsplash.com/photo-1673391780588-ab3cf46b3e09?q=80&w=640){.column-margin}
+
 
 Avec ses usine en ruine, ses hangars à l'abandon et son ring disgracieux[^2a1], Chaleroi est certainement la ville belge [au plus lourd]{.mark} passé industriel[^2a2]. Cette ancienne cité minière et aussi l'ex-capitale de la métallurgie[^2a3] belge. [Suite au]{.mark}[^2a4] choc provoqué par le titre de "la ville la plus laide[^2a5] du monde" décerné[^2a6] au 2008 par le journal néerlandais De Volkskrant, Charleroi s'est lancée dans une gigantesque chantier[^2a7]. À force de[^2a8] volonté[^2a9] politique, artistique et citoyenne, elle renaît de ses cendres[^2a11]. Zoom sur une agglomération[^2a12] en pleine métamorphose.
 
@@ -152,11 +193,59 @@ Depuis quelque temps, le Pays noir se réinvente et redore[^5a1] son image [grâ
 [^5a6]: s'interroger sur: to question, to reflect on
 
 
+##### **...Et culture alternative**
+
+[Parlons]{.mark} maintenant des nuis carolos[^6a1]! Rebaptisées Rockerill, les anciennes forges[^6a2] de la Providence ont été reconverties[^6a3] en un lieu culturel: salles de concert, coopérative de ferronnerie[^6a4], ateliers d'artistes et création du label Rockerill Records... Et il y a foule le jeudi aux[^6a5] "apéros industriels"! Le street-art occupe également [une place de choix]{.mark} à Charleroi. [Étant donné que]{.mark} la ville [était fermement[^6a6] déterminée à]{.mark} apporter[^6a7] de la couleur et de la gaieté[^6a8] aux paysages industriels, elle a lancé le projet Urban Dream, notamment sur [le long]{.markgreen} du chemin, hideux[^6a9] et gris, qui [longe]{.markgreen}[^6a10] la Sambre sur quatre kilomètres. [Plus d'une certaine de]{.mark}[^6a11] graffeurs et peintres, belges et internationaux, ont recouvert les murs de fresques[^6a12] multicolores. Un régal[^6a14] visuel qui fait de[^6a13] Charleroi une ville incontournable[^6a15] en Europe pour les amoureux de street-art. 
+
+[^6a1]: the "carolo" nights. carolo: a person from Charleroi. Notice l'imperatif de nous. 
+[^6a2]: forges: forges, ironworks
+[^6a3]: reconvertir: to repurpose, to convert
+[^6a4]: ferronnerie: ironwork, blacksmithing
+[^6a5]: la foule: crowd
+[^6a6]: fermement: firmly
+[^6a7]: apporter: to bring
+[^6a8]: gaieté: cheerfulness, joy
+[^6a9]: hideux: hideous, ugly
+[^6a10]: longer: to run along, to border
+[^6a11]: plus d'une certaine de: more than a certain number of
+[^6a12]: la fresque: mural
+[^6a13]: faire de qch: to make/turn something into ...
+[^6a14]: un régal: a treat, a delight
+[^6a15]: incontournable: unmissable, essential, a must-see; contourner: to bypass, to circumvent
+
+
+##### **La nouvelle Berlin?**
+
+Aujourd'hui, on découvre une ville rajeunie[^7a1], la redynamisation urbaine et la culture ont renforcé[^7a2] son attractivité. [Souhaitant ouvrir]{.mark} l'agglomération à l'international, les autorités publiques ont postulé pour devenir capitale européenne de la culture en 2030. [D'autant plus que]{.mark}[^7a7] l'image positive de la ville commerce à s'étendre[^7a3] au-delà[^7a4] de ses frontières... Dans un reportage de la BBC de février 2018, la journaliste conclut: "Charleroi ne peut plus être qualifiée de ville la plus affreuse[^7a5] du monde." Alors, courez vite à Charleroi avant que la ville devienne une destination touristique très prisée[^7a6]...
+
+[^7a1]: rajeuni: rejuvenated; from rajeunir
+[^7a2]: renforcer: to strengthen
+[^7a3]: s'étendre: to spread, to extend
+[^7a4]: au-delà de: beyond
+[^7a5]: affreux: awful, hideous
+[^7a6]: prisé: sought-after, popular; from priser: to value, to prize
+[^7a7]: d'autant plus que: all the more so because, especially since
 
 
 
+## GRAMMAIRE: Exprimer la cause
 
 
+## GRAMMAIRE: Éviter les répétitions
+
+
+# DOSSIER 2
+
+## LE TEXTE: Les grandes tendances de l'urbanisme du futur
+
+
+## LE TEXTE: Quelles transormations la ville intelligente engendrera-t-elle?
+
+
+## GRAMMAIRE: Exprimer la conséquence
+
+
+## GRAMMAIRE: Le pronom neutre "le"
 
 
 
