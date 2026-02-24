@@ -92,16 +92,15 @@ section {
   display: inline-block; // allows text-shadow to render properly
   transition: all 0.3s ease; // smooth transition when hovering 
 
-  color: #ff4d00 !important; // corral orange
+  color: #00f2ff !important; 
   text-shadow: 
-    0 0 10px #ff4d00,   /* Outer glow */
-    0 0 20px rgba(255, 157, 0, 0.6); // inner glow with some transparency
+    0 0 5px #00f2ff,   /* Outer glow */
+    0 0 10px rgba(255, 157, 0, 0.6); // inner glow with some transparency
 
 
 }
-
 /* Add a hover effect to the navbar title */
 .navbar-title:hover {
-  color: #00f2ff !important;       /* Shifts to cyan on hover */
-  text-shadow: 0 0 15px #00f2ff;
+  color: #ff4d00 !important;       
+  text-shadow: 0 0 15px #ff4d00;
 }
