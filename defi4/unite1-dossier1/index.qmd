@@ -275,7 +275,10 @@ On peut utiliser:
   _Ex.: Le BPS22 = [ce dernier]{.markgreen}_
   
 
-
+:::{.callout-tip .column-margin}
+###### exercices
+Cahier d'exercices P.5
+:::
 
 
 
