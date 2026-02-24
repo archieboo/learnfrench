@@ -258,7 +258,22 @@ Cahier d'exercices P.7
 
 # GRAMMAIRE: Éviter les répétitions
 
+On peut utiliser: 
 
+- [un synonyme, un surnom ou un équivalent]{.markgreen} <br>
+  _Ex.: Charleroi = la ville belge, cette ancienne cité minière, l'ex-capitale de la métallurgie belge, le Pays noir, une ville, une agglomération._  
+
+- [un pronom (sujet ou complément)]{.markgreen} <br>
+  _Ex.: [Elle]{.markgreen} renaît de ses cendres._  
+
+- [un pronom démonstratif **celui**, **celle**, **ceux**, **celles** (qui peut être suivi de **-ci** ou **-là**)[^m1]]{.markgreen} <br>
+  _Ex.: Le Palais des expositions = [celui-ci]{.markgreen}_  
+
+[^m1]: add `-ci` to indicate something close, `-là` for far. 
+
+- [**ce dernier** / **cette dernière** / **ces derniers** / **ces dernières**]{.markgreen} <br>
+  _Ex.: Le BPS22 = [ce dernier]{.markgreen}_
+  
 
 
 
