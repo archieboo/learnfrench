@@ -18,7 +18,7 @@ _Selon l'ONU, 66% de la population mondiale vivra en zones urbaines [d'ici 2050]
 
 ##### [Les écoquartiers]{.markslate}
 
-Immeubles au bilan[^2a1] énergétique positif, écoquartiers, métropoles vertes: les territoires, à différentes échelles[^2a2], prennent de plus en plus d'importance. Leur ambition [est de se rapporcher]{.mark} des principes du développement durable. Ils [aspirent, en particulier, à produire]{.mark} eux-mêmes leur énergie renouvelable et à l'autoconsommer[^2a3] sur place pour chauffer l'habitat, alimenter[^2a4] les équipements électriques, et assurer la mobilité et soutenir[^2a5] une industrie de proximité. 
+Immeubles au bilan[^2a1] énergétique positif, écoquartiers, métropoles vertes: les territoires, à différentes échelles[^2a2], prennent de plus en plus d'importance. Leur ambition [est de se rapprocher]{.mark} des principes du développement durable. Ils [aspirent, en particulier, à produire]{.mark} eux-mêmes leur énergie renouvelable et à l'autoconsommer[^2a3] sur place pour chauffer l'habitat, alimenter[^2a4] les équipements électriques, et assurer la mobilité et soutenir[^2a5] une industrie de proximité. 
 
 [^2a1]: bilan = balance sheet, assessment
 [^2a2]: at different scales
