@@ -68,6 +68,7 @@ Nos souvenirs construisent notre identité, ils nous permettent de garder le lie
 
 ## LE TEXTE: Dis-moi d'où tu viens
 
+![](https://images.unsplash.com/photo-1701200241941-44c0a4dd0c60?q=80&w=640){.column-margin}
 
 [Abou raconte l'histoire de son père Alpha]{.markslate}
 
@@ -85,7 +86,7 @@ Avec le temps, mon père a fait des économies et a ouvert un petit commerce, il
 
 [Inès raconte l'histoire de sa grand-mère Baya]{.markslate}
 
-Ma grand-mère est née dans un petit village kabyle, en Algérie. La vie y était agréable [lorsque]{.mark}[^4a1] la guerre a éclaté[^4a2] en 1954. Il fallait partir, mais elle ne voulait pas quitter sa terre natale. Sur le bateau qui l'emmenait en France, elle était terrifiée. Comment vivre la-bas, loin et sans sa famille? Les premiers mois à Marseille ont été durs, mais ma grand-mère était courageuse. Elle [ne savait ni lire ni écrire]{.mark}, alors elle a appris. Pour elle, c'était une chance d'aller à l'école. Et puis, plus tard, elle a rencontré mon grand-père. Ils [se sont mariés]{.mark}, ils ont eu des enfants. Ma grand-mère est heureuse en France, son pays d'accueil. Mais elle est parfois nostalgique. Son pays natal, sa région, la douce Kabylie, [lui manque]{.mark}. Quand elle en parle, elle est triste, raconter ses souvenirs [la fait souffrir][^4a3]{.mark}. 
+Ma grand-mère est née dans un petit village kabyle, en Algérie. La vie y était agréable [lorsque]{.mark}[^4a1] la guerre a éclaté[^4a2] en 1954. Il fallait partir, mais elle ne voulait pas quitter sa terre natale. Sur le bateau qui l'emmenait en France, elle était terrifiée. Comment vivre la-bas, loin et sans sa famille? Les premiers mois à Marseille ont été durs, mais ma grand-mère était courageuse. Elle [ne savait ni lire ni écrire]{.mark}, alors elle a appris. Pour elle, c'était une chance d'aller à l'école. Et puis, plus tard, elle a rencontré mon grand-père. Ils [se sont mariés]{.mark}, ils ont eu des enfants. Ma grand-mère est heureuse en France, son pays d'accueil. Mais elle est parfois nostalgique. Son pays natal, sa région, la douce Kabylie, [lui manque]{.mark}. Quand elle en parle, elle est triste, raconter ses souvenirs [la fait souffrir]{.mark}[^4a3]. 
 
 [^4a1]: lorsque = when; used in more formal contexts than "quand"
 [^4a2]: éclater = to break out (war, conflict, etc.)
@@ -96,7 +97,6 @@ Ma grand-mère est née dans un petit village kabyle, en Algérie. La vie y éta
 ## LE TEXTE: 13 millions de branches
 
 
-![](https://images.unsplash.com/photo-1701200241941-44c0a4dd0c60?q=80&w=640){width="90%" fig-align="center"}
 
 
 _Vous pensez que le monde est grand? [Au contraire]{.mark}, il est tout petit! [La preuve]{.mark} est dans le magazine Science de mars 2018, qui présente le plus grand arbre généalogique au monde!_
