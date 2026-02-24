@@ -9,7 +9,7 @@ number-sections: false
 
 # Standard course
 
-## LE TEXT
+## TEXT
 
 ### EXTRAIT DU ROMAN "*LES FURTIFS, D'ALAIN DAMASIO*"
 

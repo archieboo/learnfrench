@@ -7,7 +7,7 @@ citation-location: document #margin
 image: "https://images.unsplash.com/photo-1509137705736-c15e10d9ce62?q=80&w=640"
 --- 
 
-# LE TEXTE: Un Brin de poésie urbaine
+# TEXTE: Un Brin de poésie urbaine
 
 
 On a tendance à associer la poésie à la nature, aux mouvement de l'âme, à l'amour, voire à la mort. Accueillante ou austère[^1a1], la ville, aussi, inspire les poètes. La poésie se goûte[^1a2] avec le cœur, elle fait appel aux[^1a3] émotions. Bien plus que de simples descriptions, ces poèmes invitent au voyage dans divers paysages urbains. Comme aucun lecteur n'entre dans un poème par le même chemin, quel sera le vôtre?
@@ -102,7 +102,7 @@ On a tendance à associer la poésie à la nature, aux mouvement de l'âme, à l
 
 
 
-## LE TEXTE: La revanche d'une moche
+## TEXTE: La revanche d'une moche
 
 ![](https://images.unsplash.com/photo-1673391780588-ab3cf46b3e09?q=80&w=640){.column-margin}
 

@@ -9,7 +9,7 @@ number-sections: false
 
 # Standard course
 
-## LE TEXT
+## TEXT
 
 ### RÉDIGIER UN LETTRE OUVERTE
 

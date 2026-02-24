@@ -10,7 +10,7 @@ image: "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=640"
 
 
 
-# LE TEXTE: 
+# TEXTE: 
 
 
 

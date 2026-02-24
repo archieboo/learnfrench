@@ -8,7 +8,7 @@ image: "https://images.unsplash.com/photo-1556983852-43bf21186b2a?q=80&w=640"
 --- 
 
 
-# LE TEXTE: Les grandes tendances de l'urbanisme du futur
+# TEXTE: Les grandes tendances de l'urbanisme du futur
 
 _Selon l'ONU, 66% de la population mondiale vivra en zones urbaines [d'ici 2050]{.mark} (2% au début du $XIX^e$ siècle, 30% en 1950, 54% en 2015). L'exode rural, qui coïncide toujours avec le développement industriel, atteit des niveaux très élevés en Inde, en Chine et au Nigeria. La grande variété de tailles et de niveaux de développement, [ajoutée aux]{.mark} différences de politiques publiques et de comportement[^1a1] sociétaux, [exclut qu]{.mark}'il y ait un seule type de ville du futur. Cependant, malgré les différences, [il est possible de]{.mark} dégager[^1a2] quatre grandes tendances dans l'évolution des villes._
 
@@ -53,7 +53,7 @@ L'accroissement[^5a1] de la population urbaine demande une meilleure gestion des
 [^5a1]: accroissement = increase
 [^5a2]: passer au concept de = to move to the concept of
 
-# LE TEXTE: Quelles transformations la ville intelligente engendrera-t-elle?
+# TEXTE: Quelles transformations la ville intelligente engendrera-t-elle?
 
 
 # GRAMMAIRE: Exprimer la conséquence

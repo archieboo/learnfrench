@@ -11,7 +11,7 @@ image: "https://images.unsplash.com/photo-1584257274862-42aa4f6e5f55?q=80&w=640"
 
 
 
-# LE TEXTE: La fabrique des souvenirs
+# TEXTE: La fabrique des souvenirs
 
 _Docteur Grise, spécialiste du cerveau, a répondu aux questions de nos lecteurs[^1a1] à la mémoire et des souvenirs._
 
@@ -65,7 +65,7 @@ Nos souvenirs construisent notre identité, ils nous permettent de garder le lie
 
 
 
-# LE TEXTE: Dis-moi d'où tu viens
+# TEXTE: Dis-moi d'où tu viens
 
 ![](https://images.unsplash.com/photo-1549145177-238518f1ec1a?q=80&w=640){.column-margin}
 
@@ -93,7 +93,7 @@ Ma grand-mère est née dans un petit village kabyle, en Algérie. La vie y éta
 
 
 
-# LE TEXTE: 13 millions de branches
+# TEXTE: 13 millions de branches
 
 ![](https://images.unsplash.com/photo-1518495973542-4542c06a5843?q=80&w=640){.column-margin}
 
