@@ -1,29 +1,24 @@
 ---
-title: "Unité 1: Ville en ville"
+title: "Unité 1: Ville en ville - Dossier 1"
 date: "2026-02-23"
-categories: ["B2", "défi4", "Unité1"]
+categories: ["B2", "défi4", "Unité1", "Exprimer la cause", "Éviter les répétitions"]
 reference-location: block # margin, block, section, document
 citation-location: document #margin
-image: "https://images.unsplash.com/photo-1560390816-3400050aab0b?q=80&w=640"
+image: "https://images.unsplash.com/photo-1509137705736-c15e10d9ce62?q=80&w=640"
 --- 
 
-
-# DOSSIER 1
-
-## LE TEXTE: Un Brin de poésie urbaine
+# LE TEXTE: Un Brin de poésie urbaine
 
 
 On a tendance à associer la poésie à la nature, aux mouvement de l'âme, à l'amour, voire à la mort. Accueillante ou austère[^1a1], la ville, aussi, inspire les poètes. La poésie se goûte[^1a2] avec le cœur, elle fait appel aux[^1a3] émotions. Bien plus que de simples descriptions, ces poèmes invitent au voyage dans divers paysages urbains. Comme aucun lecteur n'entre dans un poème par le même chemin, quel sera le vôtre?
-
-
-
 
 [^1a1]: welcoming or austere
 [^1a2]: se goûter à: to be savored by
 [^1a3]: faire appel à: to call upon
 
-::::{.columns}
-:::{.column width="50"}
+
+
+![](https://images.unsplash.com/photo-1560390816-3400050aab0b?q=80&w=640){.column-margin}
 
 > Il pleure dans mon cœur  
 > Comme il pleut sur la ville;  
@@ -37,21 +32,6 @@ On a tendance à associer la poésie à la nature, aux mouvement de l'âme, à l
 > _[Paul Verlaine (1874)]{.marksilver}_  
 > _["Il pleure dans mon cœur", 1874]{.marksilver}_  
 
-:::
-
-:::{.column width="1%"}
-:::
-
-:::{.column width="49%"}
-
-<br>
-
-![](https://images.unsplash.com/photo-1560390816-3400050aab0b?q=80&w=640)
-
-:::
-::::
-
-
 
 > New York! D'abord j'ai été confondu par ta beauté, ces grandes filles d'or aux jambes longues.  
 > Si timide d'abord devant tes yeux de métal bleu, ton sourire de givre  
@@ -60,7 +40,6 @@ On a tendance à associer la poésie à la nature, aux mouvement de l'âme, à l
 > 
 > _[Léopold Sédar Senghor (1906-2001)]{.marksilver}_  
 > _["Éthiopiques", 1956]{.marksilver}_
-
 
 
 > Gratter le ciel de l'ongle sur la vitre du train  
@@ -83,8 +62,8 @@ On a tendance à associer la poésie à la nature, aux mouvement de l'âme, à l
 > _["Mon enfance captive", 1901]{.marksilver}_
 
 
-::::{.columns}
-:::{.column width="50"}
+![](https://images.unsplash.com/photo-1516496636080-14fb876e029d?q=80&w=640){.column-margin}
+
 
 > Tu es cible  
 > je suis cible  
@@ -118,19 +97,6 @@ On a tendance à associer la poésie à la nature, aux mouvement de l'âme, à l
 >
 > _[Laurence Vielle (1968-)]{.marksilver}_  
 > _["Tu es cible", 2016]{.marksilver}_
-
-:::
-
-:::{.column width="1%"}
-:::
-
-:::{.column width="49%"}
-
-<br>  
-![](https://images.unsplash.com/photo-1516496636080-14fb876e029d?q=80&w=640)
-
-:::
-::::
 
 
 
@@ -228,24 +194,13 @@ Aujourd'hui, on découvre une ville rajeunie[^7a1], la redynamisation urbaine et
 
 
 
-## GRAMMAIRE: Exprimer la cause
+# GRAMMAIRE: Exprimer la cause
 
 
-## GRAMMAIRE: Éviter les répétitions
+# GRAMMAIRE: Éviter les répétitions
 
 
-# DOSSIER 2
 
-## LE TEXTE: Les grandes tendances de l'urbanisme du futur
-
-
-## LE TEXTE: Quelles transormations la ville intelligente engendrera-t-elle?
-
-
-## GRAMMAIRE: Exprimer la conséquence
-
-
-## GRAMMAIRE: Le pronom neutre "le"
 
 
 
