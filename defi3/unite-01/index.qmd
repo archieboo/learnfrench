@@ -4,7 +4,11 @@ date: "2026-02-23"
 categories: ["B1", "défi3", "Unité1"]
 number-sections: false
 reference-location: margin
+image: "https://images.unsplash.com/photo-1584257274862-42aa4f6e5f55?q=80&w=640"
 --- 
+
+
+
 
 # DOSSIER 1
 
@@ -12,8 +16,11 @@ reference-location: margin
 
 _Docteur Grise, spécialiste du cerveau, a répondu aux questions de nos lecteurs[^1a1] à la mémoire et des souvenirs._
 
-[^1a1]: readers
 
+
+
+
+[^1a1]: readers
 
 [Comment fabriquons-nous nos souvenirs?]{.markslate}
 
@@ -61,6 +68,7 @@ Nos souvenirs construisent notre identité, ils nous permettent de garder le lie
 
 ## LE TEXTE: Dis-moi d'où tu viens
 
+
 [Abou raconte l'histoire de son père Alpha]{.markslate}
 
 Mon père est né en Guinée, à Conakry, en 1979. Il allait souvent en France pour les vacances. En 1995, il a visité Marseille. Et voici l'histoire: il montait vers l'égalise Notre-Dame-de-la-Garde et, soudain, il a fait un malaise. [D'après]{.mark}[^3a1] lui, c'était parce qu'il faisait trop froid à Marseille! Une femme l'a aidé (ma m`ère), et ils ne sont plus quittés. Mon père a quitté son pays par amour, il était enthousiaste, mais il était nerveux de rencontrer la famille de ma mère. Rester sans travail, ça l'inquiétait aussi. Il cherchait depuis six mois un ami lui a proposé un boulot dans le bâtiment. Ce n'était pas de ses rêves, mail il se sentait utile[^3a3]! Travailler, [c'était aussi montrer qu]{.mark}[^3a4]'il avait sa place ici. 
@@ -86,6 +94,9 @@ Ma grand-mère est née dans un petit village kabyle, en Algérie. La vie y éta
 
 
 ## LE TEXTE: 13 millions de branches
+
+
+![](https://images.unsplash.com/photo-1701200241941-44c0a4dd0c60?q=80&w=640){width="90%" fig-align="center"}
 
 
 _Vous pensez que le monde est grand? [Au contraire]{.mark}, il est tout petit! [La preuve]{.mark} est dans le magazine Science de mars 2018, qui présente le plus grand arbre généalogique au monde!_
