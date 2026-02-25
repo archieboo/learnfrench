@@ -1,0 +1,189 @@
+---
+title: "Unité 2: De la fourche à la fourchette - Dossier 2"
+date: "2026-02-25"
+categories: ["B2", "défi4", "Unité2" ]
+reference-location: document # margin, block, section, document
+citation-location: margin # margin, document, block, section
+image: "https://images.unsplash.com/photo-1526399743290-f73cb4022f48?q=80&w=640"
+--- 
+
+# TEXTE: Notre planète ne tourne pas rond!
+
+![](https://images.unsplash.com/photo-1587903318972-9ca74ba4579c?q=80&w=640){.column-margin}
+
+_Le concept de "kilomètre alimentaire" est apparu au début des années 1990 au Royaume-Uni [en raison de]{.mark} la globalisation commerciale dont certaines conséquences dépassent[^Aa] aujourd'hui l'entendement[^Ab]. Même si cela semble démentiel[^Ac], la distance moyenne parcourue[^Ad] par un produit alimentaire entre son lieu de production et l'assiette du consommateur est plus de 2 000 kilomètres! Sommes-nous devenus fous? Plusieurs exemples tendent à prouver que le monde marche sur la tête[^Ad]._
+
+[^Aa]: dépasser = surpass, exceed, go beyond...
+[^Ab]: l'entendement = understanding, comprehension
+[^Ac]: démentiel = crazy, insane, outrageous
+[^Ad]: parcourir = to travel, to cover (a distance)
+[^Ad]: tendre à prouver = tend to prove, seem to show, suggest; marcher sur la tête = to be crazy
+
+
+::: {style="display: flex; align-items: center;"}
+
+[🐓]{style="font-size:3em; line-height:1;"}
+
+:::: {style="flex-grow: .618; height:4px; margin-left: 10px; background-color:#F9D423;"}
+::::
+:::
+
+La logique du commerce international [n'a pas grande chose à voir]{.markorange} avec [le bon sens]{.markblue} paysan[^Ba]. La France est [en effet]{.mark} le premier producteur de volaille[^Bb] en Europe. [Pourtant]{.mark}[^Bc] aujourd'hui, 45% du poulet mangé en France est importé. La situation est encore plus kafkaïenne[^Bd] quand on sait que, paradoxalement, l'Hexagone exporte sa volaille vers les pays d'Afrique. Toute sa volaille? Non! Seulement les parties "moins nobles" que les Français ne mangent pas. Décidément, notre planète ne tourne pas rond[^Be]...
+
+[^Ba]: logique: logic (n.f); avoir grande chose à voir avec = to have much to do with; le bon sens paysan = the common sense of a farmer; 
+[^Bb]: volaille = poultry (n.f)
+[^Bc]: pourtant: similaire à "malgré cela", "cependant", "néanmoins"...
+[^Bd]: kafkaïen: Kafkaesque, absurd
+[^Be]: tourner rond: to be going well, to be working properly; décidément: indeed, certainly
+
+::: {style="display: flex; align-items: center;"}
+
+[🥜]{style="font-size:3em; line-height:1;"}
+
+:::: {style="flex-grow: .618; height:4px; margin-left: 10px; background-color:#79BD9A;"}
+::::
+:::
+
+
+Cultivée et récoltée[^Ca] en Afrique, transormée en Amérique latin et consommée en Europe, la noix de cajou est devenue un symbole de la mondialisation alimentaire. Depuis 2010, avec 50% d'augmentation de la demande, ce fruit sec fait un parcours[^Cb] stupéfiant[^Cc] de plus de 10 000 kilomètres: de la Côte d'Ivoire (premier producteur mondiale) en passant par le Brésil (en usines de nettoyage et d'épluchage[^Cd]), avant d'arriver en France où il est salé, grillé, emballé et vendu pour environ 15 euros le kilo.
+
+[^Ca]: récolter = to harvest
+[^Cb]: parcours = journey, route, path (n.m)
+[^Cc]: stupéfiant = astonishing; stupéfier = to astonish, to amaze
+[^Cd]: éplucher = to peel, to shell; emballer = to pack, to wrap
+
+
+::: {style="display: flex; align-items: center;"}
+
+[🦪]{style="font-size:3em; line-height:1;"}
+
+:::: {style="flex-grow: .618; height:4px; margin-left: 10px; background-color:#025D8C;"}
+::::
+:::
+
+
+En 2014, la France découvre le voyage ubuesque[^da] des coquilles Saint-Jacques[^db] des Côtes d'Armor, en Bretagne. Élevées[^dc] en France, elles sont ensuite envoyées en Chine pour y être nettoyées [avant de]{.mark} revenir en Bretagne pour être cuisinées. L'explication? "Ça semble bizarre, mais c'est une question de coût. On [est sur]{.mark}[^dd] les différences de salaires qui vont [de 1 à 100]{.mark}", selon un responsable d'une usine Bretonne. Il reconnaît [néanmoins]{.mark} que "c'est un peu choquant[^de], [je préfèrerais que ça se fasse ici]{.mark} ". 
+
+[^da]: ubuesque: absurd, ridiculous
+[^db]: coquilles Saint-Jacques: scallops (n.f); coquille = shell (n.f) 
+[^dc]: élever = to raise, to farm
+[^dd]: être sur qch = to be about qch 
+[^de]: choquant = shocking; choquer = to shock
+
+
+::: {style="display: flex; align-items: center;"}
+
+[🦐]{style="font-size:3em; line-height:1;"}
+
+:::: {style="flex-grow: .618; height:4px; margin-left: 10px; background-color:#9061C2;"}
+::::
+:::
+
+
+La crevette est [l'un des]{.mark} produits de consommation [les plus polluants au monde]{.markred}. Dans un court-métrage déroutant[^ea] de la chaîne de télévision Arte sur le parcours d'une crevette grise, nous découvrons, [sans autre commentaire qu'un compteur kilométrique]{.mark}[^eb], que 13 jours se sont écoulés[^ec] entre le moment de la pêche et le moment de la mis en vente en supermarché. [Un comble]{.markpurple}[^ed] pour un produit frais! La crevette grise, pêchée dans la mer du Nord, effectue[^ee] pas moins de 6 756 km à travers[^ef] différents pays, dont le Maroc, avant de revenir à son point de départ...
+
+:::{.callout-important style="width: 80%;"}
+###### _au monde_ ou _dans le monde_?
+
+- `au monde` with superlatives (e.g., le plus grand au monde). 
+- `dans le monde` for general situations happening within the world (e.g., des problèmes dans le monde).
+:::
+
+[^ea]: court-m'étrage déroutant: disorienting/confusing short film; métrage = length (of a film) 
+[^eb]: without any comment other than an odometer; note the `que` here means `except`; un compteur kilométrique = a mileage counter, odometer (n.m) 
+[^ec]: s'écouler = to pass (time), to elapse
+[^ed]: un comble or le comble, literally means "the height" or "the limit", but figurately usually means "the last straw", "the ultimate irony", "the height of absurdity", etc. here, it means "what an irony!" 
+[^ee]: effectuer = to carry out, to perform, to make (a trip)
+[^ef]: à travers = across, through (fixed expression)
+
+
+
+::: {style="display: flex; align-items: center;"}
+
+[🐟]{style="font-size:3em; line-height:1;"}
+
+:::: {style="flex-grow: .618; height:4px; margin-left: 10px; background-color:#43B3AE;"}
+::::
+:::
+
+[Avant d]{.mark}'atterrir[^fa] dans les congélateurs[^fb] des Français, le cabillaud[^fc] pêché en Norvège est envoyé en Chine pour y être coupé en filets: 15 000 kilomètres de voyage [aller-retour]{.mark}[^fd] pour économiser [la main-d'œuvre]{.mark}[^fe]. Aussi incroyable [que cela puisse paraître]{.markpurple}, on injecte aussi de l'eau dans le poisson pour qu'il semble plus gros. 
+
+[^fa]: atterrir = to land
+[^fb]: congélateur = freezer (n.m)
+[^fc]: cabillaud = cod (n.m)
+[^fd]: aller-retour = round trip
+[^fe]: main-d'œuvre = labor, workforce (n.f)
+
+
+::: {style="display: flex; align-items: center;"}
+
+[🌭]{style="font-size:3em; line-height:1;"}
+
+:::: {style="flex-grow: .618; height:4px; margin-left: 10px; background-color:#EB5734;"}
+::::
+:::
+
+Les boyeaux[^ga] des saucisses et des boudins[^gb] belges ont pour la plupart transité[^gc] par la Chine. En effet, le boyau est fait avec de l'intestin de porc nettoyé en Belgique, puis envoyé en Chine où les saucisses sont calibrées[^gd] et conditionnées pour revenir six mois plus tard en Belgique. Un délai[^ge] invraisemblable[^gf] qui montre que la mondialisation et l'attrait[^gg] de la main-d'œuvre [peu chère]{.mark} n'ont pas de limites.
+
+
+[^ga]: boyeau = casing (for sausages) (n.m)
+[^gb]: boudin = blood sausage (n.m)
+[^gc]: transiter = to transit, to pass through
+[^gd]: calibrer = to calibrate, to size
+[^ge]: délai = delay (n.m); 
+[^gf]: invraisemblable = unbelievable, implausible
+[^gg]: attrait = attraction (n.m)
+
+
+
+
+
+
+# TEXTE: Consommer local, vraiment bon pour la planète?
+
+![](https://images.unsplash.com/photo-1526399743290-f73cb4022f48?q=80&w=640){.column-margin}
+
+
+[Ɓ]{style="font-size:3em; line-height:0.8; display:inline-block;"}
+[ien que]{.mark} la libre circulation des marchandises et des aliments[^ha] [se soit]{.markpurple} imposée partout en Occident[^hb], de plus en plus de consommateurs cherchent à adopter une alimentation local. Cependant, consommer local n'est pas toujours écolo, on vous explique. 
+
+[^ha]: la libre circulation = free movement; aliment = food, alimentation = feeding, food supply, diet, nutrition 
+[^hb]: occident = the West (n.m)
+
+Avant toute chose, il [convient de]{.mark}[^hc] préciser qu'en général consommer local est plus écologique, car on évite des pollutions inutiles[^hd] comme le transport et la conservation. Il faut aussi noter qu'à chaque fois que nous achetons un produit cultivé à l'etranger nous constribuons à l'augmentation du traffic routier[^he] dans notre pays, donc à la pollution de l'air aux particules fines... Donc, éviter de consommer des produits cultivés à l'étranger est un premier pas vers une consommation un peu plus écolo. [Toutefois]{.mark}, ce n'est pas toujours le cas! Comme toujours en matière[^hf] environnementale, et malgré les apparences, les choses sont parfois [plus complexes qu'il n'y paraît]{.markred}.
+
+
+[^hc]: convenir = to be appropriate, to suit; il convient de + infinitif = it is appropriate to, it is necessary to
+[^hd]: inutile = unnecessary, useless
+[^he]: routier = road (adj)
+[^hf]: matière = subject, field (n.f); en matière de = in the field of, in terms of, note _de_ follows a noun without an article
+
+
+:::{.callout-important style="width: 80%;"}
+###### `ne` explétif
+
+In _plus complexes qu' il **n**'y paraît_, the `ne` is only **stylistic**. It's used in certain expressions, often after comparisons like:  
+
+- _plus... que_, _moins... que_, _aussi... que_, _autant... que_, _avant ... que_, _à moins que_... 
+
+It does **not negate** but rather adds an **emphasis** to the comparison. In this case, it emphasizes that things are more complex than they seem.
+
+_Also **paraître à qch**_   ➡️   _qu'il n'**y** paraît_
+:::
+
+
+Le transport [a beau être]{.mark}[^i1] problématique sur le plan écologique, c'est loin d'être le souci[^i2] le plus important, au contraire! 
+
+[^i1]: a beau + infinitif = no matter how much, even though (_fixed expression that expresses concession_) 
+[^i2]: souci = concern, problem (n.m); être loin d'être = to be far from being
+
+
+
+
+
+
+
+
+
+
+

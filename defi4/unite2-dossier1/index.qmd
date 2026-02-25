@@ -1,0 +1,18 @@
+---
+title: "Unité 2: De la fourche à la fourchette - Dossier 1"
+date: "2026-02-25"
+categories: ["B2", "défi4", "Unité2" ]
+reference-location: section # margin, block, section, document
+citation-location: document #margin
+image: "https://images.unsplash.com/photo-1509100194014-d49809396daa?q=80&w=640"
+--- 
+
+# TEXTE: Initiatives agricoles au Maghreb
+
+
+# TEXTE: Le forum de l'agriculture afri-saine
+
+
+
+
+

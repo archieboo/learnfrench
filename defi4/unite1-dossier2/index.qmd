@@ -155,8 +155,54 @@ Orange a commencé par détruire[^j1] des cités et des tours, pour "redynamiser
 
 # GRAMMAIRE: Exprimer la conséquence
 
+Pour exprimer la conséquence, on peut utiliser:
+
+- [un connecteur: **donc**, **ainsi**[^m1], **du coup**[^m2], **par conséquent**, **c'est pourquoi**, **de ce fait**, **d'où**[^m3]]{.markgreen}  
+  _Ex.: [C'est pourquoi]{.markgreen} aucune ville ne se ressemble._  
+  _Ex.: [De ce fait]{.markgreen}, j'exposerai les menaces..._  
+  _Ex.: [D'où]{.markgreen} la nécessité d'instaurer des mesures..._
+
+[^m1]: ainsi = thus, so
+[^m2]: du coup = so, as a result (informal, only use in oral)
+[^m3]: d'où = hence, that's why
+
+
+:::{.callout-important .column-margin}
+###### **Attention!** 
+**D'où** est suivi d'un nom.
+:::
+
+- [un verbe: **amener**, **causer**, **créer**, **entraîner**, **provoquer**, **conduire à**, **susciter**, **aboutir à**, **permettre**, **conduire à**, **découler de**]{.markgreen}  
+
+- [une expression + phrase à l'indicatif: **de manière que**, **de façon que**, **de sorte que**, **si bien que**, **C'est la raison pour laquelle**]{.markgreen}  
+  _Ex.: Les avantages sont indéniables [de sorte que]{.markgreen} les élus les considèrent comme le remède à tous les maux._  
+  _Ex.: L'usage du big data conduit à une surveillance de masse, [si bien qu]{.markgreen}'on peut légitimement se demander: qui gouvernera la ville de demain?_  
+  _Ex.: [C'est la raison pour laquelle]{.markgreen} je présenterai plusieurs solutions pour la protection des données._
+
+Pour exprimer une conséquence avec une notion d'intensité ou de quanlité, on peut utiliser:
+
+- [**tant de / tellement de** + nom + que]{.markgreen}  
+
+- [**au point que / à tel point que** + phrase à l'indicatif]{.markgreen}  
+  
+- [verbe + **tellement/tant** + que + phase à l'indicatif]{.markgreen}  
+  _Ex.: L'usine pollue tellement qu'il il faudrait la fermer._
+  
+- [**si** + adjectif / adverbe + que]{.markgreen}  
+  _Ex.: La ville est si polluée que les habitants sont malades._
+
+
 
 # GRAMMAIRE: Le neutre pronom [_le_]{.markpurple}
+
+Le pronom neutre `le` peut remplacer: 
+
+- [un **adjectif**]{.markorange}  
+  _Ex.: C'est une ville magnifique et elle [le]{.markorange} sera toujours._  
+
+- [une **phrase** ou une **idée**]{.markorange}  
+  _Ex.: C'etait le statut même de la ville qui se jouait. Tout le monde [le]{.markorange} sentait._
+
 
 
 
