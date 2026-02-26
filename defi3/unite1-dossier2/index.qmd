@@ -3,7 +3,7 @@ title: "Unité 1: Des racines et des ailes - Dossier 2"
 date: "2026-02-24"
 categories: ["B1", "défi3", "Unité1"]
 number-sections: false
-reference-location: margin
+reference-location: document
 image: "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=640"
 --- 
 
