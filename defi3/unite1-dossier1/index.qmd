@@ -1,6 +1,6 @@
 ---
 title: "Unité 1: Des racines et des ailes - Dossier 1"
-date: "2026-02-23"
+date: "2026-02-20"
 categories: ["B1", "défi3", "Unité1"]
 number-sections: false
 reference-location: margin

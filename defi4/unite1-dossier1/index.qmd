@@ -1,6 +1,6 @@
 ---
 title: "Unité 1: Ville en ville - Dossier 1"
-date: "2026-02-23"
+date: "2026-02-20"
 categories: ["B2", "défi4", "Unité1", "Exprimer la cause", "Éviter les répétitions"]
 reference-location: document # margin, block, section, document
 citation-location: document #margin

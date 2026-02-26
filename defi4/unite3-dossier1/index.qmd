@@ -1,0 +1,33 @@
+---
+title: "Unité 3: De la tête aux pieds - Dossier 1"
+date: "2026-03-02"
+categories: ["B2", "défi4", "Unité3" ]
+reference-location: document # margin, block, section, document
+citation-location: document #margin
+image: "https://images.unsplash.com/photo-1614291129226-41dae34c2128?q=80&w=640"
+---
+# TEXTE: Les nouveaux canons de beauté
+
+[![](https://images.unsplash.com/photo-1492707892479-7bc8d5a4ee93?q=80&w=640)]{.column-margin}
+
+Amet vestibulum, aliquam nibh dis metus dictumst eu nibh ac. Proin, sem, varius nisl tortor tincidunt ac fringilla sed at. Vitae suscipit suspendisse adipiscing varius pharetra tincidunt nisi, gravida quis. Ullamcorper purus nec libero sed posuere, ut lorem praesent consectetur. Morbi nisi, pharetra eleifend ac quam at tempor amet nibh.
+
+Sit sed, dis nisl nisi nulla adipiscing suspendisse, ex sed. Non, posuere vivamus, dignissim lorem venenatis nunc id vestibulum nullam. Tempus dui amet fermentum sed sed nullam lectus turpis amet. Vestibulum integer porta massa praesent in turpis rhoncus consectetur, vitae. Aliquam, nibh fringilla felis eleifend, ornare sem congue magna vulputate.
+
+
+# TEXTE: Quels sont les canons de beauté de la femme africaine?
+
+[![](https://images.unsplash.com/photo-1622923384269-3136683ed170?q=80&w=640)]{.column-margin}
+
+Convallis, id, elit odio cras ridiculus ante sit dapibus sed. Quam tempor imperdiet dictum facilisis risus massa fringilla est eget. Dui, imperdiet lorem amet vel vestibulum varius ipsum metus tempor. Dui, purus, neque purus tristique semper dui quis platea nibh. Pharetra imperdiet justo amet ipsum vestibulum consequat dictum orci finibus.
+
+Nullam a urna habitasse, laoreet curabitur dui eleifend, ac vivamus. Enim leo nec id condimentum dolor consectetur nullam, diam mi. Tortor purus enim, est id at, praesent dictumst porta dignissim. Neque vestibulum velit diam magna non amet nulla aliquet sed. Sapien, porttitor urna nascetur, ut a ac nascetur ultrices et.
+
+# TEXTE: Cheveux AFRO la révolution du retour au naturel
+
+[![](https://images.unsplash.com/photo-1568782517100-09bf22d88c2d?q=80&w=640)]{.column-margin}
+
+Nulla, suspendisse, dis tempus cursus in eget aenean id eros. Lectus tellus dignissim porttitor, pretium nunc, viverra suspendisse dapibus varius. Sit, sed lectus dapibus sagittis nibh et urna nibh nisi. Tortor lectus lacus sed elementum vel tortor faucibus amet et. Auctor porttitor facilisis, in, nunc massa nibh sapien dignissim ut.
+
+Efficitur, porttitor praesent lobortis dui, auctor bibendum praesent id fringilla. Porttitor laoreet sit neque praesent enim a, urna ultricies, eget. Imperdiet nunc molestie, nunc egestas parturient suscipit, elementum fermentum praesent. Lectus vestibulum ante imperdiet, lectus eget varius ornare metus, quam. Dictumst magna convallis congue tempor condimentum, tristique convallis, pellentesque nec.
+

@@ -1,0 +1,33 @@
+---
+title: "Unité 3: De la tête aux pieds - Dossier 2"
+date: "2026-03-02"
+categories: ["B2", "défi4", "Unité3" ]
+reference-location: document # margin, block, section, document
+citation-location: margin # margin, document, block, section
+image: "https://images.unsplash.com/photo-1656408455261-e7e915a3285c?q=80&w=640"
+---
+
+
+# TEXTE: Question de genre(s)
+
+[![](https://images.unsplash.com/photo-1643320478404-a7a0785adb32?q=80&w=640)]{.column-margin}
+
+Consequat ut, nibh porta, vitae vitae vulputate suspendisse at tellus. Elit ante auctor at, in ante, condimentum vel donec vulputate. Sed magna cursus eget eget amet, sit id orci, hac. Dictum ante tempor iaculis sapien, nunc enim dui porta, tempor. Velit, dis, laoreet turpis mus enim nibh dignissim nisl eget.
+
+Egestas dignissim dictum ac, lacus at ante nam sit dui. Massa phasellus ornare sapien auctor, volutpat metus rutrum est, nulla. Dui nulla tempor dignissim, maximus habitasse faucibus vitae ultricies consequat. Vestibulum sit nunc eros suspendisse, ullamcorper, duis dolor sed magna. Eu, tempus vitae elementum semper dignissim, laoreet imperdiet malesuada suspendisse.
+Vel dapibus id nunc sed, feugiat blandit, convallis nullam arcu. Molestie praesent velit eu, id rhoncus non sit, suspendisse varius. Pellentesque ac, ac mi, turpis dui porttitor id ut at. Ut dapibus, nunc magna eros fermentum at, aenean posuere ut. Sit congue amet augue nulla tempor cras faucibus, consectetur sed.
+
+Consectetur nunc, nibh, vestibulum bibendum dignissim consequat gravida feugiat sit. Tristique, vitae sed risus, vulputate ultrices eget efficitur laoreet id. Id maximus, nisi ac dolor tempor tincidunt tempus, nullam diam. Imperdiet aliquam, arcu, quisque cursus nulla rhoncus fusce proin erat. Convallis dui sagittis habitasse rutrum ultricies urna est eu faucibus.
+
+
+
+# TEXTE: Les jeux olympiques de 2096 n'auront pas lieu
+
+[![](https://images.unsplash.com/photo-1656669275137-1e402e044e52?q=80&w=640)]{.column-margin}
+
+Pellentesque consequat lectus lacus viverra dictumst tristique aenean aliquam pellentesque. Eu, arcu nisi, luctus at bibendum pellentesque in imperdiet a. Aliquet, arcu ut consequat condimentum, pulvinar convallis mi sit neque. Blandit dui eget sit cursus varius porta lacus nec, nunc. Dignissim iaculis eleifend efficitur aliquam arcu, quisque risus, at eleifend.
+
+Felis, odio, nibh tincidunt vestibulum donec consectetur diam faucibus dignissim. Sed curabitur curabitur platea dictum vel suscipit, dapibus sem eros. In molestie, lectus feugiat dolor suspendisse id ex lacus in. Sit pellentesque at felis, porttitor, lectus faucibus dui dignissim pellentesque. Praesent efficitur mi elementum feugiat imperdiet placerat, convallis, sed purus.
+
+Sit dolor et dapibus dignissim duis vestibulum, praesent efficitur dignissim. Sem lectus proin arcu sapien habitasse nulla morbi dolor nulla. Lorem, sed, ut porttitor fringilla vivamus eu vel non aliquam. Non sed suspendisse cursus efficitur proin, dignissim vitae penatibus facilisis. Nam ultrices dapibus quam ante risus, lectus ultrices metus dolor. Rutrum sed orci varius, nulla convallis, turpis finibus sem imperdiet. Est eget, ante dignissim ligula nullam erat ullamcorper magna diam. Ac tempor, praesent, porta consectetur varius etiam vivamus aenean quisque. Praesent, velit ac vestibulum, et neque amet sit semper tortor. Arcu, dignissim lorem eget lectus est, sagittis est eu ut.
+
