@@ -1,62 +1,53 @@
 ---
 title: "Learn French"
-# sort: 
-#   - "date desc"
-#   - "title desc"
-# image-height: 200px
-# type: default
-# sort-ui: false
-# filter-ui: false
-# max-description-length: 200
-# categories: true
-# page-layout: full
+image-height: 200px
+type: grid
+categories: false
+sort: false
+page-layout: full
 title-block-banner: true
-format: revealjs
+number-sections: false
+format: html
+# format: revealjs
 ---
 
-# Défi 4 & Défi 3
 
-* Les notes et les exercises que j'ai fait suivant ayant lu les livres
-
-* Notes and exercises I did as I go through the text book. 
-
-* 读书笔记
+# Textbook Notes
 
 
-:::{.columns}
+::::{.columns style="align-items: center; padding: 10px; "}
 
-::::{.column width="49%"}
-[![](defi4/defi4-cover.png){width=300px}](defi4.html)
+:::::{.column .text-center width="40%"}
+
+[![](defi4/defi4-cover.png){height="200px" fig-align="center" style="box-shadow: 5px 5px 15px rgba(0,0,0,0.4);"}](defi4.html)
+
+[Défi 4]{.text-primary style="font-size: 2em; font-weight: bold; line-height: 1"}
+
+:::::
+
+
+:::::{.column .text-center width="40%" style="border-left: 1px solid #dee2e6 !important; padding-left: 1%; margin-left: 1%;"}
+
+[![](defi3/defi3-cover.png){height="200px" fig-align="center" style="box-shadow: 5px 5px 15px rgba(0,0,0,0.4);"}](defi3.html)
+
+[Défi 3]{.text-primary style="font-size: 2em; font-weight: bold; line-height: 1"}
+
+:::::
 ::::
 
-::::{.column width="2%"}
-::::
-
-::::{.column width="49%"}
-[![](defi3/defi3-cover.png){width=300px}](defi3.html)
-::::
-:::
+<br>
 
 
-# AF-Nice B1/B2
+:::::{.column}
+# AF-NICE Class Notes
 
-- Les notes pour mes classes de français à l'AF-Nice
-
-- Notes I took while at l'Alliance Française Nice
-
-- 尼斯法盟上课笔记
-
-
-[![](af-nice-b1/af-nice-cafe.png){width=400px}](af-nice-b1.html)
+[![](af-nice-b1/af-nice-cafe.png){height="200px" fig-align="center" style="box-shadow: 5px 5px 15px rgba(0,0,0,0.4);"}](af-nice-b1.html)
+:::::
 
 
 
 
-# Le Nouveau Taxi 3
 
-Notes for Le Nouveau Taxi 3 textbook.
-
-[![](lenouveautaxi3/taxi3-cover.png){width=180px}](le-nouveau-taxi-3.html)
 
 
 

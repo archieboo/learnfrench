@@ -11,7 +11,7 @@ number-sections: false
 
 ## DES INITIATIVES EN FRANCOPHONIE CONTRE LE PLASTIQUE
 
-Si on ne fait rien, en 2050, il y aura dans les océans plus de plastique que de poissons. Face à ce constat[^1a1] terrifiant[ˆ1a2], en 2018, des pays comme Bénin ou des villes comme Montréal ont interdit les sacs en plastique.
+Si on ne fait rien, en 2050, il y aura dans les océans plus de plastique que de poissons. Face à ce constat[^1a1] terrifiant[^1a2], en 2018, des pays comme Bénin ou des villes comme Montréal ont interdit les sacs en plastique.
 Aux Seychelles, une campaigne de sensibilisation a conduit à l'interdiction des pailles en plastique à usage unique sur l'archipel[^1a3]. Mais que peut-on faire au niveau individuel? Focus sur quelques initiatives écocitoyennes.
 
 [^1a1]: constat = observation, fait

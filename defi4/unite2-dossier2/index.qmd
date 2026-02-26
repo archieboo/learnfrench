@@ -11,13 +11,13 @@ image: "https://images.unsplash.com/photo-1526399743290-f73cb4022f48?q=80&w=640"
 
 ![](https://images.unsplash.com/photo-1587903318972-9ca74ba4579c?q=80&w=640){.column-margin}
 
-_Le concept de "kilomètre alimentaire" est apparu au début des années 1990 au Royaume-Uni [en raison de]{.mark} la globalisation commerciale dont certaines conséquences dépassent[^Aa] aujourd'hui l'entendement[^Ab]. Même si cela semble démentiel[^Ac], la distance moyenne parcourue[^Ad] par un produit alimentaire entre son lieu de production et l'assiette du consommateur est plus de 2 000 kilomètres! Sommes-nous devenus fous? Plusieurs exemples tendent à prouver que le monde marche sur la tête[^Ad]._
+_Le concept de "kilomètre alimentaire" est apparu au début des années 1990 au Royaume-Uni [en raison de]{.mark} la globalisation commerciale dont certaines conséquences dépassent[^Aa] aujourd'hui l'entendement[^Ab]. Même si cela semble démentiel[^Ac], la distance moyenne parcourue[^Ad] par un produit alimentaire entre son lieu de production et l'assiette du consommateur est plus de 2 000 kilomètres! Sommes-nous devenus fous? Plusieurs exemples tendent à prouver que le monde marche sur la tête[^Ae]._
 
 [^Aa]: dépasser = surpass, exceed, go beyond...
 [^Ab]: l'entendement = understanding, comprehension
 [^Ac]: démentiel = crazy, insane, outrageous
 [^Ad]: parcourir = to travel, to cover (a distance)
-[^Ad]: tendre à prouver = tend to prove, seem to show, suggest; marcher sur la tête = to be crazy
+[^Ae]: tendre à prouver = tend to prove, seem to show, suggest; marcher sur la tête = to be crazy
 
 
 ::: {style="display: flex; align-items: center;"}

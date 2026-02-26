@@ -1,5 +1,43 @@
 [
   {
+    "listing": "/defi3.html",
+    "items": [
+      "/defi3/unite1-dossier2/index.html",
+      "/defi3/unite1-dossier1/index.html"
+    ]
+  },
+  {
+    "listing": "/af-nice-b1.html",
+    "items": [
+      "/af-nice-b1/lesson-18/index.html",
+      "/af-nice-b1/lesson-17/index.html",
+      "/af-nice-b1/lesson-16/index.html",
+      "/af-nice-b1/lesson-15/index.html",
+      "/af-nice-b1/lesson-14/index.html",
+      "/af-nice-b1/lesson-13/index.html",
+      "/af-nice-b1/lesson-12/index.html",
+      "/af-nice-b1/lesson-11/index.html",
+      "/af-nice-b1/lesson-07/index.html",
+      "/af-nice-b1/lesson-06/index.html",
+      "/af-nice-b1/lesson-05/index.html",
+      "/af-nice-b1/lesson-04/index.html",
+      "/af-nice-b1/lesson-03/index.html",
+      "/af-nice-b1/lesson-02/index.html",
+      "/af-nice-b1/lesson-01/index.html"
+    ]
+  },
+  {
+    "listing": "/archive.html",
+    "items": [
+      "/archive/lesson-5/index.html",
+      "/archive/lesson-4/index.html",
+      "/archive/lesson-3/index.html",
+      "/archive/lesson-2/index.html",
+      "/archive/lesson-1/index.html",
+      "/archive/lesson-0/index.html"
+    ]
+  },
+  {
     "listing": "/defi4.html",
     "items": [
       "/defi4/unite3-dossier2/index.html",
@@ -30,44 +68,6 @@
       "/lenouveautaxi3/le-nouveau-taxi-3-3/index.html",
       "/lenouveautaxi3/le-nouveau-taxi-3-2/index.html",
       "/lenouveautaxi3/le-nouveau-taxi-3-1/index.html"
-    ]
-  },
-  {
-    "listing": "/archive.html",
-    "items": [
-      "/archive/lesson-5/index.html",
-      "/archive/lesson-4/index.html",
-      "/archive/lesson-3/index.html",
-      "/archive/lesson-2/index.html",
-      "/archive/lesson-1/index.html",
-      "/archive/lesson-0/index.html"
-    ]
-  },
-  {
-    "listing": "/af-nice-b1.html",
-    "items": [
-      "/af-nice-b1/lesson-18/index.html",
-      "/af-nice-b1/lesson-17/index.html",
-      "/af-nice-b1/lesson-16/index.html",
-      "/af-nice-b1/lesson-15/index.html",
-      "/af-nice-b1/lesson-14/index.html",
-      "/af-nice-b1/lesson-13/index.html",
-      "/af-nice-b1/lesson-12/index.html",
-      "/af-nice-b1/lesson-11/index.html",
-      "/af-nice-b1/lesson-07/index.html",
-      "/af-nice-b1/lesson-06/index.html",
-      "/af-nice-b1/lesson-05/index.html",
-      "/af-nice-b1/lesson-04/index.html",
-      "/af-nice-b1/lesson-03/index.html",
-      "/af-nice-b1/lesson-02/index.html",
-      "/af-nice-b1/lesson-01/index.html"
-    ]
-  },
-  {
-    "listing": "/defi3.html",
-    "items": [
-      "/defi3/unite1-dossier2/index.html",
-      "/defi3/unite1-dossier1/index.html"
     ]
   }
 ]
