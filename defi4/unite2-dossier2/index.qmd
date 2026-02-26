@@ -136,15 +136,16 @@ Les boyeaux[^ga] des saucisses et des boudins[^gb] belges ont pour la plupart tr
 
 
 
+<br>
 
-
+-------------------------------------------------------
 
 # TEXTE: Consommer local, vraiment bon pour la planète?
 
 ![](https://images.unsplash.com/photo-1526399743290-f73cb4022f48?q=80&w=640){.column-margin}
 
 
-[Ɓ]{style="font-size:3em; line-height:0.8; display:inline-block;"}
+[B]{style="font-size:2em; line-height:1;"}
 [ien que]{.mark} la libre circulation des marchandises et des aliments[^ha] [se soit]{.markpurple} imposée partout en Occident[^hb], de plus en plus de consommateurs cherchent à adopter une alimentation local. Cependant, consommer local n'est pas toujours écolo, on vous explique. 
 
 [^ha]: la libre circulation = free movement; aliment = food, alimentation = feeding, food supply, diet, nutrition 
@@ -171,19 +172,34 @@ It does **not negate** but rather adds an **emphasis** to the comparison. In thi
 _Also **paraître à qch**_   ➡️   _qu'il n'**y** paraît_
 :::
 
-
-Le transport [a beau être]{.mark}[^i1] problématique sur le plan écologique, c'est loin d'être le souci[^i2] le plus important, au contraire! 
+Le transport [a beau être]{.mark}[^i1] problématique sur le plan écologique, c'est loin d'être le souci[^i2] le plus important, au contraire! Transporter une banane du lieu où elle est cultivée à celui où elle vendue ne représente que 7% des émissions de gaz à effet de serre[^i3] causées par cette banane. Paradoxalement, [quoiqu]{.mark}[^i4]'elle [soit]{.markpurple} cultivée dans son milieu[^i5] naturel, cette banane n'est pas si écolo. 
 
 [^i1]: a beau + infinitif = no matter how much, even though (_fixed expression that expresses concession_) 
 [^i2]: souci = concern, problem (n.m); être loin d'être = to be far from being
+[^i3]: gaz à effet de serre = greenhouse gases; le gaz;  serre = greenhouse (n.m)
+[^i4]: quoique = although, even though, while (_quoique_ + subjonctif)
+[^i5]: milieu = environment, setting, surroundings (n.m)
 
+En effet, on peut compter divers types de pollution durant la production (les engins et l'énergie utilisés pour travailler les sols et la récolter, les engrais utilisés pour fertiliser ou repousser les insectes, etc.), et cette phase de production représente 93% des impacts écologiques!
 
+[Si l'on]{.mark}[^j1] veut réellement consommer de façon plus écologique, il faut donc regarder la culture du produit [plutôt que]{.mark}[^j2] son transport. [Or]{.markorange}[^j3], les productions étrangères sont parfois plus écologiques que les productions locales. Par exemple, une étude suédoise a montré que, [du point de vue de]{.mark}[^j4] l'empreinte carbone[^j5], il est préférable d'acheter des tomates importées que des tomates cultivées en Suède. Pourquoi? Parce qu'il est beaucoup plus difficile de faire pousser[^j6] des tomates en Suède qu'en Espagne. Finalement, [bien qu]{.mark}'elles [aient]{.markpurple} parcouru des milliers[^j7] de kilomètres, les tomates espagnoles restent beaucoup plus "écologiques" que les tomates locales ([à condition qu]{.mark}'on les [ait]{.markpurple} transportées par bateau). C'est la climat qui fait la différence: un fruit, ou un légume, produit dans un climat favorable sera plus écologique, même s'il importé. [En somme]{.mark}[^j8], savoir si consommer local est plus écologique ou non est une question de bon sens. Si les produits sont de saison et adaptés à l'écosystème local, évidemment qu'il faut acheter et consommer local!
 
+[^j1]: In formal writing, _si l'on_ is often used instead of _si on_ due to _euphony_ to avoid a vowel followed by a vowel.
+[^j2]: plutôt que = rather than
+[^j3]: or = but, however. It can also mean "now" when ued to introduce a new argument or contrasting point. But always in formal writing. 
+[^j4]: du point de vue de = from the point of view of
+[^j5]: empreinte carbone = carbon footprint; empreinte = imprint, print, footprint (n.f)
+[^j6]: faire pousser = to grow (plants)
+[^j7]: millier = thousand (n.m, can be pluralized); mille as adj. or as counting number = thousand (invariable)
+[^j8]: en somme = in sum, in conclusion; somme = sum (n.f)
 
+:::{.callout-tip style="width: 80%;"}
+###### un verbe à l'infinitif comme sujet
 
+En français, c'est très courant d'utiliser un verbe à l'infinitif comme sujet d'une phrase. Par exemple:
 
-
-
+- _Savoir si consommer local est plus écologique ou non est une question de bon sens._
+:::
 
 
 

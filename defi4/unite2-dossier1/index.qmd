@@ -2,17 +2,152 @@
 title: "Unité 2: De la fourche à la fourchette - Dossier 1"
 date: "2026-02-25"
 categories: ["B2", "défi4", "Unité2" ]
-reference-location: section # margin, block, section, document
+reference-location: document # margin, block, section, document
 citation-location: document #margin
 image: "https://images.unsplash.com/photo-1509100194014-d49809396daa?q=80&w=640"
 --- 
 
 # TEXTE: Initiatives agricoles au Maghreb
 
+Le Maroc, l'Algérie et la Tunisie partagent le même climat, la même végétation et les mêmes problématiques: la sècheresse des sols et la diminution des terres cultivables. Autre points communs: une population rurale très importante et un potentiel agricole porté par des femmes, dans des exploitations à taille humaine. Ces initiatives nous montrent que, parfois, des solutions résident dans les problèmes. 
+
+::: {style="display: flex; align-items: center; gap: 10px;"}
+[_Focus Maroc_ 🇲🇦]{style="font-size:1.5em; line-height:1;"}
+
+:::: {style="flex-grow: 1; height:4px; background-color:#C1272D;"}
+::::
+:::
+
+[![](https://images.unsplash.com/photo-1520123704147-ed3a34036262?q=80&w=640)]{.column-margin}
+
+
+Avril 2019, le SIAM, le Salon International de l’Agriculture au Maroc, présente pour la première fois un espace résérvé à l’agriculture biologique. Parmi les exposants, Malika Mouilek, $2_e$ lauréate du Prix Terre de femmes Maroc 2019, défend[^a1] à la fois l'agriculture biologique et le travail des femmes dans son village de Dour Laglalcha. Selon elle, l'agriculture intensive [a fait diminuer]{.markred} les stocks d'eau et a dégradé la qualité du sol. Uniquement vendus sur les marchés locaux, et traités avec des insecticides naturels, les agrumes[^a2] et produits maraîchers[^a3] biologiques de ces femmes ne bénéficient pas de certification bio. Elles veulent se constituer[^a4] en coopérative pour [bénéficier d]{.mark}[^a5]'aides gouvernementales et pérenniser[^a6] les emplois d'une trentaine de saisonniers[^a7].
+
+:::{.callout-important style="width: 80%;"}
+###### faire + verbe à l'infinitif
+
+In French **faire + verbe à l'infinitif** is often used to express the idea of "having something done" or "causing something to happen" when the subject of the sentence is **not performing the action directly**, but rather is causing someone/something else to perform the action. For example:  
+
+- _Je fais réparer ma voiture._
+- _L'agriculture intensive a fait diminuer les stocks d'eau._
+
+In both examples, the subject is not doing the action themselves.
+:::
+
+[^a1]: défendre: defend, advocate for, support, promote
+[^a2]: les agrumes: citrus fruits
+[^a3]: maraîcher: vegetable grower (n.m.); les produits maraîchers: vegetable products
+[^a4]: se constituer: to form, to establish (oneself)
+[^a5]: bénéficier de: to benefit from
+[^a6]: pérenniser: to make permanent, to ensure the sustainability of
+[^a7]: saisonnier: seasonal worker
+
+
+::: {style="display: flex; align-items: center; gap: 10px;"}
+[_Focus Algérie_ 🇩🇿]{style="font-size:1.5em; line-height:1;"}
+
+:::: {style="flex-grow: 1; height:4px; background-color:#006633;"}
+::::
+:::
+
+[![](https://images.unsplash.com/photo-1566622219044-7948b6b7745e?q=80&w=640)]{.column-margin}
+
+Le figuier de Barbarie[^a8], très répandu[^a9] en Méditerranée, a ranimé[^a10] la commune de Sidi Fredi, prés d'Alger, où beaucoup de jeunes sans emploi rêvent d'émigration. L'effet de mode[^a11] autour des qualité cosmétiques et alimentaires de ce cactus a permis d'augmenter la production. [À l'exception de]{.mark} épines, tout est utilisable (pépins, fleurs, pulpe du fruit...) dans cette plante capable de pousser sur des terres arides. Depuis 2013, les autorités agricoles locales encouragent le développement de la culture de cette plante, dont on extrait [une des huiles]{.mark} les plus chères du monde utilisée en cosmétique. Certifiée bio par des organismes étrangers (une telle certification n'existe pas en Algérie), l'huile de figue de Barbarie s'exporte en France, en Allemagne et au Quatar. Dan la région, la transformation du cactus a fait émerger une économie familiale qui offre aux femmes employées et aux jeunes un espoir d'avenir.
+
+[^a8]: le figuier de Barbarie: prickly pear cactus
+[^a9]: répandu: widespread; répandre: to spread
+[^a10]: ranimer: to revive, to rekindle
+[^a11]: l'effet de mode: trend, craze (fixed expression)
+
+
+
+::: {style="display: flex; align-items: center; gap: 10px;"}
+[_Focus Tunisie_ 🇹🇳]{style="font-size:1.5em; line-height:1;"}
+
+:::: {style="flex-grow: 1; height:4px; background-color:#E70013;"}
+::::
+:::
+
+[![](https://images.unsplash.com/photo-1686768846795-30af3516270b?q=80&w=640)]{.column-margin}
+Grâce à ses racines profondes[^ba], l'acacia moringa puise[^bb] l'eau à 60 mètres sous terre. Sa culture permet de limiter l'arrosage, car il protège le sol avec ses feuilles et l'humidifie. Depuis 2012, Sarah Toumi plante ces arbustes[^bc] dans la région agricole au nord de Sfax. Son idée est simple: implanter[^bd] l'acacia dans les cultures du pays et changer les habitudes des agriculteurs. Elle a d'abord [commencé à]{.mark} travailler avec des femmes, pour [la plupart propriétaires]{.mark} de petites parcelles de terre. Aujourd'hui, son initiatve institulée[^be] Acacia pour tous fournit[^bf] des graines[^bg] aux agricultrices. Elles produisent ensuite du miel ou des tisanes destinés au marché européen. Elles travaillent dans le cadre d'une coopérative qui leur offre la possibilité de commercialiser leur production.
+
+[^ba]: profond: deep
+[^bb]: puiser: to draw, to tap into (a resource)
+[^bc]: arbuste: shrub, bush (n.m.)
+[^bd]: implanter: to establish, to set up
+[^be]: instituer: to establish, to set up 
+[^bf]: fournir: to provide, to supply
+[^bg]: graine: seed (n.f.); note "grain" is a different word meaning "grain" (n.m.)
+
+
+<br>
+
+----------------------------------------------
 
 # TEXTE: Le forum de l'agriculture afri-saine
 
+[![](https://images.unsplash.com/photo-1603894963988-9eb3a4577080?q=80&w=640)]{.column-margin}
 
 
+[M]{style="font-size:2em; line-height:1;"}
+ême si l'Afrique utilise moins de pesticides qu'ailleurs dans le monde, ces faibles[^j1] quantités présentent des risques très élevés pour la santé et l'environnement. La première démarche[^j2] [consiste donc à]{.mark} limiter l'exposition à ces produits, et cela [passe[^j3] évidemment par]{.mark} une sensibilisation de la population. C'est ce que fait PAN Africa en éditant et diffusant ces affiches. Et vous? Que pensez-vous de l'usage des pesiticides? Participez au débat sur ce forum.
+
+[^j1]: faible: low, weak; faibler: to weaken, to diminish
+[^j2]: démarche: approach, process, step (n.f.)
+[^j3]: passer par: to go through, to involve
+
+
+
+::::{.marksilver style="padding: 20px; border: 1px solid #413d3d; box-shadow: 5px 5px 15px rgba(0,0,0,0.4);"}
+
+:::{.markred style = "padding: 10px; border: 1px solid #413d3d; margin-top: 10px; font-family: 'Roboto'; font-size: .8em;"}
+
+[🤬]{style="font-size:2.5em; line-height:1; inline-block: true; margin-right: 15px;"}
+Je suppose que la toxicité des pesticides est connue dans les pays européens. Au Burkina Faso, leurs conditions d'utilisation [font froid dans le dos]{.mark}[^k1]. [À ce qu'il paraît]{.mark}[^k2], la moitié des vendeurs et des algriculteurs ne savent ni lire ni écrire, ils ignorent le nom des produits qu'ils utilisent... [Ça me révolte]{.mark}! J'ai aussi lu un reportage sur ... [à propos de]{.mark}[^k3] l'expérience du coton transgénique [menée au]{.mark}[^k4] Burkina Faso. En principe, ça devait enrichir les paysans en leur faisant économiser sur l'engrais et les pesticides. Tu parles! Beaucoup se sont retrouvés [sur la paille (sans jeu de mots)]{.mark}[^k5]. [J'en veux terriblement à]{.mark}[^k6] tous ceux qui pensent plus au profit qu'aux humains (Monsanto, l'État, la list serait longue...).
+:::
+
+[^k1]: faire froid dans le dos: to send chills down one's spine
+[^k2]: à ce qu'il paraît: apparently, it seems that
+[^k3]: à propos de: about, regarding 
+[^k4]: mener à: to lead to, to conduct
+[^k5]: être sur la paille: to be broke, to be penniless; sans jeu de mots: no pun intended
+[^k6]: en vouloir à: to hold a grudge against, to blame
+
+
+:::{.markblue style = "padding: 10px; border: 1px solid #413d3d; margin-top: 10px; font-family: 'Roboto'; font-size: .8em;"}
+
+[🧐]{style="font-size:2.5em; line-height:1; inline-block: true; margin-right: 15px;"}
+[Au risque de choquer]{.mark}, je crois qu'il ne faut pas complètement diaboliser[^l1] les pesticides. Je vous rappelle que le secteur agricole constitue la principale source de revenus pour enrivon 90% des Burkinabés. Comment voulez-vous que la population se nourrisse si on ne protège pas les cultures? [Sans parler du fait que]{.mark}[^l2] les pesticides tuent les moustiques, porteurs de maladies mortelles...
+:::
+
+[^l1]: diaboliser: to demonize, to vilify
+[^l2]: sans parler du fait que: not to mention the fact that, let alone the fact that
+
+
+:::{.markorange style = "padding: 10px; border: 1px solid #413d3d; margin-top: 10px; font-family: 'Roboto'; font-size: .8em;"}
+
+[😡]{style="font-size:2.5em; line-height:1; inline-block: true; margin-right: 15px;"}
+[À mon sens]{.mark}[^m1], ce qui est révoltant, c'est que certains pesticides sont interdits en Europe depuis longtemps, mais continuent d'être vendus et utilisés en Afrique. J'hallucine[^m2] quand j'entends que le coût total des maladies et des blessures[^m3] liées aux pesticides pourrait atteindre 90 milliards de dollars d'ici 2020. C'est insensé! [Rien que ça]{.mark}[^m4], ça devrait faire réfléchir, non?
+:::
+
+[^m1]: à mon sens: in my opinion
+[^m2]: halluciner: to be shocked, to be amazed, to be flabbergasted
+[^m3]: blessure: injury (n.f.)
+[^m4]: rien que ça: just that, only that
+
+
+
+:::{.markteal style = "padding: 10px; border: 1px solid #413d3d; margin-top: 10px; font-family: 'Roboto'; font-size: .8em; "}
+
+[😓]{style="font-size:2.5em; line-height:1; inline-block: true; margin-right: 15px;"}
+J'admets que les pesticides facilitent le travail des agriculteurs, mais il est indéniable qu'ils sont nocifs[^n1] pour l'humain! Il est évidemment indispensable de sensibiliser les populations, mais c'est insuffisant. Selon le docteur hubert Bationo, de l'université de Ouagadougou, il faut encourager la recherche sur les biopesticides et promouvoir[^n2] ceux qui sont déjà connus. [Sauf erreur de ma part]{.mark}[^n3], c'est qui sont déjà le cas dans certains pays, notamment le Bénin. [Prenons exemple sur eux]{.mark}[^n4]!
+:::
+
+[^n1]: nocif: harmful, toxic; nocivité: toxicity (n.f.)
+[^n2]: promouvoir: to promote
+[^n3]: sauf erreur de ma part: unless I'm mistaken
+[^n4]: prenons exemple sur eux: let's take example from them, let's follow their example
+
+::::
 
 

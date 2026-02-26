@@ -71,6 +71,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../../styles.css">
 </head>
@@ -177,22 +206,124 @@ ul.task-list li input[type="checkbox"] {
 </nav>
     </div>
 <!-- main -->
-<main class="content quarto-banner-title-block" id="quarto-document-content">
+<main class="content quarto-banner-title-block page-columns page-full" id="quarto-document-content">
 
 
 
 
 
-<section id="texte-initiatives-agricoles-au-maghreb" class="level1">
+<section id="texte-initiatives-agricoles-au-maghreb" class="level1 page-columns page-full">
 <h1>TEXTE: Initiatives agricoles au Maghreb</h1>
+<p>Le Maroc, l’Algérie et la Tunisie partagent le même climat, la même végétation et les mêmes problématiques: la sècheresse des sols et la diminution des terres cultivables. Autre points communs: une population rurale très importante et un potentiel agricole porté par des femmes, dans des exploitations à taille humaine. Ces initiatives nous montrent que, parfois, des solutions résident dans les problèmes.</p>
+<div style="display: flex; align-items: center; gap: 10px;">
+<p><span style="font-size:1.5em; line-height:1;"><em>Focus Maroc</em> 🇲🇦</span></p>
+<div style="flex-grow: 1; height:4px; background-color:#C1272D;">
+
+</div>
+</div>
+<div class="page-columns page-full"><p></p><div class="no-row-height column-margin column-container"><span class=""><img src="https://images.unsplash.com/photo-1520123704147-ed3a34036262?q=80&amp;w=640.png" class="img-fluid"></span></div></div>
+<p>Avril 2019, le SIAM, le Salon International de l’Agriculture au Maroc, présente pour la première fois un espace résérvé à l’agriculture biologique. Parmi les exposants, Malika Mouilek, <span class="math inline">\(2_e\)</span> lauréate du Prix Terre de femmes Maroc 2019, défend<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> à la fois l’agriculture biologique et le travail des femmes dans son village de Dour Laglalcha. Selon elle, l’agriculture intensive <span class="markred">a fait diminuer</span> les stocks d’eau et a dégradé la qualité du sol. Uniquement vendus sur les marchés locaux, et traités avec des insecticides naturels, les agrumes<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a> et produits maraîchers<a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a> biologiques de ces femmes ne bénéficient pas de certification bio. Elles veulent se constituer<a href="#fn4" class="footnote-ref" id="fnref4" role="doc-noteref"><sup>4</sup></a> en coopérative pour <mark>bénéficier d</mark><a href="#fn5" class="footnote-ref" id="fnref5" role="doc-noteref"><sup>5</sup></a>’aides gouvernementales et pérenniser<a href="#fn6" class="footnote-ref" id="fnref6" role="doc-noteref"><sup>6</sup></a> les emplois d’une trentaine de saisonniers<a href="#fn7" class="footnote-ref" id="fnref7" role="doc-noteref"><sup>7</sup></a>.</p>
+<div class="callout callout-style-default callout-important callout-titled" style="width: 80%;">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Important</span>faire + verbe à l’infinitif
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>In French <strong>faire + verbe à l’infinitif</strong> is often used to express the idea of “having something done” or “causing something to happen” when the subject of the sentence is <strong>not performing the action directly</strong>, but rather is causing someone/something else to perform the action. For example:</p>
+<ul>
+<li><em>Je fais réparer ma voiture.</em></li>
+<li><em>L’agriculture intensive a fait diminuer les stocks d’eau.</em></li>
+</ul>
+<p>In both examples, the subject is not doing the action themselves.</p>
+</div>
+</div>
+<div style="display: flex; align-items: center; gap: 10px;">
+<p><span style="font-size:1.5em; line-height:1;"><em>Focus Algérie</em> 🇩🇿</span></p>
+<div style="flex-grow: 1; height:4px; background-color:#006633;">
+
+</div>
+</div>
+<div class="page-columns page-full"><p></p><div class="no-row-height column-margin column-container"><span class=""><img src="https://images.unsplash.com/photo-1566622219044-7948b6b7745e?q=80&amp;w=640.png" class="img-fluid"></span></div></div>
+<p>Le figuier de Barbarie<a href="#fn8" class="footnote-ref" id="fnref8" role="doc-noteref"><sup>8</sup></a>, très répandu<a href="#fn9" class="footnote-ref" id="fnref9" role="doc-noteref"><sup>9</sup></a> en Méditerranée, a ranimé<a href="#fn10" class="footnote-ref" id="fnref10" role="doc-noteref"><sup>10</sup></a> la commune de Sidi Fredi, prés d’Alger, où beaucoup de jeunes sans emploi rêvent d’émigration. L’effet de mode<a href="#fn11" class="footnote-ref" id="fnref11" role="doc-noteref"><sup>11</sup></a> autour des qualité cosmétiques et alimentaires de ce cactus a permis d’augmenter la production. <mark>À l’exception de</mark> épines, tout est utilisable (pépins, fleurs, pulpe du fruit…) dans cette plante capable de pousser sur des terres arides. Depuis 2013, les autorités agricoles locales encouragent le développement de la culture de cette plante, dont on extrait <mark>une des huiles</mark> les plus chères du monde utilisée en cosmétique. Certifiée bio par des organismes étrangers (une telle certification n’existe pas en Algérie), l’huile de figue de Barbarie s’exporte en France, en Allemagne et au Quatar. Dan la région, la transformation du cactus a fait émerger une économie familiale qui offre aux femmes employées et aux jeunes un espoir d’avenir.</p>
+<div style="display: flex; align-items: center; gap: 10px;">
+<p><span style="font-size:1.5em; line-height:1;"><em>Focus Tunisie</em> 🇹🇳</span></p>
+<div style="flex-grow: 1; height:4px; background-color:#E70013;">
+
+</div>
+</div>
+<div class="page-columns page-full"><p> Grâce à ses racines profondes<a href="#fn12" class="footnote-ref" id="fnref12" role="doc-noteref"><sup>12</sup></a>, l’acacia moringa puise<a href="#fn13" class="footnote-ref" id="fnref13" role="doc-noteref"><sup>13</sup></a> l’eau à 60 mètres sous terre. Sa culture permet de limiter l’arrosage, car il protège le sol avec ses feuilles et l’humidifie. Depuis 2012, Sarah Toumi plante ces arbustes<a href="#fn14" class="footnote-ref" id="fnref14" role="doc-noteref"><sup>14</sup></a> dans la région agricole au nord de Sfax. Son idée est simple: implanter<a href="#fn15" class="footnote-ref" id="fnref15" role="doc-noteref"><sup>15</sup></a> l’acacia dans les cultures du pays et changer les habitudes des agriculteurs. Elle a d’abord <mark>commencé à</mark> travailler avec des femmes, pour <mark>la plupart propriétaires</mark> de petites parcelles de terre. Aujourd’hui, son initiatve institulée<a href="#fn16" class="footnote-ref" id="fnref16" role="doc-noteref"><sup>16</sup></a> Acacia pour tous fournit<a href="#fn17" class="footnote-ref" id="fnref17" role="doc-noteref"><sup>17</sup></a> des graines<a href="#fn18" class="footnote-ref" id="fnref18" role="doc-noteref"><sup>18</sup></a> aux agricultrices. Elles produisent ensuite du miel ou des tisanes destinés au marché européen. Elles travaillent dans le cadre d’une coopérative qui leur offre la possibilité de commercialiser leur production.</p><div class="no-row-height column-margin column-container"><span class=""><img src="https://images.unsplash.com/photo-1686768846795-30af3516270b?q=80&amp;w=640.png" class="img-fluid"></span></div></div>
+<p><br></p>
+<hr>
 </section>
-<section id="texte-le-forum-de-lagriculture-afri-saine" class="level1">
+<section id="texte-le-forum-de-lagriculture-afri-saine" class="level1 page-columns page-full">
 <h1>TEXTE: Le forum de l’agriculture afri-saine</h1>
+<div class="page-columns page-full"><p></p><div class="no-row-height column-margin column-container"><span class=""><img src="https://images.unsplash.com/photo-1603894963988-9eb3a4577080?q=80&amp;w=640.png" class="img-fluid"></span></div></div>
+<p><span style="font-size:2em; line-height:1;">M</span> ême si l’Afrique utilise moins de pesticides qu’ailleurs dans le monde, ces faibles<a href="#fn19" class="footnote-ref" id="fnref19" role="doc-noteref"><sup>19</sup></a> quantités présentent des risques très élevés pour la santé et l’environnement. La première démarche<a href="#fn20" class="footnote-ref" id="fnref20" role="doc-noteref"><sup>20</sup></a> <mark>consiste donc à</mark> limiter l’exposition à ces produits, et cela <mark>passe<a href="#fn21" class="footnote-ref" id="fnref21" role="doc-noteref"><sup>21</sup></a> évidemment par</mark> une sensibilisation de la population. C’est ce que fait PAN Africa en éditant et diffusant ces affiches. Et vous? Que pensez-vous de l’usage des pesiticides? Participez au débat sur ce forum.</p>
+<div class="marksilver" style="padding: 20px; border: 1px solid #413d3d; box-shadow: 5px 5px 15px rgba(0,0,0,0.4);">
+<div class="markred" style="padding: 10px; border: 1px solid #413d3d; margin-top: 10px; font-family: 'Roboto'; font-size: .8em;">
+<p><span style="font-size:2.5em; line-height:1; inline-block: true; margin-right: 15px;">🤬</span> Je suppose que la toxicité des pesticides est connue dans les pays européens. Au Burkina Faso, leurs conditions d’utilisation <mark>font froid dans le dos</mark><a href="#fn22" class="footnote-ref" id="fnref22" role="doc-noteref"><sup>22</sup></a>. <mark>À ce qu’il paraît</mark><a href="#fn23" class="footnote-ref" id="fnref23" role="doc-noteref"><sup>23</sup></a>, la moitié des vendeurs et des algriculteurs ne savent ni lire ni écrire, ils ignorent le nom des produits qu’ils utilisent… <mark>Ça me révolte</mark>! J’ai aussi lu un reportage sur … <mark>à propos de</mark><a href="#fn24" class="footnote-ref" id="fnref24" role="doc-noteref"><sup>24</sup></a> l’expérience du coton transgénique <mark>menée au</mark><a href="#fn25" class="footnote-ref" id="fnref25" role="doc-noteref"><sup>25</sup></a> Burkina Faso. En principe, ça devait enrichir les paysans en leur faisant économiser sur l’engrais et les pesticides. Tu parles! Beaucoup se sont retrouvés <mark>sur la paille (sans jeu de mots)</mark><a href="#fn26" class="footnote-ref" id="fnref26" role="doc-noteref"><sup>26</sup></a>. <mark>J’en veux terriblement à</mark><a href="#fn27" class="footnote-ref" id="fnref27" role="doc-noteref"><sup>27</sup></a> tous ceux qui pensent plus au profit qu’aux humains (Monsanto, l’État, la list serait longue…).</p>
+</div>
+<div class="markblue" style="padding: 10px; border: 1px solid #413d3d; margin-top: 10px; font-family: 'Roboto'; font-size: .8em;">
+<p><span style="font-size:2.5em; line-height:1; inline-block: true; margin-right: 15px;">🧐</span> <mark>Au risque de choquer</mark>, je crois qu’il ne faut pas complètement diaboliser<a href="#fn28" class="footnote-ref" id="fnref28" role="doc-noteref"><sup>28</sup></a> les pesticides. Je vous rappelle que le secteur agricole constitue la principale source de revenus pour enrivon 90% des Burkinabés. Comment voulez-vous que la population se nourrisse si on ne protège pas les cultures? <mark>Sans parler du fait que</mark><a href="#fn29" class="footnote-ref" id="fnref29" role="doc-noteref"><sup>29</sup></a> les pesticides tuent les moustiques, porteurs de maladies mortelles…</p>
+</div>
+<div class="markorange" style="padding: 10px; border: 1px solid #413d3d; margin-top: 10px; font-family: 'Roboto'; font-size: .8em;">
+<p><span style="font-size:2.5em; line-height:1; inline-block: true; margin-right: 15px;">😡</span> <mark>À mon sens</mark><a href="#fn30" class="footnote-ref" id="fnref30" role="doc-noteref"><sup>30</sup></a>, ce qui est révoltant, c’est que certains pesticides sont interdits en Europe depuis longtemps, mais continuent d’être vendus et utilisés en Afrique. J’hallucine<a href="#fn31" class="footnote-ref" id="fnref31" role="doc-noteref"><sup>31</sup></a> quand j’entends que le coût total des maladies et des blessures<a href="#fn32" class="footnote-ref" id="fnref32" role="doc-noteref"><sup>32</sup></a> liées aux pesticides pourrait atteindre 90 milliards de dollars d’ici 2020. C’est insensé! <mark>Rien que ça</mark><a href="#fn33" class="footnote-ref" id="fnref33" role="doc-noteref"><sup>33</sup></a>, ça devrait faire réfléchir, non?</p>
+</div>
+<div class="markteal" style="padding: 10px; border: 1px solid #413d3d; margin-top: 10px; font-family: 'Roboto'; font-size: .8em; ">
+<p><span style="font-size:2.5em; line-height:1; inline-block: true; margin-right: 15px;">😓</span> J’admets que les pesticides facilitent le travail des agriculteurs, mais il est indéniable qu’ils sont nocifs<a href="#fn34" class="footnote-ref" id="fnref34" role="doc-noteref"><sup>34</sup></a> pour l’humain! Il est évidemment indispensable de sensibiliser les populations, mais c’est insuffisant. Selon le docteur hubert Bationo, de l’université de Ouagadougou, il faut encourager la recherche sur les biopesticides et promouvoir<a href="#fn35" class="footnote-ref" id="fnref35" role="doc-noteref"><sup>35</sup></a> ceux qui sont déjà connus. <mark>Sauf erreur de ma part</mark><a href="#fn36" class="footnote-ref" id="fnref36" role="doc-noteref"><sup>36</sup></a>, c’est qui sont déjà le cas dans certains pays, notamment le Bénin. <mark>Prenons exemple sur eux</mark><a href="#fn37" class="footnote-ref" id="fnref37" role="doc-noteref"><sup>37</sup></a>!</p>
+</div>
+</div>
 
 
 </section>
 
-</main> <!-- /main -->
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>défendre: defend, advocate for, support, promote<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2"><p>les agrumes: citrus fruits<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn3"><p>maraîcher: vegetable grower (n.m.); les produits maraîchers: vegetable products<a href="#fnref3" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn4"><p>se constituer: to form, to establish (oneself)<a href="#fnref4" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn5"><p>bénéficier de: to benefit from<a href="#fnref5" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn6"><p>pérenniser: to make permanent, to ensure the sustainability of<a href="#fnref6" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn7"><p>saisonnier: seasonal worker<a href="#fnref7" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn8"><p>le figuier de Barbarie: prickly pear cactus<a href="#fnref8" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn9"><p>répandu: widespread; répandre: to spread<a href="#fnref9" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn10"><p>ranimer: to revive, to rekindle<a href="#fnref10" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn11"><p>l’effet de mode: trend, craze (fixed expression)<a href="#fnref11" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn12"><p>profond: deep<a href="#fnref12" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn13"><p>puiser: to draw, to tap into (a resource)<a href="#fnref13" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn14"><p>arbuste: shrub, bush (n.m.)<a href="#fnref14" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn15"><p>implanter: to establish, to set up<a href="#fnref15" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn16"><p>instituer: to establish, to set up<a href="#fnref16" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn17"><p>fournir: to provide, to supply<a href="#fnref17" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn18"><p>graine: seed (n.f.); note “grain” is a different word meaning “grain” (n.m.)<a href="#fnref18" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn19"><p>faible: low, weak; faibler: to weaken, to diminish<a href="#fnref19" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn20"><p>démarche: approach, process, step (n.f.)<a href="#fnref20" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn21"><p>passer par: to go through, to involve<a href="#fnref21" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn22"><p>faire froid dans le dos: to send chills down one’s spine<a href="#fnref22" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn23"><p>à ce qu’il paraît: apparently, it seems that<a href="#fnref23" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn24"><p>à propos de: about, regarding<a href="#fnref24" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn25"><p>mener à: to lead to, to conduct<a href="#fnref25" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn26"><p>être sur la paille: to be broke, to be penniless; sans jeu de mots: no pun intended<a href="#fnref26" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn27"><p>en vouloir à: to hold a grudge against, to blame<a href="#fnref27" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn28"><p>diaboliser: to demonize, to vilify<a href="#fnref28" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn29"><p>sans parler du fait que: not to mention the fact that, let alone the fact that<a href="#fnref29" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn30"><p>à mon sens: in my opinion<a href="#fnref30" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn31"><p>halluciner: to be shocked, to be amazed, to be flabbergasted<a href="#fnref31" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn32"><p>blessure: injury (n.f.)<a href="#fnref32" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn33"><p>rien que ça: just that, only that<a href="#fnref33" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn34"><p>nocif: harmful, toxic; nocivité: toxicity (n.f.)<a href="#fnref34" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn35"><p>promouvoir: to promote<a href="#fnref35" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn36"><p>sauf erreur de ma part: unless I’m mistaken<a href="#fnref36" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn37"><p>prenons exemple sur eux: let’s take example from them, let’s follow their example<a href="#fnref37" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

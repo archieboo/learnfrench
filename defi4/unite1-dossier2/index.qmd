@@ -2,7 +2,7 @@
 title: "Unité 1: Ville en ville - Dossier 2"
 date: "2026-02-24"
 categories: ["B2", "défi4", "Unité1", "exprimer la conséquence", "pronom le"]
-reference-location: section # margin, block, section, document
+reference-location: document # margin, block, section, document
 citation-location: document #margin
 image: "https://images.unsplash.com/photo-1556983852-43bf21186b2a?q=80&w=640"
 --- 
@@ -18,7 +18,9 @@ _Selon l'ONU, 66% de la population mondiale vivra en zones urbaines [d'ici 2050]
 [^1a2]: dégager = to identify, to highlight
 
 
-##### [Les écoquartiers]{.markslate}
+::: {.text-white .rounded .ps-4 .d-flex .align-items-center style="background-color: #036564; height: 30px; width: 50%; line-height: 1; padding-top: 12px;"}
+[**Les écoquartiers**]{style="margin-bottom:0; line-height:1; font-size:1em;"}
+:::
 
 Immeubles au bilan[^2a1] énergétique positif, écoquartiers, métropoles vertes: les territoires, à différentes échelles[^2a2], prennent de plus en plus d'importance. Leur ambition [est de se rapprocher]{.mark} des principes du développement durable. Ils [aspirent, en particulier, à produire]{.mark} eux-mêmes leur énergie renouvelable et à l'autoconsommer[^2a3] sur place pour chauffer l'habitat, alimenter[^2a4] les équipements électriques, et assurer la mobilité et soutenir[^2a5] une industrie de proximité. 
 
@@ -28,7 +30,10 @@ Immeubles au bilan[^2a1] énergétique positif, écoquartiers, métropoles verte
 [^2a4]: to power, to supply
 [^2a5]: to support
 
-##### [Le big data urbain]{.markslate}
+
+::: {.text-white .rounded .ps-4 .d-flex .align-items-center style="background-color: #036564; height: 30px; width: 50%; line-height: 1; padding-top: 12px;"}
+[**Le big data urbain**]{style="margin-bottom:0; line-height:1; font-size:1em;"}
+:::
 
 Les données numériques sont aujourd'hui partout dans la gestion urbaine. On les utilise notamment pour maîtriser[^3a1] les dépenses énergétiques des immeubles, car elles [permettent d'avoir]{.mark} une meilleure connaissance de la consommation des foyers[^3a2]. Les données collectées par des capteurs et systèmes de géolocalisation permettent aussi de mieux gérer les flux[^3a3] de circulation. [De plus]{.mark}, les enregistrements[^3a4] vidéo ont été multipliés pour garantir une meilleure sécurité en ville. Les services publics et l'administration des citoyens se numérisent[^3a5] à tous les niveaux. Ce big data impose de nouvelles régulations pour assurer [à la fois]{.mark} une gestion efficace et la liberté individuelle des citoyens.
 
@@ -39,7 +44,9 @@ Les données numériques sont aujourd'hui partout dans la gestion urbaine. On le
 [^3a5]: se numériser = to go digital
 
 
-##### [Les espaces de vie]{.markslate}
+::: {.text-white .rounded .ps-4 .d-flex .align-items-center style="background-color: #036564; height: 30px; width: 50%; line-height: 1; padding-top: 12px;"}
+[**Les espaces de vie**]{style="margin-bottom:0; line-height:1; font-size:1em;"}
+:::
 
 Après des années d'aspiration à la maison individuelle, la densification des villes est recommandée par de nombreux urbanistes pour éviter un étalement[^4a1] qui menace[^4a2] les zones rurales et les espaces naturels. Cette approche de l'urbanisation [a également pour objectif de]{.mark}[^4a3] rapprocher le lieu de travail du domicile. [Par ailleurs]{.mark}, la réintroduction des végétaux sur les friches[^4a4] industrielles ou autour des immeubles ("les coulées vertes") permet d'augmenter la capacité des zones urbaines à capter $CO_2$ et de réduire la chaleur urbaine. 
 
@@ -48,19 +55,29 @@ Après des années d'aspiration à la maison individuelle, la densification des 
 [^4a3]: avoir pour objectif de = to have as an objective
 [^4a4]: friches = wasteland
 
-##### [La mobilité]{.markslate}
+
+::: {.text-white .rounded .ps-4 .d-flex .align-items-center style="background-color: #036564; height: 30px; width: 50%; line-height: 1; padding-top: 12px;"}
+[**La mobilité**]{style="margin-bottom:0; line-height:1; font-size:1em;"}
+:::
 
 L'accroissement[^5a1] de la population urbaine demande une meilleure gestion des déplacements. De la notion de "transports urbains", on [est passé au concept de]{.mark}[^5a2] "mobilité" qui indique la diversification des moyens de déplacement, la nécessité de les connecter, et la variété des usages. Les moyens de déplacement se multiplient: tramways automatiques, téléphériques, véhicules autonomes, vélos, trottinettes ou hoverboards. Les usages se diversifient: autopartage, covoiturage, location en libre-service de voitures ou vélos, transport à la demande avec réservation par applications mobiles, etc.
 
 [^5a1]: accroissement = increase
 [^5a2]: passer au concept de = to move to the concept of
 
+
+<br>
+
+--------------------------------------------------------
+
 # TEXTE: Quelles transformations la ville intelligente engendrera-t-elle?
 
 ![](https://images.unsplash.com/photo-1525838808082-a422ecbce2ff?q=80&w=640){.column-margin}
 
-[_Intervenante:_]{.markblue} _Alice Beaufort, enseignante-chercheuse_  
+::: {.rounded .ps-2 .d-flex .align-items-center style="height: 70px; line-height: 1.3; padding-top: 12px; border-color: #033649; border-width: 1px; border-style: dashed;"}
+_[Intervenante:]{.text-info}_ _Alice Beaufort, enseignante-chercheuse_  
 _23 mars 2020 $III^e$ colloque[^6a1] international sur les villes connectées_
+:::
 
 Cette communication propose d'analyser les attraits des villes intelligentes pour les autorités publiques ainsi que[^6a2] les menaces qui en découlent[^6a3]. Ensuite, je terminerai en montrant les impacts que peut avoir l'exploitation des données numériques sur les citoyens et la démocratie.
 
@@ -102,7 +119,17 @@ Dans le cadre de cette communication, je questionnerai le discours binaire oppos
 [^9a3]: dirigé = directed, led by; diriger = to direct, to lead
 [^9a4]: maîtres (n.m.pl.) = masters
 
+
+<br>
+
+--------------------------------------------------------
+
 # TEXTE: Extrait du roman _Les Furtifs_, d'Alain Damasio
+
+![](https://images.unsplash.com/photo-1503249023995-51b0f3778ccf?q=80&w=640){.column-margin}
+
+
+::::{.marksilver style="padding: 20px; border: 1px solid #413d3d; box-shadow: 5px 5px 15px rgba(0,0,0,0.4);"}
 
 Alors, notre ville...? Comment s'est-elle construite? D'ou sort-elle? [...] 
 
@@ -153,6 +180,14 @@ Orange a commencé par détruire[^j1] des cités et des tours, pour "redynamiser
 [^j16]: le statut même de la ville qui se jouait = the very status of the city was at stake; se jouer = to be at stake
 [^j17]: cesser = to cease
 
+::::
+
+
+<br>
+
+--------------------------------------------------------
+
+
 # GRAMMAIRE: Exprimer la conséquence
 
 Pour exprimer la conséquence, on peut utiliser:
@@ -192,6 +227,10 @@ Pour exprimer une conséquence avec une notion d'intensité ou de quanlité, on 
   _Ex.: La ville est si polluée que les habitants sont malades._
 
 
+
+<br>
+
+--------------------------------------------------------
 
 # GRAMMAIRE: Le neutre pronom [_le_]{.markpurple}
 
