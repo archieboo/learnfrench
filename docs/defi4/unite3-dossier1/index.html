@@ -71,6 +71,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../../styles.css">
 </head>
@@ -177,20 +206,26 @@ ul.task-list li input[type="checkbox"] {
 <section id="texte-les-nouveaux-canons-de-beauté" class="level1 page-columns page-full">
 <h1>TEXTE: Les nouveaux canons de beauté</h1>
 <div class="page-columns page-full"><p></p><div class="no-row-height column-margin column-container"><span class=""><img src="https://images.unsplash.com/photo-1492707892479-7bc8d5a4ee93?q=80&amp;w=640.png" class="img-fluid"></span></div></div>
-<p>Amet vestibulum, aliquam nibh dis metus dictumst eu nibh ac. Proin, sem, varius nisl tortor tincidunt ac fringilla sed at. Vitae suscipit suspendisse adipiscing varius pharetra tincidunt nisi, gravida quis. Ullamcorper purus nec libero sed posuere, ut lorem praesent consectetur. Morbi nisi, pharetra eleifend ac quam at tempor amet nibh.</p>
-<p>Sit sed, dis nisl nisi nulla adipiscing suspendisse, ex sed. Non, posuere vivamus, dignissim lorem venenatis nunc id vestibulum nullam. Tempus dui amet fermentum sed sed nullam lectus turpis amet. Vestibulum integer porta massa praesent in turpis rhoncus consectetur, vitae. Aliquam, nibh fringilla felis eleifend, ornare sem congue magna vulputate.</p>
+<p>Les unes de la presse masculine et féminine ont toujours été le reflet de notre société, dictant les canons de beauté d’une époque. En ce début <span class="math inline">\(XXI^e\)</span> siècle, le temps des mannequins célèbres au physique uniformisé est révolu. Femmes avec des taches de rousseur et aux cheveux roux, quadragénaires à la barbe poivre et sel, femmes aux cheveux blancs, beautés au genre indéfini… les codes physiques changent peu à peu. Prenons le pari que les couvertures de nos magazines seront un jour le reflet de la société au naturel avec, pourquoi pas, des femmes aux formes pulpeuses et des hommes sans tablettes de chocolat?</p>
 </section>
 <section id="texte-quels-sont-les-canons-de-beauté-de-la-femme-africaine" class="level1 page-columns page-full">
 <h1>TEXTE: Quels sont les canons de beauté de la femme africaine?</h1>
 <div class="page-columns page-full"><p></p><div class="no-row-height column-margin column-container"><span class=""><img src="https://images.unsplash.com/photo-1622923384269-3136683ed170?q=80&amp;w=640.png" class="img-fluid"></span></div></div>
-<p>Convallis, id, elit odio cras ridiculus ante sit dapibus sed. Quam tempor imperdiet dictum facilisis risus massa fringilla est eget. Dui, imperdiet lorem amet vel vestibulum varius ipsum metus tempor. Dui, purus, neque purus tristique semper dui quis platea nibh. Pharetra imperdiet justo amet ipsum vestibulum consequat dictum orci finibus.</p>
-<p>Nullam a urna habitasse, laoreet curabitur dui eleifend, ac vivamus. Enim leo nec id condimentum dolor consectetur nullam, diam mi. Tortor purus enim, est id at, praesent dictumst porta dignissim. Neque vestibulum velit diam magna non amet nulla aliquet sed. Sapien, porttitor urna nascetur, ut a ac nascetur ultrices et.</p>
+<p><em>Avec l’explosion des médias, d’internet, la diffusion des séries télévisées hollywoodiennes, des télénovelas en Afrique et la prolifération sur les marchés africains des magazines de mode occidentaux, la femme africaine a perdu ses repères et ses modèles. Elle a tendance à s’identifier à la femme occidentale, oubliant ainsi ses canons de beauté originels tant célébrés et magnifiés par le poète sénégalais Léopold Sédar Senghor dans son poème “<strong>Femme noire</strong>”.</em></p>
+<p><span style="font-size:2.5em; line-height:1;">D</span> ésormais, […] elles veulent toutes être blondes ou brunes, avoir des jambes interminables, avoir un teint minces avec des lèvres pulpeuses, et un fessier rebondi. Elles ne lésinent pas sur moyens pour pouvoir atteindre leurs objectifs. Certaines engagent toutes leurs économies dans la chirurgie esthétique, dans l’achat de produits décapants et éclaircissants, dans l’achat de perruques et produites capillaires, dans les injections de toutes sortes. Elle semble révolue l’époque où la femme africaine était fière de son joli teint noir ébène qui luisait au soleil. Elles veulent toutes désormais être blanches comme leurs idoles; pour cela, elles se sont plongées dans la dépigmentation. Bravant les risques de cancer de la peau, elles utilisent des produits toxiques et dangereux (eau de Javel, hydroquinone, eau oxygénée…).Elle est terminée l’époque où les femmes corpulentes avaient la cote. Complexées par leur poids et leurs formes généreuses, les femmes africaines se plongent de plus en plus dans des régimes forcés pour apparaître chétives, anorexiques avec un postérieur plat comme une planche.</p>
+<p>Au Niger, les femmes corpulentes, dodues sont encore appréciées. Leur forte corpulence étant signe de santé, de bien-être, d’aisance. La femme maigre étant considérée comme pauvre, maltraitée, ou malade. Dans plusieurs pays de l’Afrique de l’Ouest, des concours de Miss beauté sont organisés pour récompenser les femmes fortes et corpulentes. Cependant, ce n’est pas une invitation à l’obésité et à ses complications.</p>
+<p>Avec l’explosion des médias, les canons de beauté de la femme africaine ont tendance à s’harmoniser avec ceux de la femme occidentale. Les femmes africaines s’identifient de nos jours à leurs sœurs d’Occident. Les coiffures sont faites à présent de greffes et de mèches. Elle semble lointaine l’époque des tresses, des tissages, des nattes. Triste est de constater que le colonialisme se poursuit à travers la mode, la culture et les médias.</p>
+<p>Les critères de beauté variant d’une personne à une autre, les goûts et les couleurs ne se discutent pas. Le but de cet article n’est pas de renier les apports de la mondialisation et du modernisme, mais d’inviter la femme africaine à savoir en faire bon usage. Nous invitons les femmes africaines à garder leur identité culturelle et leur beauté naturelle.</p>
 </section>
 <section id="texte-cheveux-afro-la-révolution-du-retour-au-naturel" class="level1 page-columns page-full">
 <h1>TEXTE: Cheveux AFRO la révolution du retour au naturel</h1>
 <div class="page-columns page-full"><p></p><div class="no-row-height column-margin column-container"><span class=""><img src="https://images.unsplash.com/photo-1568782517100-09bf22d88c2d?q=80&amp;w=640.png" class="img-fluid"></span></div></div>
-<p>Nulla, suspendisse, dis tempus cursus in eget aenean id eros. Lectus tellus dignissim porttitor, pretium nunc, viverra suspendisse dapibus varius. Sit, sed lectus dapibus sagittis nibh et urna nibh nisi. Tortor lectus lacus sed elementum vel tortor faucibus amet et. Auctor porttitor facilisis, in, nunc massa nibh sapien dignissim ut.</p>
-<p>Efficitur, porttitor praesent lobortis dui, auctor bibendum praesent id fringilla. Porttitor laoreet sit neque praesent enim a, urna ultricies, eget. Imperdiet nunc molestie, nunc egestas parturient suscipit, elementum fermentum praesent. Lectus vestibulum ante imperdiet, lectus eget varius ornare metus, quam. Dictumst magna convallis congue tempor condimentum, tristique convallis, pellentesque nec.</p>
+<blockquote class="blockquote">
+<p><em><strong>“C’est le seul cheueu qui défie les lois de la grauvité, il faut le porter comme une couronne.”</strong></em><br>
+<em>Fatou N’Diaye</em></p>
+</blockquote>
+<p>Comme le note la sociologue Juliette Sméralda dans son <em>Peau noire, cheveu crépu – L’histoire d’une aliénation</em>, les chevelures afro sont, depuis des siècles, discriminées et suspectées d’être moins hygiéniques et moins belles que les cheveux lisses. En France, depuis le début des années 2000, un phénomène de retour au naturel émerge, et ce processus ressemble à une révolution, car les femmes noires ont passé des décennies à se faire défriser les cheveux, ou à se coiffer à l’occidentale.</p>
+<p>Certaines Françaises d’origine africaine se sont fait insulter ou discriminer pour avoir laissé leurs cheveux à l’état naturel. D’autres sont victimes des produits nocifs utilisés par de nombreux coiffeurs afro pour “discipliner” leurs cheveux. Les sociologues parlent d’une domination esthétique héritée de la domination coloniale, qui a imposé un idéal de beauté basé sur des normes blanches. Fort heureusement, les cheveux frisés et crépus entrent dans le paysage médiatique. Cette visibilité a été initiée par des blogueuses et la sphère afro-française. Fatou N’Diaye, connue des internautes sous le nom de <em>BlackBeautyBag</em>, est aujourd’hui égérie pour L’Oréal. Son discours est très engagé: “<em>En tant que femme noire française, dans une société soi-disant libre, j’ai grandi en ne voyant personne dans les publicités, à la télévision, qui me ressemblait. Cette invisibilisation et cette discrimination me suggéraient que ma beauté ne méritait pas d’être montrée, célibrée.</em>”</p>
 
 
 </section>
