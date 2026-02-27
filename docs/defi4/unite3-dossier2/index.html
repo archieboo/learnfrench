@@ -71,6 +71,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../../styles.css">
 </head>
@@ -178,23 +207,63 @@ ul.task-list li input[type="checkbox"] {
 <div class="page-columns page-full"><p></p><div class="no-row-height column-margin column-container"><span class=""><img src="https://images.unsplash.com/photo-1643320478404-a7a0785adb32?q=80&amp;w=640.png" class="img-fluid"></span></div></div>
 <p><em>On dit que l’art est le reflet de la société. Que penser alors du thème de l’identité transgenre, ou transidentité (sujet toujours tabou dans nos sociétés modernes) qui s’invite dans de nombreuses créations artistiques depuis une dizaine d’années? Le droit de disposer de son corps: une revendication individuelle et artistiques? Une chose est sûre: si aujourd’hui l’art s’intéresse au corps et au genre, c’est qu’il y a une evolution car dans les oeuvres artistiques, il est toujours question de l’humain dans toute sa complexité.</em></p>
 <div style="align-items: center;">
-<p><span style="font-size:2em; line-height:1;">Trans ⚧️</span></p>
-<div style="flex-grow: .8; height:2px; margin-left: 0px; background-color:#F9D423;">
+<p><span class="fst-italic text-primary" style="font-size:1.5em; line-height:.8;">Trans</span> <span class="text-secondary fst-italic" style="font-size:1em; line-height:.8;">une pièce de Didier Ruiz</span></p>
+<div class="markpurple" style="flex-grow: .8; height:2px; margin-left: 0px;">
 
 </div>
 </div>
 <p>Avignon 2018, le plus prestigieux festival de théâtre français présente <em>Trans</em>, un spectacle de Didier Ruiz. On y voit des hommes et des femmes pour qui être à l’écoute de leur corps ne veut pas dire s’accepter comme ils sont mais signifie, au contraire, accepter de changer de corps et d’apparence. Une sorte “d’amélioration” ou de “correction” pour que leur corps soit en accord avec eux-mêmes.</p>
 <div style="align-items: center;">
-<p><span style="font-size:2em; line-height:1;">Tomboy ⛹️‍♂️</span></p>
-<div style="flex-grow: .8; height:2px; margin-left: 0px; background-color:#F9D423;">
+<p><span class="fst-italic text-primary" style="font-size:1.5em; line-height:.8;">Tomboy</span> <span class="text-secondary fst-italic" style="font-size:1em; line-height:.8;">un firm de Céline Sciamma</span></p>
+<div class="markblue" style="flex-grow: .8; height:2px; margin-left: 0px;">
 
 </div>
 </div>
 <p>Laure, fillette à la coupe garçonne, emménage dans un nouveau quartier pendant les vacances d’été. Alors qu’elle observe une bande de copains Lisa remarque cette nouvelle tête aux vêtements amples: “T’es nouveau?”. Un quiproquo que saisit l’héroïne pour se présenter à la bande en tant que Michaël et adopter cette nouvelle identité… du moins tant que le secret sera gardé. Ce film touchant et finement réalisé entraîne le spectateur dans la quête d’un “garçon manqué”, entre recherche d’identité et désir d’intégration.</p>
+<div style="align-items: center;">
+<p><span class="fst-italic text-primary" style="font-size:1.5em; line-height:.8;">Appelez-moi Nathan</span> <span class="text-secondary fst-italic" style="font-size:1em; line-height:.8;">une BD de Catherine Castro et Quentin zuttion</span></p>
+<div class="markteal" style="flex-grow: .8; height:2px; margin-left: 0px;">
+
+</div>
+</div>
+<p>Nathan est né Lila, dans un corps de fille. Un corps qui ne lui a jamais convenu, il décide alors de corriger cette “erreur génétique” avec le soutien indéfectible de sa famille, ses amis, ses profs et, à 16 ans, des injections de testostérone de 0,8 mg par mois. Quitte à devenir quelqu’un, autant que ce soit vous-même.</p>
+<div style="align-items: center;">
+<p><span class="fst-italic text-primary" style="font-size:1.5em; line-height:.8;">Lola Pater</span> <span class="text-secondary fst-italic" style="font-size:1em; line-height:.8;">un film de Nadir Moknèche</span></p>
+<div class="markorange" style="flex-grow: .8; height:2px; margin-left: 0px;">
+
+</div>
+</div>
+<p>Zino souhaite retrouver son père qu’il n’a pas vu depuis vingt-cinq ans. Au cours de ses recherches, il rencontre Lola, une prof de danse épanouie au panache assumé, qui se révèle être… son père.Fanny Ardant, grande actrice française à la voix suave, incarne magnifiquement Lola, personnage d’origine algérienne transgenre. Elle parvient à ne pas tomber dans la caricature pour aborder de manière touchante un sujet très sensible.</p>
+<div style="align-items: center;">
+<p><span class="fst-italic text-primary" style="font-size:1.5em; line-height:.8;">Girl</span> <span class="text-secondary fst-italic" style="font-size:1em; line-height:.8;">Un film de Lukas Dhont</span></p>
+<div class="markpink" style="flex-grow: .8; height:2px; margin-left: 0px;">
+
+</div>
+</div>
+<p>Cannes, 2018. Un film sur une jeune fille transgenre, née dans un corps de garçon, bouleverse le public. La projection de <em>Girl</em>, du réalisateur flammand Lukas Dhont, est un choc…</p>
 </section>
-<section id="texte-les-jeux-olympiques-de-2096-nauront-pas-lieu" class="level1 page-columns page-full">
+<section id="texte-les-jeux-olympiques-de-2096-nauront-pas-lieu" class="level1">
 <h1>TEXTE: Les jeux olympiques de 2096 n’auront pas lieu</h1>
-<div class="page-columns page-full"><p></p><div class="no-row-height column-margin column-container"><span class=""><img src="https://images.unsplash.com/photo-1656669275137-1e402e044e52?q=80&amp;w=640.png" class="img-fluid"></span></div></div>
+<div class="columns">
+<div class="markslate" style="flex-grow: 1; height:1px;">
+
+</div><div class="column text-secondary" style="padding-left: 20px; padding-top: 10px;">
+<p>À quo ressemblera le sport dans le futur? Patrick Clastres, historien des sports, porfesseur à l’Université de Lausanne […] livre à <em>Nom de Zeus</em> sa vision de l’avenir du sport. Un récit résolument perssimiste, visant à provoquer des réactions salutaires, mais fondé sur des tendances que nous voyons déjà apparaître.</p>
+</div><div class="column" style="width:9%;">
+
+</div><div class="column" style="width:30%;">
+<p><img src="https://images.unsplash.com/photo-1656669275137-1e402e044e52?q=80&amp;w=640.png" class="img-fluid" style="padding-top: 10px; padding-right: 10px;"></p>
+</div><div class="markslate" style="flex-grow: 1; height:1px;">
+
+</div>
+</div>
+<p>Les Jeux olympiques de 2096 n’auront pas lieu. Tel est le point de départ du récit de l’historien des sports Patrick Clastres. L’année 2094 marquera la dissolution du Comité international olympique (CIO). La fête et la célebration du <span class="math inline">\(200^e\)</span> anniversaire des Jeux olympiques, depuis que Pierre de Coubertin les avait remis au goût du jour en 1894, aura donc tourné court suite au retrait de l’Union indienne, dernière grande puissance à participer aux Jeux avec quelques États africains. […]</p>
+<p><span class="text-info fw-bold" style="font-size:1.4em; line-height:1;">Le no-limit sport 🥏</span></p>
+<p>“<em>Dans les années 2050-2060, les grogrès de l’ingénierie technologique et génetique auront achevé le processus d’augmentation de l’homme, estime l’historien. Les prothèses, les exosquelettes, dermosquettes, les modifications génétiques et les nanotechnologies auront alors rendu obsolète l’idée même de dopage, si bien que ce dernier ne sera plus interdit.</em>” La lavée de cette interdiction changera alors radicalement la face du sport. Les athlètes se déplaceront alors plus vite, ne s’épuiseront plus, et se déplaceront certainement dans les airs.</p>
+<p>“<em>Au lieu de courir sur des terrains en long et en large, les athlètes, équipés désormais de jambes et de bras bioniques, bondiront si haut que les vieux sports comme le football ou le basket se joueront en trois dimensions. Seules subsisteront les règles fondamentales: pas de main au foot, les ballons de basket s’expédient dans des paniers, etc. Les sports de combat à très haut niveau de violence seront tout particulièrement prisés, et les paris sportifs atteindront de nouveaux records.</em>” Suivant cette évolution, les terrains, les infrastructures, les ballons, etc. auront considérablement évolué, de sort d’être parfaitement adaptés aux nouveaux athlètes. “<em>Il faut s’imaginer jouer au foot, mais sur le modèle du quidditch d’Harry Potter.</em>”</p>
+<p><span class="text-info fw-bold" style="font-size:1.4em; line-height:1;">Fin du handisport ♿️</span></p>
+<p>Suivant ces tendances, le chercheur estime que “<em>les qualité physiques feront de moins en moins la différence entre les athlètes. Ces derniers devront surtout développer leur acuité visuelle et sensorielle. Dès lors, il n’y aura plus de barrière entre les athlètes valides et handicapés</em>”. Si cela vous paraît trop improbable, rappelez-vous que tout ceci a commencé dès 2011, lorsque l’on s’est interrogé sur l’athlète Oscar Pistorius et le potentiel “<em>avantage</em>” que repésentaient ses prothèses. Plus tard, la même question s’est posée avec Markus Rehm.</p>
+<p>Les performances athlétiques seront alors vertigineuses. “<em>Nombre de records jugés imbattables, car remontant au deuxième âge du dopage (années 1990-2010), seront de nouveau franchis à compter des années 2030. Alors qu’il n’était pas possible de descendre en dessous du mur des 9 secondes au 100 mètres, dorénavant les athlètes cyborgs descendront sous la barre des cinq secondes.</em>” Pour cela, il aura fallu attendre que le corps humain soit capable de résister “<em>aux hautes pressions et aux frottements</em>”. […]</p>
 
 
 </section>

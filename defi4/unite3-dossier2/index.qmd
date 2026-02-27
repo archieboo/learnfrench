@@ -17,9 +17,10 @@ _On dit que l'art est le reflet de la société. Que penser alors du thème de l
 
 ::: {style="align-items: center;"}
 
-[Trans  ⚧️]{style="font-size:2em; line-height:1;"}
+[Trans]{.fst-italic .text-primary style="font-size:1.5em; line-height:.8;"}
+[une pièce de Didier Ruiz]{.text-secondary .fst-italic style="font-size:1em; line-height:.8;"}
 
-:::: {style="flex-grow: .8; height:2px; margin-left: 0px; background-color:#F9D423;"}
+:::: {.markpurple style="flex-grow: .8; height:2px; margin-left: 0px;"}
 ::::
 :::
 
@@ -29,9 +30,10 @@ Avignon 2018, le plus prestigieux festival de théâtre français présente _Tra
 
 ::: {style="align-items: center;"}
 
-[Tomboy ⛹️‍♂️ ]{style="font-size:2em; line-height:1;"}
+[Tomboy]{.fst-italic .text-primary style="font-size:1.5em; line-height:.8;"}
+[un firm de Céline Sciamma]{.text-secondary .fst-italic style="font-size:1em; line-height:.8;"}
 
-:::: {style="flex-grow: .8; height:2px; margin-left: 0px; background-color:#F9D423;"}
+:::: {.markblue style="flex-grow: .8; height:2px; margin-left: 0px;"}
 ::::
 :::
 
@@ -39,10 +41,92 @@ Laure, fillette à la coupe garçonne, emménage dans un nouveau quartier pendan
 
 
 
+::: {style="align-items: center;"}
+
+[Appelez-moi Nathan]{.fst-italic .text-primary style="font-size:1.5em; line-height:.8;"}
+[une BD de Catherine Castro et Quentin zuttion]{.text-secondary .fst-italic style="font-size:1em; line-height:.8;"}
+
+:::: {.markteal style="flex-grow: .8; height:2px; margin-left: 0px;"}
+::::
+:::
+
+Nathan est né Lila, dans un corps de fille. Un corps qui ne lui a jamais convenu, il décide alors de corriger cette "erreur génétique" avec le soutien indéfectible de sa famille, ses amis, ses profs et, à 16 ans, des injections de testostérone de 0,8 mg par mois. Quitte à devenir quelqu'un, autant que ce soit vous-même. 
+
+
+::: {style="align-items: center;"}
+
+[Lola Pater]{.fst-italic .text-primary style="font-size:1.5em; line-height:.8;"}
+[un film de Nadir Moknèche]{.text-secondary .fst-italic style="font-size:1em; line-height:.8;"}
+
+:::: {.markorange style="flex-grow: .8; height:2px; margin-left: 0px;"}
+::::
+:::
+
+Zino souhaite retrouver son père qu'il n'a pas vu depuis vingt-cinq ans. Au cours de ses recherches, il rencontre Lola, une prof de danse épanouie au panache assumé, qui se révèle être... son père.Fanny Ardant, grande actrice française à la voix suave, incarne magnifiquement Lola, personnage d'origine algérienne transgenre. Elle parvient à ne pas tomber dans la caricature pour aborder de manière touchante un sujet très sensible. 
+
+
+
+::: {style="align-items: center;"}
+
+[Girl]{.fst-italic .text-primary style="font-size:1.5em; line-height:.8;"}
+[Un film de Lukas Dhont]{.text-secondary .fst-italic style="font-size:1em; line-height:.8;"}
+
+:::: {.markpink style="flex-grow: .8; height:2px; margin-left: 0px;"}
+::::
+:::
+
+Cannes, 2018. Un film sur une jeune fille transgenre, née dans un corps de garçon, bouleverse le public. La projection de _Girl_, du réalisateur flammand Lukas Dhont, est un choc...
+
+
+
+
+
+
+
 # TEXTE: Les jeux olympiques de 2096 n'auront pas lieu
 
-[![](https://images.unsplash.com/photo-1656669275137-1e402e044e52?q=80&w=640)]{.column-margin}
 
+:::{.columns}
+
+::::: {.markslate style="flex-grow: 1; height:1px;"}
+:::::
+
+::::{.column .text-secondary width="60%" style="padding-left: 20px; padding-top: 10px;"}
+ 
+À quo ressemblera le sport dans le futur? Patrick Clastres, historien des sports, porfesseur à l'Université de Lausanne [...] livre à _Nom de Zeus_ sa vision de l'avenir du sport. Un récit résolument perssimiste, visant à provoquer des réactions salutaires, mais fondé sur des tendances que nous voyons déjà apparaître. 
+
+
+::::
+
+::::{.column width="9%"}
+::::
+
+::::{.column width="30%"}
+
+![](https://images.unsplash.com/photo-1656669275137-1e402e044e52?q=80&w=640){ style="padding-top: 10px; padding-right: 10px;"}
+
+::::
+
+
+::::: {.markslate style="flex-grow: 1; height:1px;"}
+:::::
+
+:::
+
+Les Jeux olympiques de 2096 n'auront pas lieu. Tel est le point de départ du récit de l'historien des sports Patrick Clastres. L'année 2094 marquera la dissolution du Comité international olympique (CIO). La fête et la célebration du $200^e$ anniversaire des Jeux olympiques, depuis que Pierre de Coubertin les avait remis au goût du jour en 1894, aura donc tourné court suite au retrait de l'Union indienne, dernière grande puissance à participer aux Jeux avec quelques États africains. [...]
+
+
+[Le no-limit sport 🥏 ]{.text-info .fw-bold style="font-size:1.4em; line-height:1;"}
+
+"_Dans les années 2050-2060, les grogrès de l'ingénierie technologique et génetique auront achevé le processus d'augmentation de l'homme, estime l'historien. Les prothèses, les exosquelettes, dermosquettes, les modifications génétiques et les nanotechnologies auront alors rendu obsolète l'idée même de dopage, si bien que ce dernier ne sera plus interdit._" La lavée de cette interdiction changera alors radicalement la face du sport. Les athlètes se déplaceront alors plus vite, ne s'épuiseront plus, et se déplaceront certainement dans les airs. 
+
+"_Au lieu de courir sur des terrains en long et en large, les athlètes, équipés désormais de jambes et de bras bioniques, bondiront si haut que les vieux sports comme le football ou le basket se joueront en trois dimensions. Seules subsisteront les règles fondamentales: pas de main au foot, les ballons de basket s'expédient dans des paniers, etc. Les sports de combat à très haut niveau de violence seront tout particulièrement prisés, et les paris sportifs atteindront de nouveaux records._" Suivant cette évolution, les terrains, les infrastructures, les ballons, etc. auront considérablement évolué, de sort d'être parfaitement adaptés aux nouveaux athlètes. "_Il faut s'imaginer jouer au foot, mais sur le modèle du quidditch d'Harry Potter._"
+
+[Fin du handisport ♿️ ]{.text-info .fw-bold style="font-size:1.4em; line-height:1;"}
+
+Suivant ces tendances, le chercheur estime que "_les qualité physiques feront de moins en moins la différence entre les athlètes. Ces derniers devront surtout développer leur acuité visuelle et sensorielle. Dès lors, il n'y aura plus de barrière entre les athlètes valides et handicapés_". Si cela vous paraît trop improbable, rappelez-vous que tout ceci a commencé dès 2011, lorsque l'on s'est interrogé sur l'athlète Oscar Pistorius et le potentiel "_avantage_" que repésentaient ses prothèses. Plus tard, la même question s'est posée avec Markus Rehm. 
+
+Les performances athlétiques seront alors vertigineuses. "_Nombre de records jugés imbattables, car remontant au deuxième âge du dopage (années 1990-2010), seront de nouveau franchis à compter des années 2030. Alors qu'il n'était pas possible de descendre en dessous du mur des 9 secondes au 100 mètres, dorénavant les athlètes cyborgs descendront sous la barre des cinq secondes._" Pour cela, il aura fallu attendre que le corps humain soit capable de résister "_aux hautes pressions et aux frottements_". [...]
 
 
 
