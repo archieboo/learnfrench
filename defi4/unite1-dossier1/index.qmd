@@ -32,7 +32,7 @@ On a tendance à associer la poésie à la nature, aux mouvement de l'âme, à l
 > Ô le chant de la pluie!  
 >
 > _[Paul Verlaine (1874)]{.marksilver}_  
-> _["Il pleure dans mon cœur", 1874]{.marksilver}_  
+> _[« Il pleure dans mon cœur », 1874]{.marksilver}_  
 
 ::::
 
@@ -46,7 +46,7 @@ On a tendance à associer la poésie à la nature, aux mouvement de l'âme, à l
 > Levant des yeux de chouette parmi l'éclipse du soleil
 > 
 > _[Léopold Sédar Senghor (1906-2001)]{.marksilver}_  
-> _["Éthiopiques", 1956]{.marksilver}_
+> _[« Éthiopiques », 1956]{.marksilver}_
 ::::
 
 
@@ -62,7 +62,7 @@ On a tendance à associer la poésie à la nature, aux mouvement de l'âme, à l
 > Entourée des montagnes de nos vies à vau-l'eau  
 >
 > _[Amélie Charcosset (1988-)]{.marksilver}_  
-> _["Genève", 2019]{.marksilver}_  
+> _[« Genève », 2019]{.marksilver}_  
 
 ::::
 
@@ -77,7 +77,7 @@ On a tendance à associer la poésie à la nature, aux mouvement de l'âme, à l
 > Et pour voir des jardins je fermais les paupières  
 >  
 > _[Albert Samain (1858-1900)]{.marksilver}_  
-> _["Mon enfance captive", 1901]{.marksilver}_
+> _[« Mon enfance captive », 1901]{.marksilver}_
 
 ::::
 
@@ -117,7 +117,7 @@ On a tendance à associer la poésie à la nature, aux mouvement de l'âme, à l
 > tous nos possibles  
 >
 > _[Laurence Vielle (1968-)]{.marksilver}_  
-> _["Tu es cible", 2016]{.marksilver}_
+> _[« Tu es cible », 2016]{.marksilver}_
 
 ::::
 
@@ -126,24 +126,26 @@ On a tendance à associer la poésie à la nature, aux mouvement de l'âme, à l
 
 ------------------------------
 
-# TEXTE: La revanche d'une moche
+# TEXTE: La revanche d'une moche[^ba]
 
 ![](https://images.unsplash.com/photo-1673391780588-ab3cf46b3e09?q=80&w=640){.column-margin}
 
 
-Avec ses usine en ruine, ses hangars à l'abandon et son ring disgracieux[^2a1], Chaleroi est certainement la ville belge [au plus lourd]{.mark} passé industriel[^2a2]. Cette ancienne cité minière et aussi l'ex-capitale de la métallurgie[^2a3] belge. [Suite au]{.mark}[^2a4] choc provoqué par le titre de "la ville la plus laide[^2a5] du monde" décerné[^2a6] au 2008 par le journal néerlandais De Volkskrant, Charleroi s'est lancée dans une gigantesque chantier[^2a7]. À force de[^2a8] volonté[^2a9] politique, artistique et citoyenne, elle renaît de ses cendres[^2a11]. Zoom sur une agglomération[^2a12] en pleine métamorphose.
+Avec ses usine en ruine, ses hangars à l'abandon et son ring disgracieux[^2a1], Charleroi est certainement la ville belge [au plus lourd]{.mark} passé industriel[^2a2]. Cette ancienne cité minière et aussi l'ex-capitale de la métallurgie[^2a3] belge. [Suite au]{.mark}[^2a4] choc provoqué par le titre de « la ville la plus laide[^2a5] du monde » décerné[^2a6] au 2008 par le journal néerlandais De Volkskrant, Charleroi s'est lancée[^kk] dans une gigantesque chantier[^2a7]. [À force de]{.mark}[^2a8] volonté[^2a9] politique, artistique et citoyenne, elle [renaît de]{.mark} ses cendres[^2a11]. Zoom sur une agglomération[^2a12] en pleine métamorphose.
 
+[^ba]: revanche: revenge (n.f.); moche: ugly (adj.)
 [^2a1]: disgracieux/se: ugly, unattractive
-[^2a2]: the Belgian city with the heaviest industrial past. Note how à la / au + plus + adj. used to describe
+[^2a2]: the Belgian city with the heaviest industrial past. Notice how _à le/la + nom_ is used to describe/modify the noun before it.
 [^2a3]: métallurgie: metallurgy, metal industry
 [^2a4]: suite à: following, as a result of
 [^2a5]: laid = ugly
 [^2a6]: décerné à: awarded to
 [^2a7]: chantier: construction site, project
 [^2a8]: à force de: through, by means of
-[^2a9]: volonté: will, determination
-[^2a11]: renaître de ses cendres: to rise from the ashes, cendre = ash
+[^2a9]: volonté: will, determination (n.f.)
+[^2a11]: renaître de ses cendres: to rise from the ashes; renaître: to be reborn, to rise again; cendre: ash
 [^2a12]: aggloméreration: urban area/district; agglomérer: to agglomerate, to cluster together
+[^kk]: se lancer dans: to embark on, to launch into
 
 
 ##### [**Revitalisation de l'espace urbain**]{.text-primary}
@@ -163,7 +165,7 @@ Comme dans [d'autres]{.mark}[^3a1] villes wallonnes, le centre-ville s'est lente
 
 ##### [**Rénovation de bâtiments**]{.text-primary}
 
-En centre-ville, après ces importants travaux dans la Ville-Basse, c'est [au tour de]{.mark} la Ville-Haute de un seconde souffle[^4a1]. Par ses rénovations, Chaleroi souhaite redonner[^4a2] un rôle économique à ce quartier. Son objectif: la création d'un centre de congrès[^4a3] et la renovation du Palais des Beaux-Arts et du Palais des expositions. Celui-ci est un bâtiment emblématique[^4a4] datant des années 1950. 
+En centre-ville, après ces importants travaux dans la Ville-Basse, c'est [au tour de]{.mark} la Ville-Haute de un seconde souffle[^4a1]. Par ses rénovations, Charleroi souhaite redonner[^4a2] un rôle économique à ce quartier. Son objectif: la création d'un centre de congrès[^4a3] et la renovation du Palais des Beaux-Arts et du Palais des expositions. Celui-ci est un bâtiment emblématique[^4a4] datant des années 1950. 
 
 [^4a1]: souffle: breath. un seconde souffle: a new lease on life
 [^4a2]: redonner: to give back, to restore
@@ -185,7 +187,7 @@ Depuis quelque temps, le Pays noir se réinvente et redore[^5a1] son image [grâ
 
 ##### [**...Et culture alternative**]{.text-primary}
 
-[Parlons]{.mark} maintenant des nuis carolos[^6a1]! Rebaptisées Rockerill, les anciennes forges[^6a2] de la Providence ont été reconverties[^6a3] en un lieu culturel: salles de concert, coopérative de ferronnerie[^6a4], ateliers d'artistes et création du label Rockerill Records... Et il y a foule le jeudi aux[^6a5] "apéros industriels"! Le street-art occupe également [une place de choix]{.mark} à Charleroi. [Étant donné que]{.mark} la ville [était fermement[^6a6] déterminée à]{.mark} apporter[^6a7] de la couleur et de la gaieté[^6a8] aux paysages industriels, elle a lancé le projet Urban Dream, notamment sur [le long]{.markgreen} du chemin, hideux[^6a9] et gris, qui [longe]{.markgreen}[^6a10] la Sambre sur quatre kilomètres. [Plus d'une certaine de]{.mark}[^6a11] graffeurs et peintres, belges et internationaux, ont recouvert les murs de fresques[^6a12] multicolores. Un régal[^6a14] visuel qui fait de[^6a13] Charleroi une ville incontournable[^6a15] en Europe pour les amoureux de street-art. 
+[Parlons]{.mark} maintenant des nuis carolos[^6a1]! Rebaptisées Rockerill, les anciennes forges[^6a2] de la Providence ont été reconverties[^6a3] en un lieu culturel: salles de concert, coopérative de ferronnerie[^6a4], ateliers d'artistes et création du label Rockerill Records... Et il y a foule le jeudi aux[^6a5] « apéros industriels » ! Le street-art occupe également [une place de choix]{.mark} à Charleroi. [Étant donné que]{.mark} la ville [était fermement[^6a6] déterminée à]{.mark} apporter[^6a7] de la couleur et de la gaieté[^6a8] aux paysages industriels, elle a lancé le projet Urban Dream, notamment sur [le long]{.markgreen} du chemin, hideux[^6a9] et gris, qui [longe]{.markgreen}[^6a10] la Sambre sur quatre kilomètres. [Plus d'une certaine de]{.mark}[^6a11] graffeurs et peintres, belges et internationaux, ont recouvert les murs de fresques[^6a12] multicolores. Un régal[^6a14] visuel qui fait de[^6a13] Charleroi une ville incontournable[^6a15] en Europe pour les amoureux de street-art. 
 
 [^6a1]: the "carolo" nights. carolo: a person from Charleroi. Notice l'imperatif de nous. 
 [^6a2]: forges: forges, ironworks
@@ -206,7 +208,7 @@ Depuis quelque temps, le Pays noir se réinvente et redore[^5a1] son image [grâ
 
 ##### [**La nouvelle Berlin?**]{.text-primary}
 
-Aujourd'hui, on découvre une ville rajeunie[^7a1], la redynamisation urbaine et la culture ont renforcé[^7a2] son attractivité. [Souhaitant ouvrir]{.mark} l'agglomération à l'international, les autorités publiques ont postulé pour devenir capitale européenne de la culture en 2030. [D'autant plus que]{.mark}[^7a7] l'image positive de la ville commerce à s'étendre[^7a3] au-delà[^7a4] de ses frontières... Dans un reportage de la BBC de février 2018, la journaliste conclut: "Charleroi ne peut plus être qualifiée de ville la plus affreuse[^7a5] du monde." Alors, courez vite à Charleroi avant que la ville devienne une destination touristique très prisée[^7a6]...
+Aujourd'hui, on découvre une ville rajeunie[^7a1], la redynamisation urbaine et la culture ont renforcé[^7a2] son attractivité. [Souhaitant ouvrir]{.mark} l'agglomération à l'international, les autorités publiques ont postulé pour devenir capitale européenne de la culture en 2030. [D'autant plus que]{.mark}[^7a7] l'image positive de la ville commerce à s'étendre[^7a3] au-delà[^7a4] de ses frontières... Dans un reportage de la BBC de février 2018, la journaliste conclut: « Charleroi ne peut plus être qualifiée de ville la plus affreuse[^7a5] du monde. » Alors, courez vite à Charleroi avant que la ville devienne une destination touristique très prisée[^7a6]...
 
 [^7a1]: rajeuni: rejuvenated; from rajeunir
 [^7a2]: renforcer: to strengthen
@@ -261,12 +263,14 @@ Aujourd'hui, on découvre une ville rajeunie[^7a1], la redynamisation urbaine et
 - [avec, sans, par, pour + **nom**]{.markgreen} <br>
   _Ex.: [Avec]{.markgreen} ses usine en ruine, ses hangars à l'abandon et son ring disgracieux..._  
   _Ex.: [Sans]{.markgreen} ces importants travaux dans la Ville-Basse, c'est au tour de la Ville-Haute de un seconde souffle._  
-  _Ex.: [Par]{.markgreen} ses rénovations, Chaleroi souhaite redonner un rôle économique à ce quartier._  
+  _Ex.: [Par]{.markgreen} ses rénovations, Charleroi souhaite redonner un rôle économique à ce quartier._  
   _Ex.: [Pour]{.markgreen} redynamiser le bas du centre-ville et le rendre plus attrayant..._
 
 - [maintenant que[^k13], dès l'instant où[^k14] + **phrase**]{.markgreen} <br>
   _Ex.: [Maintenant que]{.markgreen} la galerie marchande Rive Gauche a ouvert ses portes en 2017..._  
   _Ex.: [Dès l'instant où]{.markgreen} la galerie marchande Rive Gauche a ouvert ses portes en 2017..._
+
+[[_More details here: 🔗 _](../../af-nice-b1/lesson-15/index.qmd)]{style="font-size: 1.5em;"}
 
 [^k13]: maintenant que: now that (neutral connotation, often used in writing)
 [^k14]: dès l'instant où: from the moment that, as soon as (neutral connotation, often used in writing)
@@ -303,7 +307,5 @@ On peut utiliser:
 ###### exercices
 Cahier d'exercices P.5
 :::
-
-
 
 
