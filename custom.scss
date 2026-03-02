@@ -9,6 +9,18 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@
 // 2. Define the font variable
 $font-family-serif: "EB Garamond", serif !default;
 
+
+// Adjust the base font size for the navbar
+$navbar-font-size: 1.2rem;
+
+// Boost the icons specifically
+.navbar {
+  i, .bi {
+    font-size: 1.4rem; 
+    vertical-align: -0.125em; // Fine-tunes the icon's "sit" on the line
+  }
+}
+
 /*-- scss:rules --*/
 
 // 3. Apply to Headings and Main Article Content
