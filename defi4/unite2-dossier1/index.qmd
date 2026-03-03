@@ -1,7 +1,7 @@
 ---
 title: "Unité 2: De la fourche à la fourchette - Dossier 1"
 date: "2026-02-25"
-categories: ["B2", "défi4", "Unité2" ]
+categories: ["B2", "défi4", "Unité2", "la subjectivité"]
 reference-location: document # margin, block, section, document
 citation-location: document #margin
 image: "https://images.unsplash.com/photo-1509100194014-d49809396daa?q=80&w=640"
@@ -149,5 +149,24 @@ J'admets que les pesticides facilitent le travail des agriculteurs, mais il est 
 [^n4]: prenons exemple sur eux: let's take example from them, let's follow their example
 
 ::::
+
+# GRAMMAIRE: Exprimer la subjectivité
+
+Pour exprimer sa subjectivité, on peut utiliser: 
+
+- la poncutation: [les points de suspension..., le point d'exclamation!, le point d'interrogation?]{.markgreen}
+
+- des verbes: [reconnaître, imaginer, estimer, penser, croire, supposer, admettre]{.markgreen}, etc.
+
+- des ajectifs: [intolérable, absurde, incroyable, révoltant, hallucinant]{.markgreen}, etc.
+
+- des adverbes: [absoluement, probablement, certainement]{.markgreen}, etc.
+
+- des expressions pour:
+  - nuancer un propos: [d'après ce qu'on dit, si je ne me trompe pas, sans vouloir heurter]{.markgreen}, etc.
+  - exprimer son opinion: [à mon sens, à mon avis, selon moi, pour moi]{.markgreen}, etc.
+  - exprimer un sentiment fort: [je rêve!, ça me scandalise!, je suis en colére contre]{.markgreen }, etc.
+  - dire qu'on ne dit pas: [je ne palerai pas de..., je n'en dis pas plus, je ne veux pas accuser]{.markgreen}, etc.
+  - contester: [mon yeux!, tu parles!, tu rigoles!]{.markgreen}, etc.
 
 

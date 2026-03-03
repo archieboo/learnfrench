@@ -1,7 +1,7 @@
 ---
 title: "Unité 2: De la fourche à la fourchette - Dossier 2"
 date: "2026-02-25"
-categories: ["B2", "défi4", "Unité2" ]
+categories: ["B2", "défi4", "Unité2", "le pronom ça", "la concession", "lire et commenter des chiffres"]
 reference-location: document # margin, block, section, document
 citation-location: margin # margin, document, block, section
 image: "https://images.unsplash.com/photo-1526399743290-f73cb4022f48?q=80&w=640"
@@ -254,6 +254,27 @@ Les connecteurs de concession indiquent qu'il existe un rapport dans l'oppositio
   Ex.: _Le transport [a beau être]{.markyellow} problématique sur le plan écologique, c'est loin d'être le souci le plus important, au contraire!_
 
 
+# GRAMMAIRE:  Le pronom `ça`
+
+`ça` est l'équivalent de `cela`, on l'utilise généralement à l'oral. C'est un pronom neutre, qui peut être suject our complément. Il reprend un groupe de mots, une phrase entière ou une idée. 
+
+  Ex.: La coopérative agricole a fermé? Qui t'a dit `ça`?  
+  _(`ça` = la coopérative agricole a fermé)._ 
+
+  Ex.: Le directeur est autorisé à décider de nom de l'entreprise.  
+  _`ça` peut aussi désigner un nom qui a une valeur générale._
+
+  Ex.: Le chocolat, tu aimes `ça`?
+
+  `Ça` est utilisé dans de nombreuses expressions françaises:  
+
+  - [ça va]{.markpurple}
+  - [ça y est]{.markpurple} (= that's it)
+  - [ça m'est égal]{.markpurple} (= I don't care)
+  - [ça me plaît]{.markpurple} (= I like it),
+  - [ça alors]{.markpurple} (= wow, my goodness)
+  - [ça ne fait rien]{.markpurple} (= it doesn't matter)
+
 # STRATÉGIE D'ÉCRITURE: Lire et commenter des chiffres
 
 Ce graphic, réalisé par Agence Bio en 2015, nous donnes des informations intéressantes sur l'évolution du marché des produits bio en France en 2007 et 2014. On constate[^q1] que les adeptes du bio sont de plus en plus nombreux. [Le chiffre d'affaires]{.mark}[^q2] du secteur n'a cessé d'augmenter, en sept ans. Alors qu'il s'élevait[^q4] à près de deux millards d'euros en 2007, il a atteint et passé la barre[^q3] de cinq millards d'euros en 2014, et n'a plus baissé[^q5] depuis. Il a donc plus que doublé en sept ans. Cependant, on [remarque]{.markgreen} dans un classement[^q6] de 2017 sur les plus grands consommateurs de bio dans le monde [que]{.markgreen} la France se classe[^q7] septième, bien apès la Suisse, en première position. Par ailleurs, 76% des produits biologiques ([soit les trois quarts]{.mark}[^q8]) consommés en 2015 proviennent[^q9] de France, ce qui signifie qu'environ un quart des produits bio consommés en France est importé: la moitié à l'intérieur de l'Union Européenne, l'autre moitié hors union. Cette augmentation est due[^q10] à une plus grande sensibilité des Français aux problèmes causés par les pesticides. À l'avenir, elle entrainera[^q11] certainement un changement radical des pratiques agricoles. 
@@ -271,6 +292,82 @@ Ce graphic, réalisé par Agence Bio en 2015, nous donnes des informations inté
 [^q11]: entraîner = to lead to, to cause, to bring about
 
 
+:::{.callout-warning icon=false .markyellow}
+#### **_lexique_**
+
+::::{.columns}
+
+:::::{.column width="49%"}
+
+**Contextualiser**  
+
+- un sondage, un graphique, une étude d'après ...
+- selon une étude de...
+- parue en...
+
+**Nommer**
+
+- un coût, un taux
+- la hausse / la baisse / la stagnation 
+- augmenter / baisser / stagner
+- chuter / atteindre
+- accélérer / ralentir
+- un écart, une différence
+- une augmentation / une diminution
+- un ralentissement / une accélération
+- un pic
+
+**Quantifier**
+
+- un pourcentage
+- de plus en plus de  / de moins en moins de
+- plus de / moins de
+- un tiers / un quart / la moitié 
+
+**Commenter**
+
+- Les chiffres montrent que...
+- On constate que...
+- On remarque que...
+
+:::::
+
+:::::{.column width="2%"}
+:::::
+
+:::::{.column width="49%"}
+
+**Simplifier**
+
+- en moyenne
+- environ
+- presque
+
+**Opposer, comparer**
+
+- contrairement à...
+- alors que, tandis que
+- au contraire, en revanche
+
+**Comparer**
+
+- ça représente x personnes sur y
+- c'est l'équivalent de ...
+
+**Expliquer les causes et les conséquences**
+
+- cela provient de...
+- cela s'explique par...
+- cela causé par...
+- cela est dû à...
+- cela entraîne...
+- aisi / par conséquent / donc
+
+:::::
+
+::::
+
+:::
 
 
 
