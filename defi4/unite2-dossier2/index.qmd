@@ -151,14 +151,56 @@ Les boyeaux[^ga] des saucisses et des boudins[^gb] belges ont pour la plupart tr
 [^ha]: la libre circulation = free movement; aliment = food, alimentation = feeding, food supply, diet, nutrition 
 [^hb]: occident = the West (n.m)
 
-Avant toute chose, il [convient de]{.mark}[^hc] préciser qu'en général consommer local est plus écologique, car on évite des pollutions inutiles[^hd] comme le transport et la conservation. Il faut aussi noter qu'à chaque fois que nous achetons un produit cultivé à l'etranger nous constribuons à l'augmentation du traffic routier[^he] dans notre pays, donc à la pollution de l'air aux particules fines... Donc, éviter de consommer des produits cultivés à l'étranger est un premier pas vers une consommation un peu plus écolo. [Toutefois]{.mark}, ce n'est pas toujours le cas! Comme toujours en matière[^hf] environnementale, et malgré les apparences, les choses sont parfois [plus complexes qu'il n'y paraît]{.markred}.
+Avant toute chose, [il convient de]{.mark}[^hc] préciser[^hg] qu'en général consommer local est plus écologique, car on évite des pollutions inutiles[^hd] comme le transport et la conservation. Il faut aussi noter qu'à chaque fois que nous achetons un produit cultivé à l'etranger nous constribuons à l'augmentation du traffic routier[^he] dans notre pays, donc à la pollution de l'air aux particules fines... Donc, éviter de consommer des produits cultivés à l'étranger est un premier pas vers une consommation un peu plus écolo. [Toutefois]{.mark}, ce n'est pas toujours le cas! Comme toujours en matière[^hf] environnementale, et malgré les apparences, les choses sont parfois [plus complexes qu'il n'y paraît]{.markred}.
 
 
 [^hc]: convenir = to be appropriate, to suit; il convient de + infinitif = it is appropriate to, it is necessary to
 [^hd]: inutile = unnecessary, useless
 [^he]: routier = road (adj)
 [^hf]: matière = subject, field (n.f); en matière de = in the field of, in terms of, note _de_ follows a noun without an article
+[^hg]: préciser = to specify, to clarify
 
+
+Le transport [a beau être]{.mark}[^i1] problématique sur le plan écologique, c'est loin d'être le souci[^i2] le plus important, au contraire! Transporter une banane du lieu où elle est cultivée à celui où elle vendue ne représente que 7% des émissions de gaz à effet de serre[^i3] causées par cette banane. Paradoxalement, [quoiqu]{.mark}[^i4]'elle [soit]{.markpurple} cultivée dans son milieu[^i5] naturel, cette banane n'est pas si écolo. 
+
+[^i1]: avoir beau + infinitif = even though ..., (the subtext is no matter how much ...), similar to malgré + nom
+[^i2]: souci = concern, problem (n.m); être loin d'être = to be far from being
+[^i3]: gaz à effet de serre = greenhouse gases; le gaz;  serre = greenhouse (n.m)
+[^i4]: quoique = although, even though, while (_quoique_ + subjonctif)
+[^i5]: milieu = environment, setting, surroundings (n.m)
+
+En effet, on peut compter divers types de pollution durant la production (les engins et l'énergie utilisés pour travailler les sols et la récolter, les engrais utilisés pour fertiliser ou repousser[^j9] les insectes, etc.), et cette phase de production représente 93% des impacts écologiques!
+
+[Si l'on]{.mark}[^j1] veut réellement consommer de façon plus écologique, il faut donc regarder la culture du produit [plutôt que]{.mark}[^j2] son transport. [Or]{.markorange}[^j3], les productions étrangères sont parfois plus écologiques que les productions locales. Par exemple, une étude suédoise a montré que, [du point de vue de]{.mark}[^j4] l'empreinte carbone[^j5], il est préférable d'acheter des tomates importées que des tomates cultivées en Suède. Pourquoi? Parce qu'il est beaucoup plus difficile de faire pousser[^j6] des tomates en Suède qu'en Espagne. Finalement, [bien qu]{.mark}'elles [aient]{.markpurple} parcouru des milliers[^j7] de kilomètres, les tomates espagnoles restent beaucoup plus "écologiques" que les tomates locales ([à condition qu]{.mark}'on les [ait]{.markpurple} transportées par bateau). C'est la climat qui fait la différence: un fruit, ou un légume, produit dans un climat favorable sera plus écologique, même s'il importé. [En somme]{.mark}[^j8], savoir si consommer local est plus écologique ou non est une question de bon sens. Si les produits sont de saison et adaptés à l'écosystème local, [évidemment qu]{.markred}[^j10]'il faut acheter et consommer local!
+
+[^j1]: In formal writing, _si l'on_ is often used instead of _si on_ due to _euphony_ to avoid a vowel followed by a vowel.
+[^j2]: plutôt que = rather than
+[^j3]: or = but, however. It can also mean "now" when ued to introduce a new argument or contrasting point. But always in formal writing. 
+[^j4]: du point de vue de = from the point of view of
+[^j5]: empreinte carbone = carbon footprint; empreinte = imprint, print, footprint (n.f)
+[^j6]: faire pousser = to grow (plants)
+[^j7]: millier = thousand (n.m, can be pluralized); mille as adj. or as counting number = thousand (invariable)
+[^j8]: en somme = in sum, in conclusion; somme = sum (n.f)
+[^j9]: repousser = to repel, to drive away
+  [^j10]: évidemment que: typical french way of shortening "il est évident que...", note in shortening, "évident" becomes "évidemment" and unlike in English, the "que" is kept in. 
+
+[En revanche]{.mark}[^k1], si on veut des produits qui exigent[^k2] des conditions de production difficiles à mettre en place localement, [il vaut mieux]{.markorange}[^k3] consommer des produits étrangers. Mais [là encore]{.mark}[^k4], les choses sont parfois complexes, car si le mode de transport le plus écologique est le bateau, [il n'empêche que]{.mark}[^k5] beaucoup de fruits et légumes fragiles sont souvent transportés par avion...
+
+Dans certains cas, il faut aussi [faire attention aux]{.mark} conditions de production: certains pays n'ont pas les mêmes normes de production qu'en Europe et peuvent, par exemple, utiliser des antibiotiques ou des hormones qui ne sont pas autorisés chez nous.
+
+[^k1]: en revanche = on the other hand, however; revanche = revenge, return (n.f)
+[^k2]: exiger = to require, to demand
+[^k3]: il vaut mieux + infinitif = it's better to; il vaut mieux que + subjonctif = it's better that
+[^k4]: là encore = again, once again
+[^k5]: il n'empêche que = nevertheless, it doesn't change the fact that; empêcher = to prevent, to stop
+
+[**_Savoir si consommer local est plus écologique ou non est une question de bon sens._**]{.text-info style="font-size: 1.6em; display: block; text-align: center;"}
+
+Évidemment, on peut aussi consommer local pour soutenir l'économie régionale, pour défendre une certaine vision [du monde du travail]{.mark}[^l1] ou pour soutenir l'emploi local. Les agriculteurs français produisent depuis toujours de très bons fruits et légumes, des viandes et des fromages de qualité contrôlée. Le mieux reste donc de se fournir auprès d'eux[^l2]. Et si en plus, c'est bio...tant mieux[^l3]! Mais n'espérez pas y trouver des mangues ou des litchis!
+
+[^l1]: le monde du travail = the world of work, the labor market
+[^l2]: se fournir = to source, to get supplies; se fournir auprès de qn = to source from someone; auprès de qn = with, from (someone)
+[^l3]: en plus = in addition, on top of that; tant mieux = so much the better, all the better, even better
 
 :::{.callout-important style="width: 80%;"}
 ###### `ne` explétif
@@ -172,27 +214,6 @@ It does **not negate** but rather adds an **emphasis** to the comparison. In thi
 _Also **paraître à qch**_   ➡️   _qu'il n'**y** paraît_
 :::
 
-Le transport [a beau être]{.mark}[^i1] problématique sur le plan écologique, c'est loin d'être le souci[^i2] le plus important, au contraire! Transporter une banane du lieu où elle est cultivée à celui où elle vendue ne représente que 7% des émissions de gaz à effet de serre[^i3] causées par cette banane. Paradoxalement, [quoiqu]{.mark}[^i4]'elle [soit]{.markpurple} cultivée dans son milieu[^i5] naturel, cette banane n'est pas si écolo. 
-
-[^i1]: a beau + infinitif = no matter how much, even though (_fixed expression that expresses concession_) 
-[^i2]: souci = concern, problem (n.m); être loin d'être = to be far from being
-[^i3]: gaz à effet de serre = greenhouse gases; le gaz;  serre = greenhouse (n.m)
-[^i4]: quoique = although, even though, while (_quoique_ + subjonctif)
-[^i5]: milieu = environment, setting, surroundings (n.m)
-
-En effet, on peut compter divers types de pollution durant la production (les engins et l'énergie utilisés pour travailler les sols et la récolter, les engrais utilisés pour fertiliser ou repousser les insectes, etc.), et cette phase de production représente 93% des impacts écologiques!
-
-[Si l'on]{.mark}[^j1] veut réellement consommer de façon plus écologique, il faut donc regarder la culture du produit [plutôt que]{.mark}[^j2] son transport. [Or]{.markorange}[^j3], les productions étrangères sont parfois plus écologiques que les productions locales. Par exemple, une étude suédoise a montré que, [du point de vue de]{.mark}[^j4] l'empreinte carbone[^j5], il est préférable d'acheter des tomates importées que des tomates cultivées en Suède. Pourquoi? Parce qu'il est beaucoup plus difficile de faire pousser[^j6] des tomates en Suède qu'en Espagne. Finalement, [bien qu]{.mark}'elles [aient]{.markpurple} parcouru des milliers[^j7] de kilomètres, les tomates espagnoles restent beaucoup plus "écologiques" que les tomates locales ([à condition qu]{.mark}'on les [ait]{.markpurple} transportées par bateau). C'est la climat qui fait la différence: un fruit, ou un légume, produit dans un climat favorable sera plus écologique, même s'il importé. [En somme]{.mark}[^j8], savoir si consommer local est plus écologique ou non est une question de bon sens. Si les produits sont de saison et adaptés à l'écosystème local, évidemment qu'il faut acheter et consommer local!
-
-[^j1]: In formal writing, _si l'on_ is often used instead of _si on_ due to _euphony_ to avoid a vowel followed by a vowel.
-[^j2]: plutôt que = rather than
-[^j3]: or = but, however. It can also mean "now" when ued to introduce a new argument or contrasting point. But always in formal writing. 
-[^j4]: du point de vue de = from the point of view of
-[^j5]: empreinte carbone = carbon footprint; empreinte = imprint, print, footprint (n.f)
-[^j6]: faire pousser = to grow (plants)
-[^j7]: millier = thousand (n.m, can be pluralized); mille as adj. or as counting number = thousand (invariable)
-[^j8]: en somme = in sum, in conclusion; somme = sum (n.f)
-
 :::{.callout-tip style="width: 80%;"}
 ###### un verbe à l'infinitif comme sujet
 
@@ -200,6 +221,62 @@ En français, c'est très courant d'utiliser un verbe à l'infinitif comme sujet
 
 - _Savoir si consommer local est plus écologique ou non est une question de bon sens._
 :::
+
+
+
+# GRAMMAIRE: Exprimer l'opposition et la concession
+
+
+## L'opposition
+
+- Pour opposer deux éléments, on utilise [**en revanche, par contre, alors que, tandis que** + phrase à l'indicatif]{.markorange}  
+  Ex.: _[En revanche]{.markorange}, si on veut des produits qui exigent des conditions de production difficiles à mettre en place localement, il vaut mieux consommer des produits étrangers._  
+  Ex.: _[Alors que]{.markorange} les produits sont de saison et adaptés à l'écosystème local, évidemment qu'il faut acheter et consommer local!_
+- [**au contraire**]{.markorange} peut être placé en début ou en find de phrase.  
+  Ex.: _Le transport a beau être problématique sur le plan écologique, c'est loin d'être le souci le plus important, [au contraire]{.markorange}!_
+
+## La concession
+Les connecteurs de concession indiquent qu'il existe un rapport dans l'opposition de deux éléments. On utlise:
+
+- [**cependant, pourtant, toutefois, or, il n'empêche que, même si** + phrase à l'indicatif]{.markyellow}  
+  Ex.: _[Cependant]{.markyellow}, ce n'est pas toujours le cas!_  
+  Ex.: _[Il n'empêche que]{.markyellow} beaucoup de fruits et légumes fragiles sont souvent transportés par avion..._  
+
+
+- [**bien que, quoique** + phrase au subjonctif présent ou passé]{.markyellow}  
+  Ex.: _[Bien que]{.markyellow} les produits [soient]{.markpurple} de saison et adaptés à l'écosystème local, il faut parfois acheter des produits importés._  
+  Ex.: _[Quoique]{.markyellow} les produits [aient]{.markpurple} parcouru des milliers de kilomètres, les tomates espagnoles restent beaucoup plus "écologiques" que les tomates locales._
+
+- [**malgré** + nom ou pronom]{.markyellow}  
+  Ex.: _[Malgré les apparences]{.markyellow}, les choses sont parfois plus complexes qu'il n'y paraît._
+
+- [**avoir beau** + infinitif]{.markyellow}  
+  Ex.: _Le transport [a beau être]{.markyellow} problématique sur le plan écologique, c'est loin d'être le souci le plus important, au contraire!_
+
+
+# STRATÉGIE D'ÉCRITURE: Lire et commenter des chiffres
+
+Ce graphic, réalisé par Agence Bio en 2015, nous donnes des informations intéressantes sur l'évolution du marché des produits bio en France en 2007 et 2014. On constate[^q1] que les adeptes du bio sont de plus en plus nombreux. [Le chiffre d'affaires]{.mark}[^q2] du secteur n'a cessé d'augmenter, en sept ans. Alors qu'il s'élevait[^q4] à près de deux millards d'euros en 2007, il a atteint et passé la barre[^q3] de cinq millards d'euros en 2014, et n'a plus baissé[^q5] depuis. Il a donc plus que doublé en sept ans. Cependant, on [remarque]{.markgreen} dans un classement[^q6] de 2017 sur les plus grands consommateurs de bio dans le monde [que]{.markgreen} la France se classe[^q7] septième, bien apès la Suisse, en première position. Par ailleurs, 76% des produits biologiques ([soit les trois quarts]{.mark}[^q8]) consommés en 2015 proviennent[^q9] de France, ce qui signifie qu'environ un quart des produits bio consommés en France est importé: la moitié à l'intérieur de l'Union Européenne, l'autre moitié hors union. Cette augmentation est due[^q10] à une plus grande sensibilité des Français aux problèmes causés par les pesticides. À l'avenir, elle entrainera[^q11] certainement un changement radical des pratiques agricoles. 
+
+[^q1]: constater = to note, to observe, to see
+[^q2]: le chiffre d'affaires = turnover, revenue (n.m)
+[^q3]: la barre = bar, threshold (n.f); passer la barre de qch = to pass the threshold of something
+[^q4]: s'élever à = to amount to, to reach (a certain amount)
+[^q5]: baisser = to decrease, to go down
+[^q6]: classement = ranking, classification (n.m)
+[^q7]: se classer = to be ranked
+[^q8]: soit = that is, in other words; les trois quarts = three quarters
+[^q9]: provenir de = to come from, to originate from
+[^q10]: être dû à = to be due to, to be caused by
+[^q11]: entraîner = to lead to, to cause, to bring about
+
+
+
+
+
+
+
+
 
 
 

@@ -6,22 +6,61 @@ reference-location: document # margin, block, section, document
 citation-location: document #margin
 image: "https://images.unsplash.com/photo-1614291129226-41dae34c2128?q=80&w=640"
 ---
-# TEXTE: Les nouveaux canons de beauté
+# TEXTE: Les nouveaux canons de beauté[^a1]
 
 [![](https://images.unsplash.com/photo-1492707892479-7bc8d5a4ee93?q=80&w=640)]{.column-margin}
 
-Les unes de la presse masculine et féminine ont toujours été le reflet de notre société, dictant les canons de beauté d'une époque. En ce début $XXI^e$ siècle, le temps des mannequins célèbres au physique uniformisé est révolu. Femmes avec des taches de rousseur et aux cheveux roux, quadragénaires à la barbe poivre et sel, femmes aux cheveux blancs, beautés au genre indéfini... les codes physiques changent peu à peu. Prenons le pari que les couvertures de nos magazines seront un jour le reflet de la société au naturel avec, pourquoi pas, des femmes aux formes pulpeuses et des hommes sans tablettes de chocolat? 
+Les unes de la presse[^a2] masculine et féminine ont toujours été le reflet de notre société, dictant[^a3] les canons de beauté d'une époque. [En ce début $XXI^e$ siècle]{.mark}[^a4], le temps des mannequins[^a5] célèbres au physique uniformisé est révolu[^a6]. Femmes avec des taches de rousseur[^a7] et aux cheveux roux, quadragénaires à la barbe poivre et sel[^a8], femmes aux cheveux blancs, beautés au genre indéfini... les codes physiques changent [peu à peu]{.mark}. Prenons le pari[^a9] que les couvertures de nos magazines seront un jour le reflet de la société au naturel avec, pourquoi pas, des femmes aux formes pulpeuses[^a10] et des hommes sans tablettes de chocolat[^a11]? 
+
+[^a1]: the beauty standards
+[^a2]: les unes de la presse: the front pages of the press
+[^a3]: dicter: to dictate
+[^a4]: en ce début ...: at the beginning of...
+[^a5]: mannequins: models (n.m.)
+[^a6]: révolu: over, past; révoluer: to pass, to be over
+[^a7]: taches de rousseur: freckles; tache: spot, stain (n.f.); rousseur: redness (n.f.); 
+[^a8]: 40-year-olds with salt and pepper beards, quadragénaires: 40-year-olds (n.m.)
+[^a9]: prendre le pari: to take the bet
+[^a10]: formes pulpeuses: curvy shapes (n.f.); pulpeux, pulpeuse: curvy, voluptuous
+[^a11]: tablettes de chocolat: six-pack abs (n.f.)
+
 
 # TEXTE: Quels sont les canons de beauté de la femme africaine?
 
 [![](https://images.unsplash.com/photo-1622923384269-3136683ed170?q=80&w=640)]{.column-margin}
 
-_Avec l'explosion des médias, d'internet, la diffusion des séries télévisées hollywoodiennes, des télénovelas en Afrique et la prolifération sur les marchés africains des magazines de mode occidentaux, la femme africaine a perdu ses repères et ses modèles. Elle a tendance à s'identifier à la femme occidentale, oubliant ainsi ses canons de beauté originels tant célébrés et magnifiés par le poète sénégalais Léopold Sédar Senghor dans son poème "**Femme noire**"._
+[**Avec l'explosion des médias, d'internet, la diffusion des séries télévisées hollywoodiennes, des télénovelas en Afrique et la prolifération sur les marchés africains des magazines de mode occidentaux, la femme africaine a perdu ses repères et ses modèles[^b1]. Elle a tendance à s'identifier à la femme occidentale, oubliant ainsi ses canons de beauté originels tant célébrés et magnifiés par le poète sénégalais Léopold Sédar Senghor dans son poème _Femme noire_.**]{.text-primary}
+
+[^b1]: repère = reference point (n.m.); modèle = model (n.m.)
 
 [D]{style="font-size:2.5em; line-height:1;"}
-ésormais, [...] elles veulent toutes être blondes ou brunes, avoir des jambes interminables, avoir un teint minces avec des lèvres pulpeuses, et un fessier rebondi. Elles ne lésinent pas sur moyens pour pouvoir atteindre leurs objectifs. Certaines engagent toutes leurs économies dans la chirurgie esthétique, dans l'achat de produits décapants et éclaircissants, dans l'achat de perruques et produites capillaires, dans les injections de toutes sortes. Elle semble révolue l'époque où la femme africaine était fière de son joli teint noir ébène qui luisait au soleil. 
-Elles veulent toutes désormais être blanches comme leurs idoles; pour cela, elles se sont plongées dans la dépigmentation. Bravant les risques de cancer de la peau, elles utilisent des produits toxiques et dangereux (eau de Javel, hydroquinone, eau oxygénée...).Elle est terminée l'époque où les femmes corpulentes avaient la cote. 
-Complexées par leur poids et leurs formes généreuses, les femmes africaines se plongent de plus en plus dans des régimes forcés pour apparaître chétives, anorexiques avec un postérieur plat comme une planche. 
+ésormais[^b2], [...] elles veulent toutes être blondes ou brunes, avoir des jambes interminables[^b3], avoir un teint minces[^b4] avec des lèvres pulpeuses[^b5], et un fessier rebondi[^b6]. Elles [ne lésinent[^b7] pas sur moyens]{.mark} pour pouvoir atteindre leurs objectifs. Certaines engagent toutes leurs économies dans la [chirurgie esthétique]{.mark}, dans l'achat de produits décapants et éclaircissants[^b8], dans l'achat de perruques[^a9] et produites capillaires[^b10], dans les injections de toutes sortes. Elle semble révolue l'époque où la femme africaine [était fière de]{.mark}[^ba] son joli teint noir ébène[^bb] qui luisait[^bc] au soleil. 
+Elles veulent toutes désormais être blanches comme leurs idoles; pour cela, elles se sont plongées dans la dépigmentation. Bravant les risques de cancer de la peau, elles utilisent des produits toxiques et dangereux (eau de Javel, hydroquinone, eau oxygénée...).Elle [est terminée l'époque]{.mark}[^bd] où les femmes corpulentes[^be] [avaient la cote]{.mark}[^bf]. 
+Complexées par leur poids[^bg] et leurs formes généreuses, les femmes africaines se plongent[^bh] de plus en plus dans des régimes forcés pour apparaître chétives[^bj], anorexiques avec un postérieur plat comme une planche[^bk]. 
+
+[^b2]: désormais: from now on, henceforth
+[^b3]: interminable: endless, very long
+[^b4]: teint mince: thin complexion (n.m.); teint: complexion (n.m.); mince: thin, slim
+[^b5]: full lips; lèvres (n.f.) 
+[^b6]: fessier rebondi: rounded buttocks (n.m.); rebondi: rounded, plump; fessier: buttocks (n.m.)
+[^b7]: ne lésiner pas sur les moyens: to spare no expense, to go all out; lésiner: to skimp, to be stingy
+[^b8]: produits décapants et éclaircissants: stripping and lightening products (n.m.); décapant: stripping, scouring; éclaircissant: lightening, brightening
+[^b9]: perruques: wigs (n.f.)
+[^b10]: hair products; capillaire: hair (adj.)
+[^ba]: être fier de: to be proud of; fier, fière: proud
+[^bb]: teint noir ébène: ebony black complexion; ébène: ebony
+[^bc]: luire: to shine, to gleam
+[^bd]: être terminée l'époque: to be over, to be a thing of the past
+[^be]: corpulente: corpulent, plump, full-figured; corpulence: corpulence (n.f.)
+[^bf]: avoir la cote: to be popular, to be in demand; cote: rating, popularity, quotation, odds (n.f.)
+[^bg]: poid: weight (n.m.)
+[^bh]: se plonger: to immerse oneself, to dive into
+[^bj]: chétif, chétive: puny, scrawny, sickly
+[^bk]: postérieur plat comme une planche: flat buttocks like a board; postérieur: buttocks (n.m.), from adj. postérieur; plat: flat; planche: board (n.f.)
+
+
+
+
 
 Au Niger, les femmes corpulentes, dodues sont encore appréciées. Leur forte corpulence étant signe de santé, de bien-être, d'aisance. La femme maigre étant considérée comme pauvre, maltraitée, ou malade. Dans plusieurs pays de l'Afrique de l'Ouest, des concours de Miss beauté sont organisés pour récompenser les femmes fortes et corpulentes. Cependant, ce n'est pas une invitation à l'obésité et à ses complications. 
 

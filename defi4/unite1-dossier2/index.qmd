@@ -12,7 +12,7 @@ image: "https://images.unsplash.com/photo-1556983852-43bf21186b2a?q=80&w=640"
 
 ![](https://images.unsplash.com/photo-1619697101606-7c092a8e6281?q=80&w=640){.column-margin}
 
-_Selon l'ONU, 66% de la population mondiale vivra en zones urbaines [d'ici 2050]{.mark} (2% au début du $XIX^e$ siècle, 30% en 1950, 54% en 2015). L'exode rural, qui coïncide toujours avec le développement industriel, atteit des niveaux très élevés en Inde, en Chine et au Nigeria. La grande variété de tailles et de niveaux de développement, [ajoutée aux]{.mark} différences de politiques publiques et de comportement[^1a1] sociétaux, [exclut qu]{.mark}'il y ait un seule type de ville du futur. Cependant, malgré les différences, [il est possible de]{.mark} dégager[^1a2] quatre grandes tendances dans l'évolution des villes._
+_Selon l'ONU, 66% de la population mondiale vivra en zones urbaines [d'ici 2050]{.mark} (2% au début du $XIX^e$ siècle, 30% en 1950, 54% en 2015). L'exode rural, qui coïncide toujours avec le développement industriel, atteit des niveaux très élevés en Inde, en Chine et au Nigeria. La grande variété de tailles et de niveaux de développement, [ajoutée aux]{.mark} différences de politiques publiques et de comportement[^1a1] sociétaux, [exclut qu]{.markpurple}'il y [ait]{.markpurple} un seule type de ville du futur. Cependant, [malgré les différences]{.mark}, [il est possible de]{.mark} dégager[^1a2] quatre grandes tendances dans l'évolution des villes._
 
 [^1a1]: comportement = behavior
 [^1a2]: dégager = to identify, to highlight
@@ -70,7 +70,7 @@ L'accroissement[^5a1] de la population urbaine demande une meilleure gestion des
 
 --------------------------------------------------------
 
-# TEXTE: Quelles transformations la ville intelligente engendrera-t-elle?
+# TEXTE: Quelles transformations la ville intelligente engendrera-t-elle[^aa]?
 
 ![](https://images.unsplash.com/photo-1525838808082-a422ecbce2ff?q=80&w=640){.column-margin}
 
@@ -81,8 +81,9 @@ _23 mars 2020 $III^e$ colloque[^6a1] international sur les villes connectées_
 
 Cette communication propose d'analyser les attraits des villes intelligentes pour les autorités publiques ainsi que[^6a2] les menaces qui en découlent[^6a3]. Ensuite, je terminerai en montrant les impacts que peut avoir l'exploitation des données numériques sur les citoyens et la démocratie.
 
-Intelligence technique, systémique, politique et culturelle... Il y a [tellement de]{.markteal} conceptions de _smart cities_ [que]{.markteal} j'ai [centré mon étude sur]{.mark} les villes qui collectent et traitent des données numériques pour optimiser leur fonctionnement. Dans ces villes, les autorités publiques travaillent notamment à fluidifier la mobilité urbaine, optimiser la consommation énergétique et améliorer la gestion de l'eau et des déchets[^6a4]. Malgrés leurs enjeux[^6a5] communs, les objectifs visés[^6a6] par une ville comme Bangkok sont assez éloignés[^6a7] de [ceux]{.markorange} d'Amersterdam. C'est pourquoi aucune ville intelligente ne se resesemble vraiment. [Néanmoins]{.mark}, [elles]{.markpurple} partagent [toutes]{.markpurple} un objectif ambitieux: vivre de [mieux en mieux]{.mark} ensemble. À Singapour, l'analyse de big data a permis, entres autres, l'amélioration de la securité. 
+Intelligence technique, systémique, politique et culturelle... Il y a [tellement de]{.markteal} conceptions de _smart cities_ [que]{.markteal} j'ai [centré mon étude sur]{.mark} les villes qui collectent et traitent des données numériques pour optimiser leur fonctionnement. Dans ces villes, les autorités publiques travaillent notamment à fluidifier[^ab] la mobilité urbaine, optimiser la consommation énergétique et améliorer la gestion de l'eau et des déchets[^6a4]. Malgrés leurs enjeux[^6a5] communs, les objectifs visés[^6a6] par une ville comme Bangkok sont assez éloignés[^6a7] de [ceux]{.markorange} d'Amersterdam. C'est pourquoi aucune ville intelligente ne se resesemble vraiment. [Néanmoins]{.mark}, [elles]{.markpurple} partagent [toutes]{.markpurple} un objectif ambitieux: vivre de [mieux en mieux]{.mark} ensemble. À Singapour, l'analyse de big data a permis, entres autres, l'amélioration de la securité. 
 
+[^aa]: engendrer = to generate, to bring about
 [^6a1]: conference
 [^6a2]: ainsi que = as well as
 [^6a3]: découler = to result from, to arise from
@@ -90,6 +91,7 @@ Intelligence technique, systémique, politique et culturelle... Il y a [tellemen
 [^6a5]: enjeux = stakes, issues
 [^6a6]: visé = targeted, aimed at; viser = to target, to aim at
 [^6a7]: éloigné = far from, distant from; éloigner = to distance, to move away from
+[^ab]: fluidifier = to make more fluid, to smooth
 
 Les mérites des villes intelligentes sont indéniables [de sorte que]{.mark} certains élus[^7a1] les considèrent comme le remède à tous les maux. Par exemple, la proposition d'aménagement[^7a2] du quartier en friche de Quaiside à Toronto (par Sidewalk Labs, filiale de Google) présente des innovations audacieuses: rues chauffantes, Abribus capables de se déployer automatiquement en cas d'intempéries[^7a3], couloirs[^7a4] réservés aux différentes modes de transports pouvant changer en fonction du traffic... Les avantages sont nombreux, [au point qu]{.mark}[^7a4]'on  pourrait oublier que des dangers existent. L'usage abusif du big data [conduit à]{.mark} une surveillance de masse des citoyens, [si bien qu]{.mark}[^7a5]'on peut légitimement se demander: qui gouvernera la ville de demain? [De ce fait]{.mark}[^7a6], j'exposerai les menaces que represente l'exploitation des données numériques par une entreprise privée, car cette mainmise[^7a7] pourrait amener cette entreprise à devenir "propriétaire" de la ville. 
 
@@ -102,7 +104,7 @@ Les mérites des villes intelligentes sont indéniables [de sorte que]{.mark} ce
 [^7a7]: mainmise (n.f.) = control, grip
 
 
-La ville est une société où cohabitent la vidéo surveillance, les réseaux sociaux et les objets connectés. Ces nouvelles formes de surveillance et de contrôle de la population sont sournoises[^8a1]. Tout est miniaturisé et caché: capteurs, caméras et objets connectés sont omniprésents et espionnent les habitants avec ou sans leur consentement. La collecte et l'analyse de toutes ces données (itinéraires, achats, propos sur les réseaux socieaux...) [mènent à]{.mark}[^8a2] une société panoptique menaçant notre vie privée et la démocratie. [D'où]{.mark}[^8a3] la nécessité d'instaurer[^8a4] des mesures [pour que]{.markteal}[^8a5] la "smartification" des villes [se fasse]{.markteal} dans l'intérêt de chacun et pas uniquement pour le profit de quelques géants du numérique. [C'est la raison pour laquelle]{.mark}[^8a6] je présenterai plusieurs solutions pour la protection des données, telles les techniques d'anonymisation ou le développement de technologies protectrices de la vie privée[^8a7].
+La ville est une société où cohabitent la vidéo surveillance, les réseaux sociaux et les objets connectés. Ces nouvelles formes de surveillance et de contrôle de la population sont sournoises[^8a1]. Tout est miniaturisé et caché: capteurs, caméras et objets connectés sont omniprésents et espionnent les habitants avec ou sans leur consentement. La collecte et l'analyse de toutes ces données (itinéraires, achats, propos sur les réseaux socieaux...) [mènent à]{.mark}[^8a2] une société panoptique menaçant notre vie privée et la démocratie. [D'où]{.mark}[^8a3] la nécessité d'instaurer[^8a4] des mesures [pour que]{.markpurple}[^8a5] la "smartification" des villes [se fasse]{.markpurple} dans l'intérêt de chacun et pas uniquement pour le profit de quelques géants du numérique. [C'est la raison pour laquelle]{.mark}[^8a6] je présenterai plusieurs solutions pour la protection des données, telles les techniques d'anonymisation ou le développement de technologies protectrices de la vie privée[^8a7].
 
 [^8a1]: sournois = sneaky
 [^8a2]: mener à = to lead to
@@ -112,12 +114,13 @@ La ville est une société où cohabitent la vidéo surveillance, les réseaux s
 [^8a6]: c'est la raison pour laquelle, use it to express a cause
 [^8a7]: protectrice (n.f.) = protector; telles = such as
 
-Dans le cadre de cette communication, je questionnerai le discours binaire opposant[^9a1] "fascination technologique" et "peur de Big Brother". Comme le précise[^9a2] l'économiste Jean Haëntjens, deux visions de la ville du futur sont en train de se dessiner: "[D'un côté]{.mark}, la cité politique, dirigée[^9a3] par un maire élu par des citoyens, qui se fixe des ambitions à long terme en visant un intérêt général; [de l'autre]{.mark}, la ville-service numérisée, pilotée par les 'maîtres[^9a4] des algorithmes' et qui [vise à]{.mark} répondre en temps réel aux demandes des usagers." La démocratie n'est pas forcément condemnée, c'est aux citadins de choisir, puisqu'ils sont à la fois citoyens et usagers. 
+Dans le cadre de cette communication, je questionnerai le discours binaire opposant[^9a1] "fascination technologique" et "peur de Big Brother". Comme le précise[^9a2] l'économiste Jean Haëntjens, deux visions de la ville du futur sont [en train de]{.mark} se dessiner[^ba]: "[D'un côté]{.mark}, la cité politique, dirigée[^9a3] par un maire élu par des citoyens, qui se fixe des ambitions à long terme en visant un intérêt général; [de l'autre]{.mark}, la ville-service numérisée, pilotée par les 'maîtres[^9a4] des algorithmes' et qui [vise à]{.mark} répondre en temps réel aux demandes des usagers." La démocratie n'est pas forcément condemnée, c'est aux citadins de choisir, puisqu'ils sont [à la fois]{.markteal} citoyens [et]{.markteal} usagers. 
 
 [^9a1]: an opposing binary discourse
 [^9a2]: as xxx points out; préciser = to specify, to point out
 [^9a3]: dirigé = directed, led by; diriger = to direct, to lead
 [^9a4]: maîtres (n.m.pl.) = masters
+[^ba]: se dessiner = to take shape, to emerge
 
 
 <br>

@@ -10,7 +10,63 @@ image: "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=640"
 
 
 
-# TEXTE: 
+# TEXTE: À la recherche du bonheur
+
+[**Quels sont les pays où les gens vivent le plus heureux?**]{.text-primary}
+
+Tous les ans, l'institut de sondage[^aa] Gallup établit une carte mondiale[^ab] du bonheur. Pour cela, des experts posent la question [suivante à]{.mark} environ 3 000 personnes dans plus de 140 pays: « Imaginez une échelle , de 0 à 10. Le haut de l'échelle représente la meilleure vie possible pour vous [tandis que]{.mark}[^ac] le bas de l'échelle représente la pire vie possible pour vous. Où vous situez-vous en ce moment? » 
+
+[^aa]: sondage: survey (n.m.)
+[^ab]: carte mondiale: world map 
+[^ac]: tandis que: while, whereas
+
+
+
+[Suite à]{.mark} cette première réponse, les experts de l'institut posent plus précises[^ba] sur le bien-être des personnes, [à l'aide de]{.mark}[^bb] six critères: le revenu, l'espérance de vie en bonne santé, le soutien social[^bc], la confiance, la liberté de faire des choix et la générosité. Mesurer le bonheur reste cependant assez subjectif. Chaque culture a une idée différente du bien-être: pour les Latino-Américains, rire dans la vie de tous les jours est très important, [alors que]{.mark} pour les Asiatiques c'est la réussite financière qui prime: pour les Européens, ce serait un peu de tout! Alors, y a-t-il une recette du bonheur?
+
+[^ba]: précises: more precise (adj.); précis, précise: precise, accurate
+[^bb]: à l'aide de: with the help of, using
+[^bc]: soutien social: social support (n.m.); soutien: support (n.m.)
+
+
+:::{.callout-tip .column width="80%"}
+###### William, Kourou, Guyane
+
+Ma recette du bonheur? C'est la bonne humeur! Chanter sous la douche, rire, et faire des blagues. C'est comme ça que j'essaie de passer mes journées. Quand je ne vais vraiment pas bien, je danse! L'exercice physique et la concentration me font tout oublier, ça me vide la tête!
+
+:::
+
+:::{.callout-warning .column width="80%"}
+###### Toussaint, Bruxelles, Belgique
+
+Moi, je suis heureux quand j'apprends de nouvelles choses, quand je voyage! J'ai toujours plein de projets dans la tête! La nouveauté, la découverte, ça me stimule! L'année prochaine, j'ai l'intention de partir six mois en Amérique du Sud pour faire un break!
+
+:::
+
+:::{.callout-important .column width="80%"}
+###### Françoise, Nouméa, Nouvelle-Calédonie
+
+Ma recette du bonheur c'est d'être en famille, faire plaisir à mes proches, leur dire que je les aime. C'est vrai qu'on est souvent occupé mais c'est important de prendre le temps. Alors, chaque semaine, on se retrouve chez moi pour manger ensemble! C'est le moment qui me rend le plus heureuse!
+
+:::
+
+
+
+# TEXT: Le retour au pays
+
+[_Depuis les années 2000, de plus en plus de jeunes d'origine africaines, nés ou venus étudier en Europe, retournent faire carrière sur le continent de leurs ancêtres. On les appelle les « repats », un diminutif du terme récemment inventé « repatriates »: ces personnes parties de leur pays qui ont décidé d'y retourner. Un parcours à l'envers, du Nord vers le Sud!_]{.text-danger}
+
+[C]{style="font-size:2.5em; line-height:1;"}
+e sont surtout les trentenaires diplômés ou avec une première expérience professionnelle qui envisagent de s'installer dans leur pays d'origine pour réaliser leur _African dream_. 
+
+
+
+
+
+
+
+
+
 
 
 
