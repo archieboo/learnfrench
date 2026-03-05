@@ -7,12 +7,11 @@ reference-location: document
 image: "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?q=80&w=640"
 --- 
 
-
-
-
 # TEXTE: À la recherche du bonheur
 
 [**Quels sont les pays où les gens vivent le plus heureux?**]{.text-primary}
+
+[![](https://images.unsplash.com/photo-1575459780154-bc56e94c5076?q=80&w=640)]{.column-margin}
 
 Tous les ans, l'institut de sondage[^aa] Gallup établit une carte mondiale[^ab] du bonheur. Pour cela, des experts posent la question [suivante à]{.mark} environ 3 000 personnes dans plus de 140 pays: « Imaginez une échelle , de 0 à 10. Le haut de l'échelle représente la meilleure vie possible pour vous [tandis que]{.mark}[^ac] le bas de l'échelle représente la pire vie possible pour vous. Où vous situez-vous en ce moment? » 
 
@@ -51,18 +50,60 @@ Ma recette du bonheur c'est d'être en famille, faire plaisir à mes proches, le
 :::
 
 
+# TEXTE: Le retour au pays
 
-# TEXT: Le retour au pays
+[![](https://images.unsplash.com/photo-1520124442480-b5c60b0f80c2?q=80&w=640)]{.column-margin}
 
-[_Depuis les années 2000, de plus en plus de jeunes d'origine africaines, nés ou venus étudier en Europe, retournent faire carrière sur le continent de leurs ancêtres. On les appelle les « repats », un diminutif du terme récemment inventé « repatriates »: ces personnes parties de leur pays qui ont décidé d'y retourner. Un parcours à l'envers, du Nord vers le Sud!_]{.text-danger}
+[_Depuis [les années 2000]{.mark}, de plus en plus de jeunes d'origine africaines, nés ou venus étudier en Europe, retournent [faire carrière]{.mark}[^ca] sur le continent de leurs [ancêtres]{.mark}. On les appelle les « repats », un diminutif du terme récemment inventé « repatriates »: ces personnes parties de leur pays qui ont décidé d'y retourner. Un parcours [à l'envers]{.mark}[^cb], du Nord vers le Sud!_]{.text-danger}
 
 [C]{style="font-size:2.5em; line-height:1;"}
-e sont surtout les trentenaires diplômés ou avec une première expérience professionnelle qui envisagent de s'installer dans leur pays d'origine pour réaliser leur _African dream_. 
+e sont surtout les trentenaires diplômés[^cc] ou avec une première expérience professionnelle qui envisagent de s'installer[^cd] dans leur pays d'origine pour réaliser leur _African dream_. 38% sont des cadres supérieurs[^ce], et 58% sont des femmes. Tous ont l'intention de profiter des opportunités de business en Afrique. « Le Sénégal propose une aide financière au retour, alors je pense à créer une entreprise de fabrication de vêtements. [En plus]{.mark}, être salarié[^cf], ça ne me va pas, c'est pas mon truc! », témoigne Moktar, Sénégalais de 28 ans. 
+
+Comme lui, beaucoup de ces jeunes on envies de retrouver leurs racines, ils décident aussi parfois de revenir parce que leur famille le souhaite. « Pour mes parents, me voir une fois par an, ce n'est pas suffisant. Je suis [prêt à]{.mark} rentrer au pays, c'est décidé! Et, j'en ai assez de refaire mon titre de séjour[^cg] tous les ans! », Akissi, Ivoirienne de 32 ans. 
+
+[^ca]: faire carrière: to have a career
+[^cb]: parcours à l'envers: reverse path, reverse journey; parcours: path, journey (n.m.); à l'envers: backwards, in reverse; envers: reverse (adj.); à l'endroit: forwards, right side up
+[^cc]: diplômés: graduates (n.m. pl.); diplômé, diplômée: graduate (adj.)
+[^cd]: s'installer: to settle down, to move to;  installer: to install, to set up (v.tr.); 
+[^ce]: cadres supérieurs: executives
+[^cf]: être salarié: to be an employee, to be employed
+[^cg]: le titre de séjour: residence permit
+
+Ils veulent changer l'image de l'Afrique. « Quand les médias parlent de mon pays, c'est souvent pour dire qu'il y a des problèmes. Mais le Gabon est [en pleine croissance]{.mark}[^da], et je veux participer à son développement, faire quelque chose! En plus, je [n'en peux plus]{.mark}[^db] du climat du Luxembourg, ça ne me plaît pas de vivre ici », explique Tita, Franco-Gabonaise de 25 ans. 
+
+Pour [répondre à]{.mark} cette envie de retour, de plus en plus d'événements de networking, de conférences et de salons professionnels [s'organisent]{.mark}[^dc] partout en Europe. Plus qu'un simple phénomène, les repats esmblent représenter un enjeu économique important pour le continent africain. 
+
+[^da]: en pleine croissance: booming, growing rapidly; croissance: growth (n.f.); croître: to grow, to increase (v.intr.); en plein: in the middle of, in the midst of
+[^db]: n'en peux plus: can't take it anymore, fed up; en avoir marre: to be fed up; en avoir assez: to have had enough; 
+[^dc]: s'organiser: organise; not french use _**se + verbe à l'infinitif**_ to express a passive construction - _be organized_
 
 
+# TEXTE: Les nouveautés
 
+[![](https://images.unsplash.com/photo-1615023691139-47180d57138f?q=80&w=640)]{.column-margin}
 
+**_Mars Horizon,_**  
+**une BD entre anticipation et science**
 
+2080\. Nous nous installons sur la planète Mars car [la nôtre]{.mark} va mal[^ea]. Comment vivrons-nous, déracinés, à 150 millions de kilomètres de notre Terre natale? De la science-fiction? Oui, mais pour combien de temps?
+
+_Mars Horizon_ de Florence Procel et Erwanna Surcouf raconte les aventures spatiales d'une jeune femme et de ses coéquipiers. Leur mission: préparer l'installation définitive[^eb] des humains sur Mars. Encore une BD sur la planète rouge? Oui, mais celle-ci est vraiment originale! 
+
+**D'abord le scénario de Florence Procel.**
+
+[Tandis que]{.mark}[^ec] beaucoup d'œuvres sur Mars décrivent un monde imaginaire peuplé de petits hommes verts, _Mars Horizon_ raconte une aventure réaliste. L'auteure [s'est basée sur]{.mark}[^ed] les connaissances scientifiques actuelles[^ee] pour créer l'histoire. Ensuite, la conquête de Mars, c'est souvent [plein de]{.mark} dangers, dans [la leur]{.mark}, Florence Porcel et Erwanna Surcouf proposent une vision optimiste. Évidemment, tout ne sera pas facile pour les nouveaux arrivants, il y aura des tensions, mais grâce à leur collaboration pacifique, la mission sera une réussite. Et un peu d'optimisme, ça fait du bien!
+
+[^ea]: aller mal: to be in bad shape, to be doing badly; aller bien: to be in good shape, to be doing well; aller mieux: to be getting better; aller pire: to be getting worse
+[^eb]: l'installation définitive: permanent settlement
+[^ec]: tandis que: while, whereas
+[^ed]: se baser sur: to be based on
+[^ee]: connaissances scientifiques actuelles: current scientific knowledge; actuel: current (adj.); actuellement: currently (adv.)
+
+**Enfin le style des dessins d'Erwanna Surcouf.**
+
+[Contrairement aux]{.mark} dessins très travaillés et colorés des BD de science-fiction, [les siens]{.mark} sont simples et laissent toute la place au texte. En effet, _Mars Horizon_ est avant tout une œuvre pédagogique. Lire et apprendre en même temps, c'est chouette, non?!
+
+Mars nous facine, y aller est un rêve d'enfant. Si c'est [le vôtre]{.mark}, lisez _Mars Horizon_, vous vous ferez une idée de ce qui vous attend sur la planète rouge!
 
 
 

@@ -13,7 +13,7 @@ project:
     - '*.qmd'
     - 'lenouveautaxi3/**/*.qmd'
     - 'af-nice-b1-2/**/*.qmd'
-    # - 'defi*/**/*.qmd'
+    - 'defi*/**/*.qmd'
     # - 'archive/**/*.qmd'
 
 website:
