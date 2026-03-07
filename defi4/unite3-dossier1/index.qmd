@@ -34,7 +34,7 @@ Les unes de la presse[^a2] masculine et féminine ont toujours été le reflet d
 [^b1]: repère = reference point (n.m.); modèle = model (n.m.)
 
 [D]{style="font-size:2.5em; line-height:1;"}
-ésormais[^b2], [...] elles veulent toutes être blondes ou brunes, avoir des jambes interminables[^b3], avoir un teint minces[^b4] avec des lèvres pulpeuses[^b5], et un fessier rebondi[^b6]. Elles [ne lésinent[^b7] pas sur moyens]{.mark} pour pouvoir atteindre leurs objectifs. Certaines engagent toutes leurs économies dans la [chirurgie esthétique]{.mark}, dans l'achat de produits décapants et éclaircissants[^b8], dans l'achat de perruques[^a9] et produites capillaires[^b10], dans les injections de toutes sortes. Elle semble révolue l'époque où la femme africaine [était fière de]{.mark}[^ba] son joli teint noir ébène[^bb] qui luisait[^bc] au soleil. 
+ésormais[^b2], [...] elles veulent toutes être blondes ou brunes, avoir des jambes interminables[^b3], avoir un teint minces[^b4] avec des lèvres pulpeuses[^b5], et un fessier rebondi[^b6]. Elles [ne lésinent[^b7] pas sur moyens]{.mark} pour pouvoir atteindre leurs objectifs. Certaines engagent toutes leurs économies dans la [chirurgie esthétique]{.mark}, dans l'achat de produits décapants et éclaircissants[^b8], dans l'achat de perruques[^b9] et produites capillaires[^b10], dans les injections de toutes sortes. Elle semble révolue l'époque où la femme africaine [était fière de]{.mark}[^ba] son joli teint noir ébène[^bb] qui luisait[^bc] au soleil. 
 Elles veulent toutes désormais être blanches comme leurs idoles; pour cela, elles se sont plongées dans la dépigmentation. Bravant les risques de cancer de la peau, elles utilisent des produits toxiques et dangereux (eau de Javel, hydroquinone, eau oxygénée...).Elle [est terminée l'époque]{.mark}[^bd] où les femmes corpulentes[^be] [avaient la cote]{.mark}[^bf]. 
 Complexées par leur poids[^bg] et leurs formes généreuses, les femmes africaines se plongent[^bh] de plus en plus dans des régimes forcés pour apparaître chétives[^bj], anorexiques avec un postérieur plat comme une planche[^bk]. 
 
@@ -59,14 +59,52 @@ Complexées par leur poids[^bg] et leurs formes généreuses, les femmes africai
 [^bk]: postérieur plat comme une planche: flat buttocks like a board; postérieur: buttocks (n.m.), from adj. postérieur; plat: flat; planche: board (n.f.)
 
 
+Au Niger, les femmes corpulentes, dodues[^ca] sont encore appréciées. Leur forte corpulence étant signe de santé, de bien-être, d'aisance[^cb]. La femme maigre[^cc] étant considérée comme pauvre, maltraitée[^cd], ou malade. Dans plusieurs pays de l'Afrique de l'Ouest, des concours[^ce] de Miss beauté sont organisés pour récompenser[^cf] les femmes fortes et corpulentes. Cependant, ce n'est pas une invitation à l'obésité et à ses complications. 
+
+[^ca]: dodu(e): plump, chubby; dodu: plumpness (n.m.)
+[^cb]: aisance: ease, comfort, affluence (n.f.)
+[^cc]: maigre: thin, skinny; maigreur: thinness (n.f.)
+[^cd]: maltraité(e): mistreated, abused; maltraitance: mistreatment, abuse (n.f.)
+[^ce]: concours: contest, competition (n.m.)
+[^cf]: récompenser: to reward, to award; récompense: reward (n.f.)
+
+:::{.callout-tip icon=false .column width="80%"}
+#### La phrase nominale
+
+> **_Leur forte corpulence étant signe de santé, de bien-être, d'aisance._**
+
+In Englise, the above sentence would be considered grammatically incorrect. But in French, it's called **la phrase nominale** and is very common in literature or stylistic writing. It consists of a noun phrase that functions as a complete sentence, often used to create emphasis or a particular tone.
+:::
+
+
+Avec l'explosion des médias, les canons de beauté de la femme africaine ont tendance à s'harmoniser[^da] avec ceux de la femme occidentale. Les femmes africaines s'identifient de nos jours à leurs sœurs d'Occident. Les coiffures sont faites à présent de greffes et de mèches[^db]. Elle semble lointaine[^dc] l'époque des tresses, des tissages, des nattes. Triste est de constater[^dd] que le colonialisme se poursuit[^de] à travers la mode, la culture et les médias.
+
+Les critères[^df] de beauté variant [d'une personne à une autre]{.mark}[^dg], les goûts et les couleurs ne se discutent pas[^dh]. Le but[^di] de cet article n'est pas de renier[^dj] les apports[^dk] de la mondialisation et du modernisme, mais d'inviter la femme africaine à savoir en faire bon usage[^dl]. Nous invitons les femmes africaines à garder leur identité culturelle et leur beauté naturelle. 
+
+[^da]: s'harmoniser: to harmonize, to align; harmonie: harmony (n.f.)
+[^db]: greffe: hair transplant (n.f.); mèche: strand of hair (n.f.); coiffure: hairstyle (n.f.)
+[^dc]: lointain(e): distant, far away; lointain: distance (n.m.)
+[^dd]: constater: to observe, to note, to find
+[^de]: se poursuivre: to continue, to go on; à travers: through, across
+[^df]: critère: criterion (n.m.)
+[^dg]: d'une personne à une autre: from one person to another; varier: to vary
+[^dh]: se discuter: to be discussed, to be debated; les goûts: preferences, tastes 
+[^di]: but: goal (n.m.)
+[^dj]: renier: to deny, to disown
+[^dk]: apport: contribution, input (n.m.)
+[^dl]: en faire bon usage: to make good use of something; usage: use (n.m.)
 
 
 
-Au Niger, les femmes corpulentes, dodues sont encore appréciées. Leur forte corpulence étant signe de santé, de bien-être, d'aisance. La femme maigre étant considérée comme pauvre, maltraitée, ou malade. Dans plusieurs pays de l'Afrique de l'Ouest, des concours de Miss beauté sont organisés pour récompenser les femmes fortes et corpulentes. Cependant, ce n'est pas une invitation à l'obésité et à ses complications. 
+:::{.callout-tip icon=false .column width="80%"}
+#### L'inversion du sujet
+> _Triste est de constater que le colonialisme se poursuit à travers la mode, la culture et les médias._
 
-Avec l'explosion des médias, les canons de beauté de la femme africaine ont tendance à s'harmoniser avec ceux de la femme occidentale. Les femmes africaines s'identifient de nos jours à leurs sœurs d'Occident. Les coiffures sont faites à présent de greffes et de mèches. Elle semble lointaine l'époque des tresses, des tissages, des nattes. Triste est de constater que le colonialisme se poursuit à travers la mode, la culture et les médias.
+French inverse long subject for stylistic reasons or dramatic effect. This is common in literature or sometimes in speeches. In professional settings, however, this can be seen as being dramatic or pompous, thus the more neutral expression is preferred:  
 
-Les critères de beauté variant d'une personne à une autre, les goûts et les couleurs ne se discutent pas. Le but de cet article n'est pas de renier les apports de la mondialisation et du modernisme, mais d'inviter la femme africaine à savoir en faire bon usage. Nous invitons les femmes africaines à garder leur identité culturelle et leur beauté naturelle. 
+> _Il est triste de constater que le colonialisme se poursuit à travers la mode, la culture et les médias._
+
+:::
 
 # TEXTE: Cheveux AFRO la révolution du retour au naturel
 
@@ -75,11 +113,23 @@ Les critères de beauté variant d'une personne à une autre, les goûts et les 
 > _**"C'est le seul cheueu qui défie les lois de la grauvité, il faut le porter comme une couronne."**_  
 > _Fatou N'Diaye_
 
-Comme le note la sociologue Juliette Sméralda dans son _Peau noire, cheveu crépu -- L'histoire d'une aliénation_, les chevelures afro sont, depuis des siècles, discriminées et suspectées d'être moins hygiéniques et moins belles que les cheveux lisses. En France, depuis le début des années 2000, un phénomène de retour au naturel émerge, et ce processus ressemble à une révolution, car les femmes noires ont passé des décennies à se faire défriser les cheveux, ou à se coiffer à l'occidentale. 
+Comme le note la sociologue Juliette Sméralda dans son _Peau noire, cheveu crépu[^ga] -- L'histoire d'une aliénation_, les chevelures[^gb] afro sont, depuis des siècles, discriminées et suspectées d'être moins hygiéniques et moins belles que les cheveux lisses[^gc]. En France, depuis le début des années 2000, un phénomène de retour au naturel émerge, et ce processus [ressemble à]{.mark} une révolution, car les femmes noires ont passé des décennies à se faire défriser les cheveux, ou à se coiffer à l'occidentale. 
 
-Certaines Françaises d'origine africaine se sont fait insulter ou discriminer pour avoir laissé leurs cheveux à l'état naturel. D'autres sont victimes des produits nocifs utilisés par de nombreux coiffeurs afro pour "discipliner" leurs cheveux. Les sociologues parlent d'une domination esthétique héritée de la domination coloniale, qui a imposé un idéal de beauté basé sur des normes blanches. Fort heureusement, les cheveux frisés et crépus entrent dans le paysage médiatique. Cette visibilité a été initiée par des blogueuses et la sphère afro-française. Fatou N'Diaye, connue des internautes sous le nom de _BlackBeautyBag_, est aujourd'hui égérie pour L'Oréal. Son discours est très engagé: "_En tant que femme noire française, dans une société soi-disant libre, j'ai grandi en ne voyant personne dans les publicités, à la télévision, qui me ressemblait. Cette invisibilisation et cette discrimination me suggéraient que ma beauté ne méritait pas d'être montrée, célibrée._"
+[^ga]: crépu: crépu: kinky, frizzy; cheveu: hair (n.m.)
+[^gb]: chevelure: hair, head of hair (n.f.)
+  [^gc]: lisse: straight, smooth; lisser: to straighten, to smooth
 
 
+Certaines Françaises d'origine africaine se sont fait insulter ou discriminer pour avoir laissé leurs cheveux à l'état naturel. D'autres sont victimes des produits nocifs utilisés par de nombreux coiffeurs afro pour "discipliner" leurs cheveux. Les sociologues parlent d'une domination esthétique héritée de la domination coloniale, qui a imposé un idéal de beauté basé sur des normes blanches. [Fort heureusement]{.mark}[^ha], les cheveux frisés et crépus entrent dans le paysage médiatique. Cette visibilité a été initiée[^hb] par des blogueuses et la sphère afro-française. Fatou N'Diaye, connue des internautes sous le nom de _BlackBeautyBag_, est aujourd'hui égérie[^hc] pour L'Oréal. Son discours est très engagé: "_[En tant que]{.mark}[^hd] femme noire française, dans une société [soi-disant]{.mark} libre[^he], j'ai grandi [en ne voyant personne]{.mark}[^hf] dans les publicités, à la télévision, qui me ressemblait. Cette invisibilisation et cette discrimination me suggéraient[^hg] que ma beauté ne méritait[^hi] pas d'être montrée, célibrée._"
+
+[^ha]: fort heureusement: fortunately, luckily
+[^hb]: initier: to initiate
+[^hc]: égérie: muse, spokesperson (n.f.)
+[^hd]: en tant que: as, in the capacity of
+[^he]: soi-disant: so-called, supposedly; soi-disant libre: supposedly free
+[^hf]: just a complicated gérondif: en voyant
+[^hg]: suggérer: to suggest
+[^hi]: mériter: to deserve
 
 
 
