@@ -133,11 +133,64 @@ Certaines Françaises d'origine africaine se sont fait insulter ou discriminer p
 
 
 
+# GRAMMAIRE
+
+## LA FORME PASSIVE
+
+- En géneral, on construit la voix passive avec l'auxiliaire [**_être_** + **_participe passé_** + l'agent]{.markpurple}. Le sujet est la personne ou la chose qui subit l'action.  
+  Ex: Les femmes **_sont influencées_** par les magazines.  
+
+  On peut supprimer l'auxiliaire [**_être_**]{.markpurple} quand la forme passive sous-entend[^ja] le pronom relatif [qui]{.markpurple}.  
+  Ex: Des produits nocifs utilisés par des coiffeurs ... (_**qui sont** utilisés par des coiffeurs..._)
+
+  On peut utiliser [**_se faire / se laisser_** + infinitif]{.markpurple}, quand le sujet est une personne.  
+  Ex: Elles **_se font teindre_** les cheveux.  
+  Ex: Il **_se laisse pousser_** la barbe.
+
+  [**_Se laisser_**]{.markpurple} insiste sur la passivité du sujet. [**_Ne pas se laisser_**]{.markpurple} insiste sur la résistance du sujet.  
+  Ex: Elles **_ne se laissent pas influencer_** par les médias.
 
 
+:::{.callout-important .column style="margin-left: 2em"}
+#### Attention
+Aux temps composés, les participes passés de **se faire** et **se laisser** + infinitif sont invariables.  
+Ex: Elles **se sont fait défriser** les cheveux.
+
+:::
+
+- On peut aussi utiliser un verbe à la forme pronominale.  
+  Ex: Le combat **se mène** dans le monde du cinéma. 
+
+- Certains verbes à la forme passive sont suivis de la préposition [de]{.markpurple} au lieu de [par]{.markpurple}.  
+  Ex: Ce retour au naturel **_s'accompagne d_**'une valorisation. 
 
 
+[^ja]: sous-entendre: to imply
 
+
+### EXERCICES: La forme passive
+
+_Reformulez les phrases suivantes en utilisant la forme passive [être + participe passé]{.mark}._
+
+a. Cette mannequins s'est fait remarquer pour son physique atypique.  
+
+   > _Cette mannequins a été remarquée pour son physique atypique._
+
+b. Je me suis laissé séduire par le physique de cet homme mais je l'ai regretté dès qu'il a ouvert la bouche.
+
+   > J'ai été séduit par le physique de cet homme mais je l'ai regretté dès qu'il a ouvert la bouche. 
+
+c. Les gens se laissent trop influencer par les couvertures de magazines.
+
+   > Les gens sont trop influencés par les couvertures de magazines. 
+
+d. De nombreuses femmes se font maquiller et coiffer par un professionnel le jour de leur mariage.
+
+   > De nombreuses femmes sont maquillées et coiffées par un professionnel le jour de leur mariage. 
+
+e. À partir du jour où elle s'est laissé coiffer au naturel, elle n'a plus jamais lissé ses magnifiques cheveux crépus.
+
+   > À partir du jour où elle a été coiffée au naturel, elle n'a plus jamais lissé ses magnifiques cheveux crépus.  
 
 
 
