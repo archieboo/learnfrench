@@ -1,0 +1,110 @@
+---
+title: "Unité 4: D'amour ou d'amitié - Dossier 1"
+date: "2026-03-20"
+categories: ["B2", "défi4", "Unité4" ]
+reference-location: document # margin, block, section, document
+citation-location: document #margin
+image: "https://images.unsplash.com/photo-1467810563316-b5476525c0f9?q=80&w=640"
+---
+# TEXTE: Voyez comme on s'aime
+
+[![](https://images.unsplash.com/photo-1649183424680-464747a8e43d?q=80&w=640)]{.column-margin}
+
+2019, l'année qui fait battre les cœurs des familles royales? Tandis que Mathilde et Philippe de Belgique fêtent leurs noces de porcelaine, le prince Harry et Meghan Markle, après s'être dit oui, donnent naissance à un petit Archie, pendant que Charlotte de Monaco et son nouveau chéri Dimitri Rassam se passent la bague au doigt. Et nous, nous n'avons d'yeux que pour eux! De l'enterrement de vie de célibataire jusqu'au jour J, en passant par les préparatifs du mariage, les tourtereaux mettent soigneusement en scène leur amour sous nos yeux ébahis. Et dans la vraie vie?
+
+La tendance serait-elle aux mariages qui en mettent plein la vue? Les façons de manifester son amour pour son ou sa bien-aimé(e) sont-elles en train d'évoluer? Face à ce retour en force du mariage, Votre Actu enquête, et pas seulement chez les têtes couronnées. 
+
+
+
+
+[**En Tunisie: vive la mariée!**]{.markpink style="font-size:1.2em; display: flex; "}
+
+::::{ style="padding: 10px; border: 1px dashed pink; "}
+
+La future mariée est le centre du monde pendant trois à sept jours (peu importe la durée tant que les étapes sont respectées). À chaque jour, sa cérémonie. Ici,  celle du henné. 
+
+Le jour de la présentation aux invités, la fiancée change jusqu'à sept fois de robe, et lors du _dokla_ (le dernier jour), les deux époux se font admirer et féliciter par leurs proches... époustouflés!
+
+::::
+
+<br>
+
+[**Des cérémonies françaises, belges et suisses à couper le souffle**]{.markyellow style="font-size:1.2em; display: flex; "}
+
+::::{ style="padding: 10px; border: 1px dashed gold; "}
+
+En Belgique et en France, quand on déclare sa flamme à mamour, on la lui déclare de manière de plus en plus grandiose. 
+
+Chouchou et doudou adorent scénariser leur mariage pour épater leurs convives. Ils leur en mettent plein la vue avec des feux d'artifice ou des lâchers de lanternes... Tout ça après avoir annoncé l'événement via une vidéo postée sur YouTube. 
+
+28 000 euros, c'est le prix moyen d'un mariage en Suisse, pour un marché rapportant plus d'un milliard d'euros par an!
+
+Une somme astronomique dont profitent les organisateurs de mariage, qui sont de plus en plus nombreux à surfer sur cette tendance des mariages chics et chocs.
+
+::::
+
+<br>
+
+[**Au Canada: l'automariage, ou comment être sûr de ne pas se prendre un râteau**]{.markred style="font-size:1.2em; display: flex; "}
+
+::::{ style="padding: 10px; border: 1px dashed salmon; "}
+
+Ras-le-bol de ne pas trouver l'âme sœur? Pas de chum ni de blonde en vue? Rassurez-vous, la sologamie est tendance! Demandez votre propre main en mariage... et passez à l'acte lors d'une cérémonie devant vos proches (très étonnés!)... mais la bague, vous vous la passez vous-même au doigt! Ce mariage n'a aucune valeur légale, mais cette tendance prend de plus en plus d'ampleur au Canada, ainsi qu'au Japon et aux États-Unis.
+
+::::
+
+<br>
+
+# TEXTE: L'amour comme dans les films
+
+[![](https://images.unsplash.com/photo-1636886556199-6aa6988c6323?q=80&w=640)]{.column-margin}
+
+[_Interview_]{style="font-size:1.2em;"}
+
+:::{style="height:1px; margin-left: 0px; margin-top:-20px; margin-bottom: 10px; background-color:#333333; align-item=top;"}
+:::
+
+:::{.fst-italic}
+«2019, l'été de l'amour»! Netflix nous l'avait annoncé, et il est arrivé! Du moins, sur le petit écran. Les 80 millions d'abonnés qui, en 2018, avaient regardé les comédies romantiques Netflix sur leur canapé, sont encore au rendez-vous, officialisant ainsi le retour glorieux de ce genre. Agacés ou écœurés devant ce type de programmes, nous ne pouvons pas nous empêcher de les regarder. Influencent-ils notre façon d'aimer? Pour le meilleur... ou pour le pire? Alexandre Cougouille, sociologue, nous en dit plus.
+:::
+
+
+[Ces films et séries romantiques ont-ils un impact sur notre vie amoureuse?]{.underline .fw-bold .text-warning}
+
+[Alexandre Cougouille:]{.text-warning} Ce n'est pas une question de films ou de séries romantiques, c'est une question de temps passé devant les écrans. Au Canada, une enquête a révélé que si certains couples ont moins de rapports sexuels, ce n'est pas parce qu'ils ont moins de sentiments, mais plutôt parce qu'ils enchaînent chaque soir les épisodes ou les films, sans prendre le temps pour leurs ébats. Les écrans ont donc un impact sur ce qu'il se passe dans votre chambre, il est préférable de ne pas les y emmener. Séparez-vous-en avant d'aller vous coucher!
+
+
+[Bon d'accord, mais est-ce que le spectateur aura plus de coups de foudre si on lui en montre sans cesse dans les films?]{.underline .fw-bold .text-warning}
+
+[A.C.:]{.text-warning} Pas forcément... Les comédies romantiques créent des attentes irréalistes, on y voit des schémas assez stérotypés. Par exemple, les cœurs brisés finiront toujours par trouver l'âme sœur, tout le monde peut facilement tomber amoureux, l'élu de votre cœur vous donnera toujours des papillons dans le ventre, etc. Elles embellissent les relations pour le spectateur et les lui présentent de manière faussée. Gardons à l'esprit qu'il ne s'agit que de fictions!
+
+
+[Pensez-vous que tout cet amour scénarisé ait un impact négatif?]{.underline .fw-bold .text-warning}
+
+[A.C.:]{.text-warning} Pas du tout. Prenons l'exemple de la série sénégalaise _Maîtresse d'un homme marié_ qui bat des records d'audience sur YouTube et qui déchaîne les passions. Elle représente la réalité des rapports amoureux au Sénégal et prône des relations plus égalitaires . 
+
+[Alors, devrait-on seulement mettre en scène des histories d'amour égalitaires et équilibrées?]{.underline .fw-bold .text-warning}
+
+[A.C.:]{.text-warning} Non! Parce que la réalité n'est pas toujours idéale. Pensez aux films et aux séries avec leurs tromperies, leurs ruptures, leurs personnages au cœur d'artichaut qui se font plaquer sans arrêt... Toutes ces représentations peuvent nous amener à nous poser des questions sur l'amour et ce qu'on en attend.
+
+
+
+
+::::{.rounded .markpink style="padding: 10px; border: 2px dashed pink; box-shadow: 2px 2px 8px rgba(0,0,0,0.4);"}
+
+[COMÉDIES ROMANTIQUES: attention, danger?]{.fw-bold .fst-italic}
+
+Ah, les comédies romantiques! Un amoureux transi poursuit sa belle pour cause de passion amoureuse aiguë entraînant une foule de situations comiques. Les États-Unis font la part belle à ces productions à l'eau de rose. Pourtant, outre-Atlantique, la professeure Julia Lippman n'a pas du tout le sourire. Experte du genre et de la sexualité à l'université du Michigan, elle a mené l'enquête pour savoir si ces films que nous aimons tant avaient une influence positive ou négative sur nos relations amoureuses. 
+
+La spécialiste et son équipe révèlent que les femmes acceptent plus facilement les comportements obsessionnels s'ils ont une perspective romantique. Autrement dit: se faire harceler, non, mais se faire harceler par un amoureux, ça se discute... Julia Lippman a confié au site du _Guardian_ que « les femmes qui ont visionné des filmes montrant une poursuite romantique persistante étaient plus à même d'accepter ce qu'on appelle les "mythes du harcèlement" que les femmes qui ont regardé des films montrant des aggressions effrayantes ou des documentaires animalier.» Ces mythes du harcèlement regroupent « des croyances fausses ou exagérées sur le harcèlement qui minimisent sa gravité ».
+
+La professeure Lippman a expliqué que « le problème de ces comédies est qu'elles jouent sur le mythe de l'amour plus fort que tout. C'est bien sûr faux. L'amour, c'est super, mais le respect de l'autre l'est tout autant ».
+
+::::
+
+
+
+
+
+
+
