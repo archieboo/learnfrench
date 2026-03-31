@@ -12,7 +12,20 @@ image: "https://images.unsplash.com/photo-1656408455261-e7e915a3285c?q=80&w=640"
 
 [![](https://images.unsplash.com/photo-1643320478404-a7a0785adb32?q=80&w=640)]{.column-margin}
 
-_On dit que l'art est le reflet de la société. Que penser alors du thème de l'identité transgenre, ou transidentité (sujet toujours tabou dans nos sociétés modernes) qui s'invite dans de nombreuses créations artistiques depuis une dizaine d'années? Le droit de disposer de son corps: une revendication individuelle et artistiques? Une chose est sûre: si aujourd'hui l'art s'intéresse au corps et au genre, c'est qu'il y a une evolution car dans les oeuvres artistiques, il est toujours question de l'humain dans toute sa complexité._
+_On dit que l'art est le reflet de la société. Que penser[^aa] alors du thème de l'identité transgenre, ou transidentité (sujet toujours tabou dans nos sociétés modernes) qui s'invite[^ac] dans de nombreuses créations artistiques depuis une dizaine d'années? Le droit de disposer[^ab] de son corps: une revendication[^ad] individuelle et artistiques? Une chose est sûre: si aujourd'hui l'art s'intéresse au corps et au genre, c'est qu'il y a une evolution car dans les oeuvres artistiques, il est toujours question de l'humain dans toute sa complexité._
+
+:::{.callout-important .column width="80%"}
+#### L'infinitif de délibération
+Note in _Que penser du thème de l'identité transgenre..._ [penser]{.mark} is in the infinitive form. This is called the "infinitif de délibération". In this sentence, the subject is missing, although it is implying "nous"/"on". It's usually used in formal writing. Other frequent examples include:  
+
+> Que faire? Que dire? ...
+:::
+
+
+[^aa]: que penser de: what to think of; notice here the use of infinitif
+[^ab]: se disposer: prepare; disposer de: have sth at one's disposal
+[^ac]: s'inviter: to invite oneself; here it suggests the natural arrival of this topic, it's inevitable. 
+[^ad]: revendication: claim, demand (n.f.)
 
 
 ::: {style="align-items: center;"}
@@ -24,9 +37,22 @@ _On dit que l'art est le reflet de la société. Que penser alors du thème de l
 ::::
 :::
 
-Avignon 2018, le plus prestigieux festival de théâtre français présente _Trans_, un spectacle de Didier Ruiz. On y voit des hommes et des femmes pour qui être à l'écoute de leur corps ne veut pas dire s'accepter comme ils sont mais signifie, au contraire, accepter de changer de corps et d'apparence. Une sorte "d'amélioration" ou de "correction" pour que leur corps soit en accord avec eux-mêmes. 
+Avignon 2018, le plus prestigieux festival de théâtre français présente _Trans_, un spectacle de Didier Ruiz. [On y voit des hommes et des femmes pour qui être à l'écoute de leur corps ne veut pas dire s'accepter comme ils sont mais signifie, au contraire, accepter de changer de corps et d'apparence]{.markpink}. Une sorte "d'amélioration" ou de "correction" [pour que]{.markpurple}[^ba] leur corps [soit]{.underline} en accord avec eux-mêmes. 
 
+[^ba]: pour que: so that; note the use of subjunctive
 
+:::{.callout-important .column width="80%"}
+#### une phrase très difficile à comprendre
+
+_On y voit des hommes et des femmes [pour qui]{.mark} [être à l'écoute de leur corps]{.markpink} [ne veut pas dire]{.markgreen} [s'accepter comme ils sont]{.markteal} mais [signifie]{.markblue}, au contraire, [accepter de changer de corps et d'apparence]{.markblue}_.
+
+- [pour qui]{.mark}: for whom; here just a relative pronoun
+- [être à l'écoute de leur corps]{.markpink}: to be in tune with their body; this is the subject of the sentence ("ne veut pas dire" and "signifie")
+- [ne veut pas dire]{.markgreen}: does not mean
+- [s'accepter comme ils sont]{.markteal}: accepting themselves as they are
+- [signifie]{.markblue} and [accepter de changer de corps et d'apparence]{.markblue}: "au contraire" broke the flow, but it really was just "sinifie accepter de ..."
+
+:::
 
 ::: {style="align-items: center;"}
 
@@ -37,7 +63,20 @@ Avignon 2018, le plus prestigieux festival de théâtre français présente _Tra
 ::::
 :::
 
-Laure, fillette à la coupe garçonne, emménage dans un nouveau quartier pendant les vacances d'été. Alors qu'elle observe une bande de copains Lisa remarque cette nouvelle tête aux vêtements amples: "T'es nouveau?". Un quiproquo que saisit l'héroïne pour se présenter à la bande en tant que Michaël et adopter cette nouvelle identité... du moins tant que le secret sera gardé. Ce film touchant et finement réalisé entraîne le spectateur dans la quête d'un "garçon manqué", entre recherche d'identité et désir d'intégration.
+Laure, fillette à la coupe garçonne[^ca], [emménage[^cb] dans]{.mark} un nouveau quartier pendant les vacances d'été. Alors qu'elle[^cc] observe une bande de copains, Lisa remarque cette nouvelle tête[^cd] aux vêtements amples[^ce]: "T'es nouveau?". Un quiproquo[^cf] que saisit[^cg] l'héroïne pour se présenter à la bande en tant que[^cz] Michaël et adopter cette nouvelle identité... du moins tant que[^ch] le secret sera gardé. Ce film touchant et finement réalisé entraîne le spectateur dans la quête[^ci] d'un "garçon manqué"[^cl], entre recherche d'identité et désir d'intégration.
+
+[^ca]: coupe garçonne: bob haircut, boyish haircut; garçonne: tomboy. fillette; little girl
+[^cb]: emménager: to move in; deménager: to move; note the use of [emménager dans]{.mark}
+[^cc]: alors que: while
+[^cd]: une nouvelle tête: a new face
+[^ce]: vêtements amples: loose clothes; amples: loose, wide
+[^cf]: quiproquo: misunderstanding, mix-up (n.m.)
+[^cg]: saisir: to grasp, to seize; here it means "to take advantage of", note the inversion: "que saisit l'héroïne..."
+[^ch]: du moins tant que: at least as long as
+[^ci]: quête: quest, search (n.f.)
+[^cl]: garçon manqué: tomboy
+[^cz]: en tant que: as, in the capacity of
+
 
 
 
