@@ -13,15 +13,57 @@ $font-family-serif: "EB Garamond", serif !default;
 // Adjust the base font size for the navbar
 $navbar-font-size: 1.2rem;
 
+/*-- scss:rules --*/
+
+// Slow neon cyan glow for navbar logo
+@keyframes cyan-glow {
+  0%, 100% { filter: drop-shadow(0 0 4px rgba(0, 242, 255, 0.4)); }
+  50%       { filter: drop-shadow(0 0 12px rgba(0, 242, 255, 0.9)); }
+}
+
+// Bling bling shimmer animation
+@keyframes shimmer {
+  0%   { background-position: -200% center; }
+  100% { background-position: 200% center; }
+}
+
+// Navbar logo slow cyan glow
+.navbar-brand {
+  overflow: visible;
+}
+
+.navbar-brand-logo img.navbar-logo {
+  height: 2rem !important;
+  width: auto !important;
+  max-height: none !important;
+  border-radius: 6px;
+  animation: cyan-glow 3s ease-in-out infinite;
+}
+
 // Boost the icons specifically
 .navbar {
   i, .bi {
-    font-size: 1.4rem; 
-    vertical-align: -0.125em; // Fine-tunes the icon's "sit" on the line
+    font-size: 1.4rem;
+    vertical-align: -0.125em;
+  }
+
+  // Nav links shimmer on hover
+  .nav-link:hover, .navbar-nav .nav-link:hover {
+    background: linear-gradient(
+      90deg,
+      #00f2ff 0%,
+      #ffd700 25%,
+      #ff4d00 50%,
+      #ffd700 75%,
+      #00f2ff 100%
+    );
+    background-size: 200% auto;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    animation: shimmer 1.2s linear infinite;
   }
 }
-
-/*-- scss:rules --*/
 
 // 3. Apply to Headings and Main Article Content
 h1, h2, h3, h4, h5, h6,
@@ -34,6 +76,12 @@ section {
 #quarto-content {
   font-family: $font-family-serif;
   font-size: 1.15rem; // Optional: Garamond usually needs to be slightly larger to be legible
+  line-height: 1.7;
+}
+
+// Constrain prose width for comfortable reading (~75 chars)
+article.content, .quarto-content-body {
+  max-width: 720px;
 }
 
 // 4. Target the Blog Index (Listing Page)
@@ -44,11 +92,6 @@ section {
 .quarto-listing-table td {
   font-family: $font-family-serif;
   text-transform: none; // Sandstone often forces uppercase; this reverts it for Garamond
-}
-
-//5. bump font size for better readability
-#quarto-content {
-  font-size: 1.15rem;
 }
 
 // Shared styles for all marker classes
@@ -70,13 +113,19 @@ section {
 .markteal   { background-color: #ccfbf1; }
 .markblue   { background-color: #dbeafe; }
 .markpurple { background-color: #f3e8ff; }
-.marksilver { background-color: #f3f4f6; } // Warm Light Gray
-.markslate  { background-color: #e2e8f0; } // Cool Medium Gray
+.marksilver { background-color: #f8f9fa; } // Near-white light gray
+.markslate  { background-color: #c8d3df; } // Noticeably darker cool gray
+
+/* Margin images — uniform width */
+.column-margin img {
+  width: 95%;
+  height: auto;
+}
 
 /* Custom footnote in block */
 .footnotes {
   font-family: $font-family-sans-serif;
-  font-size: 0.65em; // Slightly smaller than body text
+  font-size: 0.75em; // Slightly smaller than body text
   
   ol li {
     margin-bottom: 0.5rem; // controls the gap between footnotes
@@ -104,16 +153,26 @@ section {
   display: inline-block; // allows text-shadow to render properly
   transition: all 0.3s ease; // smooth transition when hovering 
 
-  color: #00f2ff !important; 
-  text-shadow: 
-    0 0 5px #00f2ff,   /* Outer glow */
-    0 0 10px rgba(255, 157, 0, 0.6); // inner glow with some transparency
+  color: #00f2ff !important;
+  animation: cyan-glow 3s ease-in-out infinite;
 
 
 }
 
 /* Add a hover effect to the navbar title */
 .navbar-title:hover {
-  color: #ff4d00 !important;       
-  text-shadow: 0 0 10px #ff4d00;
+  background: linear-gradient(
+    90deg,
+    #00f2ff 0%,
+    #ffd700 25%,
+    #ff4d00 50%,
+    #ffd700 75%,
+    #00f2ff 100%
+  );
+  background-size: 200% auto;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-shadow: none;
+  animation: shimmer 1.2s linear infinite;
 }

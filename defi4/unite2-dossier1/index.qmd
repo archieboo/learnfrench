@@ -9,7 +9,7 @@ image: "https://images.unsplash.com/photo-1509100194014-d49809396daa?q=80&w=640"
 
 # TEXTE: Initiatives agricoles au Maghreb
 
-Le Maroc, l'Algérie et la Tunisie partagent le même climat, la même végétation et les mêmes problématiques: la sècheresse des sols et la diminution des terres cultivables. Autre points communs: une population rurale très importante et un potentiel agricole porté par des femmes, dans des exploitations à taille humaine. Ces initiatives nous montrent que, parfois, des solutions résident dans les problèmes. 
+Le Maroc, l'Algérie et la Tunisie partagent le même climat, la même végétation et les mêmes problématiques: la sécheresse des sols et la diminution des terres cultivables. Autres points communs: une population rurale très importante et un potentiel agricole porté par des femmes, dans des exploitations à taille humaine. Ces initiatives nous montrent que, parfois, des solutions résident dans les problèmes. 
 
 ::: {style="display: flex; align-items: center; gap: 10px;"}
 [_Focus Maroc_ 🇲🇦]{style="font-size:1.5em; line-height:1;"}
@@ -21,7 +21,7 @@ Le Maroc, l'Algérie et la Tunisie partagent le même climat, la même végétat
 [![](https://images.unsplash.com/photo-1520123704147-ed3a34036262?q=80&w=640)]{.column-margin}
 
 
-Avril 2019, le SIAM, le Salon International de l’Agriculture au Maroc, présente pour la première fois un espace résérvé à l’agriculture biologique. Parmi les exposants, Malika Mouilek, $2_e$ lauréate du Prix Terre de femmes Maroc 2019, défend[^a1] à la fois l'agriculture biologique et le travail des femmes dans son village de Dour Laglalcha. Selon elle, l'agriculture intensive [a fait diminuer]{.markred} les stocks d'eau et a dégradé la qualité du sol. Uniquement vendus sur les marchés locaux, et traités avec des insecticides naturels, les agrumes[^a2] et produits maraîchers[^a3] biologiques de ces femmes ne bénéficient pas de certification bio. Elles veulent se constituer[^a4] en coopérative pour [bénéficier d]{.mark}[^a5]'aides gouvernementales et pérenniser[^a6] les emplois d'une trentaine de saisonniers[^a7].
+Avril 2019, le SIAM, le Salon International de l’Agriculture au Maroc, présente pour la première fois un espace réservé à l’agriculture biologique. Parmi les exposants, Malika Mouilek, 2^e^ lauréate du Prix Terre de femmes Maroc 2019, défend[^a1] à la fois l'agriculture biologique et le travail des femmes dans son village de Dour Laglalcha. Selon elle, l'agriculture intensive [a fait diminuer]{.markred} les stocks d'eau et a dégradé la qualité du sol. Uniquement vendus sur les marchés locaux, et traités avec des insecticides naturels, les agrumes[^a2] et produits maraîchers[^a3] biologiques de ces femmes ne bénéficient pas de certification bio. Elles veulent se constituer[^a4] en coopérative pour [bénéficier d]{.mark}[^a5]'aides gouvernementales et pérenniser[^a6] les emplois d'une trentaine de saisonniers[^a7].
 
 :::{.callout-important style="width: 80%;"}
 ###### faire + verbe à l'infinitif
@@ -52,7 +52,7 @@ In both examples, the subject is not doing the action themselves.
 
 [![](https://images.unsplash.com/photo-1566622219044-7948b6b7745e?q=80&w=640)]{.column-margin}
 
-Le figuier de Barbarie[^a8], très répandu[^a9] en Méditerranée, a ranimé[^a10] la commune de Sidi Fredi, prés d'Alger, où beaucoup de jeunes sans emploi rêvent d'émigration. L'effet de mode[^a11] autour des qualité cosmétiques et alimentaires de ce cactus a permis d'augmenter la production. [À l'exception de]{.mark} épines, tout est utilisable (pépins, fleurs, pulpe du fruit...) dans cette plante capable de pousser sur des terres arides. Depuis 2013, les autorités agricoles locales encouragent le développement de la culture de cette plante, dont on extrait [une des huiles]{.mark} les plus chères du monde utilisée en cosmétique. Certifiée bio par des organismes étrangers (une telle certification n'existe pas en Algérie), l'huile de figue de Barbarie s'exporte en France, en Allemagne et au Quatar. Dan la région, la transformation du cactus a fait émerger une économie familiale qui offre aux femmes employées et aux jeunes un espoir d'avenir.
+Le figuier de Barbarie[^a8], très répandu[^a9] en Méditerranée, a ranimé[^a10] la commune de Sidi Fredi, près d'Alger, où beaucoup de jeunes sans emploi rêvent d'émigration. L'effet de mode[^a11] autour des qualités cosmétiques et alimentaires de ce cactus a permis d'augmenter la production. [À l'exception de]{.mark} épines, tout est utilisable (pépins, fleurs, pulpe du fruit...) dans cette plante capable de pousser sur des terres arides. Depuis 2013, les autorités agricoles locales encouragent le développement de la culture de cette plante, dont on extrait [une des huiles]{.mark} les plus chères du monde utilisée en cosmétique. Certifiée bio par des organismes étrangers (une telle certification n'existe pas en Algérie), l'huile de figue de Barbarie s'exporte en France, en Allemagne et au Qatar. Dans la région, la transformation du cactus a fait émerger une économie familiale qui offre aux femmes employées et aux jeunes un espoir d'avenir.
 
 [^a8]: le figuier de Barbarie: prickly pear cactus
 [^a9]: répandu: widespread; répandre: to spread
@@ -69,7 +69,7 @@ Le figuier de Barbarie[^a8], très répandu[^a9] en Méditerranée, a ranimé[^a
 :::
 
 [![](https://images.unsplash.com/photo-1686768846795-30af3516270b?q=80&w=640)]{.column-margin}
-Grâce à ses racines profondes[^ba], l'acacia moringa puise[^bb] l'eau à 60 mètres sous terre. Sa culture permet de limiter l'arrosage, car il protège le sol avec ses feuilles et l'humidifie. Depuis 2012, Sarah Toumi plante ces arbustes[^bc] dans la région agricole au nord de Sfax. Son idée est simple: implanter[^bd] l'acacia dans les cultures du pays et changer les habitudes des agriculteurs. Elle a d'abord [commencé à]{.mark} travailler avec des femmes, pour [la plupart propriétaires]{.mark} de petites parcelles de terre. Aujourd'hui, son initiatve institulée[^be] Acacia pour tous fournit[^bf] des graines[^bg] aux agricultrices. Elles produisent ensuite du miel ou des tisanes destinés au marché européen. Elles travaillent dans le cadre d'une coopérative qui leur offre la possibilité de commercialiser leur production.
+Grâce à ses racines profondes[^ba], l'acacia moringa puise[^bb] l'eau à 60 mètres sous terre. Sa culture permet de limiter l'arrosage, car il protège le sol avec ses feuilles et l'humidifie. Depuis 2012, Sarah Toumi plante ces arbustes[^bc] dans la région agricole au nord de Sfax. Son idée est simple: implanter[^bd] l'acacia dans les cultures du pays et changer les habitudes des agriculteurs. Elle a d'abord [commencé à]{.mark} travailler avec des femmes, pour [la plupart propriétaires]{.mark} de petites parcelles de terre. Aujourd'hui, son initiative intitulée[^be] Acacia pour tous fournit[^bf] des graines[^bg] aux agricultrices. Elles produisent ensuite du miel ou des tisanes destinés au marché européen. Elles travaillent dans le cadre d'une coopérative qui leur offre la possibilité de commercialiser leur production.
 
 [^ba]: profond: deep
 [^bb]: puiser: to draw, to tap into (a resource)
@@ -102,8 +102,8 @@ Grâce à ses racines profondes[^ba], l'acacia moringa puise[^bb] l'eau à 60 m�
 
 :::{.markred style = "padding: 10px; border: 1px solid #413d3d; margin-top: 10px; font-family: 'Roboto'; font-size: .8em;"}
 
-[🤬]{style="font-size:2.5em; line-height:1; inline-block: true; margin-right: 15px;"}
-Je suppose que la toxicité des pesticides est connue dans les pays européens. Au Burkina Faso, leurs conditions d'utilisation [font froid dans le dos]{.mark}[^k1]. [À ce qu'il paraît]{.mark}[^k2], la moitié des vendeurs et des algriculteurs ne savent ni lire ni écrire, ils ignorent le nom des produits qu'ils utilisent... [Ça me révolte]{.mark}! J'ai aussi lu un reportage sur ... [à propos de]{.mark}[^k3] l'expérience du coton transgénique [menée au]{.mark}[^k4] Burkina Faso. En principe, ça devait enrichir les paysans en leur faisant économiser sur l'engrais et les pesticides. Tu parles! Beaucoup se sont retrouvés [sur la paille (sans jeu de mots)]{.mark}[^k5]. [J'en veux terriblement à]{.mark}[^k6] tous ceux qui pensent plus au profit qu'aux humains (Monsanto, l'État, la list serait longue...).
+[🤬]{style="font-size:2.5em; line-height:1; display: inline-block; margin-right: 15px;"}
+Je suppose que la toxicité des pesticides est connue dans les pays européens. Au Burkina Faso, leurs conditions d'utilisation [font froid dans le dos]{.mark}[^k1]. [À ce qu'il paraît]{.mark}[^k2], la moitié des vendeurs et des agriculteurs ne savent ni lire ni écrire, ils ignorent le nom des produits qu'ils utilisent... [Ça me révolte]{.mark}! J'ai aussi lu un reportage sur ... [à propos de]{.mark}[^k3] l'expérience du coton transgénique [menée au]{.mark}[^k4] Burkina Faso. En principe, ça devait enrichir les paysans en leur faisant économiser sur l'engrais et les pesticides. Tu parles! Beaucoup se sont retrouvés [sur la paille (sans jeu de mots)]{.mark}[^k5]. [J'en veux terriblement à]{.mark}[^k6] tous ceux qui pensent plus au profit qu'aux humains (Monsanto, l'État, la liste serait longue...).
 :::
 
 [^k1]: faire froid dans le dos: to send chills down one's spine
@@ -116,8 +116,8 @@ Je suppose que la toxicité des pesticides est connue dans les pays européens. 
 
 :::{.markblue style = "padding: 10px; border: 1px solid #413d3d; margin-top: 10px; font-family: 'Roboto'; font-size: .8em;"}
 
-[🧐]{style="font-size:2.5em; line-height:1; inline-block: true; margin-right: 15px;"}
-[Au risque de choquer]{.mark}, je crois qu'il ne faut pas complètement diaboliser[^l1] les pesticides. Je vous rappelle que le secteur agricole constitue la principale source de revenus pour enrivon 90% des Burkinabés. Comment voulez-vous que la population se nourrisse si on ne protège pas les cultures? [Sans parler du fait que]{.mark}[^l2] les pesticides tuent les moustiques, porteurs de maladies mortelles...
+[🧐]{style="font-size:2.5em; line-height:1; display: inline-block; margin-right: 15px;"}
+[Au risque de choquer]{.mark}, je crois qu'il ne faut pas complètement diaboliser[^l1] les pesticides. Je vous rappelle que le secteur agricole constitue la principale source de revenus pour environ 90% des Burkinabés. Comment voulez-vous que la population se nourrisse si on ne protège pas les cultures? [Sans parler du fait que]{.mark}[^l2] les pesticides tuent les moustiques, porteurs de maladies mortelles...
 :::
 
 [^l1]: diaboliser: to demonize, to vilify
@@ -140,7 +140,7 @@ Je suppose que la toxicité des pesticides est connue dans les pays européens. 
 :::{.markteal style = "padding: 10px; border: 1px solid #413d3d; margin-top: 10px; font-family: 'Roboto'; font-size: .8em; "}
 
 [😓]{style="font-size:2.5em; line-height:1; inline-block: true; margin-right: 15px;"}
-J'admets que les pesticides facilitent le travail des agriculteurs, mais il est indéniable qu'ils sont nocifs[^n1] pour l'humain! Il est évidemment indispensable de sensibiliser les populations, mais c'est insuffisant. Selon le docteur hubert Bationo, de l'université de Ouagadougou, il faut encourager la recherche sur les biopesticides et promouvoir[^n2] ceux qui sont déjà connus. [Sauf erreur de ma part]{.mark}[^n3], c'est qui sont déjà le cas dans certains pays, notamment le Bénin. [Prenons exemple sur eux]{.mark}[^n4]!
+J'admets que les pesticides facilitent le travail des agriculteurs, mais il est indéniable qu'ils sont nocifs[^n1] pour l'humain! Il est évidemment indispensable de sensibiliser les populations, mais c'est insuffisant. Selon le docteur Hubert Bationo, de l'université de Ouagadougou, il faut encourager la recherche sur les biopesticides et promouvoir[^n2] ceux qui sont déjà connus. [Sauf erreur de ma part]{.mark}[^n3], c'est déjà le cas dans certains pays, notamment le Bénin. [Prenons exemple sur eux]{.mark}[^n4]!
 :::
 
 [^n1]: nocif: harmful, toxic; nocivité: toxicity (n.f.)
@@ -154,19 +154,19 @@ J'admets que les pesticides facilitent le travail des agriculteurs, mais il est 
 
 Pour exprimer sa subjectivité, on peut utiliser: 
 
-- la poncutation: [les points de suspension..., le point d'exclamation!, le point d'interrogation?]{.markgreen}
+- la ponctuation: [les points de suspension..., le point d'exclamation!, le point d'interrogation?]{.markgreen}
 
 - des verbes: [reconnaître, imaginer, estimer, penser, croire, supposer, admettre]{.markgreen}, etc.
 
-- des ajectifs: [intolérable, absurde, incroyable, révoltant, hallucinant]{.markgreen}, etc.
+- des adjectifs: [intolérable, absurde, incroyable, révoltant, hallucinant]{.markgreen}, etc.
 
-- des adverbes: [absoluement, probablement, certainement]{.markgreen}, etc.
+- des adverbes: [absolument, probablement, certainement]{.markgreen}, etc.
 
 - des expressions pour:
   - nuancer un propos: [d'après ce qu'on dit, si je ne me trompe pas, sans vouloir heurter]{.markgreen}, etc.
   - exprimer son opinion: [à mon sens, à mon avis, selon moi, pour moi]{.markgreen}, etc.
   - exprimer un sentiment fort: [je rêve!, ça me scandalise!, je suis en colére contre]{.markgreen }, etc.
-  - dire qu'on ne dit pas: [je ne palerai pas de..., je n'en dis pas plus, je ne veux pas accuser]{.markgreen}, etc.
+  - dire qu'on ne dit pas: [je ne parlerai pas de..., je n'en dis pas plus, je ne veux pas accuser]{.markgreen}, etc.
   - contester: [mon yeux!, tu parles!, tu rigoles!]{.markgreen}, etc.
 
 
