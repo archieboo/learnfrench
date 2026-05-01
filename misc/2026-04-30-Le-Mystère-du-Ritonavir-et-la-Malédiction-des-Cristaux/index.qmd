@@ -10,10 +10,18 @@ image: "https://images.unsplash.com/photo-1628771065518-0d82f1938462?q=80&w=640"
 --- 
 # La Molécule Fantôme : Le Mystère du Ritonavir et la Malédiction des Cristaux
 
+
+
+
 ## Le podcast[^a]
 
 ::: {.video-centered}
 {{< video https://youtu.be/2DTkGgh-WZc width="640" height="360" >}}
+:::
+
+:::{.callout-warning .column-margin}
+#### À noter
+Cette page est à usage personnel uniquement. Le podcast et l'article sont adaptés de la vidéo de Veritasium (lien en bas de page). Si le sujet vous intéresse, n'hésitez pas à regarder la vidéo originale.
 :::
 
 ## L'article[^a]
@@ -78,4 +86,4 @@ Cette crise a durablement traumatisé l'industrie. On sait aujourd'hui que plus 
 
 Aujourd'hui, les laboratoires investissent des millions pour traquer le « polymorphe disparaissant » avant toute mise sur le marché. L'affaire du ritonavir demeure un rappel cinglant de la fragilité de nos certitudes scientifiques : parfois, la nature préfère une stabilité immuable à l'efficacité de nos remèdes, nous forçant à composer avec un monde où la matière elle-même peut, du jour au lendemain, décider de changer de visage.
 
-[^a]: Podcast and article made largely based on [the original video by *Veritasium*](https://youtu.be/ksn5yrsC3Wg?si=XiI9ncRmaakJTalF)
+[^a]: [la vidéo originale par *Veritasium*](https://youtu.be/ksn5yrsC3Wg?si=XiI9ncRmaakJTalF)
