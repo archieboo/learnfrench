@@ -14,6 +14,7 @@ project:
     - 'lenouveautaxi3/**/*.qmd'
     - 'af-nice-b1-2/**/*.qmd'
     - 'defi*/**/*.qmd'
+    - 'misc/**/*.qmd'
     # - 'archive/**/*.qmd'
 
 website:
@@ -31,6 +32,9 @@ website:
       - text: "AF Nice"
         icon: backpack
         href: af-nice-b1.qmd
+      - text: "Misc"
+        icon: collection
+        href: misc.qmd
       # - text: "Le Nouveau Taxi 3"
       #   icon: youtube
       #   href: le-nouveau-taxi-3.qmd

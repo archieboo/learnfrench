@@ -1,0 +1,8 @@
+execute:
+  freeze: auto
+format:
+  html:
+    number-sections: false
+    title-block-banner: true
+    reference-location: document
+    citation-location: document
