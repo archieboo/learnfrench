@@ -10,7 +10,14 @@ image: "https://images.unsplash.com/photo-1467810563316-b5476525c0f9?q=80&w=640"
 
 [![](https://images.unsplash.com/photo-1649183424680-464747a8e43d?q=80&w=640)]{.column-margin}
 
-2019, l'année qui fait battre les cœurs des familles royales? Tandis que Mathilde et Philippe de Belgique fêtent leurs noces de porcelaine, le prince Harry et Meghan Markle, après s'être dit oui, donnent naissance à un petit Archie, pendant que Charlotte de Monaco et son nouveau chéri Dimitri Rassam se passent la bague au doigt. Et nous, nous n'avons d'yeux que pour eux! De l'enterrement de vie de célibataire jusqu'au jour J, en passant par les préparatifs du mariage, les tourtereaux mettent soigneusement en scène leur amour sous nos yeux ébahis. Et dans la vraie vie?
+2019, l'année qui fait battre les cœurs[^aa] des familles royales? Tandis que[^ab] Mathilde et Philippe de Belgique fêtent leurs noces de porcelaine[^ac], le prince Harry et Meghan Markle, après s'être dit oui, donnent naissance à un petit Archie, pendant que Charlotte de Monaco et son nouveau chéri Dimitri Rassam se passent la bague au doigt[^ad]. Et nous, nous n'avons d'yeux que pour eux[^ae]! De l'enterrement de vie de célibataire jusqu'au jour J, en passant par les préparatifs du mariage, les tourtereaux mettent soigneusement en scène leur amour sous nos yeux ébahis. Et dans la vraie vie?
+
+[^aa]: faire battre les cœurs: make hearts beat
+[^ab]: tandis que: while
+[^ac]: noces de porcelaine: porcelain wedding anniversary (20 years of marriage) noce: wedding, anniversary (n.f.); porcelaine: porcelain (n.f.)
+[^ad]: se passer la bague au doigt: to get married, to tie the knot. se passer: to pass, to give; la bague: the ring; au doigt: on the finger
+[^ae]: n'avoir d'yeux que pour quelqu'un: to have eyes only for someone
+
 
 La tendance serait-elle aux mariages qui en mettent plein la vue? Les façons de manifester son amour pour son ou sa bien-aimé(e) sont-elles en train d'évoluer? Face à ce retour en force du mariage, Votre Actu enquête, et pas seulement chez les têtes couronnées. 
 

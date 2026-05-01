@@ -12,7 +12,7 @@ image: "https://images.unsplash.com/photo-1656408455261-e7e915a3285c?q=80&w=640"
 
 [![](https://images.unsplash.com/photo-1643320478404-a7a0785adb32?q=80&w=640)]{.column-margin}
 
-_On dit que l'art est le reflet de la société. Que penser[^aa] alors du thème de l'identité transgenre, ou transidentité (sujet toujours tabou dans nos sociétés modernes) qui s'invite[^ac] dans de nombreuses créations artistiques depuis une dizaine d'années? Le droit de disposer[^ab] de son corps: une revendication[^ad] individuelle et artistiques? Une chose est sûre: si aujourd'hui l'art s'intéresse au corps et au genre, c'est qu'il y a une evolution car dans les oeuvres artistiques, il est toujours question de l'humain dans toute sa complexité._
+_On dit que l'art est le reflet de la société. Que penser[^aa] alors du thème de l'identité transgenre, ou transidentité (sujet toujours tabou dans nos sociétés modernes) qui s'invite[^ac] dans de nombreuses créations artistiques depuis une dizaine d'années? Le droit de se disposer[^ab] de son corps: une revendication[^ad] individuelle et artistiques? Une chose est sûre: si aujourd'hui l'art s'intéresse au corps et au genre, c'est qu'il y a une evolution car dans les œuvres artistiques, il est toujours question de l'humain dans toute sa complexité._
 
 :::{.callout-important .column width="80%"}
 #### L'infinitif de délibération
@@ -179,16 +179,16 @@ Les Jeux olympiques de 2096 n'auront pas lieu. Tel est le point de départ du r�
 
 [Le no-limit sport 🥏 ]{.text-info .fw-bold style="font-size:1.4em; line-height:1;"}
 
-"_Dans les années 2050-2060, les progrès de l'ingénierie technologique et génétique auront achevé[^ja] le processus d'augmentation de l'homme, estime[^jb] l'historien. Les prothèses, les exosquelettes, les dermosquelettes, les modifications génétiques et les nanotechnologies auront alors rendu[^jc] **obsolète** l'idée même de dopage[^jd], [si bien que]{.markpurple}[^je] ce dernier ne sera plus interdit._" La lavée[^jf] de cette interdiction changera alors radicalement la face du sport. Les athlètes se déplaceront[^jh] alors plus vite, ne s'épuiseront[^ji] plus, et se déplaceront certainement dans les airs. 
+"_Dans les années 2050-2060, les progrès de l'ingénierie technologique et génétique auront achevé[^qa] le processus d'augmentation de l'homme, estime[^qb] l'historien. Les prothèses, les exosquelettes, les dermosquelettes, les modifications génétiques et les nanotechnologies auront alors rendu[^qc] **obsolète** l'idée même de dopage[^qd], [si bien que]{.markpurple}[^qe] ce dernier ne sera plus interdit._" La lavée[^qf] de cette interdiction changera alors radicalement la face du sport. Les athlètes se déplaceront[^qh] alors plus vite, ne s'épuiseront[^qi] plus, et se déplaceront certainement dans les airs. 
 
-[^ja]: achever: to complete, to finish
-[^jb]: estimer: to estimate, to believe
-[^jc]: rendre: to make; rendre [adj.] qch: to make something [adj.]
-[^jd]: dopage: doping (n.m.); même here means "even"
-[^je]: si bien que: so much so that; subjonctif
-[^jf]: lavée: lifting, removal (n.f.) 
-[^jh]: se déplacer: to move
-[^ji]: s'épuiser: to exhaust oneself; épuiser: to exhaust, to use up
+[^qa]: achever: to complete, to finish
+[^qb]: estimer: to estimate, to believe
+[^qc]: rendre: to make; rendre [adj.] qch: to make something [adj.]
+[^qd]: dopage: doping (n.m.); même here means "even"
+[^qe]: si bien que: so much so that; subjonctif
+[^qf]: lavée: lifting, removal (n.f.) 
+[^qh]: se déplacer: to move
+[^qi]: s'épuiser: to exhaust oneself; épuiser: to exhaust, to use up
 
 
 "_Au lieu de[^ka] courir sur des terrains en long et en large[^kk], les athlètes, équipés désormais[^kb] de jambes et de bras bioniques, bondiront[^kc] [si haut que]{.mark} les vieux sports comme le football ou le basket se joueront en trois dimensions. Seules subsisteront[^kd] les règles fondamentales: pas de main au foot, les ballons de basket s'expédient[^ke] dans des paniers[^kf], etc. Les sports de combat à très haut niveau de violence seront tout particulièrement prisés, et les paris[^kg] sportifs atteindront de nouveaux records._" [Suivant]{.mark} cette évolution, les terrains, les infrastructures, les ballons, etc. auront considérablement évolué, [de sort d'être]{.markpink}[^kh] parfaitement adaptés aux nouveaux athlètes. "_Il faut [s'imaginer]{.mark}[^ki] jouer au foot, mais sur le modèle du quidditch d'Harry Potter._"
@@ -209,7 +209,7 @@ Les Jeux olympiques de 2096 n'auront pas lieu. Tel est le point de départ du r�
 
 Suivant ces tendances, le chercheur estime que "_les qualité physiques feront de moins en moins la différence entre les athlètes. Ces derniers devront surtout développer leur acuité[^ja] visuelle et sensorielle. Dès lors[^jb], il n'y aura plus de barrière[^jc] entre les athlètes valides[^jd] et handicapés_". Si cela vous paraît trop improbable[^je], rappelez-vous que tout ceci a commencé dès 2011, lorsque l'on[^la] s'est interrogé[^la] sur l'athlète Oscar Pistorius et le potentiel "_avantage_" que représentaient ses prothèses. Plus tard[^jf], la même question s'est posée avec Markus Rehm. 
 
-Les performances athlétiques seront alors vertigineuses[^jg]. "_Nombre de records jugés imbattables[^jh], car remontant[^ji] au deuxième âge du dopage (années 1990-2010), seront de nouveau franchis[^jj] à compter des années 2030. Alors qu'il n'était pas possible de descendre en dessous du mur des 9 secondes[^lc] au 100 mètres, dorénavant[^jk] les athlètes cyborgs descendront sous la barre des cinq secondes._" Pour cela, il aura fallu attendre que le corps humain soit capable de résister "_aux hautes pressions[^jl] et aux frottements_[^jm]". [...]
+Les performances athlétiques seront alors vertigineuses[^jg]. "_Nombre de records jugés imbattables[^jh], car remontant[^ji] au deuxième âge du dopage (années 1990-2010), seront de nouveau franchis[^jj] à compter des[^jn] années 2030. Alors qu'il n'était pas possible de descendre en dessous du mur des 9 secondes[^lc] au 100 mètres, dorénavant[^jk] les athlètes cyborgs descendront sous la barre des cinq secondes._" Pour cela, il aura fallu attendre que le corps humain soit capable de résister "_aux hautes pressions[^jl] et aux frottements_[^jm]". [...]
 
 [^ja]: acuité: acuity, sharpness (n.f.)
 [^jb]: dès lors: from then on, henceforth
@@ -223,6 +223,7 @@ Les performances athlétiques seront alors vertigineuses[^jg]. "_Nombre de recor
 [^jh]: imbattable: unbeatable, unbreakable
 [^ji]: remonter à: to date back to; remonter: to go up, to climb; here it means "dating back to"
 [^jj]: franchir: to cross, to break (a record)
+[^jn]: à compter de: starting from, as of
 [^lc]: mur des 9 secondes: the "9 second barrier" (in the 100m sprint)
 [^jk]: dorénavant: from now on, henceforth
 [^jl]: pression: pressure (n.f.)
@@ -230,8 +231,38 @@ Les performances athlétiques seront alors vertigineuses[^jg]. "_Nombre de recor
 
 
 
+# GRAMMAIRE
+
+## Le futur antérieur
+
+Le futur antérieur exprime l'idée qu'une action est terminée dans le futur. C'est un temps composé, formé de l'auxiliaire [**être** ou **avoir** au futur simple + le participe passé du verbe]{.markpink}.
+
+- On peut l'employer avec le futur simple pour indquer qu'une action a eu lieu avant celle exprimée par le verbe au futur simple.  
+_Ex.: Cette révolution dans le sport **aura** lieu quand la génétique [aura créé]{.markpink} un surhomme[^sa]._
+
+On utilise après des connecteurs temporels comme: **à partir du moment où**, **arpès que**, **dès que**, **lorsque**, **quand**.
+
+- On peut aussi l'employer seul après un indicateur temporel.  
+_Ex.: [Dans les années 2050]{.underline}, les progrès technologiques [auront achevé]{.markpink} le processus d'augmentation de l'homme._
+
+[^sa]: surhomme: superman, superhuman
 
 
+## Les temps du passé
+
+L'imparfait et le passé composé sont complémentaires dans un récit. 
+
+- [L'imparfait]{.markpurple} raconte un situation, un cadre, des circonstances sur une durée indéfinie.  
+  _Ex.: «Il faut s'imaginer jouer au foot, mais sur le modèle du quidditch d'Harry Potter.» [C'était]{.markpurple} une image très parlante pour les lecteurs, qui [permettait]{.markpurple} de se projeter dans ce futur du sport._
+
+- [Le passé composé]{.markorange} raconte un événement ponctuel qui a une durée définie.  
+  _Ex.: J'ai déjà vu ce film, et je l'ai trouvé très touchant._ 
+
+- On peut employer le passé composé avec [**toujour**]{.mark} ou [**jamais**]{.mark} pour indiquer qu'une situation a commencé dans le passé et qu'elle n'est pas encore terminée dans le présent.  
+_Ex.: La famille de Théo l'[a toujours soutenu]{.markorange}._
+
+[Plus-que-parfait]{.markteal} est employé dans un récit au passé pour renvoyer à des faits qui ont eu lieu avant le moment du passé que l'on raconte.  
+_Ex.: Théo [avait déjà commencé]{.markteal} sa transition avant de rencontrer sa famille, mais il [avait peur]{.markpurple} de leur réaction. Heureusement, ils l'[avaient toujours soutenu]{.markteal}._
 
 
 
