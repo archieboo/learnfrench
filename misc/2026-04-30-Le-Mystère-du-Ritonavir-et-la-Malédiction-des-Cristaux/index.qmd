@@ -42,9 +42,9 @@ L’enquête s’internationalise. Abbott déplace sa production vers un site pr
 
 ### Leçons du Passé : Liebig, Wöhler et la Naissance de l’Isomérie
 
-Pour comprendre cette aporie, il faut remonter le temps jusqu’au Paris des années 1820, théâtre d’une querelle entre deux géants de la chimie : Justus von Liebig et Friedrich Wöhler. Wöhler affirmait avoir synthétisé un composé stable d’argent, d’azote, d’oxygène et de carbone (le cyanate d’argent). Liebig, dont le tempérament volcanique n’avait d’égal que son génie, le traita publiquement d’« analyste sans espoir », car il possédait une substance à la formule strictement identique, mais qui détonait violemment à la moindre étincelle (le fulminate d’argent).
+Pour comprendre cette aporie, il faut remonter le temps jusqu’au Paris des années 1820, théâtre d’une querelle entre deux géants de la chimie : Justus von Liebig et Friedrich Wöhler. Wöhler affirmait avoir synthétisé un composé stable d’argent, d’azote, d’oxygène et de carbone (le cyanate d’argent). Liebig, dont le tempérament volcanique n’avait d’égal que son génie, l'a traité publiquement d’« analyste sans espoir », car il possédait une substance à la formule strictement identique, mais qui détonait violemment à la moindre étincelle (le fulminate d’argent).
 
-Il fallut une rencontre à Francfort pour que ces rivaux acceptent une réalité révolutionnaire : ils avaient tous deux raison.
+Il a fallu une rencontre à Francfort pour que ces rivaux acceptent une réalité révolutionnaire : ils avaient tous deux raison.
 
 Encadré Historique : Le Concept d’Isomérie Liebig et Wöhler découvrent que la nature d’un corps ne dépend pas uniquement de sa formule brute (ses composants), mais de l’agencement de ses liaisons.
 
@@ -80,7 +80,7 @@ C’est précisément ce qui a condamné le ritonavir. Un unique cristal de Form
 
 ### Épilogue : Vivre dans un « Monde de Forme II »
 
-Lors d’une conférence de presse empreinte de gravité, les dirigeants d’Abbott durent confesser leur impuissance face à ce qu'ils comparèrent à un « ouragan » moléculaire. « La science ne peut fournir une solution à tous nos problèmes », admirent-ils. La décision fut radicale : l'abandon définitif de la Forme I. Pour sauver les patients, Abbott dut imposer une formulation liquide au goût atroce et aux effets secondaires accrus, seule capable de maintenir la molécule en solution et d'éviter le piège de la cristallisation.
+Lors d’une conférence de presse empreinte de gravité, les dirigeants d’Abbott ont dû confesser leur impuissance face à ce qu'ils ont comparé à un « ouragan » moléculaire. « La science ne peut fournir une solution à tous nos problèmes », ont-ils admis. La décision a été radicale : l'abandon définitif de la Forme I. Pour sauver les patients, Abbott a dû imposer une formulation liquide au goût atroce et aux effets secondaires accrus, seule capable de maintenir la molécule en solution et d'éviter le piège de la cristallisation.
 
 Cette crise a durablement traumatisé l'industrie. On sait aujourd'hui que plus de 50 % des composés chimiques sont polymorphes. Même l'aspirine, utilisée depuis plus de 140 ans, a révélé une Forme II cachée, découverte par pur accident il y a peu.
 
