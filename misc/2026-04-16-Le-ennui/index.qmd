@@ -1,0 +1,94 @@
+---
+title: "L'ennui - Un sentiment digne d'intérêt"
+date: "2026-04-16"
+categories: ["Psychologie", "Société", "Neurosciences", "arte"]
+reference-location: document
+citation-location: document
+number-sections: false
+toc-depth: 3
+image: "https://images.unsplash.com/photo-1606103920295-9a091573f160?q=80&w=640"
+---
+
+
+## Le podcast
+
+
+:::{.column-video}
+{{< video https://www.youtube.com/watch?v=Kxx5kXRTGXo width="640" height="360" >}}
+:::
+
+## L'article
+
+### L'ennui : un mal du siècle ou un précieux signal ?
+
+Dans nos sociétés axées sur la performance et l'hyperconnectivité, l'ennui semble ne plus avoir sa place. Il suffit de sortir son smartphone pour le chasser en quelques secondes. Pourtant, depuis une vingtaine d'années, les recherches scientifiques sur ce phénomène connaissent une véritable explosion. Loin d'être une simple paresse, l'ennui se révèle être un état complexe, aux multiples facettes — et aux conséquences bien réelles.
+
+### Un mystère difficile à définir
+
+Qu'est-ce que l'ennui, au juste ? La question paraît simple, mais elle plonge les chercheurs dans un vrai casse-tête. À mi-chemin entre sentiment et émotion, l'ennui résiste à toute définition tranchée. James Dankert, neuropsychologue à l'Université de Waterloo en Ontario (Canada), en sait quelque chose. Quand il annonce que son domaine de recherche est l'ennui, ses interlocuteurs lui rient presque au nez. Pourtant, dès qu'il évoque ses répercussions concrètes dans nos vies, les sceptiques revoient leur jugement.
+
+Son intérêt pour le sujet est né d'une expérience personnelle : son frère, passionné de batterie, a cessé de jouer après un traumatisme crânien. Cette activité qui le comblait autrefois ne lui inspirait plus qu'un ennui profond. Pour le chercheur, il était évident qu'une altération structurelle s'était produite dans son cerveau, modifiant son seuil de motivation, de joie et de plaisir.
+
+Les scientifiques s'accordent néanmoins sur quelques points. L'ennui surgit lorsque des activités se répètent sans changer sur une longue période, ou lorsqu'elles sont dénuées de sens. Mais la cause numéro un reste le sentiment de subir une situation : se forcer à être quelque part ou à faire quelque chose qu'on n'a pas envie de faire, c'est l'ennui garanti. Et contrairement à ce que l'on croit souvent, l'ennui n'est pas synonyme de détente. La personne qui se prélasse volontairement sur un canapé pour recharger les batteries ne s'ennuie pas — elle se déconnecte délibérément.
+
+
+### Des racines millénaires
+
+Si l'ennui semble un mal contemporain, il accompagne l'humanité depuis la nuit des temps. La philosophe Andrea Selidour, de l'Université de Louisville, rappelle que les poètes romains en parlaient déjà. Lucrèce évoquait une agitation intérieure, ce besoin d'échapper à un lieu ou à une situation qui nous emprisonne. Sénèque, lui, prodiguait ses conseils à son ami Sérénus, en proie à une forme de langueur qui s'apparentait fort à l'ennui.
+
+Au IVe siècle de notre ère, les moines chrétiens l'appelaient l'*acédie* — considérée comme un véritable poison pour les communautés religieuses. L'Église l'a d'ailleurs intégrée à la liste des sept péchés capitaux, sous le nom de *paresse*. Les instructions étaient claires : « N'abandonne pas ta cellule aux heures des tentations... reste cloîtré à l'intérieur et illustre-toi par ta persévérance. » L'ennui était alors décrit comme un effrayant démon — ce qui dit long sur le sérieux avec lequel on le prenait.
+
+C'est au milieu du XIXe siècle qu'une description médicale commence à émerger, notamment à travers l'étude de plus de 4 000 cas de suicide par un auteur français, qui établit un lien direct entre l'ennui et le passage à l'acte. Un questionnaire lancé en 1986 marque ensuite le véritable coup d'envoi des recherches modernes, avec la mise au point du *Boredom Proneness Scale* — une échelle permettant de mesurer la propension d'une personne à l'ennui.
+
+
+### Ce que révèle le cerveau
+
+James Dankert a soumis ses participants à des électroencéphalogrammes et à des IRM cérébrales pour observer ce qui se passe dans le cerveau lorsqu'on s'ennuie. Les résultats sont pour le moins surprenants.
+
+Première découverte : l'ennui déclenche une réaction de stress. Les personnes qui s'ennuient ne sont pas paresseuses — elles sont au contraire agitées, nerveuses, dans un état d'urgence intérieure. Lorsqu'on leur demande de regarder une vidéo volontairement rébarbative — deux hommes en train d'étendre leur linge — leur activité cérébrale ressemble à celle d'un individu sous stress.
+
+Deuxième découverte : le *réseau par défaut* du cerveau, qui s'active normalement quand on ne fait rien et qu'on laisse vagabonder ses pensées, s'enclenche aussi chez les personnes qui s'ennuient devant un film. Autrement dit, leur cerveau « débranche » et se replie sur lui-même, même si on lui a demandé d'être attentif.
+
+Troisième découverte : le *cortex insulaire*, zone habituellement active lorsqu'une tâche exige de la concentration, se désactive face à l'ennui. La partie du cerveau censée signaler que votre attention est requise s'éteint tout simplement lorsque le contenu est trop peu stimulant. La conclusion est claire : confronté à l'ennui, le cerveau est loin d'être inactif — il est en crise.
+
+
+### Un appel à l'action... pour le meilleur et pour le pire
+
+Pour les chercheurs, l'ennui fonctionne comme un signal d'alarme : il nous commande de passer à autre chose. Mais il est singulier en cela qu'il ne nous suggère pas quoi faire — il nous dit simplement que quelque chose doit changer. Cette ambivalence est précisément ce qui le rend dangereux.
+
+La psychologue Erin Westgate, de l'Université de Floride à Gainesville, a mené une expérience révélatrice. Elle a demandé à des participants de rester seuls dans une pièce pendant quinze à vingt minutes, sans rien faire d'autre que laisser vagabonder leurs pensées. Un stylo leur était remis, capable de délivrer une légère décharge électrique. Résultat : 25 % des femmes et près de 70 % des hommes ont préféré s'infliger une douleur physique plutôt que de rester seuls face à leur ennui. Une étude similaire menée en 2014 par le psychologue américain Timothy D. avait abouti aux mêmes conclusions. Pour la chercheuse, la différence entre les genres s'expliquerait notamment par le fait que les hommes sont davantage enclins à la recherche de sensations fortes et d'expériences à haut risque.
+
+L'ennui peut aussi pousser vers des comportements plus quotidiennement néfastes : boulimie alimentaire, usage excessif du smartphone, jeux d'argent, voire pyromanie. Des personnes interrogées témoignent avoir provoqué un départ de feu dans un square, simplement parce qu'elles étaient désœuvrées. Comme le résume un chercheur : « L'ennui n'est pas forcément le meilleur conseiller. »
+
+
+### L'ennui à l'école : un frein sous-estimé
+
+À la Faculté de psychologie de l'Université de Vienne, Thomas Gutz étudie l'influence des émotions sur l'apprentissage. Son constat est sans appel : plusieurs centaines d'études montrent que l'ennui en classe va de pair avec une baisse des résultats. L'élève qui s'ennuie est sous-motivé, peu concentré, mal à l'aise — et risque de rejeter durablement la matière concernée, voire de la rayer de son horizon professionnel.
+
+Ses recherches identifient trois causes principales de l'ennui scolaire : le manque de stimulation, le surmenage, et le sentiment que ce qu'on apprend est dénué de sens. Pour y remédier, la science est claire : l'idéal serait un apprentissage individualisé. Il est aussi essentiel que les enseignants expliquent aux élèves pourquoi les connaissances acquises sont importantes — pour leur vie quotidienne, mais aussi pour leur avenir professionnel.
+
+Un mythe circule pourtant chez de nombreux parents : ils pensent que l'ennui booste la créativité de leurs enfants. Thomas Gutz le réfute catégoriquement. Ce n'est tout simplement pas vrai.
+
+
+### Gènes, mouches et Minecraft
+
+D'où vient la propension à l'ennui ? James Dankert a trouvé une piste inattendue du côté des larves de mouches à fruits. Certaines s'aventurent rapidement en territoire inconnu à la recherche de nourriture, tandis que d'autres restent cantonnées à leur environnement familier. Ce comportement est gouverné par un seul gène. Le chercheur a identifié un gène équivalent chez l'être humain, suggérant que la distinction entre « explorateurs » et « sédentaires » est aussi ancrée biologiquement chez nous que chez la mouche.
+
+Pour observer concrètement ces comportements, son équipe a recours au jeu vidéo Minecraft : les participants disposent d'une heure pour explorer, construire ou détruire à leur guise. L'hypothèse de départ est que les personnes sujettes à l'ennui chronique adopteraient une attitude plus passive — mais il est encore trop tôt pour le confirmer.
+
+
+### Du berceau à la maison de retraite
+
+L'ennui nous accompagne dès les premiers mois de vie. Sabine Unius, du Baby and Child Research Center de l'Université Radboud de Nimègue (Pays-Bas), a montré que les nourrissons détournent le regard des stimulis dès qu'il n'y a plus rien de nouveau à en apprendre. Ils sont programmés pour se concentrer sur ce qui promet le plus grand succès d'apprentissage — et s'ennuient dès que la nouveauté disparaît. Son conseil aux parents : limiter le nombre de jouets disponibles simultanément et éviter la télévision avant un an, car ces programmes sont conçus pour captiver, non pour enseigner.
+
+À l'autre bout de la vie, l'ennui prend une dimension bien plus sombre. La philosophe Ros Velasco, de l'Université Complutense de Madrid, a interrogé plus de 400 seniors dans vingt maisons de retraite espagnoles. Plus de la moitié déclarait souffrir d'ennui. Près de 30 % souhaitaient que leur vie s'arrête — uniquement à cause de cet ennui. Et 3 % avaient activement pensé au suicide.
+
+Les personnes âgées savent généralement comment occuper leur temps, mais elles en sont empêchées par le manque de personnel et des protocoles rigides. Une femme de 90 ans, grande amatrice de couture, s'était vu interdire l'usage des aiguilles par crainte qu'elle se blesse. « J'ai 90 ans, disait-elle. J'ai été blessée plusieurs fois dans ma vie. Laissez-moi prendre ce risque. »
+
+
+### Apprivoiser l'ennui
+
+Face à ces constats, la solution ne réside pas dans la fuite — bien au contraire. Pour Ros Velasco, la clé est de se constituer tout au long de sa vie un vaste « catalogue d'options » : des activités variées auxquelles on peut se raccrocher quand les contraintes se resserrent. John Eli, professeur de psychologie à l'Université de Toledo, a établi de solides corrélations entre la propension à l'ennui et la surconsommation de contenu numérique. Il précise toutefois que ce n'est pas tant la durée passée sur son smartphone qui pose problème que son impact négatif sur les études, le travail ou la vie sociale. Et l'usage actif — communiquer, interagir — reste plus efficace contre l'ennui que le simple scrolling passif.
+
+L'ennui, en définitive, est à la fois un signal d'alarme et une invitation à se redécouvrir. Il nous questionne sur ce qui compte vraiment pour nous. Comme le confie une participante : « J'éprouve parfois une certaine satisfaction à m'ennuyer, car le message est clair — je n'ai rien à faire. Et il y a quelque chose de positif à ça. » Tout dépend, au fond, de ce qu'on en fait.
+
