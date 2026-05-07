@@ -1,6 +1,6 @@
 ---
 title: "Unité 2: Allez raconte! - Dossier 1"
-categories: ["B1", "défi3", "Unité2"]
+categories: ["b1", "défi3", "unité2"]
 reference-location: document
 image: "https://images.unsplash.com/photo-1681851311414-44a6cafe6f24?q=80&w=640"
 ---

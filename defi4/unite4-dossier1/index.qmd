@@ -1,7 +1,7 @@
 ---
 title: "Unité 4: D'amour ou d'amitié - Dossier 1"
 date: "2026-03-20"
-categories: ["B2", "défi4", "Unité4" ]
+categories: ["b2", "défi4", "unité4" ]
 reference-location: document # margin, block, section, document
 citation-location: document #margin
 image: "https://images.unsplash.com/photo-1467810563316-b5476525c0f9?q=80&w=640"

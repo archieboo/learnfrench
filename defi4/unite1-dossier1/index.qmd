@@ -1,7 +1,7 @@
 ---
 title: "Unité 1: Ville en ville - Dossier 1"
 date: "2026-02-20"
-categories: ["B2", "défi4", "Unité1", "Exprimer la cause", "Éviter les répétitions"]
+categories: ["b2", "défi4", "unité1", "exprimer la cause", "éviter les répétitions"]
 reference-location: document # margin, block, section, document
 citation-location: document #margin
 image: "https://images.unsplash.com/photo-1509137705736-c15e10d9ce62?q=80&w=640"

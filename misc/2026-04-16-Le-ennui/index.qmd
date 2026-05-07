@@ -1,7 +1,7 @@
 ---
 title: "L'ennui - Un sentiment digne d'intérêt"
 date: "2026-04-16"
-categories: ["Psychologie", "Société", "Neurosciences", "arte"]
+categories: ["psychologie", "société", "neurosciences", "arte"]
 reference-location: document
 citation-location: document
 number-sections: false

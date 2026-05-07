@@ -1,7 +1,7 @@
 ---
 title: "La Molécule Fantôme : Le Mystère du Ritonavir et la Malédiction des Cristaux"
 date: "2026-04-30"
-categories: ["Historie de la Science"]
+categories: ["historie de la science"]
 reference-location: document
 citation-location: document
 number-sections: false
