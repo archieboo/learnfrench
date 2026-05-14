@@ -1,14 +1,13 @@
 ---
 title: "Le Jeu des 1000 euros : Un rituel républicain au cœur des villages français"
-date: "2026-05-14"
+date: "2026-05-12"
 categories: ["Culture", "Radio", "France"]
 reference-location: document
 citation-location: document
 number-sections: false
 toc-depth: 2
-image: "https://images.unsplash.com/photo-1765629317099-053d4b318f91?q=80&w=640"
+image: "https://images.unsplash.com/photo-1634191062551-a675666627eb?q=80&w=640"
 --- 
-
 
 # Le Jeu des 1000 euros : Un rituel républicain au cœur des villages français
 
