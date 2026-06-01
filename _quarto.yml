@@ -13,6 +13,7 @@ project:
     - '*.qmd'
     - 'lenouveautaxi3/**/*.qmd'
     - 'af-nice-b1-2/**/*.qmd'
+    - 'af-bordeaux/**/*.qmd'
     - 'defi*/**/*.qmd'
     - 'misc/**/*.qmd'
     # - 'archive/**/*.qmd'
@@ -29,9 +30,9 @@ website:
       - text: "Défi 3"
         icon: book
         href: defi3.qmd
-      - text: "AF Nice"
+      - text: "AF Bordeaux"
         icon: backpack
-        href: af-nice-b1.qmd
+        href: af-bordeaux.qmd
       - text: "Misc"
         icon: collection
         href: misc.qmd

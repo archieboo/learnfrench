@@ -39,9 +39,10 @@ format: html
 
 
 :::::{.column}
-# AF-NICE Class Notes
 
-[![](af-nice-b1/af-nice-cafe.png){height="200px" fig-align="center" style="box-shadow: 5px 5px 15px rgba(0,0,0,0.4);"}](af-nice-b1.html)
+# AF-Bordeaux Class Notes
+
+[![](https://images.unsplash.com/photo-1493564738392-d148cfbd6eda?q=80&w=640){height="200px" fig-align="center" style="box-shadow: 5px 5px 15px rgba(0,0,0,0.4);"}](af-bordeaux.html)
 :::::
 
 
