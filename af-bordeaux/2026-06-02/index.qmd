@@ -1,0 +1,66 @@
+---
+title: "2026-06-02 Week 1 Lesson 2"
+date: "2026-06-02"
+categories: ["bordeaux", "af", "B1", "unite4"]
+reference-location: document # margin, block, section, document
+citation-location: document #margin
+image: "https://images.unsplash.com/photo-1665979738279-bd2441290e02?q=80&w=640"
+--- 
+
+
+# Class Notes
+
+
+## lexique 
+
+
+- devenir la norm
+- être obsolète
+- céder la place à qqch
+- continuer d'intéresser - de charmer
+- avoir un regain d'intéret (un retour, un accroissement)
+- une activitée prisée
+- une augmentation notable
+- attirer un public toujours croissant
+- rester / demeurer important - populaire
+- gagner en popularité
+- émerger
+- être toujours à la mode
+- gagner du terrain
+- varier
+- préférer qqch à autre chose
+- avoir une forte inclination vers qqch
+- avoir une soif de qqch
+
+
+## l'activité de la classe
+
+1. Quel activités sont les plus populaires dans votre pays?
+   - [ ] pêche
+   - [ ] camping
+   - [ ] randonnée
+   - [ ] jardinage
+
+2. Pourquoi les gens dans votre pays aiment-ils le plus cette activité?
+
+3. Faites-vous ces activités avec vos familles?
+   - [ ] oui
+   - [ ] non
+
+4. Pensez-vous que les activités de plein air sont benefique pour le bien-être des gens?
+
+
+:::{.callout-note}
+
+### la resumé des réponses
+
+Nous avons interrogé le groupe de neuf personnes sur le thème « les loisirs de plein air ». À la question quel activité est le plus populaire dans leurs payes, 33% des gens enquêtés ont indiqué la randonée, et la quantité équivalente des gens ont répondu de pêche et camping.
+
+Quand demandés de expliquer leurs choix, les raisons varient Pourtant, le thème commun contient de profiter la nature, de se reposer, et des beaux paysages. 
+
+Curieusement, la plupart de sondés croient que c'est avec les amis au lieu des familles que des gens font les activités de loisir de plein air.
+
+Enfin, nous avons demandé le lien entre le bien-être et celui. Tous les gens ont été d'accord sur le fait que les activités de plein air étaient benefiques grâce aux airs frais, la nature, et la fuite de la stresse de travail. 
+
+:::
+

@@ -43,9 +43,12 @@ website:
       - text: "L'espace Virtuel"
         icon: clouds-fill
         href: "https://espacevirtuel.emdl.fr"
-      # - text: Archive
-      #   icon: archive
-      #   href: archive.qmd
+      - text: "inspire média"
+        icon: broadcast
+        href: "https://inspire.hachettefle.fr/index_fr.html"
+      - text: "Parcours"
+        icon: journals
+        href: "https://bibliotheque.ehachettefle.com/#/books"
 format:
   html:
     toc: true

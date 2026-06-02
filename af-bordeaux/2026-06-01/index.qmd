@@ -1,6 +1,6 @@
 ---
 title: "2026-06-01 Week 1 Lesson 1"
-date: "2026-02-20"
+date: "2026-06-01"
 categories: ["bordeaux", "af", "B1", "unite4"]
 reference-location: document # margin, block, section, document
 citation-location: document #margin
