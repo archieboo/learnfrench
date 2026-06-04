@@ -52,7 +52,7 @@ image: "https://images.unsplash.com/photo-1665979738279-bd2441290e02?q=80&w=640"
 
 :::{.callout-note}
 
-### la resumé des réponses
+### la resumé des réponses - (originale)
 
 Nous avons interrogé le groupe de neuf personnes sur le thème « les loisirs de plein air ». À la question quel activité est le plus populaire dans leurs payes, 33% des gens enquêtés ont indiqué la randonée, et la quantité équivalente des gens ont répondu de pêche et camping.
 
@@ -63,4 +63,21 @@ Curieusement, la plupart de sondés croient que c'est avec les amis au lieu des 
 Enfin, nous avons demandé le lien entre le bien-être et celui. Tous les gens ont été d'accord sur le fait que les activités de plein air étaient benefiques grâce aux airs frais, la nature, et la fuite de la stresse de travail. 
 
 :::
+
+
+:::{.callout-note}
+
+### la resumé des réponses - (corrigée)
+
+Nous avons interrogé le groupe de neuf personnes sur le thème « les loisirs de plein air ». À la question [quelle]{.mark} activité est [la]{.mark} plus populaire dans [leurs pays]{.mark}, 33% des gens enquêtés ont indiqué la [randonnée]{.mark}, et la quantité équivalente des gens ont répondu [la]{.mark} pêche et [le]{.mark} camping.
+
+[Lorsqu'on leur a demandé d']{.mark}expliquer leurs choix, les raisons [variaient]{.mark}. Pourtant, le thème commun [consistait à]{.mark} profiter [de]{.mark} 
+
+Curieusement, la plupart [des]{.mark} sondés croient que c'est avec les amis au lieu des familles que [les]{.mark} gens font les activités de loisir de plein air.
+
+Enfin, nous avons demandé le lien entre le bien-être et [cela]{.mark}. Tous les gens ont été d'accord sur le fait que les activités de plein air étaient [bénéfiques]{.mark} grâce [à l'air frais]{.mark}, la nature, et la fuite [du stress]{.mark} [du]{.mark} travail.
+
+:::
+
+
 

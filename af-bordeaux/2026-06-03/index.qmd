@@ -1,0 +1,110 @@
+---
+title: "2026-06-03 Week 1 Lesson 3"
+date: "2026-06-03"
+categories: ["bordeaux", "af", "B1", "unite4"]
+reference-location: document # margin, block, section, document
+citation-location: document #margin
+image: "https://images.unsplash.com/photo-1665979738279-bd2441290e02?q=80&w=640"
+--- 
+
+
+# Class Notes
+
+## le futur simple et conditionnel présent
+
+Le future simple est formé par: verbe au infinitif + avoir au présent.
+
+Le conditionnel présent = l'imparfait + le future simple.
+
+Pour les verbes irrégulaires:
+
+
+::::{.columns}
+:::{.column}
+
+### au future simple
+
+- aller -> j'**ir**ai
+- avoir -> j'**aur**ai
+- faire -> je **fer**ai
+- être -> je **ser**ai
+- valoir -> il **vaudr**a
+- savoir -> je **saur**ai
+- pouvoir -> je **pourr**ai
+- vouloir -> je **voudr**ai
+- recevoir -> je **recevr**ai
+- falloir -> il **faudr**a
+- pleuvoir -> il **pleuvr**a
+- tenir -> je **tiendr**ai
+- venir -> je **viendr**ai
+- mourir -> je **mourrai**
+- devoir -> je **devr**ai
+- voir -> je **verr**ai
+- accueillir -> je **accueiller**ai
+
+:::
+
+:::{.column}
+
+### au conditionel présent
+
+- aller -> j'**ir**ai**s**
+- avoir -> j'**aur**ai**s**
+- faire -> je **fer**ai**s**
+- être -> je **ser**ai**s**
+- valoir -> il **vaudrait**
+- savoir -> je **saur**ai**s**
+- pouvoir -> je **pourr**ai**s**
+- vouloir -> je **voudr**ai**s**
+- recevoir -> je **recevr**ai**s**
+- falloir -> il **faudrait**
+- pleuvoir -> il **pleuvrait**
+- tenir -> je **tiendr**ai**s**
+- venir -> je **viendr**ai**s**
+- mourir -> je **mourr**ai**s**
+- devoir -> je **devr**ai**s**
+- voir -> je **verr**ai**s**
+- accueillir -> je **accueiller**ai**s**
+
+
+
+:::
+::::
+
+## L'hypothèse
+
+Pour exprimer une hypothèse sur le présent, difficilement réalisable ou contraire à la réalité, on utilise:
+
+[si]{.markred} + [imparfait]{.markteal} + [conditionnel présent]{.markred}
+
+> *[Si]{.markred} je [pouvais]{.markteal} organiser ma semaine diffèrement, je [travaillerais]{.markred} un jour sur deux*.
+
+
+Pour exprimer une possibilité dans le future, on utlise:
+
+[si]{.markpink} + [présent]{.markorange} + [le future simple]{.markpink}
+
+
+> *[Si]{.markpink} [j'ai]{.markorange} du temps demains, on se [reverra]{.markpink}.*
+
+
+
+
+## Le temps domestique
+
+- cuisiner
+- nettoyer
+- faire le ménage 
+- faire les tâche ménagère
+- passer l'aspirateur
+- lever la vaisselle
+
+
+## le temps physiolagique
+
+- le maquillage
+- la douche
+- faire le point sur sa santé (son état de forme)
+- la manucure & la pédicure
+
+
