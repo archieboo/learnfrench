@@ -1,0 +1,97 @@
+---
+title: "2026-06-05 Week 1 Lesson 5"
+date: "2026-06-05"
+categories: ["bordeaux", "af", "B1", "unite4"]
+reference-location: document # margin, block, section, document
+citation-location: document #margin
+image: "https://images.unsplash.com/photo-1616593437252-0631aeb95590?q=80&w=640"
+---
+
+# La dictée
+
+:::{.column .marksilver .rounded width="100%"}
+
+S'il **pouvait** organiser sa semaine différemment, Julien **travaillerait** seulement trois jours. Il **consacrerait** ses week-ends à la pêche et à la randonnée, ses deux passions. Il **s'intéresserait** à l'œnologie. Avec sa femme, ils **passeraient** plus de temps à faire la cuisine pour leurs amis. Ils **iraient** plus souvent au théâtre et au musée. Les deux **feraient** les courses et le ménage pendant la semaine. Enfin, Julien n'**aurait** pas d'heures de sommeil en retard, il **prendrait** le temps de se reposer. Une chose est sûre, il ne **ferait** pas plus de bricolage! 
+
+:::
+
+
+# Class Notes
+
+Retrouver le calme
+
+Se retrouver
+
+une retraite = se retirer du monde
+
+un retrait = retirer de l'argent
+
+un retraité = un personne qui se retire du monde du travail
+
+s'échapper = s'éloigner de quelque chose, s'évader, fuir 
+
+ronfler
+
+se détendre 
+
+
+# Demander des renseignements
+
+::::{.columns}
+
+:::{.column width="32%"}
+
+:::::{.markblue style="text-align: center;"}
+Registre familier
+:::::
+
+- Le soir, on mange ensemble?
+- On peut payer en plusieur fois?
+- On fait quoi le soir après le dîner?
+
+:::
+
+:::{.column width="2%"}
+
+:::
+
+:::{.column width="30%"}
+
+:::::{.markblue style="text-align: center;"}
+Registre courant
+:::::
+
+- Est-ce qu'on vient nous attendre à l'aéroport?
+- Qu'est-ce qu'il y a à manger?
+- Est-ce que les ingrédients sont affichés?
+
+:::
+
+:::{.column width="2%"}
+
+:::
+
+
+:::{.column width="30%"}
+
+:::::{.markblue style="text-align: center;"}
+Registre formel
+:::::
+
+- Quels vêtements dois-je apporter?
+- Ai-je besoin d'un certificat médical?
+- Y a-t-il accès à internet?
+- Les cours sont-ils en français?
+
+:::
+::::
+
+:::{.callout-important}
+#### Attention!
+
+- Avec un verbe prominal : Comment [nous]{.markpink} [déplacerons]{.markorange}-[nous]{.markgreen} ? (_Juste le sujet [nous]{.markgreen} a été inversé._) 
+- On ajoute un [t]{.markred} entre le vere et le sujet quand le verbe finit par une voyelle: *Y-a-[t]{.markred}-il un accès à Internet?*
+- Quand le sujet est un nom, on ne peut pas toujours faire l'inversion. On place le sujet en début de phrase et on le répéte sous forme de pronom après le verbe: _[Les cours]{.markgreen} [sont]{.markorange}-[ils]{.markgreen} en français?_
+
+:::
+

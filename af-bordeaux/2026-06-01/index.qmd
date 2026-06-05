@@ -8,9 +8,7 @@ image: "https://images.unsplash.com/photo-1691145286899-db7bfd8e85f8?q=80&w=640"
 --- 
 
 
-# Class Notes
-
-## Le temps des loisir
+# Le temps des loisir
 
 C'est le temps pendant lequel on ne travaille pas. 
 Profiter de la vie, de voyager, de sortir, prendre du plaisir

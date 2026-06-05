@@ -1,9 +1,11 @@
 execute:
   freeze: auto
-format: 
+format:
   html:
     number-sections: false
     title-block-banner: true
     reference-location: document
     citation-location: document
+    margin-header: |
+      <a href="https://affrance.apolearn.com/classroom/5591837" target="_blank" style="font-size:0.85em;"><i class="bi bi-people-fill"></i> AF-Classroom</a>
 

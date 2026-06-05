@@ -45,7 +45,19 @@ website:
         href: "https://espacevirtuel.emdl.fr"
       - text: "inspire média"
         icon: broadcast
-        href: "https://inspire.hachettefle.fr/index_fr.html"
+        menu:
+          - text: "Audio Transcripts"
+            icon: file-earmark-pdf
+            href: "asset/af-bordeaux/INSP3_LE_HT.pdf"
+            target: _blank
+          - text: "Inspire 3"
+            icon: collection-play
+            href: "https://inspire.hachettefle.fr/inspire-3_livre-de-l-eleve_fr.html"
+            target: _blank
+          - text: "inspire média"
+            icon: broadcast
+            href: "https://inspire.hachettefle.fr/index_fr.html"
+            target: _blank
       - text: "Parcours"
         icon: journals
         href: "https://bibliotheque.ehachettefle.com/#/books"

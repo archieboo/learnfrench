@@ -8,10 +8,7 @@ image: "https://images.unsplash.com/photo-1665979738279-bd2441290e02?q=80&w=640"
 --- 
 
 
-# Class Notes
-
-
-## lexique 
+# lexique 
 
 
 - devenir la norm
@@ -33,7 +30,7 @@ image: "https://images.unsplash.com/photo-1665979738279-bd2441290e02?q=80&w=640"
 - avoir une soif de qqch
 
 
-## l'activité de la classe
+# l'activité de la classe
 
 1. Quel activités sont les plus populaires dans votre pays?
    - [ ] pêche
@@ -52,7 +49,7 @@ image: "https://images.unsplash.com/photo-1665979738279-bd2441290e02?q=80&w=640"
 
 :::{.callout-note}
 
-### la resumé des réponses - (originale)
+#### la resumé des réponses - (originale)
 
 Nous avons interrogé le groupe de neuf personnes sur le thème « les loisirs de plein air ». À la question quel activité est le plus populaire dans leurs payes, 33% des gens enquêtés ont indiqué la randonée, et la quantité équivalente des gens ont répondu de pêche et camping.
 
@@ -67,7 +64,7 @@ Enfin, nous avons demandé le lien entre le bien-être et celui. Tous les gens o
 
 :::{.callout-note}
 
-### la resumé des réponses - (corrigée)
+#### la resumé des réponses - (corrigée)
 
 Nous avons interrogé le groupe de neuf personnes sur le thème « les loisirs de plein air ». À la question [quelle]{.mark} activité est [la]{.mark} plus populaire dans [leurs pays]{.mark}, 33% des gens enquêtés ont indiqué la [randonnée]{.mark}, et la quantité équivalente des gens ont répondu [la]{.mark} pêche et [le]{.mark} camping.
 

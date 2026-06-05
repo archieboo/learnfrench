@@ -4,13 +4,10 @@ date: "2026-06-03"
 categories: ["bordeaux", "af", "B1", "unite4"]
 reference-location: document # margin, block, section, document
 citation-location: document #margin
-image: "https://images.unsplash.com/photo-1665979738279-bd2441290e02?q=80&w=640"
+image: "https://images.unsplash.com/photo-1603124314041-15e7fd60a23d?q=80&w=640"
 --- 
 
-
-# Class Notes
-
-## le futur simple et conditionnel présent
+# le futur simple et conditionnel présent
 
 Le future simple est formé par: verbe au infinitif + avoir au présent.
 
@@ -20,9 +17,11 @@ Pour les verbes irrégulaires:
 
 
 ::::{.columns}
-:::{.column}
+:::{.column width="30%"}
 
-### au future simple
+:::::{.markblue style="text-align: center;"}
+#### au future simple
+:::::
 
 - aller -> j'**ir**ai
 - avoir -> j'**aur**ai
@@ -44,9 +43,14 @@ Pour les verbes irrégulaires:
 
 :::
 
-:::{.column}
+:::{.column width="10%"}
+:::
 
-### au conditionel présent
+:::{.column width="30%"}
+
+:::::{.markblue style="text-align: center;"}
+#### au conditionel présent
+:::::
 
 - aller -> j'**ir**ai**s**
 - avoir -> j'**aur**ai**s**
@@ -71,7 +75,7 @@ Pour les verbes irrégulaires:
 :::
 ::::
 
-## L'hypothèse
+# L'hypothèse
 
 Pour exprimer une hypothèse sur le présent, difficilement réalisable ou contraire à la réalité, on utilise:
 
@@ -90,7 +94,7 @@ Pour exprimer une possibilité dans le future, on utlise:
 
 
 
-## Le temps domestique
+# Le temps domestique
 
 - cuisiner
 - nettoyer
@@ -100,7 +104,7 @@ Pour exprimer une possibilité dans le future, on utlise:
 - lever la vaisselle
 
 
-## le temps physiolagique
+# le temps physiolagique
 
 - le maquillage
 - la douche
