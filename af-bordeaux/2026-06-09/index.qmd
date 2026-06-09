@@ -1,0 +1,107 @@
+---
+title: "2026-06-09 Week 2 Lesson 9"
+date: "2026-06-09"
+categories: ["bordeaux", "af", "B1", "unite4"]
+reference-location: document # margin, block, section, document
+citation-location: document #margin
+image: "https://images.unsplash.com/photo-1521714161819-15534968fc5f?q=80&w=640"
+---
+
+
+
+# Formulez les questions formelle
+
+- Que fait-tu le samidi soir?
+- Comment trouves-tu le jardinage?
+- Être-vous sorties le weekend denièr?
+- Combien d'heures de lecture par semaine crois-tu pour être considé comme un grand lecteur?
+- Que pense-tu de la qualité de la litérature contemporaine?
+
+
+
+# Lexique
+
+
+:::{.column .markyellow width="98%"}
+
+- Il est démontré que  
+- Il est prouvé que  
+- Cette activité est une grande importance pour ...  
+- Elle réduit / diminue / atténue + nom   
+- Elle permet de + infinitif  
+- Elle augemente / développe + nom
+- C'est bénéfique pour + nom
+- Elle prévient + nom (prevent) 
+- Elle entretient + nom (maintain)
+- ça marche / c'est très efficace!
+- ça nous rend + adjectif
+- ça fait du bien à + nom / c'est bon pour + nom
+- grâce à + nom
+
+:::
+
+:::{.column}
+:::
+
+:::{.column .markyellow width="98%"}
+
+
+- les capacités respiatoires, cognitives
+- la détérioration 
+- la sératonine
+- plusieurs avantages 
+- le sens du beau, de la vision
+- un effet apaisant
+- atténuer l'anxiété, le stress
+- la signature de notre mode
+- l'esprit communautaire / d'equipe
+- le renforcement musculaire
+- un moment de joie, de célébration
+- qui unit le monde entier 
+- prendre le temps
+- se libérer du stress
+
+:::
+
+:::{.column}
+:::
+
+:::{.column .markyellow width="98%"}
+
+- "avoir les orteils dans le sable"
+- "avoir la tête au boulot"
+- "rester connecté" = "accroché"
+- "se déconnecté du travail" = "décrocher"
+- une incitation / être incité
+- des sollicitations
+
+:::
+
+
+# La négation
+
+Observez les phrases suivantes:<br><br>  
+
+:::{.column .markorange width="98%"}
+
+::::{.columns}
+
+:::::{.column .text-center width="47%"}
+
+Je **ne** travaille **pas**.
+Je ne rencontre **personne**.
+
+
+:::::
+
+:::::{.column .text-center width="47%"}
+
+je **ne** travaille **pas**.
+
+:::::
+::::
+
+:::
+
+
+
