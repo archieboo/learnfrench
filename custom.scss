@@ -94,8 +94,8 @@ article.content, .quarto-content-body {
 }
 
 // Shared styles for all marker classes
-.markred, .markorange, .markyellow, .markgreen, .markteal, 
-.markblue, .markpurple, .markpink, .marksilver, .markslate {
+.markred, .markorange, .markyellow, .markgreen, .markteal,
+.markblue, .markpurple, .markpink, .marksilver, .markgrey, .markslate {
   padding: 0 0.25em;
   margin: 0 0.05em;
   border-radius: 3px;
@@ -113,6 +113,7 @@ article.content, .quarto-content-body {
 .markblue   { background-color: #dbeafe; }
 .markpurple { background-color: #f3e8ff; }
 .marksilver { background-color: #f8f9fa; } // Near-white light gray
+.markgrey   { background-color: #f2f3f4; } // Light neutral gray
 .markslate  { background-color: #c8d3df; } // Noticeably darker cool gray
 
 /* Margin images — uniform width */

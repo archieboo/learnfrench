@@ -1,0 +1,61 @@
+---
+title: "2026-06-08 Week 2 Lesson 8"
+date: "2026-06-08"
+categories: ["bordeaux", "af", "B1", "unite4"]
+reference-location: document # margin, block, section, document
+citation-location: document #margin
+image: "https://images.unsplash.com/photo-1521714161819-15534968fc5f?q=80&w=640"
+---
+
+
+# Class notes
+
+## Pour parler de la lecture
+
+j'ai besoin de me concentrer
+
+lire me procure du relâchement / des sensations de détente / du bien-être
+
+je peux me libérer du quotidien et m'évader
+
+enrichir ses connaissances
+
+l'enrichissement personnel / lexical
+
+pratiquer mon français
+
+lire fatigue la vue
+
+c'est un moment de détente
+
+j'adore l'odeur du livre
+
+tourner les pages
+
+rapporter le livre à la bibliothèque
+
+remettre le livre dans la boîte à lire
+
+je lis chaque soir / tous les soirs / plusieurs fois par jour
+
+
+## Transcription: Quels sont les bienfaits de la lecture sur la santé? 
+
+:::{.column .marksilver width="98%"}
+
+[**Thomas Joubert:**]{.text-info} 
+À présent le décryptage d'une étude dont on vous a parlé la semaine dernière: [se plonger dans]{.text-primary .underline} un bon roman permet de voyager sans bouger de son canapé. Mais, c'est évidemment pas tout, puisque la lecture aurait des vertus sur notre cerveau et notre intellect. Elle pourrait même agir dans le traitement de certaines maladies. On va voir ça en détails avec le docteur Martine Perez. Martine, cette étude, elle nous a interpellés parce que déjà on apprenait que lire augmenterait simplement l'espérance de la vie!
+
+:::
+
+::: {.column}
+:::
+
+:::{.column .markgrey width="98%"}
+
+[**Martine Perez:**]{.text-orange} 
+Oui, on ne perd pas seulement son temps en lisant. Eh bien, on en gange. Et ça, ça vient d'être démontré de manière magistrale. C'est des chercheurs americains qui ont pris 3 500 persennes de plus de 50 ans. Ils les ont divisés en trois groupes: ceux qui lisaient jamais à part les quittances d'électricité ou les modes d'emploi de leur appareil photo et de leur nouvel appareil photo; ceux qui... Le deuxième groupe, c'était des gens qui lisaient environ 3 heures par semaine et le troisième groupe, c'était ceux qui lisaient plus de 3 heures et demie par semaine.
+
+:::
+
+

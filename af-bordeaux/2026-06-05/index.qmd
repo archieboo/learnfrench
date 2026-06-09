@@ -95,3 +95,28 @@ Registre formel
 
 :::
 
+### Observez
+
+::::{.columns}
+
+:::{.column width="50%"}
+
+- Tu regardes quelqu'un?  
+  Qui est-ce que tu regardes?  
+- Quelqu'un fait du bruit?  
+  Qui est-ce qui fait du bruit?  
+
+:::
+
+:::{.column width="50%"}
+
+- Tu regardes quelque chose?  
+  Qu'est-ce que tu regardes?  
+- Quelque chose fait du bruit?  
+  Qu'est-ce qui fait du bruit?
+
+:::
+
+
+::::
+
