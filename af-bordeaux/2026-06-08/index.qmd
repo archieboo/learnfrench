@@ -8,43 +8,32 @@ image: "https://images.unsplash.com/photo-1521714161819-15534968fc5f?q=80&w=640"
 ---
 
 
-# Class notes
 
-## Pour parler de la lecture
+# Lexique
 
-j'ai besoin de me concentrer
-
-lire me procure du relâchement / des sensations de détente / du bien-être
-
-je peux me libérer du quotidien et m'évader
-
-enrichir ses connaissances
-
-l'enrichissement personnel / lexical
-
-pratiquer mon français
-
-lire fatigue la vue
-
-c'est un moment de détente
-
-j'adore l'odeur du livre
-
-tourner les pages
-
-rapporter le livre à la bibliothèque
-
-remettre le livre dans la boîte à lire
-
-je lis chaque soir / tous les soirs / plusieurs fois par jour
+- j'ai besoin de me concentrer  
+- lire me procure du relâchement / des sensations de détente / du bien-être  
+- je peux me libérer du quotidien et m'évader  
+- enrichir ses connaissances  
+- l'enrichissement personnel / lexical  
+- pratiquer mon français  
+- lire fatigue la vue  
+- c'est un moment de détente  
+- j'adore l'odeur du livre  
+- tourner les pages  
+- rapporter le livre à la bibliothèque  
+- remettre le livre dans la boîte à lire  
+- je lis chaque soir / tous les soirs / plusieurs fois par jour  
 
 
-## Transcription: Quels sont les bienfaits de la lecture sur la santé? 
+# Écoute: Quels sont les bienfaits de la lecture sur la santé? 
+
+<iframe width="560" height="315" src="https://www.dailymotion.com/embed/video/x4oy14a?autoplay=0" frameborder="0" allowfullscreen></iframe>
 
 :::{.column .marksilver width="98%"}
 
 [**Thomas Joubert:**]{.text-info} 
-À présent le décryptage d'une étude dont on vous a parlé la semaine dernière: [se plonger dans]{.text-primary .underline} un bon roman permet de voyager sans bouger de son canapé. Mais, c'est évidemment pas tout, puisque la lecture aurait des vertus sur notre cerveau et notre intellect. Elle pourrait même agir dans le traitement de certaines maladies. On va voir ça en détails avec le docteur Martine Perez. Martine, cette étude, elle nous a interpellés parce que déjà on apprenait que lire augmenterait simplement l'espérance de la vie!
+À présent le décryptage d'une étude dont on vous a parlé la semaine dernière: [se plonger dans]{.underline .fw-bold} un bon roman permet de voyager sans bouger de son canapé. Mais, c'est évidemment pas tout, puisque la lecture aurait [des vertus]{.underline .fw-bold} sur notre cerveau et notre intellect. Elle pourrait même agir dans le traitement de certaines maladies. On va voir ça en détails avec le docteur Martine Perez. Martine, cette étude, elle nous a interpellés parce que déjà on apprenait que lire augmenterait simplement [l'espérance de la vie]{.underline .fw-bold}!
 
 :::
 
@@ -54,7 +43,121 @@ je lis chaque soir / tous les soirs / plusieurs fois par jour
 :::{.column .markgrey width="98%"}
 
 [**Martine Perez:**]{.text-orange} 
-Oui, on ne perd pas seulement son temps en lisant. Eh bien, on en gange. Et ça, ça vient d'être démontré de manière magistrale. C'est des chercheurs americains qui ont pris 3 500 persennes de plus de 50 ans. Ils les ont divisés en trois groupes: ceux qui lisaient jamais à part les quittances d'électricité ou les modes d'emploi de leur appareil photo et de leur nouvel appareil photo; ceux qui... Le deuxième groupe, c'était des gens qui lisaient environ 3 heures par semaine et le troisième groupe, c'était ceux qui lisaient plus de 3 heures et demie par semaine.
+Oui, on ne perd pas seulement son temps en lisant. Eh bien, on en gagne. Et ça, ça vient d'être démontré de manière magistrale. C'est des chercheurs americains qui ont pris 3 500 personnes de plus de 50 ans. Ils les ont divisés en trois groupes: ceux qui lisaient jamais à part les quittances d'électricité ou les modes d'emploi de leur nouvel appareil photo; ceux qui... Le deuxième groupe, c'était des gens qui lisaient environ 3 heures par semaine et le troisième groupe, c'était ceux qui lisaient plus de 3 heures et demie par semaine.
 
 :::
+
+:::{.column}
+:::
+
+:::{.column .markgrey width="98%"}
+
+[Thomas Joubert:]{.fw-bold .text-info}
+Ah ouais, des gros lecteurs.
+
+:::
+
+:::{.column}
+:::
+
+:::{.column .markgrey width="98%"}
+
+[Martine Perez: ]{.fw-bold .text-orange}
+
+Des gros lecteurs. Ils se sont rendu compte que ceux qui lisaient plus de 3 heures par semaine, au bout de 12 ans - parce qu'ils les ont suivis pendant 12 ans - avaient une espérance de vie augmentée de 2 ans en moyenne. Y a vraiment un effet sur l'espérance de vie. Alors, ils se sont rendu compte dans cette étude que, en plus, c'était surtout des femmes qui étaient des grandes lectrices, des femmes de [milieu aisé]{.underline} d'ailleurs. Et ils se sont rendu compte aussi, parce que les hommes aiment beaucoup lire les journaux, eh bien, que c'était surtout la lecture de romans qui augmentait l'espérance de vie plus que la lecture des journaux. Et maintenant, ils veulent savoir s'il est similaire de lire sur une tablette ou de lire dans du papier. Ils sont en train de continuer leur étude pour examiner les différents modes de lecture qu'on nous propose aujourd'hui. 
+
+:::
+
+:::{.column}
+:::
+
+:::{.column .markgrey width="98%"}
+
+[Thomas Joubert:]{.fw-bold .text-info}
+Donc, des [bienfaits]{.underline} réels sur la santé.
+:::
+
+:::{.column}
+:::
+
+:::{.column .markgrey width="98%"}
+
+[Martine Perez: ]{.fw-bold .text-orange}
+Oui, des bienfaits réels sur la santé. Et il y a beaucoup d'autres bienfaits sur la santé d'ailleurs. Je suis sûre que vous allez me demander si la lecture protège contre la maladie d'Alzheimer.
+:::
+
+:::{.column}
+:::
+
+:::{.column .markgrey width="98%"}
+[Thomas Joubert:]{.fw-bold .text-info}
+La lecture protège contre la maladie d'Alzheimer?
+:::
+
+:::{.column}
+:::
+
+:::{.column .markgrey width="98%"}
+
+[Martine Perez: ]{.fw-bold .text-orange}
+Voilà. Eh bien, voilà, c'est très important d'en parler. On en a parlé [tout à l'heure]{.underline} de la maladie d'Alzheimer.
+
+Et on sait que la lecture fait travailler la memoire et aide à garder l'esprit clair. La lecture d'un livre, c'est sans doutes une des activités intellectes qui fait faire le plus de [gymnastique intellectuelle]{.underline .fw-bold}. Quand vous lisez un roman, eh bien, vous devez vous mémoriser qui sont les personnages, d'où ils viennent, quelles sont les intriques secondaires, quelle est leur vie, quels sont leurs sentiments [les uns vis à vis des autres]{.underline}. C'est une gymnastique intellectuelle extrêmement bénéfique pour le cerveau. Il y a des études qui ont mis en évidance le fait que lire régulièrement, chez des gens à partir de la cinquantaine ou même avant, permettait de réduire le risque de détérioration intellectuelle même s'il s'agit pas d'une maladie d'Alzheimer. Il y a même, les Américains se sont même penchés sur des...ont comparé des lecteurs, ils les ont suivis dans le temps. Il se sont rendu compte que ceux qui avaient une activité intellectuelle - alors, c'est pas que la lecture, c'est aussi la pratique de la music, c'est aussi les jeux d'échecs, c'est aussi le bridge.
+:::
+
+:::{.column}
+:::
+
+:::{.column .markgrey width="98%"}
+[Thomas Joubert:]{.fw-bold .text-info}
+Les mots croisés? Aussi?
+:::
+
+:::{.column}
+:::
+
+
+:::{.column .markgrey width="98%"}
+
+[Martine Perez: ]{.fw-bold .text-orange}
+Les mot croisés aussi, bien sûr. Toute activité intellectuelle soutenue, régulière, qu'on commence au moins au milieu de la vie, réduit le risque de la maladie d'Alzheimer, c'est formellement démontré. Parce que, vous avez, le cerveau, c'est comme les biceps, c'est comme les biscotos, et bien oui...
+:::
+
+:::{.column}
+:::
+
+:::{.column .markgrey width="98%"}
+[Thomas Joubert:]{.fw-bold .text-info}
+Ça se ramollit?
+:::
+
+:::{.column}
+:::
+
+:::{.column .markgrey width="98%"}
+
+[Martine Perez: ]{.fw-bold .text-orange}
+Ça se ramollit si on ne les utilise pas. Donc, si vous voulez un cerveau musculé, eh bien, il faut le doper, il faut le stimuler. Et la lecture, je vous dis, c'est une super gymnastique intellectuelle. Et, ça marche, on l'a démontré à plusieurs reprises. Donc, vraiment, c'est très important d'avoir une activité intellectuelle. Et la lecture est vraiment très importante.
+:::
+
+
+## Résumez à l'écrit les effets de la lecture en 3 ou 4 phrases.
+
+Réutiliser le vocabulaire et les structures de l'écoute (par exemple: ["La lecture aide à..."]{.fst-italic}, ["Elle permet de..."]{.fst-italic}, ["Elle réduit le risque de..."]{.fst-italic} ).
+
+:::{.column .fst-italic .markyellow width="98%"}
+
+...
+
+<br><br><br><br><br>
+
+:::
+
+
+
+
+
+
+
+
 
