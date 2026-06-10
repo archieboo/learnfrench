@@ -84,24 +84,54 @@ Observez les phrases suivantes:<br><br>
 
 :::{.column .markorange width="98%"}
 
-::::{.columns}
+::::{.columns .text-center}
 
 :::::{.column .text-center width="47%"}
 
-Je **ne** travaille **pas**.
-Je ne rencontre **personne**.
-
+Je **ne** travaille **pas**.  
+Je **ne** rencontre **personne**.  
+Je **ne** fais **rien**.  
+Je **ne** pars **jamais**.  
 
 :::::
 
 :::::{.column .text-center width="47%"}
 
-je **ne** travaille **pas**.
+**Personne ne** vient chez moi.  
+**Rien ne** se passe.  
 
 :::::
+
+<br>
+
+En vacances, je **ne** fais **ni** le ménage **ni** les courses.  
+**Ni** le sport **ni** la lecture **ne** me plaisent.
+
 ::::
 
 :::
 
+:::{.callout-important}
+#### La négation
+
+- Pour une personne --> [**ne...personne**]{.text-red}/[**personne...ne**]{.text-red}  
+  Il [**n'**]{.text-red}y a [**personne**]{.text-red} d'autre que vous.  
+  [**Personne**]{.text-red} d'autre [**n'**]{.text-red}est ici.
+
+- Pour une chose --> [**ne...rien**]{.text-red}/[**rien...ne**]{.text-red}  
+  Vous [**ne**]{.text-red} m'avez [**rien**]{.text-red} dit.  
+  [**Rien**]{.text-red} ne va.
+
+- Pour deux choses ou deux personnes --> [**ne...ni...ni**]{.text-red}/[**ni...ni..ne**]{.text-red}  
+  [**Ne**]{.text-red} revenez pas, [**ni**]{.text-red} ici [**ni**]{.text-red} à la campagne.  
+  [**Ni**]{.text-red} la ville [**ni**]{.text-red} la campagne [**ne**]{.text-red} me plaisent.
+
+❗[**ne...jamais**]{.text-red} != toujours : Vous [**ne**]{.text-red} me dites [**jamais**]{.text-red} la vérité. != Vous me dites toujours la vérité.
+
+❗[**Jamais**]{.text-red} peut aussi s'utiliser seul:  
+- Tu lis à la plage?  
+- [**Jamais**]{.text-red}! 
+
+:::
 
 
