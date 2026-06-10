@@ -1,12 +1,11 @@
 ---
-title: "2026-06-10 Week 2 Lesson 10"
+title: "2026-06-10 Week 2 Lesson 8"
 date: "2026-06-10"
-categories: ["bordeaux", "af", "B1", "unite4"]
+categories: ["bordeaux", "af", "B1", "unite5"]
 reference-location: document # margin, block, section, document
 citation-location: document #margin
-image: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=640"
+image: "https://images.unsplash.com/photo-1554663565-f60b88adfa08?q=80&w=640"
 ---
-
 
 # Lexique
 
@@ -152,11 +151,13 @@ _Répondez négativement en utilisant « ni ... ni » dans la réponse._
 
 ## Comment améliorer son cadre de vie ?
 
-[🎧 piste 72](https://inspire.hachettefle.fr/inspire-3_livre-de-l-eleve_fr.html)
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_LE_AUDIO/INSP3_LE_Piste072.mp3" type="audio/mpeg">
+</audio>
 
-:::{.column .fst-italic .marksilver .text-justify width="98%"}
+:::{.column .marksilver .text-justify width="98%"}
 
-[Emma Garcia:]{.fw-bolder} Bonjour à toutes et à tous. Je suis Emma Garcia et je fais partie de l'équipe qui travaille sur le project de la végétalisation des Champs-Élysées.
+[Emma Garcia:]{.text-purple .fst-italic .fw-bolder} Bonjour à toutes et à tous. Je suis Emma Garcia et je fais partie de l'équipe qui travaille sur le project de la végétalisation des Champs-Élysées.
 
 Comme vous allez le voir, Paris met tout en œuvre pour [bâtir la ville durable]{.underline .fw-bold} du $21^e$ siècle : piétonisation de grands axes, promonades végétalisées, pistes cyclables. La [volonté[{.underline} de la mairie de Paris est en effet de favoriser les déplacements à pied et à vélo et de végétaliser la ville.
 C'est pourquoi, à l'occassion des Jeux Olympiques de 2024, la municipalité a décidé de [déaménager]{.underline .fw-bold} complètement [la célèbre artère parisienne]{.underline}.

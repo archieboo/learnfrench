@@ -1,13 +1,11 @@
 ---
-title: "2026-06-08 Week 2 Lesson 8"
+title: "2026-06-08 Week 2 Lesson 6"
 date: "2026-06-08"
 categories: ["bordeaux", "af", "B1", "unite4"]
 reference-location: document # margin, block, section, document
 citation-location: document #margin
-image: "https://images.unsplash.com/photo-1521714161819-15534968fc5f?q=80&w=640"
+image: "https://images.unsplash.com/photo-1694730750153-8b66cf3dd014?q=80&w=640"
 ---
-
-
 
 # Lexique
 
