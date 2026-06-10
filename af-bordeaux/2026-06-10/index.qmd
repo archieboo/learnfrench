@@ -1,0 +1,180 @@
+---
+title: "2026-06-10 Week 2 Lesson 10"
+date: "2026-06-10"
+categories: ["bordeaux", "af", "B1", "unite4"]
+reference-location: document # margin, block, section, document
+citation-location: document #margin
+image: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=640"
+---
+
+
+# Lexique
+
+
+:::{.column .rounded .markyellow width="98%"}
+
+- retraite   
+- faire le grasse matinée   
+- faire la sieste  
+- veiller tard   
+- avoir des vacances / être en vacances  
+- retrouver les membres de la ville  
+- se réunir pendant les vacances  
+- une ambiance joyeuse, festive  
+- prendre ses congés ( les congés payés)  
+- rendre visite à quelqu'un / sa famille  
+- des congés sans solde (solde = salary)  
+- prendre des jours de repos  
+- c'est une période où je ne fais rien.   
+- j'apprecie de partir de chez moi  
+- j'apprecie de [ne pas]{.mark} reveiller tôt  
+
+:::
+
+
+:::{.column}
+
+:::
+
+
+:::{.column .rounded .markyellow width="98%"}
+
+#### le cadre de vie 
+
+**Les critères:**
+
+- la propreté  
+- un espace propre  
+- un environnement sans moustiques  
+- un quartier sécurisé, sûr  
+- les transportations publics sont ponctuels, fréquents, multiples  
+- Des espaces verts
+- L'harmonisation des couleurs des bâtiments  
+- Un espace extérieur dans le logement pour prendre l'air  
+- Les commerces à proximité, c'est très pratique
+- Les espaces publics, les bâtiments publics
+- Un lieu calme, sans bruit, le moins bruyant possible
+- Le bruit me dérange
+- Une ville agitée, cosmopolite
+- Il y a de grandes offres culturelles
+- Réaménager un lieu
+- Un réaménagement d'un lieu
+- Une réorganisation des espaces
+- La végétalisation de la ville = végétaliser un espace = planter des végétaux, arbres, des fleurs, des arbustes
+- le long de = longer  
+- au bord de = border  
+- nuire = déranger, être un problème  
+- La circulation des voitures nuit au bien-être des habitants  
+
+:::
+
+
+
+
+
+
+# L'exercices de la négation
+
+:::{.column .rounded .markpink width="98%"}
+
+### Personne / rien
+
+_Répondez négativement aux questions suivantes._
+
+1. Est-ce que quelqu'un est venu?  
+   - [x] _Non, personne n'est venue._  
+
+2. À la soirée de samedi, vous avez rencontré quelqu'un que vous connaissiez?  
+   - [x] _Non, j'ai rencontré personne que je connaissais._  
+
+3. Il a rencontré quelqu'un intéressant hier soir?   
+   - [x] _Non, il n'a rencontré personne intéressante hier soir._  
+
+4. Il a écrit à quelque'un?  
+   - [x] _Non, il n'a écrit à personne._  
+
+5. Est-ce que quelqu'un a vu ce qui s'est passé?  
+   - [x] _Non, personne n'a vue ce qui s'est passé._  
+
+6. Tu vas à Pékin pour les vacances, tu y connais quelqu'un?  
+   - [x] _Non, je n'y connais personne._  
+
+7. Est-ce que quelque chose te fait plaisir?  
+   - [x] _Non, rien ne me fait plaisir._  
+
+8. Tu veux boire quelque chose?  
+   - [x] _Non, je ne veux rien boire._  
+
+9. Est-ce que quelque chose t'a choqué dans son discours?  
+   - [x] _Non, rien ne m'a choqué dans mon discours._  
+
+10. Attention! À montagne, la température baisse très vite, vous avez pris de quoi vous courire chaudement?  
+    - [x] _Non, je [n'en ai riens pris]{.markblue} me courire chaudement._  
+
+11. Vous n'avez pas l'air en forme, il vous est arrivé quelque chose?  
+    - [x] _Non, rien ne m'est arrivé._  
+
+12. C'est l'anniversaire de Monique, vous avez pensé à quelque chose pour son cadeau? 
+    - [x] _Non, je n'ai pensé [à rien]{.markblue}._  
+
+:::
+
+:::{.column}
+:::
+
+:::{.column .rounded .markpink width="98%"}
+
+### Ni...ni
+
+_Répondez négativement en utilisant « ni ... ni » dans la réponse._
+
+1. Tu vas en vacance à la mer ou à la montagne?  
+   - [x] _Je vas en vacance ni à la mer ni à la montage._  
+
+2. Vous prendrez la train ou l'avion?  
+   - [x] _Je prendrai ni la train ni l'avion._   
+
+3. Au mariage de ta sœur, tu portera un jupe longue ou courte?  
+   - [x] _Je porterai un jupe ni longue ni courte._  
+4. Pour aller au travail, tu prends le bus ou ton vélo?  
+   - [x] _Je prends ni le bus ni mon vélo._  
+     
+5. Tu as chaud ou tu a froid?  
+   - [x] _J'ai ni chaud ni froid._  
+
+6. Qu'est-ce que tu préfères? Le camping ou le caravaning?
+   - [x] Je préfères ni le camping ni le caravaning._  
+
+:::
+
+
+# Transcription de l'ecoute
+
+## Comment améliorer son cadre de vie ?
+
+[🎧 piste 72](https://inspire.hachettefle.fr/inspire-3_livre-de-l-eleve_fr.html)
+
+:::{.column .fst-italic .marksilver .text-justify width="98%"}
+
+[Emma Garcia:]{.fw-bolder} Bonjour à toutes et à tous. Je suis Emma Garcia et je fais partie de l'équipe qui travaille sur le project de la végétalisation des Champs-Élysées.
+
+Comme vous allez le voir, Paris met tout en œuvre pour [bâtir la ville durable]{.underline .fw-bold} du $21^e$ siècle : piétonisation de grands axes, promonades végétalisées, pistes cyclables. La [volonté[{.underline} de la mairie de Paris est en effet de favoriser les déplacements à pied et à vélo et de végétaliser la ville.
+C'est pourquoi, à l'occassion des Jeux Olympiques de 2024, la municipalité a décidé de [déaménager]{.underline .fw-bold} complètement [la célèbre artère parisienne]{.underline}.
+
+Ce projet innovant, dont le bouget [s'élève]{.underline} à 250 millions d'euros, va complètement transformer [la plus belle avenue du monde]{.underline}.
+Alors, comme vous allez le voir, la [réalisation]{.underline .fw-bold} du projet va [offrir]{.underline} à Paris un véritable « [poumon vert]{.underline .fw-bold} » de 78 hectares ! 
+Car nous proposons [réaménagement]{.underline .fw-bold} complet des espaces avec, en particulier, une [réorganisation]{.underline .fw-bold} des jardins qui bordent l'avenue.
+
+Commençons par la place de la Concorde. Actuellement, c'est un immense rond-point, [plein de]{.underline .fw-bold} voitures, et [au milieu de]{.underline .fw-bold} ce rond-point, trône l'Obélisque. Eh bien comme vous le voyez, en 2024, cette place sera [partiellement piétonne]{.underline .fw-bold}. L'avenue des Champs-Élysées, maintenant, elle [relie]{.underline .fw-bold} la place de la Concorde à l'Arc de Triomphe sur deux kilometres. Aujour'dui, 68% des 100 000 visiteurs quotidiens de l'avenue sont des touristes, 5% seulement sont des [promeneurs]{.underline} parisiens. Les Parisiens trouvent l'avenue [bruyante, surpollutée]{.underline .fw-bold}. Il y passe actuellement 3 000 véhicules par heure ! 
+
+Le projet prévoit donc de plus de 360 arbres ici, [le long de]{.underline .fw-bold} l'avenue, dans l'objectif de végétaliser le quartier et de créer des zones [ombragées]{.underline .fw-bold}, surtout du côté des numéros [pairs]{.underline .fw-bold},  [c'est-à-dire]{.underline} le trottoir de droite quand on va vers l'Arc de Triomphe, où il y a du soleil tout le temps. L'alignement des arbres qui [longeront]{.underline} l'avenue sur toute sa [longueur]{.underline} et l'[ajout]{.underline} de zones vertes à côté, avec des [aires]{.underline} de jeux pour les enfants, protégeront les piétons de la chaleur en laissant [circuler]{.underline} un air plus respirable. Les trottoirs seront beaucoup plus larges, et on pourra prendre un café sous les arbres. Les espaces réservés aux voitures seront ainsi reduits de moitié pour diminuer les [nuisances]{.underline .fw-bold} liées à la circulation, le bruit et bien sûr la pollution. Après 2024, il n'y aura que deux [couloir]{.underline} dans chaque [sens de circulation]{.underline} et bien sûr des pistes cyclables. Comme vous le voyez, les Champs-Élysées vont devenir plus verts et plus [acueillants]{.underline} pour les [promeneurs]{.underline}. Y a-t-il des questions?
+
+
+
+:::
+
+
+
+
+
+

@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2026-01-27">
+<meta name="dcterms.date" content="2026-06-10">
 
-<title>Lesson 2 – Bonjour!</title>
+<title>2026-06-10 Week 2 Lesson 10 – Bonjour!</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -73,6 +73,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../../styles.css">
 </head>
@@ -165,12 +194,12 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">Lesson 2</h1>
+      <h1 class="title">2026-06-10 Week 2 Lesson 10</h1>
                                 <div class="quarto-categories">
-                <div class="quarto-category">AF Nice</div>
+                <div class="quarto-category">bordeaux</div>
+                <div class="quarto-category">af</div>
                 <div class="quarto-category">B1</div>
-                <div class="quarto-category">Défi3</div>
-                <div class="quarto-category">Unit6</div>
+                <div class="quarto-category">unite4</div>
               </div>
                   </div>
   </div>
@@ -182,7 +211,7 @@ ul.task-list li input[type="checkbox"] {
       <div>
       <div class="quarto-title-meta-heading">Published</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">January 27, 2026</p>
+        <p class="date">June 10, 2026</p>
       </div>
     </div>
     
@@ -193,188 +222,223 @@ ul.task-list li input[type="checkbox"] {
   </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar"><div class="quarto-margin-header"><div class="margin-header-item">
+<p><a href="https://affrance.apolearn.com/classroom/5591837" target="_blank" style="font-size:0.85em;"><i class="bi bi-people-fill"></i> AF-Classroom</a></p>
+</div></div>
         <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#course-standard" id="toc-course-standard" class="nav-link active" data-scroll-target="#course-standard">Course Standard</a>
+  <li><a href="#lexique" id="toc-lexique" class="nav-link active" data-scroll-target="#lexique">Lexique</a></li>
+  <li><a href="#lexercices-de-la-négation" id="toc-lexercices-de-la-négation" class="nav-link" data-scroll-target="#lexercices-de-la-négation">L’exercices de la négation</a>
   <ul class="collapse">
-  <li><a href="#les-mots" id="toc-les-mots" class="nav-link" data-scroll-target="#les-mots">Les mots</a></li>
-  <li><a href="#sec-af-b1-l01-text1" id="toc-sec-af-b1-l01-text1" class="nav-link" data-scroll-target="#sec-af-b1-l01-text1">LE DÉCODEX, GUIDE POUR SAVOIR À QUI FAIRE CONFIANCE SUR INTERNET</a></li>
-  <li><a href="#point-de-langue-la-forme-passive-p.89" id="toc-point-de-langue-la-forme-passive-p.89" class="nav-link" data-scroll-target="#point-de-langue-la-forme-passive-p.89">Point de langue: la forme passive (p.89)</a></li>
+  <li><a href="#personne-rien" id="toc-personne-rien" class="nav-link" data-scroll-target="#personne-rien">Personne / rien</a></li>
+  <li><a href="#nini" id="toc-nini" class="nav-link" data-scroll-target="#nini">Ni…ni</a></li>
+  </ul></li>
+  <li><a href="#transcription-de-lecoute" id="toc-transcription-de-lecoute" class="nav-link" data-scroll-target="#transcription-de-lecoute">Transcription de l’ecoute</a>
+  <ul class="collapse">
+  <li><a href="#comment-améliorer-son-cadre-de-vie" id="toc-comment-améliorer-son-cadre-de-vie" class="nav-link" data-scroll-target="#comment-améliorer-son-cadre-de-vie">Comment améliorer son cadre de vie ?</a></li>
   </ul></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
-<main class="content quarto-banner-title-block page-columns page-full" id="quarto-document-content">
+<main class="content quarto-banner-title-block" id="quarto-document-content">
 
 
 
 
 
-<section id="course-standard" class="level1 page-columns page-full">
-<h1>Course Standard</h1>
-<section id="les-mots" class="level2">
-<h2 class="anchored" data-anchor-id="les-mots">Les mots</h2>
-<p>Avoir la flemme: être paresseux, avoir de la paresse<br>
-Amener qqun (venir avec une personne) ET apporter qqch<br>
-Amener, apporter et emmener ???<br>
-Amener quelqu’un<br>
-Apporter quelque chose<br>
-Exemple: J’emmène ma gourde à l’AF (du point A au point B = mouvement)<br>
-Exemple: J’apporte ma gourde à l’AF (la direction)</p>
-<p>Hocher de la tête: un mouvement de la tête pour montrer l’approbation</p>
-</section>
-<section id="sec-af-b1-l01-text1" class="level2 page-columns page-full">
-<h2 class="anchored" data-anchor-id="sec-af-b1-l01-text1">LE DÉCODEX, GUIDE POUR SAVOIR À QUI FAIRE CONFIANCE SUR INTERNET</h2>
-<div class="page-columns page-full"><blockquote class="blockquote">
-<p>Toute information se base<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> sur des faits. Lorsqu’on s’informe via Facebook, Twitter ou même en utilisant Google News, il est parfois difficile de savoir si ce qu’on lit est fiable ou si les informations ont été adaptées, manipulées ou inventées par les internautes. Les sites sont très nombreux, leur forme est souvent proche, avec une photo, un titre, des rubriques… Mais sont-ils fiables?</p>
-</blockquote><div class="no-row-height column-margin column-container"><div id="fn1"><p><sup>1</sup>&nbsp;se baser sur = prendre pour référence = utiliser comme source</p></div></div></div>
-<p>Aux États-Unis ou en Grande-Bretagne, durant les dernières campagnes électorales, on a vu déferler des sites diffusant ainsi des informations partiellement voire totalement fausses, dont certaines ont été très partagées sur les réseaux sociaux, souvent bien plus que les articles qui démentaient ces mensonges.</p>
-<p><strong>Le Décodex, un index de sites non fiables</strong></p>
-<p>Comment savoir à qui faire confiance? Pour tenter de répondre à cette question, “Les Décodeurs”, une rubrique du journal Le Monde, ont lancé, début février 2017, un outil pour vous aider à naviguer. Baptisé le Décodex, il s’agit d’une base de données dans lequelle nous avons répertorié plus de 600 sites, dont certains diffusent des informations fausses, trompeuses ou très orientées. Pour chaque site, une courte notice explique ce qu’il est, qui sont ses responsables, quel courant ou tendance il représente, et renvoie à une fiche plus complète sur note site.</p>
-<p><strong>Quelques conseils pour ne pas se faire piéger</strong></p>
-<div class="columns">
-<div class="column" style="width:50%;">
+<section id="lexique" class="level1">
+<h1>Lexique</h1>
+<div class="column rounded markyellow" style="width:98%;">
 <ul>
-<li>Le site est-il connu? Indique-t-il quelque part qui sont ses responsables légaux, Quelle est son équipe? Si ce n’est pas le cas, ce n’est pas un vrai organe de presse.<br>
+<li>retraite<br>
 </li>
-<li>L’article cite-t-il ses sources? Sont-elles identifiées? Y en a-t-il plusieurs? Un aticle reposant sur une seule source, ou citant un autre site, ne peut suffire, il faut remonter à l’origine de l’information.<br>
+<li>faire le grasse matinée<br>
 </li>
-<li>Peut-on retrouver cette information sur un autre site plus connu? La version est-elle proche ou différente?</li>
-</ul>
-</div><div class="column" style="width:50%;">
-<ul>
-<li>Ne jamais croire une vidéo our une image seule et sans contexte: il est extrêmement simple de détourner, recadrer, réutiliser dans un autre cadre un média imagé ou vidéo.<br>
+<li>faire la sieste<br>
 </li>
-<li>Vérifier une image: le plus simple est d’utiliser la fonction de recherche inversée de Google, qui permet de savoir si l’image existe dans d’autres contextes.</li>
+<li>veiller tard<br>
+</li>
+<li>avoir des vacances / être en vacances<br>
+</li>
+<li>retrouver les membres de la ville<br>
+</li>
+<li>se réunir pendant les vacances<br>
+</li>
+<li>une ambiance joyeuse, festive<br>
+</li>
+<li>prendre ses congés ( les congés payés)<br>
+</li>
+<li>rendre visite à quelqu’un / sa famille<br>
+</li>
+<li>des congés sans solde (solde = salary)<br>
+</li>
+<li>prendre des jours de repos<br>
+</li>
+<li>c’est une période où je ne fais rien.<br>
+</li>
+<li>j’apprecie de partir de chez moi<br>
+</li>
+<li>j’apprecie de <mark>ne pas</mark> reveiller tôt</li>
 </ul>
 </div>
+<div class="column">
+
 </div>
-<div class="columns">
-<div class="column" style="width:63%;">
-<p><strong>Le coup de pouce du CLEMI</strong></p>
-<p>Ouvrir un compte familial sur Twitter pour suivre l’actualité des fact-checkeurs. Le fact-checking est une pratique journalistique consistant à vérifier l’exactitude des informations qui sont diffusées par des personnalités publiques sur les réseaux sociaux, le Web et les médias. Dans les rédactions, une équipe de fact-checkeurs trie le vrai du faux dans le flux de l’info. On les retrouve notamment sur le réseau social Twitter.</p>
-</div><div class="column" style="width:35%;">
-<div class="callout callout-style-default callout-tip callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Tip</span>Ah bon?!
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Le CLEMI est un organisme chargé de l’éducation aux médias dans le système éducatif français. Son objectif est d’apprendre aux élèves à décrypter l’information et l’image, et à développer leur esprit critique.</p>
-</div>
-</div>
-</div>
-</div>
-<hr>
-<p>Il s’agit d’un article publié sur le site Internet le CLEMI.</p>
-<p>La Toile = Internet<br>
-La presse<br>
-Les internautes sont les utilisateurs d’Internet<br>
-Déferler = une information qui arrive avec force, puissance comme une vague et qui se répand de partout.<br>
-Démentir = démontrer la vérité / contredire = prétendre<br>
-Mentir → dire des informations fausses volontairement<br>
-Un mensonge</p>
-<p>Voire = même (connecteur logique)</p>
-<blockquote class="blockquote">
-<p>Exemple: Mon stylo est bon voire merveilleux.<br>
-Les conditions à l’hôpital sont mauvaises voire dangereuses.<br>
-La situation est trop dure voire impossible à régler par Einstein.<br>
-Le projet est difficile voire impossible.</p>
-</blockquote>
-<div class="callout callout-style-default callout-warning callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Warning
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>voire must be followed by a adj or verbe infinitif</p>
-</div>
-</div>
-<p>Donner un coup de pouce → apporter un peu d’aide à quelqu’un / rendre service à quelqu’un<br>
-Donner un coup de main</p>
-<p>Un vérificateur de faits</p>
-<p>Trier = différencier le vrai du faux / éliminer les informations en fonction de notre intérêt, des informations fausses.<br>
-Faire le tri (sélectif)</p>
-<p>Le décalage horaire = time difference<br>
-Le décollage (pour l’avion) = take off</p>
+<div class="column rounded markyellow" style="width:98%;">
+<section id="le-cadre-de-vie" class="level4">
+<h4 class="anchored" data-anchor-id="le-cadre-de-vie">le cadre de vie</h4>
+<p><strong>Les critères:</strong></p>
+<ul>
+<li>la propreté<br>
+</li>
+<li>un espace propre<br>
+</li>
+<li>un environnement sans moustiques<br>
+</li>
+<li>un quartier sécurisé, sûr<br>
+</li>
+<li>les transportations publics sont ponctuels, fréquents, multiples<br>
+</li>
+<li>Des espaces verts</li>
+<li>L’harmonisation des couleurs des bâtiments<br>
+</li>
+<li>Un espace extérieur dans le logement pour prendre l’air<br>
+</li>
+<li>Les commerces à proximité, c’est très pratique</li>
+<li>Les espaces publics, les bâtiments publics</li>
+<li>Un lieu calme, sans bruit, le moins bruyant possible</li>
+<li>Le bruit me dérange</li>
+<li>Une ville agitée, cosmopolite</li>
+<li>Il y a de grandes offres culturelles</li>
+<li>Réaménager un lieu</li>
+<li>Un réaménagement d’un lieu</li>
+<li>Une réorganisation des espaces</li>
+<li>La végétalisation de la ville = végétaliser un espace = planter des végétaux, arbres, des fleurs, des arbustes</li>
+<li>le long de = longer<br>
+</li>
+<li>au bord de = border<br>
+</li>
+<li>nuire = déranger, être un problème<br>
+</li>
+<li>La circulation des voitures nuit au bien-être des habitants</li>
+</ul>
 </section>
-<section id="point-de-langue-la-forme-passive-p.89" class="level2">
-<h2 class="anchored" data-anchor-id="point-de-langue-la-forme-passive-p.89">Point de langue: la forme passive (p.89)</h2>
-<p>Dans la forme passive, on inverse le COD et le sujet. Le COD devient le sujet et le sujet devient le COD qui est, en général, précédé de la préposition par.</p>
-<blockquote class="blockquote">
-<p>Exemple: Les journalistes ont répertorié plus de 600 sites → Plus de 600 sites ont été répertoriés par les journalistes.</p>
-</blockquote>
-<p>Le verbe à la forme passive se conjugue toujours avec l’auxiliaire “être” suivi du participe passé du verbe principal.</p>
-<div class="callout callout-style-default callout-important callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
 </div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Important</span>ATTENTION!
+</section>
+<section id="lexercices-de-la-négation" class="level1">
+<h1>L’exercices de la négation</h1>
+<div class="column rounded markpink" style="width:98%;">
+<section id="personne-rien" class="level3">
+<h3 class="anchored" data-anchor-id="personne-rien">Personne / rien</h3>
+<p><em>Répondez négativement aux questions suivantes.</em></p>
+<ol type="1">
+<li>Est-ce que quelqu’un est venu?
+<ul class="task-list">
+<li><label><input type="checkbox" checked=""><em>Non, personne n’est venue.</em></label></li>
+</ul></li>
+<li>À la soirée de samedi, vous avez rencontré quelqu’un que vous connaissiez?
+<ul class="task-list">
+<li><label><input type="checkbox" checked=""><em>Non, j’ai rencontré personne que je connaissais.</em></label></li>
+</ul></li>
+<li>Il a rencontré quelqu’un intéressant hier soir?
+<ul class="task-list">
+<li><label><input type="checkbox" checked=""><em>Non, il n’a rencontré personne intéressante hier soir.</em></label></li>
+</ul></li>
+<li>Il a écrit à quelque’un?
+<ul class="task-list">
+<li><label><input type="checkbox" checked=""><em>Non, il n’a écrit à personne.</em></label></li>
+</ul></li>
+<li>Est-ce que quelqu’un a vu ce qui s’est passé?
+<ul class="task-list">
+<li><label><input type="checkbox" checked=""><em>Non, personne n’a vue ce qui s’est passé.</em></label></li>
+</ul></li>
+<li>Tu vas à Pékin pour les vacances, tu y connais quelqu’un?
+<ul class="task-list">
+<li><label><input type="checkbox" checked=""><em>Non, je n’y connais personne.</em></label></li>
+</ul></li>
+<li>Est-ce que quelque chose te fait plaisir?
+<ul class="task-list">
+<li><label><input type="checkbox" checked=""><em>Non, rien ne me fait plaisir.</em></label></li>
+</ul></li>
+<li>Tu veux boire quelque chose?
+<ul class="task-list">
+<li><label><input type="checkbox" checked=""><em>Non, je ne veux rien boire.</em></label></li>
+</ul></li>
+<li>Est-ce que quelque chose t’a choqué dans son discours?
+<ul class="task-list">
+<li><label><input type="checkbox" checked=""><em>Non, rien ne m’a choqué dans mon discours.</em></label></li>
+</ul></li>
+<li>Attention! À montagne, la température baisse très vite, vous avez pris de quoi vous courire chaudement?
+<ul class="task-list">
+<li><label><input type="checkbox" checked=""><em>Non, je <span class="markblue">n’en ai riens pris</span> me courire chaudement.</em></label></li>
+</ul></li>
+<li>Vous n’avez pas l’air en forme, il vous est arrivé quelque chose?
+<ul class="task-list">
+<li><label><input type="checkbox" checked=""><em>Non, rien ne m’est arrivé.</em></label></li>
+</ul></li>
+<li>C’est l’anniversaire de Monique, vous avez pensé à quelque chose pour son cadeau?
+<ul class="task-list">
+<li><label><input type="checkbox" checked=""><em>Non, je n’ai pensé <span class="markblue">à rien</span>.</em></label></li>
+</ul></li>
+</ol>
+</section>
 </div>
+<div class="column">
+
 </div>
-<div class="callout-body-container callout-body">
-<p>L’auxiliaire “être” se conjugue au temps du verbe de la forme active.<br>
-Seuls les verbes se construisant avec un COD peuvent être transformés à la forme passive.</p>
+<div class="column rounded markpink" style="width:98%;">
+<section id="nini" class="level3">
+<h3 class="anchored" data-anchor-id="nini">Ni…ni</h3>
+<p><em>Répondez négativement en utilisant « ni … ni » dans la réponse.</em></p>
+<ol type="1">
+<li>Tu vas en vacance à la mer ou à la montagne?
+<ul class="task-list">
+<li><label><input type="checkbox" checked=""><em>Je vas en vacance ni à la mer ni à la montage.</em></label></li>
+</ul></li>
+<li>Vous prendrez la train ou l’avion?
+<ul class="task-list">
+<li><label><input type="checkbox" checked=""><em>Je prendrai ni la train ni l’avion.</em></label></li>
+</ul></li>
+<li>Au mariage de ta sœur, tu portera un jupe longue ou courte?
+<ul class="task-list">
+<li><label><input type="checkbox" checked=""><em>Je porterai un jupe ni longue ni courte.</em><br>
+</label></li>
+</ul></li>
+<li>Pour aller au travail, tu prends le bus ou ton vélo?
+<ul class="task-list">
+<li><label><input type="checkbox" checked=""><em>Je prends ni le bus ni mon vélo.</em></label></li>
+</ul></li>
+<li>Tu as chaud ou tu a froid?
+<ul class="task-list">
+<li><label><input type="checkbox" checked=""><em>J’ai ni chaud ni froid.</em></label></li>
+</ul></li>
+<li>Qu’est-ce que tu préfères? Le camping ou le caravaning?
+<ul class="task-list">
+<li><label><input type="checkbox" checked="">Je préfères ni le camping ni le caravaning._</label></li>
+</ul></li>
+</ol>
+</section>
 </div>
+</section>
+<section id="transcription-de-lecoute" class="level1">
+<h1>Transcription de l’ecoute</h1>
+<section id="comment-améliorer-son-cadre-de-vie" class="level2">
+<h2 class="anchored" data-anchor-id="comment-améliorer-son-cadre-de-vie">Comment améliorer son cadre de vie ?</h2>
+<p><a href="https://inspire.hachettefle.fr/inspire-3_livre-de-l-eleve_fr.html">🎧 piste 72</a></p>
+<div class="column fst-italic marksilver text-justify" style="width:98%;">
+<p><span class="fw-bolder">Emma Garcia:</span> Bonjour à toutes et à tous. Je suis Emma Garcia et je fais partie de l’équipe qui travaille sur le project de la végétalisation des Champs-Élysées.</p>
+<p>Comme vous allez le voir, Paris met tout en œuvre pour <span class="fw-bold"><u>bâtir la ville durable</u></span> du <span class="math inline">\(21^e\)</span> siècle : piétonisation de grands axes, promonades végétalisées, pistes cyclables. La [volonté[{.underline} de la mairie de Paris est en effet de favoriser les déplacements à pied et à vélo et de végétaliser la ville. C’est pourquoi, à l’occassion des Jeux Olympiques de 2024, la municipalité a décidé de <span class="fw-bold"><u>déaménager</u></span> complètement <u>la célèbre artère parisienne</u>.</p>
+<p>Ce projet innovant, dont le bouget <u>s’élève</u> à 250 millions d’euros, va complètement transformer <u>la plus belle avenue du monde</u>. Alors, comme vous allez le voir, la <span class="fw-bold"><u>réalisation</u></span> du projet va <u>offrir</u> à Paris un véritable « <span class="fw-bold"><u>poumon vert</u></span> » de 78 hectares ! Car nous proposons <span class="fw-bold"><u>réaménagement</u></span> complet des espaces avec, en particulier, une <span class="fw-bold"><u>réorganisation</u></span> des jardins qui bordent l’avenue.</p>
+<p>Commençons par la place de la Concorde. Actuellement, c’est un immense rond-point, <span class="fw-bold"><u>plein de</u></span> voitures, et <span class="fw-bold"><u>au milieu de</u></span> ce rond-point, trône l’Obélisque. Eh bien comme vous le voyez, en 2024, cette place sera <span class="fw-bold"><u>partiellement piétonne</u></span>. L’avenue des Champs-Élysées, maintenant, elle <span class="fw-bold"><u>relie</u></span> la place de la Concorde à l’Arc de Triomphe sur deux kilometres. Aujour’dui, 68% des 100 000 visiteurs quotidiens de l’avenue sont des touristes, 5% seulement sont des <u>promeneurs</u> parisiens. Les Parisiens trouvent l’avenue <span class="fw-bold"><u>bruyante, surpollutée</u></span>. Il y passe actuellement 3 000 véhicules par heure !</p>
+<p>Le projet prévoit donc de plus de 360 arbres ici, <span class="fw-bold"><u>le long de</u></span> l’avenue, dans l’objectif de végétaliser le quartier et de créer des zones <span class="fw-bold"><u>ombragées</u></span>, surtout du côté des numéros <span class="fw-bold"><u>pairs</u></span>, <u>c’est-à-dire</u> le trottoir de droite quand on va vers l’Arc de Triomphe, où il y a du soleil tout le temps. L’alignement des arbres qui <u>longeront</u> l’avenue sur toute sa <u>longueur</u> et l’<u>ajout</u> de zones vertes à côté, avec des <u>aires</u> de jeux pour les enfants, protégeront les piétons de la chaleur en laissant <u>circuler</u> un air plus respirable. Les trottoirs seront beaucoup plus larges, et on pourra prendre un café sous les arbres. Les espaces réservés aux voitures seront ainsi reduits de moitié pour diminuer les <span class="fw-bold"><u>nuisances</u></span> liées à la circulation, le bruit et bien sûr la pollution. Après 2024, il n’y aura que deux <u>couloir</u> dans chaque <u>sens de circulation</u> et bien sûr des pistes cyclables. Comme vous le voyez, les Champs-Élysées vont devenir plus verts et plus <u>acueillants</u> pour les <u>promeneurs</u>. Y a-t-il des questions?</p>
 </div>
-<blockquote class="blockquote">
-<p>Exemples:</p>
-<p>a). Un colis a été déposé devant ma porte ce matin.<br>
-b). La production écrite sur les médias a été difficile à rédiger (par moi).<br>
-c). La socca se mange chaude avec beaucoup de sel et de poivre.<br>
-Les personnes mangent de la socca chaude avec beaucoup de sel et poivre.</p>
-</blockquote>
-<p>On peut utiliser <em>se faire + verbe à l’infinitif</em></p>
-<blockquote class="blockquote">
-<p>Exemples:</p>
-<p>Hier, je suis allé(e) chez le coiffeur et je me suis fait couper les cheveux (par le coiffeur)<br>
-Mes cheveux se coiffent très facilement.<br>
-Mes cheveux se démêlent très facilement.</p>
-</blockquote>
-<div class="callout callout-style-default callout-warning callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Warning</span>DEVOIRS pour demain:
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Faire l’exercice n°4 p.46 (dans le CA)<br>
-Apprendre le vocabulaire<br>
-Faire la production écrite (p.87) → voir notes de lundi</p>
-</div>
-</div>
-<hr>
-<p>Pour vous aider à rédiger votre article:</p>
-<blockquote class="blockquote">
-<p>Qui?<br>
-Quoi?<br>
-Où?<br>
-Quand?<br>
-Comment?<br>
-Pourquoi?</p>
-</blockquote>
 
 
 </section>
 </section>
-
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
