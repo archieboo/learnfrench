@@ -7,6 +7,12 @@ citation-location: document #margin
 image: "https://images.unsplash.com/photo-1775327278580-0d21cebf58b7?q=80&w=640"
 ---
 
+# Le précis
+
+Les lexiques de la santé, de la bien-être et de loisirs  
+Pratiquez la négation  
+Formulez des questions formelles
+
 
 
 # Formulez les questions formelle
