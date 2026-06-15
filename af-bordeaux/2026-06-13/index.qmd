@@ -1,0 +1,663 @@
+---
+title: "Test DELF B1 – Semaine 2"
+date: "2026-06-13"
+categories: ["bordeaux", "af", "B1", "test", "unite4"]
+image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?q=80&w=640"
+execute:
+  echo: false
+---
+
+::: {.callout-note icon=false}
+#### Consignes
+
+Ce test couvre les leçons de la **semaine 2** (8–12 juin 2026) : lexiques de la lecture, de la santé et du bien-être, des vacances, du cadre de vie et de l'aménagement urbain, la négation, et le gérondif.
+
+- **39 questions** — durée estimée : ~25 minutes
+- Répondez à toutes les questions, puis cliquez sur **Soumettre le test**
+- Vos résultats, corrections et explications apparaîtront immédiatement
+:::
+
+```{=html}
+<style>
+.quiz-section { background:#f8f9fa; border-radius:10px; padding:1.25rem 1.5rem; margin:1.5rem 0; }
+.quiz-section h3 { margin-top:0; font-size:1.05rem; color:#374151; border-bottom:1px solid #e5e7eb; padding-bottom:.4rem; margin-bottom:1rem; }
+.quiz-q { margin-bottom:1.2rem; }
+.quiz-q label.q-label { display:block; font-weight:600; margin-bottom:.4rem; color:#1f2937; }
+.quiz-q .options label { display:block; margin:.25rem 0; cursor:pointer; color:#374151; }
+.quiz-q .options input[type=radio] { margin-right:.4rem; }
+#submit-btn { background:#1d4ed8; color:white; border:none; padding:.7rem 2rem; font-size:1rem; border-radius:8px; cursor:pointer; margin:1.5rem 0; font-family:inherit; }
+#submit-btn:hover { background:#1e40af; }
+#results { display:none; margin-top:1.5rem; }
+.score-box { background:#f8f9fa; border-radius:12px; padding:1.5rem; text-align:center; margin-bottom:1.25rem; }
+.score-big { font-size:3rem; font-weight:700; }
+.score-grade { font-size:1.4rem; margin-top:.2rem; }
+.section-grid { display:grid; grid-template-columns:repeat(2,1fr); gap:.75rem; margin-bottom:1.5rem; }
+.section-chip { background:#f8f9fa; border-radius:8px; padding:.75rem 1rem; }
+.section-chip .sec-name { font-size:.82rem; color:#6b7280; }
+.section-chip .sec-score { font-size:1.3rem; font-weight:700; }
+.q-result { border-radius:0 8px 8px 0; padding:.7rem 1rem; margin:.5rem 0; }
+.q-result .q-title { font-weight:700; margin-bottom:.2rem; }
+.q-result .q-user, .q-result .q-correct { font-size:.9rem; }
+.q-result .q-expl { font-size:.85rem; font-style:italic; color:#374151; margin-top:.3rem; }
+.q-ok  { border-left:4px solid #16a34a; background:#f0fdf4; }
+.q-err { border-left:4px solid #dc2626; background:#fef2f2; }
+.text-ok  { color:#16a34a; }
+.text-err { color:#dc2626; }
+</style>
+
+<form id="quiz-form">
+
+<div class="quiz-section">
+<h3>① Lexique – La Lecture (leçon du 8 juin)</h3>
+
+<div class="quiz-q">
+<label class="q-label">1. Que signifie « se plonger dans un roman » ?</label>
+<div class="options">
+<label><input type="radio" name="q1" value="A"> Jeter un livre à l'eau</label>
+<label><input type="radio" name="q1" value="B"> Lire un roman de façon intense, s'y immerger complètement</label>
+<label><input type="radio" name="q1" value="C"> Écrire un roman de fiction</label>
+<label><input type="radio" name="q1" value="D"> Recommander un roman à un ami</label>
+</div>
+</div>
+
+<div class="quiz-q">
+<label class="q-label">2. Complétez : « Lire me procure du _______ et des sensations de détente. »</label>
+<div class="options">
+<label><input type="radio" name="q2" value="A"> renforcement</label>
+<label><input type="radio" name="q2" value="B"> relâchement</label>
+<label><input type="radio" name="q2" value="C"> développement</label>
+<label><input type="radio" name="q2" value="D"> enrichissement</label>
+</div>
+</div>
+
+<div class="quiz-q">
+<label class="q-label">3. Que signifie « enrichir ses connaissances » ?</label>
+<div class="options">
+<label><input type="radio" name="q3" value="A"> Gagner de l'argent</label>
+<label><input type="radio" name="q3" value="B"> Apprendre davantage, augmenter son savoir</label>
+<label><input type="radio" name="q3" value="C"> Partager ses livres avec d'autres</label>
+<label><input type="radio" name="q3" value="D"> Lire des livres coûteux</label>
+</div>
+</div>
+
+<div class="quiz-q">
+<label class="q-label">4. « Les bienfaits de la lecture » désignent…</label>
+<div class="options">
+<label><input type="radio" name="q4" value="A"> Les effets négatifs de la lecture sur la santé</label>
+<label><input type="radio" name="q4" value="B"> Les types de livres recommandés</label>
+<label><input type="radio" name="q4" value="C"> Les avantages positifs de la lecture pour la santé</label>
+<label><input type="radio" name="q4" value="D"> Les règles d'une bibliothèque</label>
+</div>
+</div>
+
+<div class="quiz-q">
+<label class="q-label">5. Que signifie « l'espérance de vie » ?</label>
+<div class="options">
+<label><input type="radio" name="q5" value="A"> Le désir de vivre longtemps</label>
+<label><input type="radio" name="q5" value="B"> La durée de vie moyenne prévue pour une population</label>
+<label><input type="radio" name="q5" value="C"> La qualité de la vie quotidienne</label>
+<label><input type="radio" name="q5" value="D"> L'espoir de guérison après une maladie</label>
+</div>
+</div>
+
+<div class="quiz-q">
+<label class="q-label">6. Que désigne « la gymnastique intellectuelle » dans la transcription ?</label>
+<div class="options">
+<label><input type="radio" name="q6" value="A"> Un sport pratiqué dans les bibliothèques</label>
+<label><input type="radio" name="q6" value="B"> Un exercice physique pour les enfants</label>
+<label><input type="radio" name="q6" value="C"> Un entraînement régulier de l'esprit, une activité qui stimule le cerveau</label>
+<label><input type="radio" name="q6" value="D"> Une méthode de mémorisation rapide basée sur la répétition</label>
+</div>
+</div>
+</div>
+
+<div class="quiz-section">
+<h3>② Lexique – Bien-être, santé et loisirs (leçon du 9 juin)</h3>
+
+<div class="quiz-q">
+<label class="q-label">7. « Elle prévient + nom » — quel est le sens de ce verbe dans ce contexte ?</label>
+<div class="options">
+<label><input type="radio" name="q7" value="A"> Elle augmente, développe</label>
+<label><input type="radio" name="q7" value="B"> Elle évite, empêche quelque chose de se produire</label>
+<label><input type="radio" name="q7" value="C"> Elle maintient en bon état</label>
+<label><input type="radio" name="q7" value="D"> Elle réduit, diminue</label>
+</div>
+</div>
+
+<div class="quiz-q">
+<label class="q-label">8. « Elle entretient + nom » — quel est le sens de ce verbe ?</label>
+<div class="options">
+<label><input type="radio" name="q8" value="A"> Augmenter, développer</label>
+<label><input type="radio" name="q8" value="B"> Empêcher, éviter</label>
+<label><input type="radio" name="q8" value="C"> Conserver, maintenir en bon état</label>
+<label><input type="radio" name="q8" value="D"> Réduire, diminuer</label>
+</div>
+</div>
+
+<div class="quiz-q">
+<label class="q-label">9. Que signifie « atténuer l'anxiété » ?</label>
+<div class="options">
+<label><input type="radio" name="q9" value="A"> Provoquer de l'anxiété</label>
+<label><input type="radio" name="q9" value="B"> Mesurer le niveau d'anxiété</label>
+<label><input type="radio" name="q9" value="C"> Ignorer totalement l'anxiété</label>
+<label><input type="radio" name="q9" value="D"> Réduire, diminuer l'intensité de l'anxiété</label>
+</div>
+</div>
+
+<div class="quiz-q">
+<label class="q-label">10. « Grâce à la lecture, on peut se libérer du stress. » — Quelle est la valeur de « grâce à » ?</label>
+<div class="options">
+<label><input type="radio" name="q10" value="A"> Exprimer une opposition (mais, cependant)</label>
+<label><input type="radio" name="q10" value="B"> Exprimer une cause positive ou un moyen favorable</label>
+<label><input type="radio" name="q10" value="C"> Exprimer une conséquence négative</label>
+<label><input type="radio" name="q10" value="D"> Exprimer un but (pour, afin de)</label>
+</div>
+</div>
+
+<div class="quiz-q">
+<label class="q-label">11. Que signifie « décrocher » dans le contexte du travail ?</label>
+<div class="options">
+<label><input type="radio" name="q11" value="A"> Obtenir un nouvel emploi</label>
+<label><input type="radio" name="q11" value="B"> Travailler à distance depuis chez soi</label>
+<label><input type="radio" name="q11" value="C"> Se déconnecter mentalement du travail, arrêter d'y penser</label>
+<label><input type="radio" name="q11" value="D"> Téléphoner à un collègue</label>
+</div>
+</div>
+
+<div class="quiz-q">
+<label class="q-label">12. Que signifie « un effet apaisant » ?</label>
+<div class="options">
+<label><input type="radio" name="q12" value="A"> Un effet stimulant, énergisant</label>
+<label><input type="radio" name="q12" value="B"> Un effet calmant, qui calme et détend</label>
+<label><input type="radio" name="q12" value="C"> Un effet douloureux</label>
+<label><input type="radio" name="q12" value="D"> Un effet surprenant, inattendu</label>
+</div>
+</div>
+
+<div class="quiz-q">
+<label class="q-label">13. Que signifie « être incité à faire quelque chose » ?</label>
+<div class="options">
+<label><input type="radio" name="q13" value="A"> Être interdit de faire quelque chose</label>
+<label><input type="radio" name="q13" value="B"> Être contraint, forcé de faire quelque chose</label>
+<label><input type="radio" name="q13" value="C"> Être encouragé, poussé à faire quelque chose</label>
+<label><input type="radio" name="q13" value="D"> Être incapable de faire quelque chose</label>
+</div>
+</div>
+</div>
+
+<div class="quiz-section">
+<h3>③ Grammaire – La Négation (leçons du 9 et 10 juin)</h3>
+
+<div class="quiz-q">
+<label class="q-label">14. « Est-ce que quelqu'un est venu ? » → Répondez négativement :</label>
+<div class="options">
+<label><input type="radio" name="q14" value="A"> Non, je ne suis pas venu</label>
+<label><input type="radio" name="q14" value="B"> Non, personne n'est venu</label>
+<label><input type="radio" name="q14" value="C"> Non, rien n'est venu</label>
+<label><input type="radio" name="q14" value="D"> Non, je ne suis jamais venu</label>
+</div>
+</div>
+
+<div class="quiz-q">
+<label class="q-label">15. « Tu veux boire quelque chose ? » → Répondez négativement :</label>
+<div class="options">
+<label><input type="radio" name="q15" value="A"> Non, je ne veux personne boire</label>
+<label><input type="radio" name="q15" value="B"> Non, je ne veux rien boire</label>
+<label><input type="radio" name="q15" value="C"> Non, je ne veux jamais boire</label>
+<label><input type="radio" name="q15" value="D"> Non, je ne veux ni boire</label>
+</div>
+</div>
+
+<div class="quiz-q">
+<label class="q-label">16. « Est-ce que quelque chose te fait plaisir ? » → Répondez négativement :</label>
+<div class="options">
+<label><input type="radio" name="q16" value="A"> Non, rien ne me fait plaisir</label>
+<label><input type="radio" name="q16" value="B"> Non, personne ne me fait plaisir</label>
+<label><input type="radio" name="q16" value="C"> Non, je ne fais rien plaisir</label>
+<label><input type="radio" name="q16" value="D"> Non, je ne fais pas plaisir</label>
+</div>
+</div>
+
+<div class="quiz-q">
+<label class="q-label">17. Quelle structure emploie-t-on pour nier une chose en position sujet ?</label>
+<div class="options">
+<label><input type="radio" name="q17" value="A"> ne...pas</label>
+<label><input type="radio" name="q17" value="B"> ne...jamais</label>
+<label><input type="radio" name="q17" value="C"> ne...personne</label>
+<label><input type="radio" name="q17" value="D"> rien...ne</label>
+</div>
+</div>
+
+<div class="quiz-q">
+<label class="q-label">18. « Tu vas en vacances à la mer ou à la montagne ? » → Utilisez « ni…ni » :</label>
+<div class="options">
+<label><input type="radio" name="q18" value="A"> Je ne vais ni à la mer ni à la montagne</label>
+<label><input type="radio" name="q18" value="B"> Je ne vais pas à la mer ni à la montagne</label>
+<label><input type="radio" name="q18" value="C"> Ni je vais à la mer ni à la montagne</label>
+<label><input type="radio" name="q18" value="D"> Je vais ni à la mer ni à la montagne</label>
+</div>
+</div>
+
+<div class="quiz-q">
+<label class="q-label">19. Complétez : « _______ le sport _______ la lecture _______ me plaisent. »</label>
+<div class="options">
+<label><input type="radio" name="q19" value="A"> Ni / ni / ne</label>
+<label><input type="radio" name="q19" value="B"> Ne / ni / ni</label>
+<label><input type="radio" name="q19" value="C"> Pas / ni / ne</label>
+<label><input type="radio" name="q19" value="D"> Ni / pas / ne</label>
+</div>
+</div>
+
+<div class="quiz-q">
+<label class="q-label">20. Quelle phrase est grammaticalement correcte ?</label>
+<div class="options">
+<label><input type="radio" name="q20" value="A"> Rien ne se passent</label>
+<label><input type="radio" name="q20" value="B"> Rien ne se passe</label>
+<label><input type="radio" name="q20" value="C"> Rien ne se pas</label>
+<label><input type="radio" name="q20" value="D"> Ne rien se passe</label>
+</div>
+</div>
+
+<div class="quiz-q">
+<label class="q-label">21. Quelle phrase combine correctement « personne » et « jamais » ?</label>
+<div class="options">
+<label><input type="radio" name="q21" value="A"> Personne ne vient jamais</label>
+<label><input type="radio" name="q21" value="B"> Personne ne vient pas</label>
+<label><input type="radio" name="q21" value="C"> Ne personne vient jamais</label>
+<label><input type="radio" name="q21" value="D"> Personne vient ne jamais</label>
+</div>
+</div>
+</div>
+
+<div class="quiz-section">
+<h3>④ Lexique – Vacances et cadre de vie (leçon du 10 juin)</h3>
+
+<div class="quiz-q">
+<label class="q-label">22. Que veut dire « faire la grasse matinée » ?</label>
+<div class="options">
+<label><input type="radio" name="q22" value="A"> Préparer un grand petit-déjeuner copieux</label>
+<label><input type="radio" name="q22" value="B"> Se lever très tôt le matin</label>
+<label><input type="radio" name="q22" value="C"> Rester au lit plus longtemps que d'habitude, se lever tard</label>
+<label><input type="radio" name="q22" value="D"> Faire du sport le matin avant le travail</label>
+</div>
+</div>
+
+<div class="quiz-q">
+<label class="q-label">23. « Des congés sans solde » — que signifie « solde » dans ce contexte ?</label>
+<div class="options">
+<label><input type="radio" name="q23" value="A"> Une promotion commerciale, un prix réduit</label>
+<label><input type="radio" name="q23" value="B"> La rémunération versée par l'employeur</label>
+<label><input type="radio" name="q23" value="C"> Un type de congé pour raison médicale</label>
+<label><input type="radio" name="q23" value="D"> Un budget de vacances</label>
+</div>
+</div>
+
+<div class="quiz-q">
+<label class="q-label">24. Que signifie « végétaliser un espace » ?</label>
+<div class="options">
+<label><input type="radio" name="q24" value="A"> Nettoyer et entretenir un espace public</label>
+<label><input type="radio" name="q24" value="B"> Planter des végétaux, des arbres, des fleurs, des arbustes</label>
+<label><input type="radio" name="q24" value="C"> Agrandir un espace urbain existant</label>
+<label><input type="radio" name="q24" value="D"> Peindre les murs en vert</label>
+</div>
+</div>
+
+<div class="quiz-q">
+<label class="q-label">25. Que signifie « nuire à quelqu'un » ?</label>
+<div class="options">
+<label><input type="radio" name="q25" value="A"> Aider quelqu'un, lui être utile</label>
+<label><input type="radio" name="q25" value="B"> Profiter de quelqu'un</label>
+<label><input type="radio" name="q25" value="C"> Causer du tort, déranger, être un problème pour quelqu'un</label>
+<label><input type="radio" name="q25" value="D"> Se rapprocher de quelqu'un</label>
+</div>
+</div>
+
+<div class="quiz-q">
+<label class="q-label">26. Comment appelle-t-on un quartier avec beaucoup de bruit ?</label>
+<div class="options">
+<label><input type="radio" name="q26" value="A"> Un quartier calme</label>
+<label><input type="radio" name="q26" value="B"> Un quartier bruyant</label>
+<label><input type="radio" name="q26" value="C"> Un quartier propre</label>
+<label><input type="radio" name="q26" value="D"> Un quartier éloigné</label>
+</div>
+</div>
+
+<div class="quiz-q">
+<label class="q-label">27. Dans la transcription, que désigne « un poumon vert » en ville ?</label>
+<div class="options">
+<label><input type="radio" name="q27" value="A"> Un hôpital spécialisé en maladies respiratoires</label>
+<label><input type="radio" name="q27" value="B"> Un grand espace naturel qui apporte de l'air frais dans la ville</label>
+<label><input type="radio" name="q27" value="C"> Une usine de recyclage de déchets verts</label>
+<label><input type="radio" name="q27" value="D"> Un système de climatisation urbaine</label>
+</div>
+</div>
+
+<div class="quiz-q">
+<label class="q-label">28. « Prendre ses congés payés » signifie…</label>
+<div class="options">
+<label><input type="radio" name="q28" value="A"> Travailler pendant les jours fériés pour être mieux payé</label>
+<label><input type="radio" name="q28" value="B"> Demander une augmentation de salaire</label>
+<label><input type="radio" name="q28" value="C"> Bénéficier de jours de vacances rémunérés par l'employeur</label>
+<label><input type="radio" name="q28" value="D"> Prendre une retraite anticipée</label>
+</div>
+</div>
+</div>
+
+<div class="quiz-section">
+<h3>⑤ Lexique – Aménagement urbain (leçon du 11 juin)</h3>
+
+<div class="quiz-q">
+<label class="q-label">29. « Élargir les trottoirs » signifie…</label>
+<div class="options">
+<label><input type="radio" name="q29" value="A"> Fermer les trottoirs aux piétons</label>
+<label><input type="radio" name="q29" value="B"> Nettoyer et entretenir les trottoirs</label>
+<label><input type="radio" name="q29" value="C"> Rendre les trottoirs plus larges</label>
+<label><input type="radio" name="q29" value="D"> Raccourcir les trottoirs</label>
+</div>
+</div>
+
+<div class="quiz-q">
+<label class="q-label">30. Que désigne « la piétonnisation » d'une rue ?</label>
+<div class="options">
+<label><input type="radio" name="q30" value="A"> L'installation de nouveaux feux de circulation</label>
+<label><input type="radio" name="q30" value="B"> La transformation d'une rue en espace réservé aux personnes à pied</label>
+<label><input type="radio" name="q30" value="C"> La construction de parkings souterrains</label>
+<label><input type="radio" name="q30" value="D"> L'élargissement des routes pour les voitures</label>
+</div>
+</div>
+
+<div class="quiz-q">
+<label class="q-label">31. « Des zones ombragées » sont des zones…</label>
+<div class="options">
+<label><input type="radio" name="q31" value="A"> Colorées, peintes de couleurs vives</label>
+<label><input type="radio" name="q31" value="B"> Réservées aux voitures uniquement</label>
+<label><input type="radio" name="q31" value="C"> Protégées du soleil par des arbres ou des structures</label>
+<label><input type="radio" name="q31" value="D"> Éclairées artificiellement la nuit</label>
+</div>
+</div>
+
+<div class="quiz-q">
+<label class="q-label">32. « La mairie » peut aussi s'appeler…</label>
+<div class="options">
+<label><input type="radio" name="q32" value="A"> La préfecture</label>
+<label><input type="radio" name="q32" value="B"> La municipalité</label>
+<label><input type="radio" name="q32" value="C"> Le gouvernement</label>
+<label><input type="radio" name="q32" value="D"> La région</label>
+</div>
+</div>
+
+<div class="quiz-q">
+<label class="q-label">33. Quel verbe signifie « rendre plus court » (contraire de « allonger ») ?</label>
+<div class="options">
+<label><input type="radio" name="q33" value="A"> Élargir</label>
+<label><input type="radio" name="q33" value="B"> S'éloigner</label>
+<label><input type="radio" name="q33" value="C"> Raccourcir</label>
+<label><input type="radio" name="q33" value="D"> Border</label>
+</div>
+</div>
+
+<div class="quiz-q">
+<label class="q-label">34. « Tacitement » signifie…</label>
+<div class="options">
+<label><input type="radio" name="q34" value="A"> Sans dire un mot, de façon implicite</label>
+<label><input type="radio" name="q34" value="B"> Rapidement, sans réfléchir</label>
+<label><input type="radio" name="q34" value="C"> De manière officielle et formelle</label>
+<label><input type="radio" name="q34" value="D"> Avec beaucoup de bruit et d'agitation</label>
+</div>
+</div>
+</div>
+
+<div class="quiz-section">
+<h3>⑥ Grammaire – Le Gérondif (leçon du 12 juin)</h3>
+
+<div class="quiz-q">
+<label class="q-label">35. Le gérondif se forme avec…</label>
+<div class="options">
+<label><input type="radio" name="q35" value="A"> à + infinitif</label>
+<label><input type="radio" name="q35" value="B"> pour + infinitif</label>
+<label><input type="radio" name="q35" value="C"> en + participe présent</label>
+<label><input type="radio" name="q35" value="D"> par + infinitif</label>
+</div>
+</div>
+
+<div class="quiz-q">
+<label class="q-label">36. Comment forme-t-on le participe présent du verbe « utiliser » ?</label>
+<div class="options">
+<label><input type="radio" name="q36" value="A"> utilisé</label>
+<label><input type="radio" name="q36" value="B"> utilisant</label>
+<label><input type="radio" name="q36" value="C"> utilise</label>
+<label><input type="radio" name="q36" value="D"> utilisera</label>
+</div>
+</div>
+
+<div class="quiz-q">
+<label class="q-label">37. Complétez : « On peut réussir une décoration parfaite _______ les couleurs. »</label>
+<div class="options">
+<label><input type="radio" name="q37" value="A"> pour harmonisant</label>
+<label><input type="radio" name="q37" value="B"> en harmonisant</label>
+<label><input type="radio" name="q37" value="C"> par harmoniser</label>
+<label><input type="radio" name="q37" value="D"> à harmonisant</label>
+</div>
+</div>
+
+<div class="quiz-q">
+<label class="q-label">38. Quelle phrase utilise correctement le gérondif ?</label>
+<div class="options">
+<label><input type="radio" name="q38" value="A"> En ayant du choix, on est content</label>
+<label><input type="radio" name="q38" value="B"> En avoir du choix, on est content</label>
+<label><input type="radio" name="q38" value="C"> Ayant en du choix, on est content</label>
+<label><input type="radio" name="q38" value="D"> En eu du choix, on est content</label>
+</div>
+</div>
+
+<div class="quiz-q">
+<label class="q-label">39. « En satisfaisant les besoins de… » — de quel verbe vient le gérondif « satisfaisant » ?</label>
+<div class="options">
+<label><input type="radio" name="q39" value="A"> savoir</label>
+<label><input type="radio" name="q39" value="B"> satisfaire</label>
+<label><input type="radio" name="q39" value="C"> sentir</label>
+<label><input type="radio" name="q39" value="D"> suffire</label>
+</div>
+</div>
+</div>
+
+<button type="button" id="submit-btn" onclick="submitQuiz()">Soumettre le test</button>
+</form>
+
+<div id="results"></div>
+
+<script>
+const QUIZ = {
+  q1:  { correct:"B", label:"1. « se plonger dans un roman »",
+         explanation:"« Se plonger dans » signifie s'immerger totalement dans une activité. Terme souligné et en gras dans la transcription du 8 juin." },
+  q2:  { correct:"B", label:"2. « relâchement »",
+         explanation:"Du lexique du 8 juin : « lire me procure du relâchement / des sensations de détente / du bien-être ». Relâchement = état de détente, de relaxation." },
+  q3:  { correct:"B", label:"3. « enrichir ses connaissances »",
+         explanation:"Du lexique du 8 juin : « enrichir ses connaissances » et « l'enrichissement personnel / lexical » = apprendre davantage, augmenter son savoir." },
+  q4:  { correct:"C", label:"4. « les bienfaits »",
+         explanation:"Les bienfaits = les avantages positifs, les effets favorables. Antonyme : les méfaits. C'est le titre du document audio du 8 juin." },
+  q5:  { correct:"B", label:"5. « l'espérance de vie »",
+         explanation:"L'espérance de vie = la durée de vie statistiquement prévue pour une population. Terme en gras et souligné dans la transcription du 8 juin." },
+  q6:  { correct:"C", label:"6. « la gymnastique intellectuelle »",
+         explanation:"Expression en gras dans la transcription du 8 juin : lire un roman mobilise la mémoire, les émotions et l'imagination — c'est une activité qui stimule le cerveau de façon intensive." },
+  q7:  { correct:"B", label:"7. « elle prévient + nom »",
+         explanation:"Du lexique du 9 juin : « Elle prévient + nom » = elle empêche quelque chose de se produire. Exemple : La lecture prévient la détérioration intellectuelle." },
+  q8:  { correct:"C", label:"8. « elle entretient + nom »",
+         explanation:"Du lexique du 9 juin : « Elle entretient + nom » = elle conserve, maintient en bon état. Exemples : entretenir la forme, entretenir l'amitié." },
+  q9:  { correct:"D", label:"9. « atténuer l'anxiété »",
+         explanation:"Du lexique du 9 juin : « atténuer l'anxiété, le stress » = réduire, diminuer leur intensité. Atténuer ≠ supprimer complètement." },
+  q10: { correct:"B", label:"10. Valeur de « grâce à »",
+         explanation:"Du lexique du 9 juin : « grâce à + nom » exprime une cause positive ou un moyen favorable. Exemple : Grâce à la lecture, on développe son vocabulaire." },
+  q11: { correct:"C", label:"11. « décrocher » du travail",
+         explanation:"Du lexique du 9 juin : « se déconnecter du travail = décrocher ». Contraire : « rester connecté / accroché ». Décrocher = ne plus penser au travail pendant ses loisirs." },
+  q12: { correct:"B", label:"12. « un effet apaisant »",
+         explanation:"Du lexique du 9 juin : « un effet apaisant » = un effet calmant, qui calme l'esprit et détend. Vient du verbe « apaiser » (calmer)." },
+  q13: { correct:"C", label:"13. « être incité à »",
+         explanation:"Du lexique du 9 juin : « une incitation / être incité ». Être incité = être encouragé, poussé à agir. Ce n'est ni une obligation ni une interdiction." },
+  q14: { correct:"B", label:"14. Quelqu'un (sujet) → personne",
+         explanation:"Quand « quelqu'un » est sujet, la négation se place en tête de phrase : « Personne ne + verbe ». Structure : Personne n'est venu. Exercice du 10 juin, question 1." },
+  q15: { correct:"B", label:"15. Quelque chose (objet + infinitif) → rien",
+         explanation:"Quand « quelque chose » est objet suivi d'un infinitif, on utilise « ne…rien » : « je ne veux rien boire ». Structure : ne + verbe conjugué + rien + infinitif. Exercice du 10 juin, question 8." },
+  q16: { correct:"A", label:"16. Quelque chose (sujet) → rien",
+         explanation:"Quand « quelque chose » est sujet, la négation est « Rien ne + verbe » : « Rien ne me fait plaisir ». Exercice du 10 juin, question 7." },
+  q17: { correct:"D", label:"17. Nier une chose en position sujet",
+         explanation:"Pour nier une chose en position sujet, on utilise « Rien ne + verbe » : « Rien ne se passe », « Rien ne va ». Du cours du 9 juin." },
+  q18: { correct:"A", label:"18. Ni…ni (mer / montagne)",
+         explanation:"Structure ni…ni : « ne + verbe + ni + [A] + ni + [B] ». Le « ne » reste obligatoire avec le verbe. Exercice du 10 juin, question 1." },
+  q19: { correct:"A", label:"19. Ni…ni en tête de phrase",
+         explanation:"Quand « ni…ni » précède le sujet, le « ne » vient juste avant le verbe : « Ni le sport ni la lecture ne me plaisent ». Exemple du cours du 9 juin." },
+  q20: { correct:"B", label:"20. Accord de « rien ne »",
+         explanation:"« Rien » est un sujet singulier : il exige « ne » avant le verbe et le verbe s'accorde au singulier. La seule forme correcte est « Rien ne se passe »." },
+  q21: { correct:"A", label:"21. Double négation personne + jamais",
+         explanation:"On peut combiner deux négations : « Personne ne vient jamais ». Avec « personne » sujet, on ne peut PAS ajouter « pas » — ce serait une double négation incorrecte." },
+  q22: { correct:"C", label:"22. « faire la grasse matinée »",
+         explanation:"Du lexique des vacances (10 juin) : « faire la grasse matinée » = rester au lit plus longtemps que d'habitude, se lever tard le matin." },
+  q23: { correct:"B", label:"23. « solde » = rémunération",
+         explanation:"Du lexique du 10 juin : « des congés sans solde (solde = salary) ». Ici « solde » signifie la rémunération versée par l'employeur. Congés sans solde = vacances non payées." },
+  q24: { correct:"B", label:"24. « végétaliser un espace »",
+         explanation:"Du cours du 10 juin : « La végétalisation de la ville = végétaliser un espace = planter des végétaux, arbres, des fleurs, des arbustes »." },
+  q25: { correct:"C", label:"25. « nuire à »",
+         explanation:"Du lexique du 10 juin : « nuire = déranger, être un problème ». Exemple : « La circulation des voitures nuit au bien-être des habitants »." },
+  q26: { correct:"B", label:"26. Quartier « bruyant »",
+         explanation:"Du lexique du 10 juin : « Un lieu calme, sans bruit » et « Le bruit me dérange ». Bruyant = qui fait beaucoup de bruit, contraire de calme." },
+  q27: { correct:"B", label:"27. « un poumon vert »",
+         explanation:"Terme en gras dans la transcription du 10 juin : « offrir à Paris un véritable poumon vert de 78 hectares ». Métaphore : un grand espace vert qui permet à la ville de « respirer »." },
+  q28: { correct:"C", label:"28. « congés payés »",
+         explanation:"Du lexique du 10 juin : « prendre ses congés (les congés payés) ». Les congés payés = jours de vacances que l'employeur est obligé de rémunérer." },
+  q29: { correct:"C", label:"29. « élargir les trottoirs »",
+         explanation:"Du lexique du 11 juin : « Élargir les trottoirs (rendre plus large) ». Contraire : rétrécir. À retenir : élargir → large ; allonger → long ; raccourcir → court." },
+  q30: { correct:"B", label:"30. « la piétonnisation »",
+         explanation:"Du lexique du 11 juin : « privilégier la piétonnisation (les rues piétonnes) ». Une rue piétonne = une rue réservée aux personnes à pied, fermée aux voitures." },
+  q31: { correct:"C", label:"31. « zones ombragées »",
+         explanation:"Du lexique du 11 juin : « augmenter les espaces / des zones ombragé(e)s (faire de l'ombre) ». Ombragé = protégé du soleil, à l'ombre des arbres." },
+  q32: { correct:"B", label:"32. « la mairie » = la municipalité",
+         explanation:"Du lexique du 11 juin : « la mairie = la municipalité ». Ces deux mots désignent l'administration locale qui gère la ville." },
+  q33: { correct:"C", label:"33. Contraire de « allonger »",
+         explanation:"Du lexique du 11 juin : « allonger = long / raccourcir = court / élargir = large / s'éloigner = loin / se rapprocher = près ». Allonger ↔ raccourcir." },
+  q34: { correct:"A", label:"34. « tacitement »",
+         explanation:"Du lexique du 11 juin : « tacitement = sans dire un mot, sans parler ». Se dit d'un accord ou d'une permission qui n'a pas été exprimé verbalement." },
+  q35: { correct:"C", label:"35. Formation du gérondif",
+         explanation:"Le gérondif = invariable, formé avec « en » + participe présent. Le participe présent se forme sur le radical de la 1ère personne du pluriel + -ant. Ex. : nous prenons → prenant → en prenant." },
+  q36: { correct:"B", label:"36. Participe présent de « utiliser »",
+         explanation:"Radical de « nous utilisons » = utilis- + -ant = utilisant. Le gérondif est donc « en utilisant ». Du cours du 12 juin." },
+  q37: { correct:"B", label:"37. Gérondif – harmoniser",
+         explanation:"Gérondif de « harmoniser » : nous harmonisons → harmonisant → en harmonisant les couleurs. Du cours du 12 juin : « Comment réussir une décoration parfaite ? »" },
+  q38: { correct:"A", label:"38. Gérondif de « avoir »",
+         explanation:"Gérondif de « avoir » : nous avons → ayant → en ayant. « En ayant du choix, on est content » est la seule forme correcte. Exemple du lexique du 12 juin." },
+  q39: { correct:"B", label:"39. Gérondif de « satisfaire »",
+         explanation:"« En satisfaisant » vient de « satisfaire » : nous satisfaisons → satisfaisant → en satisfaisant. Du lexique du 12 juin : « en satisfaisant les besoins de »." }
+};
+
+const OPTION_TEXT = {
+  q1:  { A:"Jeter un livre à l'eau", B:"Lire un roman de façon intense, s'y immerger complètement", C:"Écrire un roman de fiction", D:"Recommander un roman à un ami" },
+  q2:  { A:"renforcement", B:"relâchement", C:"développement", D:"enrichissement" },
+  q3:  { A:"Gagner de l'argent", B:"Apprendre davantage, augmenter son savoir", C:"Partager ses livres avec d'autres", D:"Lire des livres coûteux" },
+  q4:  { A:"Les effets négatifs de la lecture sur la santé", B:"Les types de livres recommandés", C:"Les avantages positifs de la lecture pour la santé", D:"Les règles d'une bibliothèque" },
+  q5:  { A:"Le désir de vivre longtemps", B:"La durée de vie moyenne prévue pour une population", C:"La qualité de la vie quotidienne", D:"L'espoir de guérison après une maladie" },
+  q6:  { A:"Un sport pratiqué dans les bibliothèques", B:"Un exercice physique pour les enfants", C:"Un entraînement régulier de l'esprit, une activité qui stimule le cerveau", D:"Une méthode de mémorisation rapide basée sur la répétition" },
+  q7:  { A:"Elle augmente, développe", B:"Elle évite, empêche quelque chose de se produire", C:"Elle maintient en bon état", D:"Elle réduit, diminue" },
+  q8:  { A:"Augmenter, développer", B:"Empêcher, éviter", C:"Conserver, maintenir en bon état", D:"Réduire, diminuer" },
+  q9:  { A:"Provoquer de l'anxiété", B:"Mesurer le niveau d'anxiété", C:"Ignorer totalement l'anxiété", D:"Réduire, diminuer l'intensité de l'anxiété" },
+  q10: { A:"Exprimer une opposition (mais, cependant)", B:"Exprimer une cause positive ou un moyen favorable", C:"Exprimer une conséquence négative", D:"Exprimer un but (pour, afin de)" },
+  q11: { A:"Obtenir un nouvel emploi", B:"Travailler à distance depuis chez soi", C:"Se déconnecter mentalement du travail, arrêter d'y penser", D:"Téléphoner à un collègue" },
+  q12: { A:"Un effet stimulant, énergisant", B:"Un effet calmant, qui calme et détend", C:"Un effet douloureux", D:"Un effet surprenant, inattendu" },
+  q13: { A:"Être interdit de faire quelque chose", B:"Être contraint, forcé de faire quelque chose", C:"Être encouragé, poussé à faire quelque chose", D:"Être incapable de faire quelque chose" },
+  q14: { A:"Non, je ne suis pas venu", B:"Non, personne n'est venu", C:"Non, rien n'est venu", D:"Non, je ne suis jamais venu" },
+  q15: { A:"Non, je ne veux personne boire", B:"Non, je ne veux rien boire", C:"Non, je ne veux jamais boire", D:"Non, je ne veux ni boire" },
+  q16: { A:"Non, rien ne me fait plaisir", B:"Non, personne ne me fait plaisir", C:"Non, je ne fais rien plaisir", D:"Non, je ne fais pas plaisir" },
+  q17: { A:"ne...pas", B:"ne...jamais", C:"ne...personne", D:"rien...ne" },
+  q18: { A:"Je ne vais ni à la mer ni à la montagne", B:"Je ne vais pas à la mer ni à la montagne", C:"Ni je vais à la mer ni à la montagne", D:"Je vais ni à la mer ni à la montagne" },
+  q19: { A:"Ni / ni / ne", B:"Ne / ni / ni", C:"Pas / ni / ne", D:"Ni / pas / ne" },
+  q20: { A:"Rien ne se passent", B:"Rien ne se passe", C:"Rien ne se pas", D:"Ne rien se passe" },
+  q21: { A:"Personne ne vient jamais", B:"Personne ne vient pas", C:"Ne personne vient jamais", D:"Personne vient ne jamais" },
+  q22: { A:"Préparer un grand petit-déjeuner copieux", B:"Se lever très tôt le matin", C:"Rester au lit plus longtemps que d'habitude, se lever tard", D:"Faire du sport le matin avant le travail" },
+  q23: { A:"Une promotion commerciale, un prix réduit", B:"La rémunération versée par l'employeur", C:"Un type de congé pour raison médicale", D:"Un budget de vacances" },
+  q24: { A:"Nettoyer et entretenir un espace public", B:"Planter des végétaux, des arbres, des fleurs, des arbustes", C:"Agrandir un espace urbain existant", D:"Peindre les murs en vert" },
+  q25: { A:"Aider quelqu'un, lui être utile", B:"Profiter de quelqu'un", C:"Causer du tort, déranger, être un problème pour quelqu'un", D:"Se rapprocher de quelqu'un" },
+  q26: { A:"Un quartier calme", B:"Un quartier bruyant", C:"Un quartier propre", D:"Un quartier éloigné" },
+  q27: { A:"Un hôpital spécialisé en maladies respiratoires", B:"Un grand espace naturel qui apporte de l'air frais dans la ville", C:"Une usine de recyclage de déchets verts", D:"Un système de climatisation urbaine" },
+  q28: { A:"Travailler pendant les jours fériés pour être mieux payé", B:"Demander une augmentation de salaire", C:"Bénéficier de jours de vacances rémunérés par l'employeur", D:"Prendre une retraite anticipée" },
+  q29: { A:"Fermer les trottoirs aux piétons", B:"Nettoyer et entretenir les trottoirs", C:"Rendre les trottoirs plus larges", D:"Raccourcir les trottoirs" },
+  q30: { A:"L'installation de nouveaux feux de circulation", B:"La transformation d'une rue en espace réservé aux personnes à pied", C:"La construction de parkings souterrains", D:"L'élargissement des routes pour les voitures" },
+  q31: { A:"Colorées, peintes de couleurs vives", B:"Réservées aux voitures uniquement", C:"Protégées du soleil par des arbres ou des structures", D:"Éclairées artificiellement la nuit" },
+  q32: { A:"La préfecture", B:"La municipalité", C:"Le gouvernement", D:"La région" },
+  q33: { A:"Élargir", B:"S'éloigner", C:"Raccourcir", D:"Border" },
+  q34: { A:"Sans dire un mot, de façon implicite", B:"Rapidement, sans réfléchir", C:"De manière officielle et formelle", D:"Avec beaucoup de bruit et d'agitation" },
+  q35: { A:"à + infinitif", B:"pour + infinitif", C:"en + participe présent", D:"par + infinitif" },
+  q36: { A:"utilisé", B:"utilisant", C:"utilise", D:"utilisera" },
+  q37: { A:"pour harmonisant", B:"en harmonisant", C:"par harmoniser", D:"à harmonisant" },
+  q38: { A:"En ayant du choix, on est content", B:"En avoir du choix, on est content", C:"Ayant en du choix, on est content", D:"En eu du choix, on est content" },
+  q39: { A:"savoir", B:"satisfaire", C:"sentir", D:"suffire" }
+};
+
+const SECTIONS = [
+  { name:"Lexique – La Lecture",         keys:["q1","q2","q3","q4","q5","q6"],                                  max:6 },
+  { name:"Bien-être, santé et loisirs",  keys:["q7","q8","q9","q10","q11","q12","q13"],                         max:7 },
+  { name:"La Négation",                  keys:["q14","q15","q16","q17","q18","q19","q20","q21"],                max:8 },
+  { name:"Vacances et cadre de vie",     keys:["q22","q23","q24","q25","q26","q27","q28"],                      max:7 },
+  { name:"Aménagement urbain",           keys:["q29","q30","q31","q32","q33","q34"],                            max:6 },
+  { name:"Le Gérondif",                  keys:["q35","q36","q37","q38","q39"],                                  max:5 }
+];
+
+const TOTAL = 39;
+
+function submitQuiz() {
+  const form = document.getElementById("quiz-form");
+  const answers = {};
+  Object.keys(QUIZ).forEach(q => {
+    const sel = form.querySelector(`input[name="${q}"]:checked`);
+    answers[q] = sel ? sel.value : null;
+  });
+
+  let totalScore = 0;
+  const sectionResults = SECTIONS.map(sec => {
+    const score = sec.keys.filter(k => answers[k] === QUIZ[k].correct).length;
+    totalScore += score;
+    return { ...sec, score };
+  });
+
+  const pct = Math.round((totalScore / TOTAL) * 100);
+  const [grade, gradeColor] =
+    pct >= 80 ? ["Excellent !", "#166534"] :
+    pct >= 60 ? ["Bien",        "#1d4ed8"] :
+    pct >= 40 ? ["Passable",    "#b45309"] :
+               ["À retravailler", "#991b1b"];
+
+  const secHTML = sectionResults.map(s => {
+    const c = s.score === s.max ? "#166534" : s.score >= s.max / 2 ? "#1d4ed8" : "#991b1b";
+    return `<div class="section-chip">
+      <div class="sec-name">${s.name}</div>
+      <div class="sec-score" style="color:${c}">${s.score} / ${s.max}</div>
+    </div>`;
+  }).join("");
+
+  const detailHTML = Object.keys(QUIZ).map(k => {
+    const ok = answers[k] === QUIZ[k].correct;
+    const userText = answers[k] ? OPTION_TEXT[k][answers[k]] : "(sans réponse)";
+    const correctText = OPTION_TEXT[k][QUIZ[k].correct];
+    return `<div class="q-result ${ok ? "q-ok" : "q-err"}">
+      <div class="q-title">${ok ? "✅" : "❌"} ${QUIZ[k].label}</div>
+      ${ok
+        ? `<div class="q-correct text-ok"><em>${correctText}</em></div>`
+        : `<div class="q-user text-err">Votre réponse : <em>${userText}</em></div>
+           <div class="q-correct text-ok">Bonne réponse : <em>${correctText}</em></div>`
+      }
+      <div class="q-expl">${QUIZ[k].explanation}</div>
+    </div>`;
+  }).join("");
+
+  document.getElementById("results").innerHTML = `
+    <h2 style="border-bottom:2px solid #e5e7eb;padding-bottom:.5rem;">Résultats</h2>
+    <div class="score-box">
+      <div class="score-big" style="color:${gradeColor}">${totalScore} / ${TOTAL}</div>
+      <div class="score-grade" style="color:${gradeColor}">${grade} — ${pct} %</div>
+    </div>
+    <div class="section-grid">${secHTML}</div>
+    <h3>Corrections détaillées</h3>
+    ${detailHTML}
+  `;
+  document.getElementById("results").style.display = "block";
+  document.getElementById("results").scrollIntoView({ behavior: "smooth" });
+}
+</script>
+```
