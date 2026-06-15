@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2026-06-09">
+<meta name="dcterms.date" content="2026-06-15">
 
-<title>2026-06-09 Week 2 Lesson 7 – Bonjour!</title>
+<title>2026-06-15 Week 3 Lesson 11 – Bonjour!</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -73,6 +73,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../../styles.css">
 </head>
@@ -165,12 +194,12 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">2026-06-09 Week 2 Lesson 7</h1>
+      <h1 class="title">2026-06-15 Week 3 Lesson 11</h1>
                                 <div class="quarto-categories">
                 <div class="quarto-category">bordeaux</div>
                 <div class="quarto-category">af</div>
                 <div class="quarto-category">B1</div>
-                <div class="quarto-category">unite4</div>
+                <div class="quarto-category">unite5</div>
               </div>
                   </div>
   </div>
@@ -182,7 +211,7 @@ ul.task-list li input[type="checkbox"] {
       <div>
       <div class="quarto-title-meta-heading">Published</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">June 9, 2026</p>
+        <p class="date">June 15, 2026</p>
       </div>
     </div>
     
@@ -201,14 +230,17 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#le-précis" id="toc-le-précis" class="nav-link active" data-scroll-target="#le-précis">Le précis</a></li>
-  <li><a href="#formulez-les-questions-formelle" id="toc-formulez-les-questions-formelle" class="nav-link" data-scroll-target="#formulez-les-questions-formelle">Formulez les questions formelle</a></li>
-  <li><a href="#lexique" id="toc-lexique" class="nav-link" data-scroll-target="#lexique">Lexique</a></li>
-  <li><a href="#la-négation" id="toc-la-négation" class="nav-link" data-scroll-target="#la-négation">La négation</a></li>
+  <li><a href="#les-lexiques" id="toc-les-lexiques" class="nav-link" data-scroll-target="#les-lexiques">Les lexiques</a>
+  <ul class="collapse">
+  <li><a href="#les-moyens-de-transport" id="toc-les-moyens-de-transport" class="nav-link" data-scroll-target="#les-moyens-de-transport">Les Moyens de Transport</a></li>
+  <li><a href="#les-infrastructures" id="toc-les-infrastructures" class="nav-link" data-scroll-target="#les-infrastructures">Les Infrastructures</a></li>
+  </ul></li>
+  <li><a href="#la-ville-du-havre" id="toc-la-ville-du-havre" class="nav-link" data-scroll-target="#la-ville-du-havre">La ville du Havre</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
-<main class="content quarto-banner-title-block" id="quarto-document-content">
+<main class="content quarto-banner-title-block page-columns page-full" id="quarto-document-content">
 
 
 
@@ -216,123 +248,131 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="le-précis" class="level1">
 <h1>Le précis</h1>
-<p>Les lexiques de la santé, de la bien-être et de loisirs<br>
-Pratiquez la négation<br>
-Formulez des questions formelles</p>
+<p>Les vocabulaires de la ville<br>
+Lire an article de la ville du Havre</p>
 </section>
-<section id="formulez-les-questions-formelle" class="level1">
-<h1>Formulez les questions formelle</h1>
+<section id="les-lexiques" class="level1">
+<h1>Les lexiques</h1>
+<section id="les-moyens-de-transport" class="level2">
+<h2 class="anchored" data-anchor-id="les-moyens-de-transport">Les Moyens de Transport</h2>
 <ul>
-<li>Que fait-tu le samidi soir?</li>
-<li>Comment trouves-tu le jardinage?</li>
-<li>Être-vous sorties le weekend denièr?</li>
-<li>Combien d’heures de lecture par semaine crois-tu pour être considé comme un grand lecteur?</li>
-<li>Que pense-tu de la qualité de la litérature contemporaine?</li>
+<li>une voiture</li>
+<li>un train</li>
+<li>un tram</li>
+<li>un bus</li>
+<li>le métro</li>
+<li>un vélo</li>
+<li>une gare</li>
+<li>une station</li>
+<li>un arrêt</li>
+<li>un aéroport</li>
 </ul>
 </section>
-<section id="lexique" class="level1">
-<h1>Lexique</h1>
-<div class="column markyellow" style="width:98%;">
+<section id="les-infrastructures" class="level2">
+<h2 class="anchored" data-anchor-id="les-infrastructures">Les Infrastructures</h2>
+<p><span class="fw-bold text-orange">Circulation</span></p>
 <ul>
-<li>Il est démontré que<br>
-</li>
-<li>Il est prouvé que<br>
-</li>
-<li>Cette activité est une grande importance pour …<br>
-</li>
-<li>Elle réduit / diminue / atténue + nom<br>
-</li>
-<li>Elle permet de + infinitif<br>
-</li>
-<li>Elle augemente / développe + nom</li>
-<li>C’est bénéfique pour + nom</li>
-<li>Elle prévient + nom (prevent)</li>
-<li>Elle entretient + nom (maintain)</li>
-<li>ça marche / c’est très efficace!</li>
-<li>ça nous rend + adjectif</li>
-<li>ça fait du bien à + nom / c’est bon pour + nom</li>
-<li>grâce à + nom</li>
+<li>un embouteillage</li>
+<li>un rond-point</li>
+<li>une rue</li>
+<li>une autoroute</li>
+<li>un périphérique</li>
+<li>une piste cyclable</li>
+<li>la pollution</li>
+<li>un parking</li>
+<li>un carrefour</li>
+<li>un pont</li>
+<li>un passage piéton</li>
+<li>un boulevard</li>
 </ul>
-</div>
-<div class="column">
-
-</div>
-<div class="column markyellow" style="width:98%;">
+<p><span class="fw-bold text-orange">Éducation</span></p>
 <ul>
-<li>les capacités respiatoires, cognitives</li>
-<li>la détérioration</li>
-<li>la sératonine</li>
-<li>plusieurs avantages</li>
-<li>le sens du beau, de la vision</li>
-<li>un effet apaisant</li>
-<li>atténuer l’anxiété, le stress</li>
-<li>la signature de notre mode</li>
-<li>l’esprit communautaire / d’equipe</li>
-<li>le renforcement musculaire</li>
-<li>un moment de joie, de célébration</li>
-<li>qui unit le monde entier</li>
-<li>prendre le temps</li>
-<li>se libérer du stress</li>
+<li>une crèche (day care)</li>
+<li>une école</li>
+<li>un lycée</li>
+<li>un collège</li>
+<li>une université</li>
 </ul>
-</div>
-<div class="column">
-
-</div>
-<div class="column markyellow" style="width:98%;">
+<p><span class="fw-bold text-orange">Culture</span></p>
 <ul>
-<li>“avoir les orteils dans le sable”</li>
-<li>“avoir la tête au boulot”</li>
-<li>“rester connecté” = “accroché”</li>
-<li>“se déconnecté du travail” = “décrocher”</li>
-<li>une incitation / être incité</li>
-<li>des sollicitations</li>
+<li>un théâtre</li>
+<li>un opéra</li>
+<li>un cinéma</li>
+<li>un musée</li>
+<li>une galerie d’art</li>
+<li>une bibliothèque</li>
+<li>une médiathèque</li>
 </ul>
-</div>
+<p><span class="fw-bold text-orange">Sports et loisirs</span></p>
+<ul>
+<li>un club de gym</li>
+<li>une salle de sport</li>
+<li>une piscine</li>
+<li>un court de tennis</li>
+<li>une patinoire</li>
+<li>un stade</li>
+<li>une aire de jeux</li>
+<li>un café</li>
+<li>un restaurant</li>
+<li>un bar</li>
+</ul>
+<p><span class="fw-bold text-orange">Espaces verts</span></p>
+<ul>
+<li>un parc</li>
+<li>un banc</li>
+<li>un arbre</li>
+<li>une pelouse</li>
+<li>un jardin public</li>
+<li>une plage</li>
+<li>une plage urbaine</li>
+<li>un lac</li>
+<li>une rivière (small river, stream)</li>
+<li>un fleuve (large river like le Garonne)</li>
+<li>un étang (pond)</li>
+<li>un front de mer</li>
+</ul>
+<p><span class="fw-bold text-orange">Commerces</span></p>
+<ul>
+<li>un hypermarché</li>
+<li>un marché</li>
+<li>un centre commercial</li>
+<li>un magasin</li>
+<li>une vitrine</li>
+<li>une banque</li>
+<li>un hôtel</li>
+<li>une poste</li>
+</ul>
+<p><span class="fw-bold text-orange">Divers</span></p>
+<ul>
+<li>une mairie</li>
+<li>un hôtel de ville</li>
+<li>un commissariat de police</li>
+<li>un hôpital</li>
+<li>un cimetière</li>
+<li>une usine</li>
+<li>un bâtiment</li>
+<li>un gratte-ciel</li>
+<li>une église</li>
+<li>une place</li>
+<li>une poubelle</li>
+<li>un square</li>
+<li>un phare</li>
+</ul>
 </section>
-<section id="la-négation" class="level1">
-<h1>La négation</h1>
-<p>Observez les phrases suivantes:<br><br></p>
-<div class="column markorange" style="width:98%;">
-<div class="columns text-center">
-<div class="column text-center" style="width:47%;">
-<p>Je <strong>ne</strong> travaille <strong>pas</strong>.<br>
-Je <strong>ne</strong> rencontre <strong>personne</strong>.<br>
-Je <strong>ne</strong> fais <strong>rien</strong>.<br>
-Je <strong>ne</strong> pars <strong>jamais</strong>.</p>
-</div><div class="column text-center" style="width:47%;">
-<p><strong>Personne ne</strong> vient chez moi.<br>
-<strong>Rien ne</strong> se passe.</p>
-</div><p><br></p><p>En vacances, je <strong>ne</strong> fais <strong>ni</strong> le ménage <strong>ni</strong> les courses.<br>
-<strong>Ni</strong> le sport <strong>ni</strong> la lecture <strong>ne</strong> me plaisent.</p>
+</section>
+<section id="la-ville-du-havre" class="level1 page-columns page-full">
+<h1>La ville du Havre</h1>
+<div class="page-columns page-full"><p></p><div class="no-row-height column-margin column-container"><span class=""><img src="https://img.rts.ch/articles/2024/image/9p9b5l-28432381.image?w=640&amp;h=640" class="img-fluid" alt="Auguste Perret"></span></div></div>
+<div class="column" style="width:95%;">
+<iframe src="https://maps.google.com/maps?q=Le+Havre,France&amp;output=embed" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy">
+</iframe>
 </div>
-</div>
-<div class="callout callout-style-default callout-important callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Important</span>La négation
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<ul>
-<li><p>Pour une personne –&gt; <span class="text-red"><strong>ne…personne</strong></span>/<span class="text-red"><strong>personne…ne</strong></span><br>
-Il <span class="text-red"><strong>n’</strong></span>y a <span class="text-red"><strong>personne</strong></span> d’autre que vous.<br>
-<span class="text-red"><strong>Personne</strong></span> d’autre <span class="text-red"><strong>n’</strong></span>est ici.</p></li>
-<li><p>Pour une chose –&gt; <span class="text-red"><strong>ne…rien</strong></span>/<span class="text-red"><strong>rien…ne</strong></span><br>
-Vous <span class="text-red"><strong>ne</strong></span> m’avez <span class="text-red"><strong>rien</strong></span> dit.<br>
-<span class="text-red"><strong>Rien</strong></span> ne va.</p></li>
-<li><p>Pour deux choses ou deux personnes –&gt; <span class="text-red"><strong>ne…ni…ni</strong></span>/<span class="text-red"><strong>ni…ni..ne</strong></span><br>
-<span class="text-red"><strong>Ne</strong></span> revenez pas, <span class="text-red"><strong>ni</strong></span> ici <span class="text-red"><strong>ni</strong></span> à la campagne.<br>
-<span class="text-red"><strong>Ni</strong></span> la ville <span class="text-red"><strong>ni</strong></span> la campagne <span class="text-red"><strong>ne</strong></span> me plaisent.</p></li>
-</ul>
-<p>❗<span class="text-red"><strong>ne…jamais</strong></span> != toujours : Vous <span class="text-red"><strong>ne</strong></span> me dites <span class="text-red"><strong>jamais</strong></span> la vérité. != Vous me dites toujours la vérité.</p>
-<p>❗<span class="text-red"><strong>Jamais</strong></span> peut aussi s’utiliser seul:<br>
-- Tu lis à la plage?<br>
-- <span class="text-red"><strong>Jamais</strong></span>!</p>
-</div>
-</div>
+<p>Pendant la Seconde Guerre mondiale, plusieurs de bombardements ont visé Le Havre et ont détruit la ville en grande partie. Le ministère de la Reconstruction de l’Urbanisme a <u>confié à</u> Auguste Perret, architect et urbanist, <u>le chantier</u> de reconstruction. Avant ce projet, l’achitect avait déjà <u>imposé</u> son style en construisant notamment le théâtre des Champs-Élysées à Paris en 1913.</p>
+<p>Entre 1945 et 1964, il a recrée l’espace <span class="fw-bold"><u>à partir de</u></span> l’ancien plan de la ville. Il souhaitait développer la circulation, la lumière et le confort, et <u>valoriser</u> les activités maritimes et publiques.</p>
+<p>Il a redessiné la nouvelle ville du Havre <u>à partir de</u> deux axes de circulation. Il a d’abord prolongé l’axe est-ouest: cette longue voie a <u>permis de</u> relier le front de mer au square Saint-Roch, qui a <u>remplacé</u> un ancien parc public et un cimetière, <span class="text-green">puis</span> <u>à la place de</u> l’Hôtel-de-Ville.</p>
+<p>Il a aussi agrandi l’axe nord-sud en <u>prolongeant</u> le Boulevard Francois <span class="math inline">\(1^{er}\)</span> jusqu’au front de mer sud, en mémoire du roi qui avait bâti le premier port <span class="fw-bold"><u>auparavant</u></span>, en 1517.</p>
+<p>Il a également édifié d’imposants monuments <span class="fw-bold"><u>tels que</u></span> l’église Saint-Joseph, dont la flèche culmine à 107 mètres et domine la ville comme un phare ou un gratte-ciel new-yorkais.</p>
+<p>Il a construit plus de 10 000 logements dans le centre-ville. Il a <span class="text-green">ainsi</span> <u>été le premier à proposer des</u> aménagements modernes aux habitants qui n’avaient pas d’<u>eau courante</u> avant la guerre. Il a <u>fait construire</u> des résidences avec une double orientation pour obtenir un <u>ensoleillement</u> maximal pour tous les logements. Il a également <u>équipé</u> les logements <u>d</u>’une cuisine et <u>d</u>’une salle de bains. Il est possible aujourd’hui encore de visiter <u>l’appartement témoin</u> près de la place de l’Hôtel-de-Ville, <span class="fw-bold"><u>tel que</u></span> Auguste Perret l’a conçu il y a plus de soixante-dix ans.</p>
 
 
 </section>
