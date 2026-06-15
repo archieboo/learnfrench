@@ -1,0 +1,70 @@
+---
+title: "2026-06-12 Week 2 Lesson 10"
+date: "2026-06-12"
+categories: ["bordeaux", "af", "B1", "unite5"]
+reference-location: document # margin, block, section, document
+citation-location: document #margin
+image: "https://images.unsplash.com/photo-1565599573128-ae3ef5c9f478?q=80&w=640"
+---
+
+
+# Le précis
+
+Les lexiques de végétaliser sa ville  
+Les pratiques de utliser le girondif
+
+
+
+
+# Lexique
+
+
+
+:::{.column .marksilver width="98%"}
+
+- en satisfaisant les besoins de / en répondant aux besoins de  
+- donner envie de manger
+- proposer un plat appétissant
+- en ayant du choix
+- la végétalisation
+- végétaliser sa rue ou sa cour
+- mettre des fleurs sur son balcon
+- créer un jardin partagé
+
+
+:::
+
+:::{.column width="98%"}
+
+#### Comment réusir une décoration parfaite?
+
+On peut réusir ...  
+
+- [ ] en utilisant bien de la lumière naturelle  
+- [ ] en ensurant l'harmonie de tous les élements interieurs
+- [ ] en adaptant au goût de chaqu'un 
+- [ ] en satisfaisant / répondant aux bésoin de les chose très necessaire pour la personne
+- [ ] en reconaissant le fenshui des espaces  
+
+:::
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

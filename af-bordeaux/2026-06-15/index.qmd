@@ -1,0 +1,152 @@
+---
+title: "2026-06-15 Week 3 Lesson 11"
+date: "2026-06-15"
+categories: ["bordeaux", "af", "B1", "unite5"]
+reference-location: document # margin, block, section, document
+citation-location: document #margin
+image: "https://images.unsplash.com/photo-1780917868419-cf3b2f4371c7?q=80&w=640"
+---
+
+# Le précis
+
+Les vocabulaires de la ville  
+Lire an article de la ville du Havre
+
+# Les lexiques
+
+## Les Moyens de Transport
+
+- une voiture
+- un train
+- un tram
+- un bus
+- le métro
+- un vélo
+- une gare
+- une station
+- un arrêt
+- un aéroport
+
+## Les Infrastructures
+
+[Circulation]{.fw-bold .text-orange}
+
+- un embouteillage
+- un rond-point
+- une rue
+- une autoroute
+- un périphérique
+- une piste cyclable
+- la pollution
+- un parking
+- un carrefour
+- un pont
+- un passage piéton
+- un boulevard
+
+[Éducation]{.fw-bold .text-orange}
+
+- une crèche (day care)
+- une école
+- un lycée
+- un collège
+- une université
+
+[Culture]{.fw-bold .text-orange}
+
+- un théâtre
+- un opéra
+- un cinéma
+- un musée
+- une galerie d'art
+- une bibliothèque
+- une médiathèque
+
+[Sports et loisirs]{.fw-bold .text-orange}
+
+- un club de gym
+- une salle de sport
+- une piscine
+- un court de tennis
+- une patinoire
+- un stade
+- une aire de jeux
+- un café
+- un restaurant
+- un bar
+
+[Espaces verts]{.fw-bold .text-orange}
+
+- un parc
+- un banc
+- un arbre
+- une pelouse
+- un jardin public
+- une plage
+- une plage urbaine
+- un lac
+- une rivière (small river, stream)
+- un fleuve (large river like le Garonne)
+- un étang (pond)
+- un front de mer
+
+[Commerces]{.fw-bold .text-orange}
+
+- un hypermarché
+- un marché
+- un centre commercial
+- un magasin
+- une vitrine
+- une banque
+- un hôtel
+- une poste
+
+[Divers]{.fw-bold .text-orange}
+
+- une mairie
+- un hôtel de ville
+- un commissariat de police
+- un hôpital
+- un cimetière
+- une usine
+- un bâtiment
+- un gratte-ciel
+- une église
+- une place
+- une poubelle
+- un square
+- un phare
+
+
+
+# La ville du Havre
+
+[![Auguste Perret](https://img.rts.ch/articles/2024/image/9p9b5l-28432381.image?w=640&h=640)]{.column-margin}
+
+::: {.column width="95%"}
+<iframe src="https://maps.google.com/maps?q=Le+Havre,France&output=embed" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+:::
+
+
+Pendant la Seconde Guerre mondiale, plusieurs de bombardements ont visé Le Havre et ont détruit la ville en grande partie. Le ministère de la Reconstruction de l'Urbanisme a [confié à]{.underline} Auguste Perret, architect et urbanist, [le chantier]{.underline} de reconstruction. 
+Avant ce projet, l'achitect avait déjà [imposé]{.underline} son style en construisant notamment le théâtre des Champs-Élysées à Paris en 1913.
+
+Entre 1945 et 1964, il a recrée l'espace [à partir de]{.fw-bold .underline} l'ancien plan de la ville. Il souhaitait développer la circulation, la lumière et le confort, et [valoriser]{.underline} les activités maritimes et publiques.
+
+Il a redessiné la nouvelle ville du Havre [à partir de]{.underline} deux axes de circulation. Il a d'abord prolongé l'axe est-ouest: cette longue voie a [permis de]{.underline} relier le front de mer au square Saint-Roch, qui a [remplacé]{.underline} un ancien parc public et un cimetière, [puis]{.text-green} [à la place de]{.underline} l'Hôtel-de-Ville.  
+
+Il a aussi agrandi l'axe nord-sud en [prolongeant]{.underline} le Boulevard Francois $1^{er}$ jusqu'au front de mer sud, en mémoire du roi qui avait bâti le premier port [auparavant]{.underline .fw-bold}, en 1517. 
+
+Il a également édifié d'imposants monuments [tels que]{.fw-bold .underline} l'église Saint-Joseph, dont la flèche culmine à 107 mètres et domine la ville comme un phare ou un gratte-ciel new-yorkais.
+
+Il a construit plus de 10 000 logements dans le centre-ville. Il a [ainsi]{.text-green} [été le premier à proposer des]{.underline} aménagements modernes aux habitants qui n'avaient pas d'[eau courante]{.underline} avant la guerre. Il a [fait construire]{.underline} des résidences avec une double orientation pour obtenir un [ensoleillement]{.underline} maximal pour tous les logements. Il a également [équipé]{.underline} les logements [d]{.underline}'une cuisine et [d]{.underline}'une salle de bains. Il est possible aujourd'hui encore de visiter [l'appartement témoin]{.underline} près de la place de l'Hôtel-de-Ville, [tel que]{.fw-bold .underline} Auguste Perret l'a conçu il y a plus de soixante-dix ans.
+
+
+
+
+
+
+
+
+
+
