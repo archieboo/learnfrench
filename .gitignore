@@ -13,3 +13,4 @@ _site/**
 **tmp*
 
 **/*.quarto_ipynb
+make-quiz-prompt.md
