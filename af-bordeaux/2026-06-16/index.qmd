@@ -1,0 +1,114 @@
+---
+title: "2026-06-16 Week 3 Lesson 12"
+date: "2026-06-16"
+categories: ["bordeaux", "af", "B1", "unite5"]
+reference-location: document # margin, block, section, document
+citation-location: document #margin
+image: "https://images.unsplash.com/photo-1563517987202-fcc3b7eb13fe?q=80&w=640"
+---
+
+# Le precis
+
+Les verbes irréguliers au passé composé  
+Le dictée: Découvrir une ville: Toulouse
+
+
+# Le participe passé des verbes irréguliers
+
+
+- apprendre  ➡️  [appris]{.text-red .fst-italic}
+- s'asseoir  ➡️  [assis]{.text-red .fst-italic}
+- attendre ➡️  [attendu]{.text-red .fst-italic}
+- avoir ➡️  [eu]{.text-red .fst-italic}
+- battre ➡️  [battu]{.text-red .fst-italic}
+- boire ➡️  [bu]{.text-red .fst-italic}
+- comprendre ➡️  [compris]{.text-red .fst-italic}
+- conduire ➡️  [conduit]{.text-red .fst-italic}
+- connaître ➡️  [connu]{.text-red .fst-italic}
+- courir ➡️  [couru]{.text-red .fst-italic}
+- croire ➡️  [cru]{.text-red .fst-italic}
+- convaincre ➡️  [convaincu]{.text-red .fst-italic}
+- convenir ➡️  [convenu]{.text-red .fst-italic}
+- couvrir ➡️  [couvert]{.text-red .fst-italic}
+- craindre ➡️  [craint]{.text-red .fst-italic}
+- cuire ➡️  [cuit]{.text-red .fst-italic}
+- découvrir ➡️  [découvert]{.text-red .fst-italic}
+- descendre ➡️  [descendu]{.text-red .fst-italic}
+- devenir ➡️  [devenu]{.text-red .fst-italic}
+- dire ➡️  [dit]{.text-red .fst-italic}
+- disparaître ➡️  [disparu]{.text-red .fst-italic}
+- devoir ➡️  [dû]{.text-red .fst-italic}
+- dormir ➡️  [dormi]{.text-red .fst-italic}
+- écrire ➡️  [écrit]{.text-red .fst-italic}
+- élire ➡️  [élu]{.text-red .fst-italic}
+- endormir ➡️  [endormi]{.text-red .fst-italic}
+- entendre ➡️  [entendu]{.text-red .fst-italic}
+- être ➡️  [été]{.text-red .fst-italic}
+- faire ➡️  [fait]{.text-red .fst-italic}
+- falloir ➡️  [fallu]{.text-red .fst-italic}
+- fuir ➡️  [fui]{.text-red .fst-italic}
+- interdire ➡️  [interdit]{.text-red .fst-italic}
+- joindre ➡️  [joint]{.text-red .fst-italic}
+- lire ➡️  [lu]{.text-red .fst-italic}
+- mentir ➡️  [menti]{.text-red .fst-italic}
+- mettre ➡️  [mis]{.text-red .fst-italic}
+- mourir ➡️  [mort]{.text-red .fst-italic}
+- naître ➡️  [né]{.text-red .fst-italic}
+- offrir ➡️  [offert]{.text-red .fst-italic}
+- ouvrir ➡️  [ouvert]{.text-red .fst-italic}
+- paraître ➡️  [paru]{.text-red .fst-italic}
+- partir ➡️  [parti]{.text-red .fst-italic}
+- peindre ➡️  [peint]{.text-red .fst-italic}
+- perdre ➡️  [perdu]{.text-red .fst-italic}
+- permettre ➡️  [permis]{.text-red .fst-italic}
+- plaindre ➡️  [plaint]{.text-red .fst-italic}
+- plaire ➡️  [plu]{.text-red .fst-italic}
+- pleuvoir ➡️  [plu]{.text-red .fst-italic}
+- pouvoir ➡️  [pu]{.text-red .fst-italic}
+- prendre ➡️  [pris]{.text-red .fst-italic}
+- produire ➡️  [produit]{.text-red .fst-italic}
+- promettre ➡️  [promis]{.text-red .fst-italic}
+- recevoir ➡️  [reçu]{.text-red .fst-italic}
+- reconnaître ➡️  [reconnu]{.text-red .fst-italic}
+- rendre ➡️  [rendu]{.text-red .fst-italic}
+- repartir ➡️  [reparti]{.text-red .fst-italic}
+- répondre ➡️  [répondu]{.text-red .fst-italic}
+- rire ➡️  [ri]{.text-red .fst-italic}
+- savoir ➡️  [su]{.text-red .fst-italic}
+- sentir ➡️  [senti]{.text-red .fst-italic}
+- servir ➡️  [servi]{.text-red .fst-italic}
+- sortir ➡️  [sorti]{.text-red .fst-italic}
+- souffrir ➡️  [souffert]{.text-red .fst-italic}
+- suivre ➡️  [suivi]{.text-red .fst-italic}
+- survivre ➡️  [survécu]{.text-red .fst-italic}
+- souvenir ➡️  [souvenu]{.text-red .fst-italic}
+- surprendre ➡️  [surpris]{.text-red .fst-italic}
+- tenir ➡️  [tenu]{.text-red .fst-italic}
+- traduire ➡️  [traduit]{.text-red .fst-italic}
+- traduire ➡️  [traduit]{.text-red .fst-italic}
+- valoir ➡️  [valu]{.text-red .fst-italic}
+- vendre ➡️  [vendu]{.text-red .fst-italic}
+- venir ➡️  [venu]{.text-red .fst-italic}
+- vivre ➡️  [vécu]{.text-red .fst-italic}
+- voir ➡️  [vu]{.text-red .fst-italic}
+- vouloir ➡️  [voulu]{.text-red .fst-italic}
+
+
+
+
+
+
+# Dictée Découvrir une ville: Toulouse
+
+
+Bienvenue à Toulouse! C'est une ville du Sud-Ouest de la France, la capitale de la région Occitanie. Elle est la quatrième plus grande ville de France, après Paris, Lyon et Marseille. On l'appelle la "ville rose" à cause de couleur de bâtiments. C'est une ville très animée parce qu'il y a beaucoup d'universités et donc beaucoup d'étudiants. Le long du fleuve la Garonne, il y a des espaces verts et des parcs avec des cafés et des restaurants. Beaucoup de rues piétonnes permettent de se promener dans la ville et d'admirer les monuments. C'est très agréable.
+
+Les beaux monuments sont très nombreux. La ville a su rénover ses vieux bâtiments en conservant l'architecture du passé. Par exemple, l'hôtel d'Assezat, qu'un marchand avait fait construire entre 1555 et 1557, a pu être conservé et il offre à présent une architecture magnifique. On voit aussi de vieux immeubles avec des courts plantés d'arbres, peuve que la ville a une longue histoire. Autour du centre ancien, on a construit récemment des bâtiments plus moderns qui sont des lieux de culture.
+
+Par example, la médiathèque José Cabanis est un espace agréable créé pour pour developper la lecture et l'accès aux nouvelles technologies. Elle est située à coté du metro. Plus loin, les achitects ont conçu la cité de l'espace composée de plusieurs bâtiments modernes dans un grand parc. Cette cité de l'espace a été ouverte en 1997 après des traveaux qui ont duré trois ans. On y voit une immense fusé, la réplique d'Ariane, qui domine la ville comme un phare. En 2003, la cité a aménagé ses espaces pour pouvoir accueillir les personnes handicapées.
+
+
+
+
+
+

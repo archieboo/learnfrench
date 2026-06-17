@@ -14,3 +14,4 @@ _site/**
 
 **/*.quarto_ipynb
 make-quiz-prompt.md
+make-quiz-template.qmd

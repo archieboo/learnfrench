@@ -1,0 +1,116 @@
+---
+title: "2026-06-17 Week 3 Lesson 13"
+date: "2026-06-17"
+categories: ["bordeaux", "af", "B1", "unite5"]
+reference-location: document # margin, block, section, document
+citation-location: document #margin
+image: "https://images.unsplash.com/photo-1780917868419-cf3b2f4371c7?q=80&w=640"
+---
+
+# Le précis
+
+
+
+# les phrases de localisation
+
+- ici
+- là-bas
+- au-dessus + nom
+- au-dessous + nom
+- au cœur de + nom
+- au centre de + nom
+- au milieu de + nom
+- qqch qui relie deux endroits
+
+# Classez les expressions
+
+>
+- [a. pour montrer un élément]{.markyellow}
+- [b. pour donner des explications]{.markgreen}
+- [c. pour déplacer le groupe]{.markblue}
+
+
+
+- [ ] il faut savoir que: [b.]{.markgreen}
+- [ ] suivez-moi: [c.]{.markblue}
+- [ ] comme vous pouvez le remarquer: [b.]{.markgreen}
+- [ ] vous voyez également: [b.]{.markgreen}
+- [ ] comme je vous l’ai dit: [b.]{.markgreen}
+- [ ] approchez-vous: [c.]{.markblue}
+- [ ] regardez: [a.]{.markyellow}
+- [ ] revenons à: [b.]{.markgreen}
+- [ ] vous pouvez observer: [a.]{.markyellow}
+- [ ] je vous expliquerai: [b.]{.markgreen}
+- [ ] je vous invite à me suivre: [c.]{.markblue}
+
+
+# Les vocabulaires de ville
+
+## Associez
+
+a. maison de [retraite]{.underline}
+b. caserne de [pompiers]{.underline}
+c. bureau de [poste]{.underline}
+d. palais de [justice]{.underline}
+e. hôtel de [ville]{.underline}
+
+## Complétez
+
+a. Quand je suis avec mes enfants, je traverse toujours au [passage piéton]{.fw-bold}.
+b. Ce matin, j'étais très pressé, j'ai grillé un [feu rouge]{.fw-bold}. Heureusement, il n'y avait pas de policier.
+c. J'ai raté la sortie pour le stade, alors j'ai dû faire le tour complet du [rond-point]{.fw-bold}.
+d. Le jour où ma femme accouchait, je me suis arrêté sur [une place]{.fw-bold} pour handicapés parce que je n'en ai pas trouvé d'autre.
+e. Dans ma ville, il y a beaucoup de [pistes cyclables]{.fw-bold}. J'en profite pour aller au bureau à vélo.
+
+
+## Éliminez
+
+a. déchets - [poubelle]{.mark} - mégots - excréments
+b. horodateur - place - trottoir - [rond-point]{.mark}
+c. [périphérique]{.mark} - feu - panneau - enseigne
+d. chaussée - trottoir - pavés - [lampadaires]{.mark}
+e. riverains - citadin - [marin]{.mark} - campagnard
+
+## Trouvez
+
+a. gare, passage piéton, arrêt de bus: [ se déplacer / attendre ]{.underline .marksilver}
+b. rue, parc, square: [ se promener ]{.underline .marksilver}
+c. kiosque à journaux, marché, boutique de souvenirs: [ faire des achats ]{.underline .marksilver}
+d. cathédrale, temple, mosquée: [ prier ]{.underline .marksilver}
+e. gymnase, patinoire, terrain: [ faire du sport ]{.underline .marksilver}
+
+
+# La transcription de l'ecoute
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_LE_AUDIO/INSP3_LE_Piste073.mp3" type="audio/mpeg">
+</audio>
+
+[Le guide: ]{.fw-bold .text-purple}
+Alors nous arrivons devant Le Volcan, le grand centre culturel du Havre.
+On l'a inauguré en 1982, il y a plus de quarante ans aujourd'hui. Ce lieu regroupe plusieurs disciplines artistiques: le thèatre, la danse, la musique. C'est une scène nationale depuis 1991 et il [fait partie du]{.underline} patrimoine mondiale de l'Unesco depuis 2005. 
+
+Il faut savoir que c'est au Havre qu'on a créé la première maison de la culture en 1961. C'est [à patir de]{.underline} ce moment qu'on a commencé à parler de « culture pour tous » et c'est aussi l'objectif de ce centre: accueillir des publics de tous les [milieux sociaux]{.underline}. 
+
+Revenons à l'origine de sa construction : comme vous pouvez le voir, c'est une architecture très moderne, et c'est Oscar Niemeyer, un achitecte brésilien, qu'il a réalisé...
+
+approchez-vous... Vous pouvez observer qu'il y a en réalité deux bâtiments : le grand volcan et le petit volcan. On les a construit [dans les années 80]{.underline}, comme vous l'ai dit, et les traveaux ont duré [près de]{.underline} cinq ans. On l'a renové pendant quatre ans, entre 2011 et 2015. Cela a permis notamment de [transformer le petit volcan en médiathèque]{.underline}, un lieu très [apprécié des]{.underline} Havrais.
+
+Pendant les traveaux de rénovation, toutes les équipes ont déménagé dans la gare maritime du Havre que nous avons visitée [tout à l'heure]{.underline}. Je vous expliquerai [bien entendu]{.underline} les grandes transformations quand nous entrerons dans le bâtiment.
+Mais d'abord, je vous [propose de faire]{.underline} le tour des bâtiments. Suivez-moi.
+
+Comme vous pouvez le remarquer, les bâtiments sont uniquement composés de courbes, il y a un vrai contrast avec le reste de ville et donc avec le style de Perret.
+
+Alors, ici, le café au cœur des deux bâtiments, c'est une des terrasses les plus fréquentées de la ville. Au-dessus, vous remarquez deux rampes qui relient les bâtiments. Vous voyez également, là-bas, un petit bassin avec une sculpture. 
+
+Suivez-moi, regardez: la sculpture est intégrée au bâtiment. Et cette main, c'est en fait le moulage de la main d'Oscar Niemeyer. 
+
+Je vous invite à me suivre, nous allons longer le bassin pour découvrir l'intérieur des bâtiments. Nous commencerons par la scène du grand volcan.
+
+
+<br><br><br>
+
+
+
+
+
