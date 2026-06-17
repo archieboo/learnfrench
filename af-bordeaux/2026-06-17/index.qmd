@@ -4,11 +4,14 @@ date: "2026-06-17"
 categories: ["bordeaux", "af", "B1", "unite5"]
 reference-location: document # margin, block, section, document
 citation-location: document #margin
-image: "https://images.unsplash.com/photo-1780917868419-cf3b2f4371c7?q=80&w=640"
+image: "https://images.unsplash.com/photo-1613000308053-179042bbef9e?q=80&w=640"
 ---
 
 # Le précis
 
+Les phrases de localisation  
+Les vocabulaires de ville  
+La transcription de l'écoute - un guide touristique présente un centre culturel
 
 
 # les phrases de localisation
