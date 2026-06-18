@@ -1,0 +1,48 @@
+---
+title: "2026-06-18 Week 3 Lesson 14"
+date: "2026-06-18"
+categories: ["bordeaux", "af", "B1", "unite5"]
+reference-location: document # margin, block, section, document
+citation-location: document #margin
+image: "https://images.unsplash.com/photo-1613000308053-179042bbef9e?q=80&w=640"
+---
+
+# Le précis
+
+Les phrases de localisation  
+Les vocabulaires de ville  
+La transcription de l'écoute - un guide touristique présente un centre culturel
+
+
+# La présentation de l'hôtel de ville de Bordeaux
+
+:::{.column .marksilver width="95%"}
+
+[_Gina_]{.text-purple .fw-bold}
+
+- l'histoire
+- l'architecture
+- l'objectifs
+
+:::
+
+:::{.column}
+:::
+
+:::{.column .mark width="95%"}
+
+[**Chao: **]{.text-orange .fw-navy} **Les évenements contemporains**
+
+Alors, il y a beaucoup d’histoire de l'hôtel, comme Gina vous l’a dit.
+
+Maintenant, on vous invite à vous tourner vers les événements plus contemporains. Regardez là. Ça, c’est [la porte cochère de la cour d’honneur]{.fw-bold}. Malheureusement, c’est pas la porte originale. La porte originelle a été détruite à cause de [l’incendie du 23 mars 2023]{.fw-bold .text-red}. C’est une importante journée marquée par la [mobilisation contre la réforme des retraites]{.fw-bold}. Auparavant, le gouvernement avait proposé de la réforme de [reporter l’âge de retraite de 62 ans à 64 ans]{.fw-bold}. Et ça a causé une des plus longues et plus massives [mouvements sociaux]{.fw-bold}, incluant des [grèves]{.fw-bold} et des [manifestations]{.fw-bold} en France. À Bordeaux, la mobilisation a [mis un feu à cette porte cochère]{.fw-bold}. Le feu avait duré plus de [15 minutes avant d’avoir été éteint]{.fw-bold} par les pompiers. Mais c’était déjà trop tard. 
+
+À cause de [l’étendue des dégâts]{.fw-bold}, c’était impossible de restaurer la porte. Par conséquent, la ville a [mis en place une enquête]{.fw-bold} des publics Bordelais en [2023]{.fw-bold}. Ils ont été donné deux choix : une porte identique à [l'ancienne]{.fw-bold} ou une [création contemporaine]{.fw-bold}. Et voila, vous avez dèjà vu quel choix les Bordelais avaient fait.
+
+Après environ [1 million d’euro et 30 mois]{.fw-bold} de travaux, la nouvelle porte a été [installée le décembre 2025]{.fw-bold}! 
+
+Vous l’aimez? Si vous aviez le choix, quel choix pour vous?
+
+
+:::
+
