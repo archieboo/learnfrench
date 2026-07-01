@@ -1,0 +1,90 @@
+---
+title: "2026-06-24 Week 4 Lesson 18"
+date: "2026-06-24"
+categories: ["bordeaux", "af", "B1", "unite6"]
+reference-location: document # margin, block, section, document
+citation-location: document #margin
+image: "https://images.unsplash.com/photo-1552250575-e508473b090f?q=80&w=640"
+---
+
+# Le précis
+
+Des lexiques de parler de street art  
+Grammaire: les connecteurs  
+L'écoute et le transcription
+
+# Lexique
+
+- des artistes contemporains anonymes
+  - des mosaïques
+  - des peintures murales
+  - des graffitis
+  - des pochoirs
+  - des affiches
+  - des collages
+  - les artes de la rue
+- un envahisseur / une invasion
+- envahir / conquérir / occuper / prendre la place
+
+# L'écoute
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_LE_AUDIO/INSP3_LE_Piste090.mp3" type="audio/mpeg">
+</audio>
+
+[Journaliste: ]{.fw-bold .text-blue}
+Bonjour à tous. Bienvenue dans notre émission [hebdomadaire]{.underline} [consacrée aux]{.underline} grandes figures du street art. Vous connaissez Invader sans [l]{.mark .fw-bold}'avoir croisé.
+Depuis 1998, cet artiste se rend dans les plus grandes villes du monde pour [y]{.markteal .fw-bold} coller ses mosaïques en forme de crabes, [tirées du]{.underline} jeu vidéo [Space Invaders]{.fst-italic}. On les trouve actuellement dans 79 villes - Paris, Malaga, Berlin, Cacún, Tokyo et bien d'autres encore... L'artiste explique qu'il [en]{.markpink .fw-bold} colle vingt à cinquante par ville. 
+
+Résultat: il y [en]{.markpink .fw-bold} a près de 4 000 aujour'hui! Invader se définit comme un « hacker de l'espace public » qui souhaite [envahir]{.underline} les villes du monde [de]{.underline} ses œuvres. Il considère que les musées et les galeries d'art ne sont pas accessibles à tous, et il a donc [décidé d]{.underline}'installer son travail dans l'espace public, pour [le]{.mark .fw-bold} rendre visible par le plus grand nombre. En plus de ses collages en ville, on retrouve parfois ses œuvres dans les endroits très [insolites]{.underline}. 
+
+[Peu de]{.underline} personnes peuvent [y]{.markteal .fw-bold} avoir accès comme par exemple... la Station Spatiale Internationale! Il explique dans une interview que cela fait longtemps qu'il [y]{.markteal .fw-bold} pensait et qu'il est très heureux d'[y]{.markteal .fw-bold} être [arrivé]{.underline}!
+
+Afin de partager son art, le street artiste a lancé une application pour smartphone qui permet de capturer les Space Invaders. L'objectif est d'[en]{.markpink .fw-bold} prendre le plus possible en photo.
+
+# Nuancer un avis avec des connecteurs
+
+::: {.column .callout-note .text-justified width="95%" icon="false"}
+#### [👩‍🎤]{.fs-2} [Iseut_33]{.text-blue}
+
+Les arts de la rue, comme le cirque, le théâtre, le hip-hop ou les marionnettes, [permettent à]{.underline .text-teal} tout le monde d'[avoir accès à]{.underline .text-teal} la culture **car** tout le monde passe dans la rue: donc toutes les catégories de la population s'y retrouvent. **En plus**, les spectacles sont souvent gratuits et il est possible d'y participer. Contrairement aux théâtres et aux musées, c'est un espace ouvert. C'est indispensable d'encourager les arts de la rue!
+
+:::
+
+::: {.column .callout-warning .text-justified width="95%" icon="false"}
+#### [🤦‍♂️]{.fs-2} [Marco]{.text-blue}
+
+Je ne suis pas du tout d'accord avec vous, [Iseut_33]{.text-blue}. Certains artistes s'installent dans la rue **malgré** les interdictions. Et les spectacles sont imposées à tous, **même** à ceux qui ça n'intéresse pas! **De plus**, ils sont souvent de très mauvaise qualité: on [se contente de]{.underline .text-teal} faire du bruit, d'amuser le public, **alors que** les spectacles organisés dans les théâtres et les salles résérvées ont une vraie mission culturelle. **En ce qui concerne le street art**, on voit de plus en plus de pochoirs et de graffitis qui dénaturent les bâtiments. **Bien que** l'art soit essentiel pour tous, je pense qu'il doit être résérvé à certains espaces et qu'il n'a pas sa place dans la rue. 
+
+:::
+
+::: {.column .callout-tip .text-justified width="95%" icon="false"}
+#### [👩‍💻]{.fs-2} [Maïmouna]{.text-blue}
+
+Je vous trouve un peu radical, Marco! **Même si** les lieux culturels sont indispensables, **il faut reconaître qu**'ils sont difficiles d'accès et souvent réservés à une élite. Dans la rue, les artistes s'experiment plus librement, plus spontanément, ils exposent leurs idées et leur vision du monde à [l'ensemble de]{.underline .text-teal} la population.
+**Toutefois**, vous avez raison, c'est imporant de **mettre en place des** règles pour respecter les bâtiments, la circulation des piétons et des tranquillités des habitants. Les festivals sont souvent une excellente solution [pour faire face à]{.underline .text-teal} ces problèms!
+
+:::
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

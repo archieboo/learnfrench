@@ -1,0 +1,297 @@
+---
+title: "2026-06-30 Inspire Leçon 25"
+date: "2026-06-30"
+categories: ["B1", "unite7", "se enseigner"]
+reference-location: document # margin, block, section, document
+citation-location: document #margin
+image: "https://images.unsplash.com/photo-1541961017774-22349e4a1262?q=80&w=640"
+---
+
+# Leçon 25 : Parler des métiers de l'information
+
+
+## Doc1
+
+::: {.callout-note collapse="true" title="Transcription — Doc 105"}
+:::: {.fs-5}
+
+Bonjour, je suis Sylvie Kaufmann, journaliste et directrice [éditoriale]{.underline} du *Monde*. Merci à tous d'être là cet après-midi pour ce débat consacré aujourd'hui aux questions que nous nous posons sur le but de notre travail et que vous vous posez sans doute aussi, et bien sûr sur l'évolution de notre métier.
+
+Je vous présente donc nos invités. Il y a Céline Pigalle, qui est directrice de la [rédaction]{.underline} de BFM TV. Nous avons aussi David Dufresne, journaliste indépendant. Et enfin Delphine Roucaute, [rédactrice en chef]{.fw-bold} du *Monde.fr*.
+
+Ce débat nous [tient particulièrement à cœur]{.fw-bold}. Si vous le voulez bien, nous allons commencer. Monsieur là qui lève la main par exemple, allez-y, ouvrez le débat.
+::::
+:::
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_LE_AUDIO/INSP3_LE_Piste105.mp3" type="audio/mpeg">
+</audio>
+
+
+
+:::{.callout-warning icon="false" }
+#### Quel est le thème du débat ?
+:::
+
+:::{.callout-warning icon="false" }
+#### Complétez la fiche des intervenants
+
+Sylvie Kauffman : [journaliste, Le Monde]{.underline}  
+Céline Pigalle : [directrice de la rédaction, BFM TV]{.underline}  
+David Dufresne : [journalist indépendant]{.underline}  
+Delphine Roucaute : [rédactrice en chef, Le Monde]{.underline}  
+ 
+:::
+
+
+--- 
+
+## Doc 106
+
+::: {.callout-note collapse="true" title="Transcription — Doc 106" }
+:::: {.fs-5}
+**— Sylvie Kaufmann :** Bonjour, je suis Sylvie Kaufmann, journaliste et directrice éditoriale du *Monde*. Merci à tous d'être là cet après-midi pour ce débat consacré aujourd'hui aux questions que nous nous posons sur le but de notre travail, et que vous vous posez sans doute aussi, et bien sûr sur l'évolution de notre métier. Je vous présente donc nos invités. Il y a Céline Pigalle, qui est directrice de la rédaction de BFM TV. Nous avons aussi David Dufresne, journaliste indépendant, et enfin Delphine Roucaute, rédactrice en chef du *Monde.fr*. Ce débat nous tient particulièrement à cœur. Si vous le voulez bien, nous allons commencer. Monsieur là, qui lève la main par exemple, allez-y, ouvrez le débat.
+
+**— Un participant :** Bonjour à tous. Avec Internet et les réseaux sociaux, les médias classiques n'ont plus le monopole de l'information. Alors, être journaliste aujourd'hui, qu'est-ce que ça veut dire ?
+
+**— Sylvie Kaufmann :** Oui Delphine, allez-y.
+
+**— Delphine Roucaute :** Je **dirais** que le travail du journaliste **consiste à** [recueillir]{.underline} des informations, puis à écrire des articles ou publier des reportages, [afin que]{.fw-bold .text-red} le public [[ait]{.fw-bold .text-red} accès à]{.underline} l'actualité et la [comprenne]{.fw-bold .text-red}. Sur Internet, il y a des personnes qui écrivent ce qui leur [passe par la tête]{.underline}. Nos métiers et nos rôles à nous sont très précis. Il y a les [reporters]{.underline} qui [vont sur le terrain]{.underline}, [afin de]{.fw-bold .underline} vérifier l'authenticité des informations et pour montrer la réalité des faits. Il y a aussi ceux qui font des enquêtes très longues, qui font ce qu'on appelle du journalisme d'investigation : ils cherchent à [révéler]{.underline} des informations inconnues du grand public. N'oublions pas les correspondants, les dessinateurs de presse, et bien sûr les [secrétaires de rédaction]{.underline}, qui [relisent]{.underline} et parfois réécrivent les articles [pour qu]{.fw-bold .text-red}'il n'y [ait]{.fw-bold .text-red} pas d'erreur. Comme vous voyez, un journaliste, c'est un professionnel de l'information.
+
+**— Sylvie Kaufmann :** Merci Delphine. La dame là-bas, [dans le fond]{.underline}. Je vous en prie madame, prenez le micro.
+
+**— Une participante :** Peut-on, selon vous, être journaliste et [militant]{.underline} à la fois ?
+
+**— Sylvie Kaufmann :** Céline, vous voulez répondre ?
+
+**— Céline Pigalle :** Oui. Alors, a priori non. Le journaliste a un devoir d'objectivité, il doit rester neutre, ne pas dire ce qu'il pense, ni ce qu'il faut penser. C'est ça, la [déontologie]{.underline} de notre profession. Cela dit, l'éditorial [explicite]{.underline} la position ou le point de vue de la rédaction du journal. Il y a aussi les [rubriques]{.underline} « points de vue » où le journal donne la parole aux politiciens, aux intellectuels, etc., [pour que]{.fw-bold .text-red} les lecteurs, ou le public en général, [puissent]{.fw-bold .text-red} avoir accès à la controverse, c'est-à-dire aux débats, aux différents avis.
+
+**— Sylvie Kaufmann :** Le jeune homme là, devant. Allez-y, monsieur.
+
+**— Un participant :** Bonjour à tous. Quelle est la différence entre une vidéo [tournée par]{.underline} un caméraman d'une chaîne de télé et la vidéo d'un simple individu, faite avec son téléphone [sur le vif]{.underline} et qu'il publie sur un réseau social ?
+
+**— Sylvie Kaufmann :** David ?
+
+**— David Dufresne :** La différence, c'est que d'abord, nos images sont des images professionnelles, et puis nous les complétons par [une mise en contexte]{.underline} et par une vérification des faits. Une vidéo vue sur Internet peut être [sortie de son contexte]{.underline}, datée de plusieurs années, ou ne pas correspondre à l'événement dont on parle.
+
+**— Sylvie Kaufmann :** Oui, Delphine. Vous voulez intervenir ?
+
+**— Delphine Roucaute :** Oui, je suis tout à fait d'accord avec ce que dit David. Et je voudrais ajouter que, personnellement, je pense que ce métier est beaucoup plus difficile à exercer aujourd'hui. Sur le net, nous sommes régulièrement attaqués ou [interpellés]{.underline} sur la véracité des informations, sur notre neutralité. C'est légitime, [ça fait partie du métier]{.underline}, mais cette [méfiance]{.underline} est plus importante depuis [l'arrivée]{.underline} d'Internet. On doit répondre aux doutes du public [pour qu]{.fw-bold .text-red}'il y [ait]{.fw-bold .text-red} échange d'idées et débat démocratique.
+::::
+:::
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_LE_AUDIO/INSP3_LE_Piste106.mp3" type="audio/mpeg">
+</audio>
+
+
+:::{.callout-warning icon="false"}
+#### Combien de personnes du public posent des questions?
+
+- 3 personnes.
+:::
+
+:::{.callout-warning icon="false"}
+### Sur quels thèmes portent les quesions?
+
+- [x] les images filmées
+- [x] l'objectivité
+- [ ] les fake news
+- [ ] les études de journalisme
+- [x] la différence entre journalisme et réseaux sociaux
+
+:::
+
+## Doc2
+
+::::{.columns}
+
+:::{.column .bg-blue .px-1 .lh-sm width="49%"}
+[INFLUENCEUR]{.fw-bold .fs-3}
+
+[Apparu en 1997 quand le terme « weblog » a été inventé par Jorn Barger.]{.fst-italic}
+
+
+- Il travaille où il se trouve, sans horaires ni contraintes.
+- Il peut avoir n'importe quel(le) profil ou profession.
+- Il écrit pour avoir des _followers_ et ses revenus varient selon son influence.
+- Ses messages sont subjectifs, il donne son opinion.
+- Il crée différents types de contenus (écrits, photos, vidéos) **permettant de** communiquer sur certains produits ou événements.
+- Il [dispose d]{.underline}'une grande liberté d'expression.
+- Il peut éditer directement ou modifier son contenu. Il n'a pas besoin d'approfondir.
+- Son [langage]{.underline} est direct et simple, il utilise la première personne, des phrases incomplètes...
+
+:::
+
+:::{.column width="2%"}
+:::
+
+:::{.column .bg-blue .px-1 .lh-sm width="49%"}
+[JOUNALISTE]{.fw-bold .fs-3}  
+
+[Officiellement apparu en 1631 avec la publication des premiers journaux.]{.fst-italic}
+
+- Il travaille en équipe, il est [soumis]{.underline} à des horaires et à une [hiérarchie]{.underline}.
+- Il dispose normalement d'un diplôme de journalisme.
+- Il écrit pour gagner sa vie, le journalisme est sa source de revenus principale.
+- Ses écrits sont objectifs, il ne donne pas d'opinions personnelles.
+- Il travaille avec un seul type de contenu **traitant de** l'actualité.
+- Il doit respecter des règles déontologiques strictes.
+- Ses contenus sont validés par sa hiérarchie et il doit vérifier ses sources.
+- Il utilise un langage [soutenu]{.underline} et professionnel.<br><br><br>
+
+:::
+::::
+
+:::{.column}
+:::
+
+:::{.bg-orange .text-center .px-1 .py-1 .lh-sm .fs-4}
+Pour résumer, l'influenceur « ressent et vit » et le journaliste « analyse et met en perspective ». Cependant, les équipes de rédaction suivent parfois des influenceurs **ayant** une expertise dans certains domaines.
+:::
+
+
+# Cahier d'activités
+
+## Vocabulaire
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_CA_AUDIO/INSP3_CA_Piste56.mp3" type="audio/mpeg">
+</audio>
+
+## Dictée 
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_CA_AUDIO/INSP3_CA_Piste57.mp3" type="audio/mpeg">
+</audio>
+
+:::{.callout-tip .fst-italic}
+#### ✏️
+
+a.  Les journalists doivent mettre en contexte les informations qu'ils trouvent.
+
+b. La déontologie doit être respectée pour garentir la véracité des informations.
+
+c. Le journalist a proposé des idées à un'illustratrice pour qu'elle fasse des dessins.
+
+d. Le rédacteur en chef ecrivant un editoriale donne le point de vue de la rédaction.
+
+e. Nous avons besoin d'un reporter sachant parler arabe.
+
+f. Certains influenceurs écrivent pour amuser leurs followers.
+
+:::
+
+
+## Communiquer
+
+:::{.callout-tip}
+#### Qu'est-ce qui est le plus important dans le métier de journaliste?
+
+[nora113]{.fw-bold .text-red .fs-4} : 
+[Pour moi, un journaliste doit être capable d'écrire des arcticles en français correct pour que les lecteurs puissent comprendre l'actualité. C'est le plus important !]{.text-secondary}
+
+[Moi]{.fw-bold .text-red .fs-4} : 
+[Je ne suis pas d'accord avec **nora113**. C'est vrai, un journaliste doit écrire correctement, mais ce n'est pas le plus important. Pour moi, c'est]{.text-secondary} 
+la capacité de recueillir des informations et vérifier la véracité des informations recueillies. La déontologie du journaliste commande aussi d'neutralité des reportages : le journaliste ne doivent que exprimer l'actualité sans son opinion.
+
+::::{.callout-important title="✍️ Corrections — « Pour moi, c'est… »"}
+
+**① Votre texte** — surligné : les passages à revoir
+
+:::{.border-start .border-warning .border-3 .ps-2 .fst-italic}
+Pour moi, c'est la capacité de recueillir des informations [et vérifier]{style="background-color:#fff3cd"} [la véracité des informations recueillies]{style="background-color:#fff3cd"}. La déontologie du journaliste [commande aussi d'neutralité]{style="background-color:#fff3cd"} des reportages : le journaliste [ne doivent que exprimer]{style="background-color:#fff3cd"} l'actualité [sans son opinion]{style="background-color:#fff3cd"}.
+:::
+
+**② Version corrigée** — surligné : les remplacements
+
+:::{.border-start .border-success .border-3 .ps-2 .fst-italic}
+Pour moi, c'est la capacité de recueillir des informations [et de vérifier]{.fw-bold style="background-color:#d1e7dd"} [leur véracité]{.fw-bold style="background-color:#d1e7dd"}. La déontologie du journaliste [exige aussi la neutralité]{.fw-bold style="background-color:#d1e7dd"} des reportages : le journaliste [ne doit qu'exprimer]{.fw-bold style="background-color:#d1e7dd"} l'actualité, [sans y ajouter son opinion]{.fw-bold style="background-color:#d1e7dd"}.
+:::
+
+**③ Explications**
+
+| ❌ Votre texte | ✅ Correction | 💡 Explication |
+|---|---|---|
+| et vérifier | et **de** vérifier | Après « la capacité **de** + infinitif », on répète *de* devant chaque infinitif coordonné. |
+| la véracité des informations recueillies | vérifier **leur** véracité | Évite la répétition de *informations* ; *leur* renvoie aux informations déjà citées. |
+| commande aussi d'neutralité | **exige** aussi **la** neutralité | *d'neutralité* est impossible (pas d'élision devant *n-*). On « exige / impose **la** neutralité ». |
+| ne doivent que exprimer | ne **doit qu'exprimer** | Accord sujet-verbe : *le journaliste* (sing.) → *doit*. Élision : *que + exprimer* → *qu'exprimer*. |
+| sans son opinion | **sans y ajouter son** opinion | « sans son opinion » est incomplet : il faut un verbe (*sans y ajouter / sans donner son opinion*). |
+
+::::
+
+:::
+
+:::{.callout-note}
+#### Quelle est la différence entre un journaliste et un influenceur dans la façon de transmettre les informations?
+
+À mon avis, la différence le plus important, c'est la manière de traiter les informations. Un influenceur ne soigne que la rapidité de transmettre des informations, souvent tout ignore les sources, alors que un journaliste doit vérifiér leurs sources et assurer celles-qui sont correctes.
+
+De plus, un journaliste est généralement plus professionel et a le diplôme du journalisme. La language employée par un journaliste est souvent plus soutenue, puisque les informations sont publiées en tant que les articles dans un journal. Aux contraires, un influenceur ecrit plus familier et distribue les informations sur réseau socieaux comme instagram, twiter.
+
+Enfin, en tant que un journaliste, il faut mettre en contexte les information et presenter tous les faits possibles. Cependant, un influenceur souvent envoye les informations etant sorties de ses contextes.
+
+::::{.callout-important title="✍️ Corrections — « À mon avis… »"}
+
+**① Votre texte** — surligné : les passages à revoir
+
+:::{.border-start .border-warning .border-3 .ps-2 .fst-italic}
+À mon avis, [la différence le plus important]{style="background-color:#fff3cd"}, c'est la manière de traiter les informations. Un influenceur [ne soigne que la rapidité de transmettre]{style="background-color:#fff3cd"} des informations, [souvent tout ignore les sources]{style="background-color:#fff3cd"}, [alors que un]{style="background-color:#fff3cd"} journaliste doit [vérifiér]{style="background-color:#fff3cd"} [leurs]{style="background-color:#fff3cd"} sources et [assurer celles-qui sont correctes]{style="background-color:#fff3cd"}.
+
+De plus, un journaliste est généralement plus [professionel]{style="background-color:#fff3cd"} et [a le diplôme du journalisme]{style="background-color:#fff3cd"}. [La language employée]{style="background-color:#fff3cd"} par un journaliste est souvent plus [soutenue]{style="background-color:#fff3cd"}, puisque les informations sont publiées [en tant que les articles]{style="background-color:#fff3cd"} dans un journal. [Aux contraires]{style="background-color:#fff3cd"}, un influenceur [ecrit plus familier]{style="background-color:#fff3cd"} et distribue les informations [sur réseau socieaux comme instagram, twiter]{style="background-color:#fff3cd"}.
+
+Enfin, [en tant que un journaliste, il faut]{style="background-color:#fff3cd"} mettre en contexte [les information]{style="background-color:#fff3cd"} et [presenter]{style="background-color:#fff3cd"} tous les faits possibles. Cependant, [un influenceur souvent envoye]{style="background-color:#fff3cd"} les informations [etant sorties de ses contextes]{style="background-color:#fff3cd"}.
+:::
+
+**② Version corrigée** — surligné : les remplacements
+
+:::{.border-start .border-success .border-3 .ps-2 .fst-italic}
+À mon avis, [la différence la plus importante]{.fw-bold style="background-color:#d1e7dd"}, c'est la manière de traiter les informations. Un influenceur [ne se soucie que de la rapidité de transmission]{.fw-bold style="background-color:#d1e7dd"} et [ignore souvent les sources]{.fw-bold style="background-color:#d1e7dd"}, [alors qu']{.fw-bold style="background-color:#d1e7dd"}un journaliste doit [vérifier]{.fw-bold style="background-color:#d1e7dd"} [ses]{.fw-bold style="background-color:#d1e7dd"} sources et [s'assurer qu'elles sont correctes]{.fw-bold style="background-color:#d1e7dd"}.
+
+De plus, un journaliste est généralement plus [professionnel]{.fw-bold style="background-color:#d1e7dd"} et [possède un diplôme de journalisme]{.fw-bold style="background-color:#d1e7dd"}. [Le langage employé]{.fw-bold style="background-color:#d1e7dd"} par un journaliste est souvent plus [soutenu]{.fw-bold style="background-color:#d1e7dd"}, puisque les informations sont publiées [sous forme d'articles]{.fw-bold style="background-color:#d1e7dd"} dans un journal. [Au contraire]{.fw-bold style="background-color:#d1e7dd"}, un influenceur [écrit de façon plus familière]{.fw-bold style="background-color:#d1e7dd"} et diffuse les informations [sur les réseaux sociaux comme Instagram et Twitter]{.fw-bold style="background-color:#d1e7dd"}.
+
+Enfin, [en tant que journaliste, on doit]{.fw-bold style="background-color:#d1e7dd"} mettre en contexte [les informations]{.fw-bold style="background-color:#d1e7dd"} et [présenter]{.fw-bold style="background-color:#d1e7dd"} tous les faits possibles. Cependant, [un influenceur diffuse souvent]{.fw-bold style="background-color:#d1e7dd"} des informations [sorties de leur contexte]{.fw-bold style="background-color:#d1e7dd"}.
+:::
+
+**③ Explications**
+
+| ❌ Votre texte | ✅ Correction | 💡 Explication |
+|---|---|---|
+| la différence le plus important | la différence **la plus importante** | *différence* est féminin → accord de l'article et de l'adjectif. |
+| ne soigne que la rapidité de transmettre | ne **se soucie que de** la rapidité de **transmission** | *soigner la rapidité* est impropre ; « se soucier **de** » + nom. |
+| souvent tout ignore les sources | et **ignore souvent** les sources | Ordre des mots : l'adverbe *souvent* se place après le verbe ; *tout ignore* est incorrect. |
+| alors que un journaliste | alors **qu'un** journaliste | Élision de *que* devant voyelle. |
+| doit vérifiér leurs sources | doit vérifier **ses** sources | *vérifier* sans accent ; *un journaliste* (sing.) → *ses*. |
+| assurer celles-qui sont correctes | **s'assurer qu'elles** sont correctes | *celles-qui* n'existe pas ; « s'assurer **que** + proposition ». |
+| professionel | professionn**el** | Orthographe : deux *n*. |
+| a le diplôme du journalisme | possède **un** diplôme **de** journalisme | Article indéfini + *de journalisme*. |
+| La language employée… soutenue | **Le langage employé… soutenu** | *langage* est masculin (et s'écrit sans *u*) → accords au masculin. |
+| en tant que les articles | **sous forme d'**articles | Structure incorrecte ; on dit « sous forme d'articles ». |
+| Aux contraires | **Au contraire** | Expression figée, au singulier. |
+| un influenceur ecrit plus familier | un influenceur écrit **de façon plus familière** | *familier* est un adjectif ; il faut un complément de manière (adverbial). |
+| sur réseau socieaux comme instagram, twiter | sur **les réseaux sociaux** comme **Instagram** et **Twitter** | Article + pluriel (*sociaux*) ; noms propres avec majuscule. |
+| en tant que un journaliste, il faut | **en tant que** journaliste, **on** doit | Pas d'article après *en tant que* ; sujet cohérent (*on / un journaliste doit*). |
+| les information | les information**s** | Pluriel. |
+| presenter | **présenter** | Accents. |
+| un influenceur souvent envoye | un influenceur **diffuse souvent** | Adverbe après le verbe ; *envoyer des informations* est faible → *diffuser / transmettre*. |
+| etant sorties de ses contextes | **sorties de leur contexte** | Participe seul (sans *étant*) ; *sortir de son contexte* (sing.). |
+
+::::
+
+:::{.callout-tip title="🗣️ Commentaire général"}
+Dans l'ensemble, vos idées sont **claires et bien organisées** : vous utilisez de bons connecteurs (*de plus, enfin, au contraire, alors que*) et vous réemployez le vocabulaire de la leçon (*déontologie, véracité, mettre en contexte, sources, soutenu*).
+
+Les points à travailler concernent surtout **la forme**, pas le fond :
+
+- **les accords** en genre et en nombre (*la plus importante, le langage… soutenu, les informations*) ;
+- **l'orthographe** (*professionnel, présenter, vérifier, réseaux sociaux*) ;
+- **quelques constructions** (*en tant que* + nom sans article, *sous forme d'articles*, *se soucier de*).
+
+Ce sont des erreurs de langue qui ne gênent pas la compréhension. En soignant les accords et l'orthographe, votre production atteindrait sans problème un bon niveau **B1**. Continuez comme ça 👍
+:::
+
+
+
+
+

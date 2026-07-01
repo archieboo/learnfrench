@@ -1,0 +1,51 @@
+---
+title: "2026-06-25 Week 4 Lesson 19"
+date: "2026-06-25"
+categories: ["bordeaux", "af", "B1", "unite6"]
+reference-location: document # margin, block, section, document
+citation-location: document #margin
+image: "https://images.unsplash.com/photo-1780580965772-d57be2be30ca?q=80&w=640"
+---
+
+
+# Le précis
+
+Des lexiques de parler de street art  
+Grammaire: les connecteurs  
+L'écoute et le transcription
+
+
+# Les connecteurs
+
+- [car = parce que]{.mark} -> pour expliquer  
+- [donc = alors]{.markteal} -> pour donner une conséquence  
+- [en plus (courant) = par ailleurs (formelle)]{.markorange} -> pour ajouter  
+- [contrairement à = au contraire de]{.markpurple} -> pour opposer  
+- [malgré = en dépit de]{.markpink} -> pour introduire une concession  
+- [de plus = en plus]{.markorange} -> pour ajouter  
+- [alors que = tandis que]{.markred} -> pour opposer  
+- [en ce qui concerne = au sujet de]{.markgreen} -> pour introduire un sujet  
+- [bien que = même si]{.markpink} -> pour introduire une concession  
+- [toutefois = cependant, mais, pourtant]{.markpink} 
+
+# L'Écrit
+
+- catégorique
+- acquérir
+- le commissariat d'exposition
+- une sortie
+- changer d'avis sur qqc
+
+
+
+
+
+
+
+
+
+
+
+
+
+

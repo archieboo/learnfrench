@@ -1,0 +1,34 @@
+---
+title: "Vogue France : L'interview de Suzi de Gienchy"
+date: "2026-06-29"
+categories: ["Culture", "La Mode", "Culture"]
+reference-location: document
+citation-location: document
+number-sections: false
+toc-depth: 2
+image: "https://media.vogue.fr/photos/60dd7b98471bbf1a93699239/2:3/w_640,c_limit/A31A9511.jpg"
+--- 
+
+
+# Une Fille, un style : dans le magnifique appartement de Suzi de Givenchy à Paris
+
+## La vidéo de l'interview
+
+::: {.video-centered}
+{{< video https://youtu.be/NIu-j6cohcI?si=333i3nOxARPGQYb4 width="640" height="360" >}}
+:::
+
+
+## L'article
+
+
+[[Original article on Vogue France]{.text-secondary .fst-italic .fs-6}](https://www.vogue.fr/mode/article/une-fille-un-style-suzi-de-givenchy)
+
+[À 50 ans et des poussières, Suzi de Givenchy incarne tout ce que la mode fait de plus beau en 2021. Et pour cause, cette maman de trois enfants, plus muse que mannequin, est la joie de vivre incarnée.  Rencontre solaire.]{.text-secondary}
+
+[Une Fille]{.fs-2}
+
+Dès la première rencontre, c'est une évidence. Suzi de Givenchy est une personnalité [à part]{.underline .text-orange}. Est-ce son ouverture d'esprit? Sa bonne humeur contagieuse? Son chic spontané? Son cool presque accidentel ? C'est une melange de tout cela, un je ne sais quoi quasi inqualifiable, qui m'a fait me dire qu'elle était la parfaite incarnation de la nouvelle Parisienne. À la croisée des styles et des pays, celle qui est née à Hong Kong de parents chinois est une personnalité plurielle. Et [globe-trotter]{.text-teal}. A l'âge de 4 ans elle déménage aux Etats-Unis puis file en France. 
+
+
+

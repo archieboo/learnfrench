@@ -1,0 +1,62 @@
+---
+title: "2026-06-29 Inspire Leçon 24"
+date: "2026-06-29"
+categories: ["B1", "unite6", "se enseigner"]
+reference-location: document # margin, block, section, document
+citation-location: document #margin
+image: "https://images.unsplash.com/photo-1541961017774-22349e4a1262?q=80&w=640"
+---
+
+
+
+
+[À partir de ce leçon, je continue les leçons restantes de Inspire B1]{.text-secondary .fst-italic}
+
+# Le précis
+
+Les lexiques de parler de faire le cartel d'une œuvre d'art  
+Lire un texte sur Nicolas de Staël et son tableau Les Musiciens, Souvenir de Sidney Bechet
+
+# Lexiques
+
+
+
+Parler de faire le cartel d'une œuvre d'art  
+
+- les arts abstraits
+- les arts figuratifs
+- des instruments de musique
+- les paysages et les natures mortes [(here morte = still life)]{.text-secondary .fst-italic} 
+- se mettre à faire = commencer à faire
+- le cartel d'une œuvre d'art [(le texte qui explique l'œuvre d'art)]{.text-secondary .fst-italic}
+- au début des années 1950
+
+
+# Lire
+
+:::{.bg-blue .py-3 .px-3}
+
+::::{.text-center}
+
+Nicolas de Staël  
+[(1914, Empire russe - 1955, France)]{.fs-6}
+
+[Les Musiciens, Souvenir de Sidney Bechet]{.fs-4 .fw-bold}  
+[\[1952 - 1953\]]{.fs-6}
+
+[Huile sur toile, 161,9 x 114,2 cm]{.fs-6}
+::::
+
+::::{.text-justify}
+
+[Au début des années 1950]{.underline}, Nicolas de Staël découvre la musique moderne et le jazz. Il [délaisse]{.text-yellow .fw-bold} les paysages et les natures [mortes]{.text-yellow .fw-bold}, et [se met à créer]{.underline} des images de concerts, d'instruments de musique. Sidney Bechet est le musicien de jazz qu'il écoute le plus. 
+
+Ce tableau est particulièrement interessant [car]{.underline} c'est un bon exemple du style de Nicolas de Staël : [l'hésitation]{.text-yellow .fw-bold} entre l'art figuratif et l'art abstrait. On y [distinque]{.text-yellow .fw-bold} des musiciens, des instruments de musique, mais [sans détails]{.underline}, presque [sans contours]{.underline}.  
+
+Le thème de cette œuvre célèbre est la musique. Le contraste des couleurs vives et l'alternance des zones de couleurs représentent l'ambiance d'un concert de jazz. Les couleurs se répètent de manière régulière à plusieurs endroits du tableau, comme pour évoquer l'improvisation de Bechet.
+
+::::
+
+
+
+:::
