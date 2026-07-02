@@ -1,0 +1,373 @@
+---
+title: "2026-07-01 Inspire Leçon 26"
+date: "2026-07-01"
+categories: ["B1", "unite7", "se enseigner"]
+reference-location: document # margin, block, section, document
+citation-location: document #margin
+image: "https://images.unsplash.com/photo-1541961017774-22349e4a1262?q=80&w=640"
+---
+
+# Leçon 26 : Transmettre des informations
+
+
+## Doc2 : Infobésité : quand trop d'information tue l'information
+
+
+[À [l'occasion]{.underline} de la sortie de son documentaire « Le monde, les médias et moi », nous avons rencontré Anne-Sophie Novel, journaliste, auteure et conférencière[^aa]. Elle nous a expliqué le phénomène d'infobésité. ]{.text-secondary .fst-italic}
+
+[Quel message souhaitez-vous faire passer dans votre documentaire ?]{.text-blue .fst-italic .fw-bold}
+
+Ce documentaire est né d'un [questionnement]{.underline} sur les effets de l'accès à beaucoup d'informations. Je me suis demandé si cela avait des conséquences sur notre conception du monde. Je suis allée [enquêter]{.underline} au Danemark, aux États-Unis, en passant par la France et le Royaume-Uni. Mon idée était d'[alerter sur]{.fw-bold} les risques de l'infobésité [aussi bien]{.markteal .fw-bold}[^ab] dans le cadre privé [que]{.markteal .fw-bold} professionnel.
+
+[L'infobésité, qu'est-ce que c'est ?]{.text-blue .fst-italic .fw-bold}
+
+Le phénomène a commencé [dans les années 80-90]{.fw-bold}, avec [l'apparition]{.underline} des premières chaînes [d'information en continu]{.underline} : CNN aux États-Unis, en 1980, et LCI en France, en 1994. Puis, [au début des années 2000]{.fw-bold}, l'[avènement]{.underline} du Web a [conduit à]{.fw-bold} une augmentation [considérable]{.underline} de la quantité d'informations [diffusées]{.underline} [mais aussi]{.fw-bold} à un traitement bien plus rapide [par rapport aux]{.fw-bold}[^ac] médias traditionnels. Plus récemment, le développement des applications d'informations _live_ [telles que]{.fw-bold} Periscope, associé à la multiplication des documentaires (des blogueurs, des youtubeurs et des twittos), a renforcé le goût des internautes pour les informations.
+
+[Quels sont les effets [néfastes]{.underline} de cette surcharge informationnelle ? ]{.text-blue .fst-italic .fw-bold}
+
+Les notifications qui [apparaissent]{.underline} sur nos téléphones plusieurs fois par jour conduisent à des troubles de la concentration. Les gens en [souffrent]{.underline} de plus en plus. Et, avec la multiplication des nouveaux médias, les risques seront de plus en plus élevés.
+
+[Par ailleurs]{.fw-bold}, une « consommation » trop importante[^ad] d'informations, et notamment celles qui sont [issues de]{.fw-bold} la presse à sensation, [entraîne]{.underline} une forme d'addiction. Cela peut avoir des répercussions physiques, émotionnelles et intellectuelles (stress, fatigue, cyberdépendance, [perte]{.underline} de mémoire, altération du jugement, dégradation du sommeil).
+ 
+Dans le cadre professionnel, l'infobésité est [accrue]{.underline} par la saturation de mails et la multiplication des outils de connexion (boîte mail, SMS, messagerie instantanée, intranet...). Le risque, c'est l'épuisement professionnel, ce qu'on appelle le « burn-out ».
+
+[Qu'est-ce qu'on peut faire pour lutter contre l'infobésité ?]{.text-blue .fst-italic .fw-bold}
+
+Pour [éviter de]{.fw-bold} [tomber dans ce piège]{.underline .text-teal} de l'infobésité, [acceptez]{.text-orange} [dans un premier temps]{.fw-bold} [de]{.text-orange} renoncer à tout savoir. Hiérarchisez l'information et ne cédez pas aux tentations des scoops ! Il faut [veiller à]{.fw-bold}[^ae] désactiver les notifications et à sélectionner les sources de vos informations. Enfin, [faites valoir]{.underline} votre droit à la déconnexion [auprès de]{.fw-bold}[^af] votre employeur !
+
+
+[^aa]: public speaker
+[^ab]: aussi bien [A]{.mark .fst-italic} que [B]{.mark .fst-italic} = [A]{.mark .fst-italic} as well as [B]{.mark .fst-italic} ...
+[^ac]: par rapport à = comparé à; or [en relation avec]{.fst-italic}
+[^ad]: une grande quantité
+[^ae]: faire attention à; veiller à ce que + subjonctif
+[^af]: auprès de qqn = s'adresser à qqn; auprès de un lieu = à côté de
+
+
+## Doc3
+
+::: {.callout-note collapse="true" title="Transcription — Doc 107"}
+:::: {.fs-5}
+
+[Notez que les surlignages jaunes indiquent la voix passive]{.text-secondary .fst-italic .fs-6}
+
+[Thomas:  ]{.fw-bold .text-green}  Et donc, tu n'arrêtes pas de recevoir des notifications ?
+
+[Adher:  ]{.fw-bold .text-orange}  Ben oui, comme ça je sais toujours ce qui se passe.
+
+[Thomas:  ]{.fw-bold .text-green}  Toi, tu es [atteint]{.underline} d'infobésité.
+
+[Adher:  ]{.fw-bold .text-orange}  De quoi ?
+
+[Thomas:  ]{.fw-bold .text-green}  Infobésité. Ça veut dire excès d'informations. C'est quand une personne est hyper connectée, quand elle veut connaître toutes les informations. Je viens de lire une interview sur ce sujet. Ils ont interrogé une journaliste pour [la sortie]{.underline} d'un documentaire sur l'infobésité. Tu n'en as jamais entendu parler ?
+
+[Adher:  ]{.fw-bold .text-orange}  Euh, non.
+
+[Thomas:  ]{.fw-bold .text-green}  Elle [définit]{.underline} ça comme une maladie. Elle [parle d]{.fw-bold}'addiction.
+
+[Adher:  ]{.fw-bold .text-orange}  Une maladie ? Faut peut-être pas [exagérer]{.underline}.
+
+[Thomas:  ]{.fw-bold .text-green}  [Détrompe-toi]{.fw-bold .underline} ! [Elle a dit que les gens souffraient]{.mark} de plus en plus de troubles de la concentration.
+
+[Adher:  ]{.fw-bold .text-orange}  Mais c'est n'importe quoi.
+
+[Thomas:  ]{.fw-bold .text-green}  Attends, ça ne [s'arrête]{.underline} pas là. [Elle a expliqué que ça pouvait]{.mark} [aller jusqu'à des difficultés à]{.underline} prendre des décisions et même jusqu'au burn-out.
+
+[Adher:  ]{.fw-bold .text-orange}  Ah, [carrément]{.underline} ! Tout ça parce qu'on veut seulement [se tenir au courant]{.underline} ?
+
+[Thomas:  ]{.fw-bold .text-green}  Oui, et [elle a précisé aussi que le pire, c'était quand on cherchait]{.mark} certains types d'informations, comme les informations sensationnelles.
+
+[Adher:  ]{.fw-bold .text-orange}  On ne peut plus faire ce qu'on veut.
+
+[Thomas:  ]{.fw-bold .text-green}  Ensuite, [elle a expliqué que ça avait commencé]{.mark} avec les chaînes d'infos en continu et [que le problème s'était aggravé]{.mark} progressivement avec les applications. [Elle a ajouté que]{.mark} dans le futur, [les risques seraient]{.mark} de plus en plus élevés, [que ce serait]{.mark} de pire en pire.
+
+[Adher:  ]{.fw-bold .text-orange}  C'est sûr qu'on a plus de possibilités de s'informer qu'à l'époque de la presse papier et de la radio. Je ne vois pas en quoi c'est un problème.
+
+[Thomas:  ]{.fw-bold .text-green}  Eh bien, parce qu'on multiplie les risques de souffrir de cette addiction. [Le journaliste lui a demandé ce qu'on pouvait]{.mark} faire pour lutter contre ça. [Elle a répondu qu'il fallait]{.mark} désactiver les notifications pour ne pas subir ces effets. [Elle a conseillé aussi **de** hiérarchiser]{.mark} l'information.
+
+[Adher:  ]{.fw-bold .text-orange}  Ouais.
+
+[Thomas:  ]{.fw-bold .text-green}  Tu veux qu'on regarde le documentaire ensemble ?
+
+[Adher:  ]{.fw-bold .text-orange}  Hein ? Qu'est-ce que tu dis ?
+
+[Thomas:  ]{.fw-bold .text-green}  Je te demande si tu veux qu'on regarde le documentaire ensemble.
+
+[Adher:  ]{.fw-bold .text-orange}  Non, franchement, ça ne m'intéresse pas trop. Et puis, je n'ai vraiment pas le temps en ce moment.
+
+::::
+:::
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_LE_AUDIO/INSP3_LE_Piste107.mp3" type="audio/mpeg">
+</audio>
+
+
+## Grammaire : rapporter des paroles au discours indirect
+
+### L'excercice 5 de livre
+
+a. Qu'est-ce qui est intéressant dans ce métier ?  
+   ↪️  [Les enfants ont demandé ce qui était intéressant dans ce métier.]{.fst-italic}
+
+b. Est-ce qu'on gagne beaucoup d'argent ?  
+   ↪️  [Les enfants veulent savoir si un journaliste gagne beaucoup d'argent.]{.fst-italic}
+
+c. Comment est-ce qu'on choisit les sujets de reportage ?  
+   ↪️  [les enfants ont demandé comment un journaliste choisissait les sujets de reportage.]{.fst-italic}
+
+d. Est-ce qu'un journaliste dit toujours la vérité ?  
+   ↪️  [Les enfants ont demandé si un journaliste disait toujours la vérité.]{.fst-italic}
+
+e. Qu'est-ce que les journalistes pensent des réseaux sociaux ?  
+   ↪️ [Les enfants ont voulu savoir ce que les journalistes pensaient des réseaux sociaux.]{.fst-italic}
+
+### L'excercice 6 de livre
+
+a. « Ce journal va disparaître. »  
+   ↪️  Il a dit que ce journal [va · [allait]{.markgreen}]{.fw-bold} disparaître.
+
+b. « J'ai lu un bon article. »  
+   ↪️  Elle a dit qu'elle [lisait · [avait lu]{.markgreen}]{.fw-bold} un bon article.
+
+c. « Ce magazine vient de publier une enquête sur les jeunes. »  
+   ↪️  Il a dit que ce magazine [[venait]{.markgreen} · vient]{.fw-bold} de publier une enquête sur les jeunes.
+
+d. « Les réseaux sociaux auront de plus en plus d'importance. »  
+   ↪️  J'ai dit que les réseaux sociaux [[auraient]{.markgreen} · avaient]{.fw-bold} de plus en plus d'importance.
+
+e. « Je reçois trop de notifications. »  
+   ↪️  Il a dit qu'il [avait reçu · [recevait]{.markgreen}]{.fw-bold} trop de notifications.
+
+f. « Elle aimerait regarder ce documentaire. »  
+   ↪️  Elle a dit qu'elle [[aimerait]{.markgreen} · aimera]{.fw-bold} regarder ce documentaire.
+
+g. « Cet article était très intéressant. »  
+   ↪️  J'ai dit que cet article [serait · [était]{.markgreen}]{.fw-bold} très intéressant.
+
+
+### L'excercice 7 de livre
+
+[Lisez la transcription d'une conférence sur le dessin de presse. Puis complétez le résumé de la conférence avec les verbes.]{.text-secondary .fw-bold}
+
+>
+« Le dessin de presse s'est développé en France en même temps que la presse mais le terme "dessin de presse" est apparu en 1979 et est devenu un terme courant dans les années 1990. Le dessin de presse propose un regard personnel du dessinateur sur l'actualité : c'est donc un outil très précieux pour évoquer un fait d'actualité car il s'adresse à la fois à l'intelligence et à l'émotion. Une seule image dit beaucoup de choses, peut être interprétée de différentes façons et permet donc d'échanger des idées. La crise actuelle de la presse écrite fera-t-elle disparaître ce mode d'expression ? L'avenir le dira ! »
+
+[✍️]{.fs-1}
+
+L'historienne a expliqué que le dessin de presse [s'était développé]{.markblue} en France en même temps que la presse mais que le terme « dessin de presse » [ était apparu ]{.markblue} en 1979 et [ était devenu ]{.markblue} un terme courant dans les années 1990. Elle a dit que le dessin de presse [proposait]{.markblue} un regard personnel du dessinateur sur l'actualité, et que c'[était]{.markblue} donc un outil très précieux pour évoquer un fait d'actualité car il [s'adressait]{.markblue} à la fois à l'intelligence et à l'émotion. Elle a ajouté qu'une seule image [disait]{.markblue} beaucoup de choses, qu'elle [pouvait]{.markblue} être interprétée de différentes façons et [permettait]{.markblue} donc d'échanger des idées. Elle s'est demandé si la crise actuelle de la presse écrite [ferait]{.markblue} disparaître ce mode d'expression. Elle a conclu en disant que l'avenir le [dirait]{.markblue}.
+
+# Cahier d'activités
+
+
+::: {.callout-note collapse="true" title="Transcription — Doc 58"}
+:::: {.fs-5}
+
+[Journaliste :  ]{.fw-bold .text-green}  Bonjour et bienvenue sur Radio France. Aujourd'hui, dans notre émission _Le Temps du Débat_, nous allons nous interroger sur la surcharge d'informations. Notifications sur nos téléphones, informations venant des réseaux sociaux, chaînes télévisées ou radios en continu, depuis 20 ans, les alertes d'informations se sont multipliées. Comment les nouvelles façons d'informer changent-elles notre quotidien ? Quels sont les effets de ces alertes sur notre santé ? Pour répondre à ces questions, nous recevons la médiatrice de Radio France. Bonjour madame. Alors, est-ce qu'il y a une surcharge d'informations ?
+
+[Médiatrice :  ]{.fw-bold .text-orange}  Les auditeurs ne disent pas qu'il y a une surcharge d'informations. Ils disent plutôt que les journalistes ne donnent que des informations négatives. Ils aimeraient entendre des reportages qui présentent des initiatives positives. Et ils ne pensent pas qu'il y a une surcharge d'informations. Au contraire, ils demandent de pouvoir s'informer sur plusieurs médias et ils veulent toujours être informés sur l'actualité.
+
+[Journaliste :  ]{.fw-bold .text-green}  Je me tourne vers notre second invité, qui est médecin et spécialiste de l'information. Alors, est-ce qu'il y a une surcharge d'informations ? Et quel est l'effet de cette infobésité sur la santé ?
+
+[Spécialiste :  ]{.fw-bold .text-blue}  Le problème, c'est qu'il y a tellement d'informations qu'on ne prend pas le temps de réfléchir. En effet, il est nécessaire de mettre en contexte les informations que l'on reçoit. Mais une information est vite remplacée par une autre. Les alertes se multiplient parce que le flux est continu. Cette surcharge peut entraîner un grand stress. Et les conséquences de ce stress sont réelles. La dégradation du sommeil, des troubles de la concentration sont les plus connus. Les alertes stimulent le cerveau comme une addiction et créent une dépendance. C'est la cyberdépendance. La solution serait d'apprendre à hiérarchiser les informations, d'arrêter de regarder les chaînes d'informations en continu et surtout de désactiver les notifications qui encouragent à aller sur les réseaux sociaux.
+
+::::
+:::
+
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_CA_AUDIO/INSP3_CA_Piste58.mp3" type="audio/mpeg">
+</audio>
+
+
+### Ex. 1 : Écoutez l'émission de radio et répondez aux questions.
+
+
+```
+scrapchpad
+
+
+
+```
+
+a. Au début de l'émission, qu'est-ce que le journaliste demande?   
+   👉 [Au début de l'émission, le journaliste a demandé s'il y avait de surcharge d'information.]{.fst-italic .text-blue}
+
+b. D'après la médiatrice, que pensent les auditeurs des informations qu'ils reçoivent?  
+    👉 [Elle à dit que les auditeus n'avaient pas pensé que il y avait une surcharge d'information.]{.fst-italic .text-blue}
+
+c. D'après la médiatrice, comment les auditeurs souhaiteraient-ils s'informer?  
+    👉 [Elle a indiqué que les auditeurs souhaiteraient recevoir l'actualité complète sans selement les informations négatives.]{.fst-italic .text-blue}
+
+d. D'après le spécialiste, quel est le problème?  
+    👉 [Il a pensé que le problème c'était que il y avait trop d'informations.]{.fst-italic .text-blue}
+
+e. D'après lui, quelle est la principale conséquence sur la santé?  
+    👉 [Il a dit que la principale conséquence c'était le stress causé par le surcharge d'information.]{.fst-italic .text-blue}
+
+f. Quels sont les problèmes de santé identifiés par le spécialiste?  
+    👉 [Il a indiqué que les problèmes de santé incluaient la dégradation de sommeil et les troubles de concentration.]{.fst-italic .text-blue}
+
+g. Qu'est-ce que la cyberdépendance?  
+    👉 [Il a dit que la cyberdépendance était un dépendance sur l'internet et les réseaux sociaux.]{.fst-italic .text-blue}
+
+h. Que conseille le spécialiste pour stopper la cyberdépendance? Résumez une phrase.  
+    👉 [Il a conseillé que il fallait désactiver les notifications et hiérarchiser les informations.]{.fst-italic .text-blue}
+
+
+::: {.callout-tip title="Commentaires — Ex. 1" collapse="true"}
+Bon travail : le contenu est globalement juste. Quelques corrections :
+
+- **a.** « s'il y avait **une** surcharge d'**informations** » (et non « de surcharge »).
+- **b.** Attention : « Elle **a** dit » (et non « à »). Surtout, l'idée principale manque — les auditeurs reprochent surtout aux journalistes de ne donner **que des informations négatives** ; ils ne pensent pas qu'il y ait une surcharge.
+- **c.** « les auditeu**rs** » ; « **seulement** ». Ajoutez qu'ils veulent aussi **s'informer sur plusieurs médias** et rester informés de l'actualité.
+- **d.** « que **c'était qu'il** y avait trop d'informations » — juste. Précisez : on n'a plus le temps de **réfléchir / mettre en contexte**.
+- **e.** « **la** surcharge ». Correct : la conséquence principale est le **stress**.
+- **f.** « la dégradation **du** sommeil et les troubles **de la** concentration » — parfait.
+- **g.** « **une** dépendance **à** Internet » (dépendance **à**, pas « sur »). Idée à ajouter : les alertes **stimulent le cerveau comme une addiction**.
+- **h.** Tournure : « Il a conseillé **de** désactiver… et **de** hiérarchiser… » (ou « il a dit **qu'il** fallait… »). Bon résumé.
+:::
+
+
+### Ex. 2 : Réécoutez. Cochez les solutions proposées par le spécialiste pour stopper la cyberdépendance.
+
+- [x] Désactiver les notifications. 
+- [ ] Limiter son abonnement à deux réseaux sociaux.
+- [ ] Éteindre son téléphone portable.
+- [x] Ne pas regarder les chaînes d'informations en continu.
+- [ ] Limiter l'accès à son compte à ses proches.
+- [ ] S'informer seulement sur les sites de journaux en ligne.
+- [x] Hiérarchiser les informations.
+- [ ] Ne plus consulter les réseaux sociaux.
+- [ ] Mettre les alertes sur son téléphone portable.
+- [ ] Mettre à jour son profil.
+
+
+::: {.callout-tip title="Commentaires — Ex. 2" collapse="true"}
+Parfait : vos trois réponses correspondent exactement aux solutions du spécialiste — **désactiver les notifications**, **arrêter de regarder les chaînes d'informations en continu** et **hiérarchiser les informations**. Rien à corriger.
+:::
+
+### Ex. 8 Écoutez et écrivez la phrase au discours in direct au passé.
+
+::: {.callout-note collapse="true" title="Transcription — Doc 59"}
+:::: {.fs-5}
+
+[Exemple :  ]{.fw-bold .text-secondary}  Les réseaux sociaux peuvent conduire à une addiction.
+
+[a.  ]{.fw-bold .text-green}  Il faut faire attention à la dégradation du sommeil.
+
+[b.  ]{.fw-bold .text-green}  Essayez de passer deux heures par jour sans regarder les écrans.
+
+[c.  ]{.fw-bold .text-green}  Qu'est-ce que tu feras pour lutter contre l'addiction ?
+
+[d.  ]{.fw-bold .text-green}  J'ai longtemps suivi ce youtubeur.
+
+[e.  ]{.fw-bold .text-green}  Les gens veulent s'informer en continu.
+
+[f.  ]{.fw-bold .text-green}  Reposez-vous.
+
+[g.  ]{.fw-bold .text-green}  Il faut faire attention au burn-out.
+
+[h.  ]{.fw-bold .text-green}  Il faudra laisser les téléphones dans les sacs.
+
+::::
+:::
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_CA_AUDIO/INSP3_CA_Piste59.mp3" type="audio/mpeg">
+</audio>
+
+
+
+a. Le médecin a expliqué qu'il fallait faire attention à la dégradation du sommeil.
+
+b. Il m'a conseillé de esseyer passer deux heures par jour sans regarder les écrans.
+
+c. J'ai demandé à Anna ce que elle ferait pour lutter contre la contradiction. 
+
+d. Mon amie m'a précisé que elle avait long temps suivi ce youtubeur.
+
+e. Le journaliste a expliqué que les gens voulaient informés en continus.
+
+f. La responsable du service lui a conseillé de se reposer.
+
+g. Mon frère a dit que il fallait faire attention aux auout.
+
+h. Le professeur a déclaré que il fallait aller ses téléphone dans les sacs.
+
+### Ex. 9 : Dictée
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_CA_AUDIO/INSP3_CA_Piste60.mp3" type="audio/mpeg">
+</audio>
+
+
+a. Il a dit que c'était important de se tenir au courant.
+
+b. La jeune femme a ajouté qu'elle ne savait pas hiérarchiser les informations.
+
+c. Le médecin a confirmé qu'il souffrait d'une perte de mémoire. 
+
+d. Le specialiste a précisé que nous devions faire attention de notre santé.
+
+e. Elles ont expliqué que l'épuisement professionnel était assez courant.
+
+f. La cyberdépendance est un problème chez les jeunes.
+
+g. Le twittos répond à toutes les notifications sur son téléphones.
+
+
+### Ex. 10 : Écrit
+
+> Souffrez-vous d'infobésité ou préférez-vous sélectionner l'information que vous lisez ou regardez? Racontez vos pratiques.
+
+
+:::{.callout-note}
+#### ✍️
+
+Je crois que [je souffrait]{.text-danger .fw-bold} d'infobésité avant, quand [je n'ai pas activement limité]{.text-danger .fw-bold} mon temps sur [l'écran]{.text-danger .fw-bold}. Mais maintenant, [je choisit]{.text-danger .fw-bold} généralement l'information que je lis ou regarde. J'ai désactivé [des]{.text-danger .fw-bold} notifications de [la plupart d'applications]{.text-danger .fw-bold} sociales, comme [instagram]{.text-danger .fw-bold} et j'ai déjà quitté [facebook]{.text-danger .fw-bold} et plusieurs autres réseaux sociaux. De plus, je me suis inscrit seulement à un ou deux médias [en tant que la source]{.text-danger .fw-bold} de l'actualité. Je pense que [ce n'est pas nécessaire]{.text-danger .fw-bold} de me tenir au courant. Je passe chaque jour environ 10 minutes [d'écouter]{.text-danger .fw-bold} des [podcasts de l'actualité]{.text-danger .fw-bold} et cela est assez [soufi]{.text-danger .fw-bold}. [Néanmoin]{.text-danger .fw-bold}, je tombe parfois dans le piège de « [doom's roll]{.text-danger .fw-bold} » et [déroule]{.text-danger .fw-bold} au point [d'avoir perdre]{.text-danger .fw-bold} du temps. [I crois]{.text-danger .fw-bold} que [l'évaluation moi-même, c'est je fait assez bien]{.text-danger .fw-bold}, mais l'infobésité, cela [démande]{.text-danger .fw-bold} une [vigilence]{.text-danger .fw-bold} constante.
+
+:::
+
+::: {.callout-tip title="Correction — Ex. 10" collapse="false"}
+
+**Texte corrigé**
+
+Je crois que [je souffrais]{.markgreen} d'infobésité avant, quand [je ne limitais pas activement]{.markgreen} mon temps [devant les écrans]{.markgreen}. Mais maintenant, [je choisis]{.markgreen} généralement l'information que je lis ou regarde. J'ai désactivé [les]{.markgreen} notifications de [la plupart des applications]{.markgreen} sociales, comme [Instagram]{.markgreen}, et j'ai déjà quitté [Facebook]{.markgreen} et plusieurs autres réseaux sociaux. De plus, je me suis inscrit à un ou deux médias seulement, [comme source]{.markgreen} d'actualité. Je pense qu'[il n'est pas nécessaire]{.markgreen} de trop me tenir au courant. Je passe chaque jour environ 10 minutes [à écouter]{.markgreen} des [podcasts d'actualité]{.markgreen}, et [cela me suffit largement]{.markgreen}. [Néanmoins]{.markgreen}, je tombe parfois dans le piège du « [doomscrolling]{.markgreen} » et [je fais défiler]{.markgreen} au point [de perdre]{.markgreen} du temps. [Je crois]{.markgreen} que, [quand je m'auto-évalue, je m'en sors assez bien]{.markgreen}, mais l'infobésité [demande]{.markgreen} une [vigilance]{.markgreen} constante.
+
+**Explications**
+
+1. **je souffrait → je souffrais** : imparfait à la 1re personne (terminaison « -ais »).
+2. **je n'ai pas activement limité → je ne limitais pas activement** : imparfait pour une habitude passée qui dure ; l'adverbe se place après le verbe.
+3. **sur l'écran → devant les écrans** : expression figée « devant les écrans », au pluriel.
+4. **je choisit → je choisis** : 1re personne du présent, « je choisis » (le « -t » est la 3e personne).
+5. **des notifications → les notifications** : article défini (les tiennes, celles de tes applis).
+6. **la plupart d'applications → la plupart des applications** : « la plupart de » se construit toujours avec l'article défini « des ».
+7. **instagram / facebook → Instagram / Facebook** : noms propres, majuscule obligatoire.
+8. **en tant que la source → comme source** : « comme » / « en tant que » ne prennent pas d'article.
+9. **ce n'est pas nécessaire → il n'est pas nécessaire (de trop…)** : tournure impersonnelle « il est nécessaire de » ; « trop » rend l'idée logique (sinon tu te contredis).
+10. **10 minutes d'écouter → 10 minutes à écouter** : « passer du temps **à** faire quelque chose ».
+11. **podcasts de l'actualité → podcasts d'actualité** : complément de nom sans article (type de podcast).
+12. **cela est assez soufi → cela me suffit largement** : « soufi » n'existe pas ; on dit « cela suffit / me suffit » (ou « c'est suffisant »).
+13. **Néanmoin → Néanmoins** : orthographe, avec « s » final.
+14. **doom's roll → doomscrolling** : terme anglais exact.
+15. **déroule → je fais défiler** : « faire défiler » = _scroller_ ; « dérouler » ne convient pas, et il faut répéter le pronom « je ».
+16. **au point d'avoir perdre → au point de perdre** : après « au point de », infinitif simple (pas de « avoir »).
+17. **I crois → Je crois** : « Je » (faute de frappe anglaise).
+18. **l'évaluation moi-même, c'est je fait assez bien → quand je m'auto-évalue, je m'en sors assez bien** : reformulation ; la structure « c'est je fait » est incorrecte, et « je fais » prend un « -s ».
+19. **démande → demande** ; **vigilence → vigilance** : simples fautes d'orthographe.
+:::
+
+
+### Ex. 11
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_CA_AUDIO/INSP3_CA_Piste61.mp3" type="audio/mpeg">
+</audio>
+
+
+
+
+
+
+

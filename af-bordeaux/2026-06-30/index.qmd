@@ -4,7 +4,7 @@ date: "2026-06-30"
 categories: ["B1", "unite7", "se enseigner"]
 reference-location: document # margin, block, section, document
 citation-location: document #margin
-image: "https://images.unsplash.com/photo-1541961017774-22349e4a1262?q=80&w=640"
+image: "https://images.unsplash.com/photo-1617715545172-06ef44b61cc8?q=80&w=640"
 ---
 
 # Leçon 25 : Parler des métiers de l'information
