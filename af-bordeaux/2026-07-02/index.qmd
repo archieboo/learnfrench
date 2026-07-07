@@ -1,0 +1,408 @@
+---
+title: "2026-07-02 Inspire Leçon 27"
+date: "2026-07-02"
+categories: ["B1", "unite7", "se enseigner"]
+reference-location: document # margin, block, section, document
+citation-location: document #margin
+image: "https://images.unsplash.com/photo-1561491431-71b89da6056a?q=80&w=640"
+---
+
+# Leçon 27 : S'interroger sur l'information
+
+
+## Doc1
+
+::: {.callout-note collapse="true" title="Transcription — Doc 108"}
+:::: {.fs-5}
+
+Bonjour, c'est Elisabeth Gibert. Vous écoutez le podcast de 28 minutes sur Arte Radio. Bonne écoute.
+
+Grâce à l'intelligence artificielle, ou IA, on peut [faire écrire]{.underline .fw-bold} des articles [à]{.fw-bold .underline} des robots rédacteurs ou bien [concevoir de manière automatique]{.fw-bold} des micro-reportages, des vidéos de 15 secondes. L'intelligence artificielle [monte ces vidéos]{.underline} toutes seules, c'est-à-dire qu'elle [repère]{.fw-bold} les points importants d'un discours ou d'[une séquence en images]{.underline} et peut les assembler pour qu'on les diffuse [en continu]{.underline}.
+
+Selon nos informations, des sites d'information régionales seraient [sur le point d]{.fw-bold}'utiliser ce [dispositif]{.underline}. [Ajoutons que]{.mark}[^a0] les informations sont [ciblées]{.underline} [en fonction du]{.fw-bold} profil du spectateur, des géants du commerce en ligne [seraient prêts à]{.underline} financer ces dispositifs.
+
+Encore plus étonnant, des chaînes d'information en continu [pensent remplacer]{.underline} leur présentateur par un avatar, [un personnage fictif généré]{.underline} par le [logiciel]{.underline}. Il parle, il bouge, il est complètement [convaincant]{.underline}. Ce présentateur virtuel n'est jamais malade et travaille [24 heures sur 24]{.fw-bold}.  Certaines télés privées réfléchiraient à la possibilité d'utiliser un jour ces journalistes gratuits et toujours opérationnels.
+
+Mais ce n'est pas tout. Ces algorithmes peuvent automatiser, [du moins]{.fw-bold .text-purple} [en partie]{.fw-bold .text-orange}, la vérification de l'information. Par exemple, détecter des images retouchées et des vidéos manipulées.
+
+Bref, même si l'intelligence artificielle peut faire peur, elle n'a pas que des [inconvénients]{.underline}. 
+
+::::
+:::
+
+[^a0]: "Ajoutons que" ici est l'impératif.
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_LE_AUDIO/INSP3_LE_Piste108.mp3" type="audio/mpeg">
+</audio>
+
+
+## Doc3
+
+:::{.column .marksilver .border .text-start width='100%'}
+
+
+::::{.column .markgreen .border .lh-sm .d-block .mx-auto .mt-5 width='80%'}
+
+
+Georges Duroy, [dit]{.fw-bold} Bel-Ami, est un jeune homme ambitieux, parvenu au sommet de la pyramide sociale grâce à ses maîtresses, au journalisme et à la politique. Dans ce roman, Maupassant dénonce les relations secrètes entre la politique et la presse. Dans l'extrait suivant, Bel-Ami vient d'être nommé chef de la rubrique « Les échos » du journal _La Vie Française_. 
+::::
+
+<br>
+
+C'est par eux qu'on lance les nouvelles, qu'on [fait courir les bruits]{.underline}[^aa], qu'on [agit sur]{.underline}[^ab] le public [...]. Entre deux soirées mondaines[^ac], il faut [savoir glisser]{.underline}[^ad], sans avoir l'air de rien[^ae], la chose importante, plutôt insinuée que dite. Il faut, par des sous-entendus[^af], laisser deviner[^ag] ce qu'on veut, [démentir]{.underline}[^ah] [de telle sorte que]{.underline .markpurple .fw-bold}[^ai] la rumeur [s'affirme]{.markpurple}, ou affirmer [de telle manière que]{.underline .markpurple .fw-bold}[^aj] personne ne [croie]{.markpurple} au fait annoncé. [Il faut que]{.markpurple}, dans les échos, chacun [trouve]{.markpurple}, chaque jour, une ligne au moins qui l'intéresse, [afin que]{.markpurple} tout le monde les [lise]{.markpurple}. Il faut [penser à]{.underline} tout et à tous, à tous les mondes, à toutes les professions, à Paris et à la Province, à l'Armée et aux Peintres, au Clergé et à l'Université, aux Magistrats et aux Courtisanes. L'homme qui les dirige et qui commande au bataillon[^ak] des reporters doit être toujours en éveil[^al], et toujours [en garde]{.underline}[^am], méfiant[^an], prévoyant[^ao], rusé[^ap], alerte et souple[^aq], armé de toutes les astuces[^ar] et [doué d]{.underline}[^ba]'[un flair infaillible]{.underline .text-blue}[^bb] pour découvrir la nouvelle fausse[^bc] [du premier coup d'œil]{.underline}[^bd], pour juger ce qui est bon à dire et bon à celer[^be], pour deviner ce qui [portera sur]{.underline}[^bf] le public ; et il doit savoir le présenter [de telle façon que]{.underline .markpurple .fw-bold} l'effet en [soit]{.markpurple} multiplié.
+
+:::
+
+[^aa]: répandre des rumeurs, propager des nouvelles non confirmées.
+
+[^ab]: exercer une influence sur, avoir un effet sur.
+
+[^ac]: réceptions élégantes de la haute société.
+
+[^ad]: introduire habilement et discrètement une information.
+
+[^ae]: de façon anodine, comme si ce n'était rien d'important.
+
+[^af]: ce qui est suggéré sans être dit explicitement.
+
+[^ag]: faire comprendre sans le dire directement.
+
+[^ah]: nier, contredire une information.
+
+[^ai]: de manière que (introduit une conséquence).
+
+[^aj]: de façon que (introduit une conséquence).
+
+[^ak]: ici au sens figuré : la troupe nombreuse des reporters.
+
+[^al]: attentif, vigilant, aux aguets.
+
+[^am]: sur ses gardes, prudent, méfiant.
+
+[^an]: qui n'accorde pas facilement sa confiance.
+
+[^ao]: qui anticipe et prévoit les événements.
+
+[^ap]: habile à tromper, malin.
+
+[^aq]: vif et capable de s'adapter facilement.
+
+[^ar]: moyens ingénieux, ruses.
+
+[^ba]: qui possède naturellement (une qualité).
+
+[^bb]: un instinct très sûr, qui ne se trompe jamais.
+
+[^bc]: l'information erronée, la fausse nouvelle.
+
+[^bd]: immédiatement, dès le premier regard.
+
+[^be]: qu'il vaut mieux cacher ou taire (celer = cacher).
+
+[^bf]: qui aura de l'importance pour, qui influencera.
+
+
+
+# Grammaire
+
+## Ex. 8
+
+::: {.callout-note collapse="true" title="Transcription — Doc 114"}
+:::: {.fs-5}
+
+**Exemple.** Un incendie s'est déclaré dans un hôtel.
+
+**A.** Ça s'est passé en pleine nuit.
+
+**B.** Il y aurait une vingtaine de blessés.
+
+**C.** L'alerte a été donnée par le directeur de l'hôtel.
+
+**D.** Les pompiers n'ont pas encore réussi à éteindre le feu.
+
+**E.** C'est une cigarette qui serait la cause du départ de feu.
+
+**F.** Un chat se trouverait encore dans une chambre.
+
+**G.** Une enquête a été ouverte.
+
+**H.** L'hôtel a été évacué.
+
+::::
+:::
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_LE_AUDIO/INSP3_LE_Piste114.mp3" type="audio/mpeg">
+</audio>
+
+
+# Vocabulaire
+
+## La technologie
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_LE_AUDIO/INSP3_LE_Piste115.mp3" type="audio/mpeg">
+</audio>
+
+:::{.markgreen .rounded .lh-1.25 .p-3}
+
+- un algorithme
+- (générer) un avatar
+- un dispositif : [un ensemble de moyens techniques , eg. un logiciel, un appareil, etc.]{.fst-italic .text-secondary}
+- l'intelligence (f.) artificielle (l'IA)
+- un profil (de spectateur)
+- cibler : [viser un public particulier, eg. un spectateur, un client, etc.]{.fst-italic .text-secondary}
+- automatiser
+- détecter
+- diffuser en continu  
+- manipuler (une image, une vidéo)
+- retoucher (une image, une vidéo)
+
+:::
+
+## La rumeur
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_LE_AUDIO/INSP3_LE_Piste116.mp3" type="audio/mpeg">
+</audio>
+
+
+:::{.markgreen .rounded .lh-1.25 .p-3}
+
+- un écho : [une information qui se répand rapidement, souvent sans être vérifiée]{.fst-italic .text-secondary}
+- une fausse nouvelle
+- un sous-entendu : [une information suggérée sans être dite explicitement]{.fst-italic .text-secondary}
+- démentir : [nier, contredire une information; ou réfuter une rumeur]{.fst-italic .text-secondary}
+- glisser (une information): [introduire habilement et discrètement une information]{.fst-italic .text-secondary}
+- insinuer : [suggérer quelque chose de manière indirecte]{.fst-italic .text-secondary}
+- laisser deviner : [faire comprendre sans le dire directement]{.fst-italic .text-secondary}
+
+:::
+
+## La caractérisation
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_LE_AUDIO/INSP3_LE_Piste117.mp3" type="audio/mpeg">
+</audio>
+
+:::{.markgreen .rounded .lh-1.25 .p-3}
+
+- méfiant : [qui n'accorde pas facilement sa confiance]{.fst-italic .text-secondary}
+- prévoyant : [qui anticipe et prévoit les événements]{.fst-italic .text-secondary}
+- rusé : [habile à tromper, malin]{.fst-italic .text-secondary}
+- souple : [vif et capable de s'adapter facilement]{.fst-italic .text-secondary}
+
+:::
+
+
+# Cahier d'activités
+
+## Comprendre
+
+### Ex. 1
+
+::::{.callout-warning collapse="false" icon="false"}
+#### Guide de la semaine : **les fausses nouvelles**
+
+
+:::{.marksilver .border .my-4 .fs-5}
+
+[Comment peut-on être sûr de la véracité d'une information ? Comment détecter une fake news ? Voici quelques recommandations.]{.fw-bold .text-secondary}
+
+On peut d'abord vérifier si l'article est signé par un auteur. Parfois, son nom n'est pas mentionné ou l'auteur écrit sous un autre nom. Il est important de vérifier qui il est : est-il spécialiste du sujet ? A-t-il publié des livres ou d'autres articles ? Des sites [proposent d'accéder à]{.underline .fw-bold} ces informations sous les articles. Il est nécessaire aussi de [s'interroger sur]{.underline} l'objectif de l'auteur. Il peut raconter des faits avec [neutralité]{.underline} ou exprimer son opinion : c'est très différent.
+
+Blog, site, journal en ligne, réseau social, la qualité d'une information dépend aussi du média qui propose cette information. Par exemple, des sites [appartiennent à]{.underline} des journaux connus ou à des chaînes nationales, d'autres sites sont produits par des partis politiques, des entreprises ou des associations. Leurs objectifs sont différents : informer, vendre, convaincre, manipuler ou [faire peur]{.underline}. Ils diffusent parfois des fausses nouvelles pour atteindre leurs objectifs.
+
+Ensuite, il est essentiel d'identifier la source d'une information qu'on trouve sur les réseaux sociaux. Par exemple si un twittos donne une information ou parle d'un chiffre qu'il a lu sur un site, il faut vérifier l'information en allant sur ce site et en identifiant les objectifs de ce site. Il est aussi intéressant de comparer comment une information est diffusée par plusieurs médias. Enfin, il est nécessaire de savoir quand les faits se sont produits. Par exemple, une photo ancienne, retouchée ou [prise sur un autre lieu]{.underline} peut avoir été choisie pour illustrer un article ou un post qui diffuse de fausses informations. Les titres sous les photos et la date de publication d'un article peuvent apporter des [renseignements]{.underline} sur la véracité de l'information.
+
+:::
+
+
+::: {.fs-5}
+
+a. D'après l'article, pourquoi est-ce important de savoir qui est l'auteur d'un article ?  
+   👉 [Parce-que savoir de l'auteur d'un article peut aider informer les lectateurs si les information dans l'article sont vrais ou fausses.]{.fst-italic} 
+
+b. Comment peut-on apprendre beaucop sur la qualité d'une information ?  
+   👉 [Distinguer les sources des informations ou des médias.]{.fst-italic}
+
+c. D'après l'article, quels sont les objectifs des sites d'information ?  
+👉 [Les objectifs vérifient: informer, vendre, convaincre, manipuler ou faire peur, et parfois diffuser les fake news. ]{.fst-italic}
+
+d. D'après l'article, quel est le moyen de vérifier l'authenticité d'une information ?  
+   👉 [Par identifier la source d'une information.]{.fst-italic}
+
+e. Qu'est-ce qui peut être aussi intéressant quand on lit une information ?  
+   👉 [Comparer comment une information est diffusée par plusieurs médias.]{.fst-italic}
+
+f. Pourquoi faut-il méfier[^xb] des images qui sont diffusées ?  
+   👉 [Parce-que des images peuvent être retouchés ou être prisés aux différents lieux pour d'autres articles ou pour des posts qui diffusent de fausses informations.]{.fst-italic}
+
+[^xb]: méfier = se montrer prudent, ne pas faire confiance facilement.
+
+:::
+
+:::{.callout-tip collapse="true" title="Corrections"}
+
+**a.** Idée **correcte**. Corrections de langue : « Parce **que** » (sans trait d'union), « savoir **qui est** l'auteur », « aider **à** informer », « les **lecteurs** », « les **informations** sont **vraies** ou fausses ». L'article insiste surtout sur la **crédibilité** de l'auteur : est-il spécialiste du sujet ? a-t-il déjà publié ?
+
+**b.** **Correct**. L'idée : la qualité dépend du **média / de la source** qui diffuse l'information. Mieux formulé : « En identifiant et en distinguant les sources et les médias. »
+
+**c.** Contenu **correct**, mais « Les objectifs **vérifient** » n'a pas de sens → « Les objectifs **sont** : informer, vendre, convaincre, manipuler ou faire peur. » (Diffuser de fausses nouvelles est un *moyen*, pas un objectif.)
+
+**d.** Correct mais **incomplet**. Écrire « **En identifiant** la source » (et non « Par identifier »). L'article cite aussi : vérifier **quand les faits se sont produits** et comparer plusieurs médias.
+
+**e.** **Correct** — réponse conforme à l'article.
+
+**f.** Idée **correcte**. Corrections : « Parce **que** », « retouché**es** », « pris**es** », « **dans d'autres lieux** » (et non « aux différents lieux »). On peut ajouter que la photo peut aussi être **ancienne**.
+
+:::
+
+<br>
+
+::::
+
+
+### Ex. 7
+
+::: {.callout-note collapse="true" title="Transcription — Doc 62"}
+:::: {.fs-5}
+
+**Exemple.** Si le journalisme indépendant était menacé, ce serait une catastrophe pour la véracité de l'information. [→ Faire une hypothèse]{.fst-italic .text-primary .fw-bold}
+
+**A.** Le spécialiste a expliqué que les fausses informations seraient de plus en plus difficiles à détecter. [→ Rapporter au discours indirect]{.fst-italic .text-primary .fw-bold}
+
+**B.** Le ministre de l'Éducation serait très intéressé par l'introduction d'un programme d'éducation aux médias dans les écoles. [→ Donner une information non vérifiée]{.fst-italic .text-primary .fw-bold}
+
+**C.** Vous devriez faire attention à toutes les fausses nouvelles qui circulent sur ce sujet. [→ Conseiller]{.fst-italic .text-primary .fw-bold}
+
+**D.** D'après la rumeur, l'intelligence artificielle permettrait de détecter des images retouchées. [→ Donner une information non vérifiée]{.fst-italic .text-primary .fw-bold}
+
+**E.** Le directeur du journal voudrait publier cet article dans l'édition de demain. [→ Exprimer un désir ou un souhait]{.fst-italic .text-primary .fw-bold}
+
+**F.** Attention ! Sur l'autoroute A6, il y aurait deux camions accidentés et la circulation serait ralentie. [→ Donner une information non vérifiée]{.fst-italic .text-primary .fw-bold}
+
+**G.** S'il y avait des avatars pour toutes les personnes publiques, le risque de fausses informations serait plus important. [→ Faire une hypothèse]{.fst-italic .text-primary .fw-bold}
+
+**H.** La direction de la chaîne a précisé que le reportage sur les algorithmes serait diffusé lundi. [→ Rapporter au discours indirect]{.fst-italic .text-primary .fw-bold}
+
+::::
+:::
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_CA_AUDIO/INSP3_CA_Piste62.mp3" type="audio/mpeg">
+</audio>
+
+
+### Ex. 10 : dictée
+
+::: {.callout-note collapse="true" title="Transcription — Doc 63"}
+:::: {.fs-5}
+
+**A.** Les fausses nouvelles se répandent rapidement, bien qu'elles soient souvent démenties.
+
+**B.** L'intelligence artificielle permet de détecter les images retouchées.
+
+**C.** La télévision utiliserait bientôt des présentateurs virtuels.
+
+**D.** L'information sur les nouveaux algorithmes a rencontré un écho dans la presse.
+
+**E.** Un incendie se serait déclaré en fin d'après-midi.
+
+**F.** D'après la chaîne d'information, le gouvernement devrait démentir l'utilisation d'algorithmes de reconnaissance des visages dans les hôpitaux.
+
+::::
+:::
+
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_CA_AUDIO/INSP3_CA_Piste63.mp3" type="audio/mpeg">
+</audio>
+
+
+## Communiquer
+
+### Ex. 11
+
+Lisez cet article. Que pensez-vous de l'utilisation de l'intelligence artificielle pour présenter l'actualité ? Laisez un commentaire sur le site du journal.
+
+:::{.column .bg-blue .text-center .pt-2 .lh-1 width="100%"}
+
+[La première présentatrice virtuelle vient d'apparaître à la télé en Corée du Sud]{.fw-bold .fs-5}
+:::
+
+La chaîne sud-coréenne MBN vient de présenter sa première animatrice de télévision virtuelle, IA Kim, une grande nouvelle dans le pays. La journaliste virtuelle a été créée [à patir d]{.fw-bold}'une personne réelle, la présentatrice Kim Ju-ha qui travaille [elle aussi]{.underline}[^da] pour la chaîne MBN. Une copie parfaite de l'animatrice [en chair et en os]{.underline}[^db], l'IA Kim s'est présentée : « J'ai été créée grâce à l'apprentissage de dix heures de vidéo de Kim Ju-ha. J'ai appris les détails de sa voix, la façon dont elle parle, les expressions de son visage. Je suis capable de parler de l'actualité exactement comme la présentatrice Kim Ju-ha le ferait. » L'IA a copié le ton de la présentatrice humaine. Elle a également reproduit ses gestes. L'objectif de ces présentateurs virtuels  de JT est de permettre à des chaînes de télévision de diffuser des informations 24 heures sur 24, 7 jours sur 7 quand les vrais présentateurs se reposent ou sont malades. Dans un avenir proche, l'actualité pourrait être présentée par des avatars.
+
+[^da]: Notez que « elle aussi » = « elle également », le pronom « elle » est un pronom tonique pour, comme en anglais "she too".
+[^db]: « en chair et en os » = « une personne réelle, pas virtuelle », la chair = le corps, l'os (n.m.) = le squelette
+
+
+
+:::{.callout-note}
+
+#### ✍️ la réponse
+
+Est-ce une bonne idée d'avoir des informations en continue 24 heurs sur 24, 7 hours sur 7 ? Ne Somme pas nous déjà surchargés par l'infobésité? À mon avis, nous n'avons pas besoins d'une autre source à surcharger nos cerveaux. En plus, c'est les connexions réels et humains qui manquent dans une société hyper connectée. L'IA pourrait remplace une présentatrice humaine de diffuser les informations, mais il ne peut pas communiquer les émotions réelles en spontanée. Enfin, posons-nous des questions « pourquoi ou pour qui l'entreprise va remplacer la présentatrice avec l'IA ? Est-ce que c'est pour gagner plus d'argent our pour améliorer les expériances des spectateurs ? » Pour moi, le meilleur experiance c'est toujours avec une représentatrice humaine.
+
+<br>
+
+::: {.callout-tip collapse="true" title="corriger"}
+
+**Ton texte :**
+
+> Est-ce une bonne idée d'avoir des informations [en continue]{.mark} [24 heurs sur 24, 7 hours sur 7]{.mark} ? [Ne Somme pas nous]{.mark} déjà surchargés par l'infobésité? À mon avis, nous n'avons pas [besoins]{.mark} d'une [autre source à surcharger]{.mark} nos cerveaux. [En plus]{.mark}, [c'est]{.mark} les connexions [réels et humains]{.mark} qui manquent dans une société [hyper connectée]{.mark}. L'IA pourrait [remplace]{.mark} une présentatrice humaine [de]{.mark} diffuser les informations, mais [il]{.mark} ne peut pas communiquer les émotions réelles [en spontanée]{.mark}. Enfin, [posons-nous des questions]{.mark} « pourquoi [ou]{.mark} pour qui l'entreprise [va remplacer]{.mark} la présentatrice [avec]{.mark} l'IA ? Est-ce que c'est pour gagner plus d'argent [our]{.mark} pour améliorer les [expériances]{.mark} des spectateurs ? » Pour moi, [le meilleur experiance c'est toujours avec]{.mark} une [représentatrice]{.mark} humaine.
+
+**Version corrigée :**
+
+> Est-ce une bonne idée d'avoir des informations [en continu]{.mark}, [24 heures sur 24, 7 jours sur 7]{.mark} ? [Ne sommes-nous pas]{.mark} déjà surchargés par l'infobésité ? À mon avis, nous n'avons pas [besoin]{.mark} d'une [source supplémentaire qui surcharge]{.mark} nos cerveaux. [De plus]{.mark}, [ce sont]{.mark} les connexions [réelles et humaines]{.mark} qui manquent dans une société [hyperconnectée]{.mark}. L'IA pourrait [remplacer]{.mark} une présentatrice humaine [pour]{.mark} diffuser les informations, mais [elle]{.mark} ne peut pas communiquer les émotions réelles [spontanément]{.mark}. Enfin, [posons-nous la question]{.mark} : « pourquoi [et]{.mark} pour qui l'entreprise [va-t-elle remplacer]{.mark} la présentatrice [par]{.mark} l'IA ? Est-ce que c'est pour gagner plus d'argent [ou]{.mark} pour améliorer les [expériences]{.mark} des spectateurs ? » Pour moi, [la meilleure expérience se fait toujours avec]{.mark} une [présentatrice]{.mark} humaine.
+
+**Explications :**
+
+- **« Ne Somme pas nous » → « Ne sommes-nous pas »** : dans une question par inversion, le pronom sujet se place après le verbe et s'y relie par un trait d'union.
+- **« besoins » → « besoin »** : dans la locution *avoir besoin de*, le mot « besoin » reste toujours au singulier.
+- **« une autre source à surcharger nos cerveaux » → « une source qui surcharge »** : « à + infinitif » ne convient pas ici ; il faut une proposition relative (« qui surcharge ») ou un but (« pour surcharger »).
+- **« En plus » → « De plus »** : « En plus » est familier ; à l'écrit on préfère « De plus » pour enchaîner un argument.
+- **« c'est les connexions » → « ce sont les connexions »** : devant un nom pluriel, on emploie « ce sont » et non « c'est ».
+- **« pourrait remplace » → « pourrait remplacer »** : après un verbe conjugué (ici « pourrait »), le second verbe se met à l'infinitif.
+- **« remplacer... de diffuser » → « pour diffuser »** : pour exprimer le but, on utilise « pour + infinitif ».
+- **« en spontanée » → « spontanément »** : il faut un adverbe pour modifier le verbe, pas « en + adjectif ».
+- **« remplacer... avec l'IA » → « par l'IA »** : la construction correcte est *remplacer X par Y*.
+- **« va remplacer » → « va-t-elle remplacer »** : dans une question directe, on inverse le sujet (« -t-elle »).
+- **« représentatrice » → « présentatrice »** : une *représentatrice* est une déléguée / commerciale ; celle qui présente le journal est une *présentatrice*.
+
+:::
+
+:::
+
+
+
+# Unité 7 Bilan
+
+## Ex. 1
+
+::: {.callout-note collapse="true" title="Transcription — Doc 65"}
+:::: {.fs-5}
+
+[L'animatrice :]{.fw-bold .text-green}  Bonjour à toutes et tous, bienvenue dans notre émission _C'est demain_. Aujourd'hui, les moyens de s'informer se sont multipliés. On s'informe quand on veut, où on veut et comme on veut. Grâce à Internet, on peut tous diffuser de l'information et avoir un public de followers. C'est pourquoi il devient difficile de faire la différence entre les professionnels et les amateurs, entre l'actualité sérieuse et le divertissement, entre l'information et la communication, avec le risque d'être manipulé. Quelles sont les conséquences sur le contenu de l'information ? Nous allons en parler avec notre invité Frédéric Filou, responsable du numérique aux _Échos_.
+
+[L'animatrice :]{.fw-bold .text-green}  Frédéric Filou, tout le monde utilise les réseaux sociaux pour s'informer. Alors, est-ce qu'ils sont devenus les premiers diffuseurs de l'information ?
+
+[Frédéric Filou :]{.fw-bold .text-orange}  Oui, les réseaux sociaux sont devenus les premiers diffuseurs de l'information. Et c'est en les utilisant que les médias classiques diffusent le plus leurs informations. Aujourd'hui, il n'est plus nécessaire d'attendre le journal télévisé de 20 heures pour être informé. Au XXIe siècle, l'information est accessible en continu, à tout moment et en tout lieu, grâce à Internet. Facebook est devenu la principale source d'information. Le problème, c'est qu'il y a des règles à respecter pour diffuser sur les réseaux sociaux. Par exemple, si on propose une information, il faut y mettre de l'émotion. Les médias vont donc sélectionner des articles qui provoquent une émotion, parce que c'est grâce à l'émotion qu'on a envie de partager. Aujourd'hui, c'est la popularité d'un sujet qui fait son succès. On privilégie ce qui peut être partagé rapidement et on élimine les informations qui demandent plus de temps de lecture ou de réflexion. Les réseaux sociaux ne favorisent pas la qualité de l'information.
+
+[L'animatrice :]{.fw-bold .text-green}  Il faut donc être un peu rusé pour détecter les fausses informations dans toute cette diffusion ?
+
+[Frédéric Filou :]{.fw-bold .text-orange}  Non, je ne pense pas. J'explique dans mon dernier livre, _Se former et s'informer sur le net_, comment des influenceurs ayant une expertise dans des domaines pourraient nous y aider. On oublie souvent que…
+
+::::
+:::
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_CA_AUDIO/INSP3_CA_Piste65.mp3" type="audio/mpeg">
+</audio>
+
+
+
+
+
+

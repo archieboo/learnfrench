@@ -1,0 +1,170 @@
+---
+title: "2026-07-06 Inspire Leçon 28"
+date: "2026-07-06"
+categories: ["B1", "unite7", "se enseigner"]
+reference-location: document # margin, block, section, document
+citation-location: document #margin
+image: "https://images.unsplash.com/photo-1561491431-71b89da6056a?q=80&w=640"
+---
+
+# Leçon 28 : Techniques pour... 
+
+
+## Doc1 ...écrire un fait divers  
+
+### Découverte de deux trésors à Morez
+
+[La municipalité de Morez dans le Jura a trouvé deux trésors dans un maison qu'elle avait achetée dans le centre-ville : après la découverte de lingots et de pièces d'or en mars 2020, une deuxième trouvaille similare vient d'être annoncée par le marie.]{.text-blue .fw-bold .fst-italic}
+
+Située [en plein]{.underline} centre-ville, la « maison Jobez », bien [conue des]{.underline} Moreziens, [appartenait à]{.underline} des commerçants. [Suite à]{.underline} la morte des derniers descendants, la ville avait acquis la maison en janvier 2020. 
+
+C'est en débarrassant[^aa] les lieux, au printemps dernier, que les élus et le personnel municipal ont fait une [fabuleuse]{.underline} découverte : en vidant une armoire, ils ont trouvé, dans des vieilles boîtes, 5 lingots[^ab] d'or et plus de 1 000 pièces de vingt francs en or[^ac], [d'une valeur]{.fw-bold .text-info} estimée à plus [de]{.fw-bold .text-info} 500 000 euros.
+
+Mais l'histoire ne s'arrête pas là : ce mercredi 14 avril, pendant le conseil municipal, le maire a annoncé la découverte d'un deuxième trésor au même endroit ! [Lors des]{.fw-bold} travaux d'isolation de la cave, un coffre-fort[^ad] a été [retrouvé]{.underline} et, à l'intérieur, une pochette[^ae] contenant des [pièces en or]{.underline} : 480 pièces de vingt francs, 50 pièces de dix francs et une pièce de cent francs, d'une valeur totale de 100 000 à 150 000 euros.
+
+Les deux trésors ont été placés en lieu sûr, en attendant que la ville de Morez récupère[^af] le montant[^ag] de leur vente.
+
+[^aa]: débarrasser : nettoyer, enlever les objets inutiles
+[^ab]: lingot : bloc d'or ou d'argent pur, de forme rectangulaire, utilisé pour le commerce et l'investissement
+[^ac]: vingt francs en or : pièce de monnaie française en or, d'une valeur de 20 francs
+[^ad]: coffre-fort : armoire ou boîte métallique sécurisée, utilisée pour protéger des objets de valeur
+[^ae]: pochette : petit sac ou enveloppe, souvent utilisé pour contenir des objets précieux ou des documents importants
+[^af]: récupérer : obtenir ou reprendre quelque chose qui appartient à soi
+[^ag]: montant : somme d'argent, total d'une transaction ou d'une vente
+
+
+:::{.callout-tip}
+#### Pour écrire un fait divers
+
+::::{.fs-6 .lh-sm}
+- **Rédiger le titre sous forme nominale**  
+  [Découverte de deux trésors à Morez]{.fst-italic .text-secondary}  
+  [Accident... ; Cambriolage... ; Incendie...]{.fst-italic .text-secondary}
+- **Résumer l'information principale dans le chapeau**  
+  [La municipalité de Morez dans le Jura a trouvé [...], une deuxième trouvaille similare vient d'être annoncée par le marie.]{.fst-italic .text-secondary}  
+- **Répondre aux questions : Où ? Quand ? Qui ? Quoi ? Comment ? Dans quelles circonstances ?**  
+- **Rédiger le fait divers de manière chronologique et donner des indications de temps précises**  
+  [en janvier 2020 ; au printemps dernier ; ce mercredi 14 avril]{.fst-italic .text-secondary}  
+- **Expliquer les causes de l'événement**  
+  [Suite à la morte des derniers descendants, la ville avait acquis la maison en janvier 2020.]{.fst-italic .text-secondary}  
+- **Indiquer les suites de l'événement**  
+  [Les deux trésors ont été placés en lieu sûr]{.fst-italic .text-secondary}  
+- **Mettre en valeur certaines informations**  
+  [C'est en débarrassant les lieux, au printemps dernier, que les élus et le personnel municipal ont fait une fabuleuse découverte]{.fst-italic .text-secondary}
+
+::::
+:::
+
+
+## Doc2 ...la médiation : prendre des notes
+
+::: {.callout-note collapse="true" title="Transcription — Doc 109"}
+
+**Julie :** Bonjour Sacha, ici Julie Berthaud. Tu peux prendre des notes ?
+
+**Sacha :** Bonjour Julie. Oui, je t'écoute.
+
+**Julie :** Il faudrait ajouter l'info au flash de Deezer, ok ?
+
+**Sacha :** Ok, c'est noté.
+
+**Julie :** Voilà ce que je sais. Il s'agit d'un jeune homme de 17 ans, lycéen à Reims. Il devait passer son bac de français. Il est parti en train de Paris et a oublié de descendre à Reims. Quand il s'est aperçu de son erreur, complètement paniqué, il a prévenu le contrôleur du train. La SNCF a mis à sa disposition un taxi à son arrivée en gare de Nancy pour le conduire à son centre d'examen. Le chauffeur a roulé à toute à l'heure pour permettre au jeune d'arriver à l'heure. J'ai eu une interview du chauffeur. Le taxi s'est fait arrêter par les gendarmes pour excès de vitesse. Et c'est finalement eux qui ont conduit le jeune homme au centre d'examen où il a pu passer son épreuve.
+
+:::
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_LE_AUDIO/INSP3_LE_Piste109.mp3" type="audio/mpeg">
+</audio>
+
+
+## Doc3
+
+::: {.callout-note collapse="true" title="Transcription — Doc 110"}
+
+**École :** Bonjour, École de journalisme de Bordeaux, je vous écoute.
+
+**Candidat :** Bonjour, monsieur. J'aimerais obtenir des informations sur votre master de journalisme.
+
+**École :** Alors, il se fait en deux ans et il est accessible sur concours. Il y a une partie théorique et une partie pratique, puisqu'on propose deux stages pendant la période d'études.
+
+**Candidat :** Combien de temps durent les stages ?
+
+**École :** Le premier est un stage court de 2 mois, non rémunéré. Le second est un stage plus long qui se déroule de mai à août. Il dure 4 mois. Le salaire, enfin, je veux dire l'indemnité de stage, est en général d'environ 600 euros par mois.
+
+**Candidat :** D'accord. Et quel est le tarif de l'école ?
+
+**École :** Il faut compter 6 000 euros par an.
+
+**Candidat :** Et dites-moi, que faut-il faire pour s'inscrire ?
+
+**École :** Vous envoyez votre dossier via notre site. Nous faisons une première sélection. Si vous êtes retenu, nous vous convoquerons à un concours. On a en général 500 demandes pour 40 places disponibles.
+
+**Candidat :** Ah, c'est très sélectif.
+
+**École :** Oui, mais vous avez des modules d'entraînement sur notre site. N'hésitez pas à les consulter.
+
+**Candidat :** Merci beaucoup pour toutes ces informations. Je vais préparer mon dossier.
+
+**École :** Je vous en prie. Bonne journée.
+
+**Candidat :** Bonne journée. Au revoir.
+
+:::
+
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_LE_AUDIO/INSP3_LE_Piste110.mp3" type="audio/mpeg">
+</audio>
+
+
+
+# Faites le point
+
+## Expression utiles
+
+:::{.columns}
+
+:::::{.column .callout-important .lh-sm width="48%" icon="false"}
+#### Exprimer un objectif
+
+- Il y a les reporters qui vont sur le terrain afin de vérifier l'authenticité des informations
+
+:::::
+
+:::::{.column width="2%"}
+:::::
+
+:::::{.column .callout-important .lh-sm width="48%" icon="false"}
+#### Animer un débat
+
+- Si vous le voulez bien, nous allons commencer.
+:::::
+
+:::
+
+:::{.columns}
+
+:::::{.column .callout-important .lh-sm width="48%" icon="false"}
+#### Alerter sur les risques d'une pratique
+
+- Les notifications sur nos téléphones conduisent à des troubles de la concentration.
+
+:::::
+
+:::::{.column width="2%"}
+:::::
+
+:::::{.column .callout-important .lh-sm width="48%" icon="false"}
+#### Réagir à une situation ou une affirmation
+
+- Tout à fait d'accord avec ce que dit David.
+:::::
+
+:::
+
+
+
+
+
+
+
