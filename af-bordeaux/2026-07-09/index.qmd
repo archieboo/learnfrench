@@ -9,9 +9,6 @@ image: "https://images.unsplash.com/photo-1642211841112-2beeda7bfc07?q=80&w=640"
 
 # Why French Sometimes Feels Surprisingly Chinese
 
-
-[Co-wrote with AI]{.text-secondary .fst-italic}
-
 As a native Chinese speaker who learned English to a near-native level before studying French, I found myself noticing something unexpected: although French and Chinese are two radically different languages, they often seem to organize meaning in remarkably similar ways. I was even tempted to think that the people behind the two languages perhaps share a similar philosophy and way of thinking about the world.
 
 This is not a claim that French is “closer” to Chinese linguistically. It is not. French belongs to the Romance family, while Chinese belongs to the Sino-Tibetan family. Rather, the similarity lies in what I can only describe as a shared philosophy of expression: both languages frequently extend a single concrete image into a rich network of related meanings. English certainly does this too, but it often seems to prefer another strategy—creating or favoring a different lexical item where French and Chinese are content to stretch an existing one.
