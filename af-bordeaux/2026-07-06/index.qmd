@@ -129,7 +129,9 @@ Les deux trésors ont été placés en lieu sûr, en attendant que la ville de M
 #### Exprimer un objectif
 
 - Il y a les reporters qui vont sur le terrain afin de vérifier l'authenticité des informations
-
+- Il cherchent à révéler des informations inconnues.
+- On doit reprendre aux doutes du public qu'il y ait échanges d'idées.
+- Pour éviter de tomber dans ce piège de l'infobécité, acceptez de renoncer à tout savoir.
 :::::
 
 :::::{.column width="2%"}
@@ -139,6 +141,10 @@ Les deux trésors ont été placés en lieu sûr, en attendant que la ville de M
 #### Animer un débat
 
 - Si vous le voulez bien, nous allons commencer.
+- L monsieur là, qui léve la main, par exemple:  
+  allez-y, ouvrez le débat.
+- Je vous en prie, madame, prenez la micro.
+- allez-y monsieur.
 :::::
 
 :::
@@ -149,6 +155,8 @@ Les deux trésors ont été placés en lieu sûr, en attendant que la ville de M
 #### Alerter sur les risques d'une pratique
 
 - Les notifications sur nos téléphones conduisent à des troubles de la concentration.
+- cela peut avoir des répercussion physiques, émotionnelles et intellectuelles (stress, fatique, cyberdépendance, perte de mémoire, altération du jugement, dégradation du sommeil)
+- L'infobécité est accrue par la satuation de mails et la multiplication des outils de connexion.
 
 :::::
 
@@ -159,6 +167,12 @@ Les deux trésors ont été placés en lieu sûr, en attendant que la ville de M
 #### Réagir à une situation ou une affirmation
 
 - Tout à fait d'accord avec ce que dit David.
+- Personnellement, je pense que ce métier est beaucoup plus difficile à excercer aujourd'hui.
+- Dis donc, tu n'arrêtes pas de recevoir des notifications !
+- Il ne faut peut-être pas exagérer !
+- Je ne vois pas en quoi c'est un problème !
+- C'est n'importe quoi !
+- Détrompe-toi !
 :::::
 
 :::

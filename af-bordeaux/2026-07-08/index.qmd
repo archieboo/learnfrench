@@ -1,0 +1,218 @@
+---
+title: "2026-07-08 Inspire Leçon 29"
+date: "2026-07-08"
+categories: ["B1", "unite8", "se enseigner"]
+reference-location: document # margin, block, section, document
+citation-location: document #margin
+image: "https://images.unsplash.com/photo-1642211841112-2beeda7bfc07?q=80&w=640"
+---
+
+
+# Leçon 29 : Parler des changements climatiques
+
+## Une petite vidéo
+
+{{< video https://vimeo.com/668929129 >}}
+
+## Doc2
+
+
+::: {.callout-note collapse="true" title="Transcription — Doc 120"}
+
+Un rapport d'experts présenté ce jour révèle que les vagues de chaleur de ces dernières années n'auraient pas été si fortes si les activités humaines n'avaient pas été aussi [importantes]{.underline}.
+
+Météo France et l'Institut Pierre-Simon Laplace ont présenté les [relevés]{.underline} des températures depuis 1947 en France, en Allemagne, aux Pays-Bas et au Royaume-Uni. Ils montrent des températures extrêmes ces dernières années. En effet, à Paris par exemple, il a fait 42,6 degrés le 25 juillet 2019 contre 40,4 degrés en 1947 qui représentait le précédent record de chaleur.
+
+C'est avec la canicule de 2003 que les experts ont [pris conscience de]{.underline} ces vagues de chaleur. D'après le rapport, si le climat n'avait pas été modifié par les activités humaines, la canicule qui [s'est abattue sur]{.underline} plusieurs pays d'Europe en 2019 aurait été de 1,5 à 3 degrés moins chaude.
+
+Les chercheurs veulent interpeller le grand public. Ils soulignent que les États ne semblent pas mesurer l'urgence de la situation et précisent que les accords de Paris, qui [visent à contenir]{.underline} le réchauffement planétaire en dessous de 2 degrés, ne sont pas respectés par les pays qui en sont pourtant membres.
+
+:::
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_LE_AUDIO/INSP3_LE_Piste120.mp3" type="audio/mpeg">
+</audio>
+
+## Doc3
+
+
+::: {.callout-note collapse="true" title="Transcription — Doc 121"}
+
+[Lucas :]{.fw-bold .text-primary} Ah, [qu'est-ce qu'il fait chaud]{.underline} ! On n'en peut plus. T'as entendu ? Ils prévoient 38 et même 40 degrés la semaine prochaine. Et on est seulement en juin !
+
+[Mamie :]{.fw-bold .text-danger} Oui, j'ai entendu ça. C'est de pire en pire. Il ne faisait pas si chaud quand j'étais jeune.
+
+[Lucas :]{.fw-bold .text-primary} Tu dis toujours que c'était mieux avant.
+
+[Mamie :]{.fw-bold .text-danger} Mais c'est vrai, tu [ne te rends pas compte]{.fw-bold}. Regarde, un peu partout dans le monde, il y a des tornades, des incendies de forêt, des inondations. Et même ici, en France, il y a de plus en plus de sécheresse. Et on est obligé de mettre en place des restrictions d'eau et de réduire l'arrosage des champs.
+
+[Lucas :]{.fw-bold .text-primary} Tu sais, moi, j'ai toujours connu ça.
+
+[Mamie :]{.fw-bold .text-danger} Je sais bien. En fait, ça fait des années qu'on aurait dû agir. Les scientifiques ont commencé à nous alerter dans les années 70. Ils disaient qu'il fallait limiter [les gaz à effet de serre]{.underline}.
+
+[Lucas :]{.fw-bold .text-primary} Et qu'est-ce que vous avez fait ?
+
+[Mamie :]{.fw-bold .text-danger} Eh bien, en fait, on ne les a pas [pris au sérieux]{.underline}. C'était un peu pareil pour tout le monde. On ne parlait pas vraiment d'écologie à l'époque. Moi, j'avais 20 ans et je reconnais que ça ne m'intéressait pas beaucoup.
+
+[Lucas :]{.fw-bold .text-primary} Je trouve ça fou. Tu sais, mamie, c'est pas contre toi, mais puisque vous saviez, il aurait fallu faire quelque chose. Vous auriez pu penser aux générations futures. On n'en serait pas là aujourd'hui.
+
+[Mamie :]{.fw-bold .text-danger} C'est vrai. Je regrette sincèrement, Lucas. Je sais qu'on aurait dû consommer moins, [se montrer]{.underline} plus responsable. Et puis, si les grandes industries avaient réduit leur activité, ou au moins, si elles avaient produit de façon plus raisonnée, ça aurait réduit la pollution. On a tous pris de mauvaises habitudes.
+
+[Lucas :]{.fw-bold .text-primary} Oui, bon, mais d'un autre côté, la vie est plus facile que quand tu étais jeune.
+
+[Mamie :]{.fw-bold .text-danger} Tu dis ça pour être gentil, mais je sais bien que si on avait fait ce qu'il fallait, on respirerait mieux aujourd'hui.
+
+:::
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_LE_AUDIO/INSP3_LE_Piste121.mp3" type="audio/mpeg">
+</audio>
+
+
+
+# Grammaire
+
+## L'hypothèse et le conditionnel
+
+:::{.marksilver}
+
+- Pour exprimer une [hypothèse sur le passé]{.fw-bold .text-blue} avec un [consèquence dans le passé]{.fw-bold .text-red}, on utilise :  
+  [si]{.fw-bold .text-red} + [plus-que-parfait]{.fw-bold .text-blue} + [conditionnel passé]{.fw-bold .text-red}  
+  _[Ex.]{.fw-bold} : [Si]{.fw-bold .text-red} le climat n'[avait]{.fw-bold .text-blue} pas [été modifié]{.fw-bold .text-blue} par les activités humaines, la canicule [aurait été]{.fw-bold .text-red} de 1,5 à 3 degrés moins chaude._
+
+- Pour exprimer une [hypothèse sur le passé]{.fw-bold .text-blue} avec une [conséquence dans le présent]{.fw-bold .text-orange}, on utilise :  
+  [si]{.fw-bold .text-red} + [plus-que-parfait]{.fw-bold .text-blue} + [conditionnel présent]{.fw-bold .text-orange}  
+  _[Ex.]{.fw-bold} : [Si]{.fw-bold .text-red} on [avait fait]{.fw-bold .text-blue} ce qu'il fallait, on [respirerait]{.fw-bold .text-orange} mieux aujourd'hui._
+
+- Pour exprimer une [hypothèse sur le présent]{.fw-bold .text-green} :  
+  [si]{.fw-bold .text-red} + [imparfait]{.fw-bold .text-green} + [conditionnel présent]{.fw-bold .text-orange}  
+  _[Ex.]{.fw-bold} : [Si]{.fw-bold .text-red} nous [agissions]{.fw-bold .text-green} vraiment pour l'environnement, le climat [arrêterait]{.fw-bold .text-orange} de se dégrader._
+
+:::
+
+
+:::{.marksilver}
+
+#### Le conditionnel passé
+
+Formation : [avoir ou être au conditionnel présent]{.fw-bold .text-pink} + [participe passé]{.fw-bold .text-pink}
+
+[Ex.]{.fw-bold .fst-italic} :  
+_On [aurait dû]{.fw-bold .text-pink}_ ...  
+_Je [serais allé]{.fw-bold .text-pink}_ ...
+
+:::
+
+
+### Ex. 1
+
+
+::: {.callout-note collapse="true" title="Transcription — Doc 127"}
+
+**Exemple :** Elle aurait modifié.
+
+a. On avait eu.
+b. Elle se serait trompée.
+c. Nous aurions fait.
+d. Ils avaient pris.
+e. Nous nous serions engagés.
+f. J'aurais pu.
+g. Tu avais mis.
+h. Elles auraient dû.
+i. Vous auriez protesté.
+j. On serait parti.
+
+:::
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_LE_AUDIO/INSP3_LE_Piste127.mp3" type="audio/mpeg">
+</audio>
+
+
+# Vocabulaire
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_LE_AUDIO/INSP3_LE_Piste128.mp3" type="audio/mpeg">
+</audio>
+
+:::{.marksilver}
+[L'écologie : ]{.fw-bold}  
+- la biodiversité
+- un écosystème
+:::
+
+:::{.marksilver}
+[Les problèmes écologiques : ]{.fw-bold}  
+- l'appauvrissement (m.) de la couche d'ozone  
+- les changements (m.) climatiques  
+- la déforestation  
+- la dégradation de la qualité de l'air  
+- la désertification  
+- les gaz(m.) à effet de serre  
+- l'insuffisance (f.) de l'approvisionnement (m.) alimentaire  
+- le manque d'eau  
+- le réchauffement climatique  
+:::
+
+:::{.marksilver}
+[Les catastrophes naturelles : ]{.fw-bold}  
+- une canicule  
+- un incendie de forêt  
+- une inondation  
+- la sécheresse  
+- une tornade
+:::
+
+
+# Cahier d'activités
+
+## Ex. 4
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_CA_AUDIO/INSP3_CA_Piste66.mp3" type="audio/mpeg">
+</audio>
+
+## Ex. 8
+
+::: {.callout-note collapse="true" title="Transcription — CA Doc 67"}
+
+**Exemple :** Nous aurions dû être plus attentifs à l'évolution du climat.
+
+a. J'aurais voulu agir pour l'environnement plus tôt dans ma vie.
+b. Il aurait fallu prendre des mesures tous ensemble.
+c. Vous auriez dû venir à la manifestation pour le climat.
+d. Les dirigeants auraient pu réagir dès la fin des années 70, mais ils ne l'ont pas fait.
+e. Personne ne devrait ignorer les conséquences du changement climatique.
+f. Les tornades auraient fait plusieurs morts.
+g. Nous aurions dû faire confiance aux experts.
+
+:::
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_CA_AUDIO/INSP3_CA_Piste67.mp3" type="audio/mpeg">
+</audio>
+
+## Ex. 9
+
+::: {.callout-note collapse="true" title="Transcription — CA Doc 68 (dictée)"}
+
+a. Il aurait fallu s'engager tous ensemble pour le climat.
+b. Si la déforestation s'était arrêtée, la situation ne se serait pas dégradée.
+c. La perte de la biodiversité est une catastrophe pour l'avenir de la planète.
+d. La canicule est de plus en plus fréquente dans nos villes.
+e. Si des décisions avaient été prises plus tôt pour le climat, nous aurions pu nous adapter.
+f. Nos dirigeants auraient dû agir beaucoup plus tôt.
+
+:::
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_CA_AUDIO/INSP3_CA_Piste68.mp3" type="audio/mpeg">
+</audio>
+
+
+
+
+
+
+
+
