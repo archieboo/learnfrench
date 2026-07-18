@@ -6,4 +6,6 @@ format:
     title-block-banner: true
     reference-location: document
     citation-location: document
+    margin-header: |
+      <a href="https://espacevirtuel.emdl.fr" target="_blank" style="font-size:0.85em;"><i class="bi bi-clouds-fill"></i> L'espace Virtuel</a>
 
