@@ -1,0 +1,248 @@
+---
+title: "Leçon 31: Agir pour l'avenir"
+date: "2026-07-16"
+categories: ["B1", "unite8", "autodidacte"]
+reference-location: document # margin, block, section, document
+citation-location: document #margin
+image: "https://images.unsplash.com/photo-1437622368342-7a3d73a34c8f?q=80&w=640"
+
+---
+
+
+
+# Doc2
+
+::: {.callout-note collapse="true" title="Transcription : les courses"}
+
+::::{.fs-5}
+
+[Alice : ]{.fw-bold .text-green} Tiens, y'a des tomates en promo, on pourrait en prendre pour l'apéro, non ?
+
+[Rémi : ]{.fw-bold .text-blue} Attends, on est en janvier, c'est pas du tout la saison.
+
+[Alice : ]{.fw-bold .text-green} Bon ok, d'accord. T'as une autre idée ?
+
+[Rémi : ]{.fw-bold .text-blue} On a qu'à prendre du saucisson.
+
+[Pierre : ]{.fw-bold .text-red} Prenez-en si vous voulez, moi j'en mangerai pas. Je vous rappelle que je suis végétarien. Je vous en ai parlé l'autre jour, vous vous souvenez ?
+
+[Rémi : ]{.fw-bold .text-blue} Oui, oui, inutile de nous le répéter.
+
+[Alice : ]{.fw-bold .text-green} Bon, ça va pas être fastoche.
+
+[Rémi : ]{.fw-bold .text-blue} Mais si, tu vas voir.
+
+[Alice : ]{.fw-bold .text-green} Bon, et pour le plat principal, vous avez une idée ?
+
+[Rémi : ]{.fw-bold .text-blue} Bah, moi j'aurais bien mangé de la viande, mais bon, j'ai compris que c'était pas ton truc, Pierre.
+
+[Alice : ]{.fw-bold .text-green} Attends, y'a des steaks végétariens, t'en mangeras.
+
+[Pierre : ]{.fw-bold .text-red} Oui, pas de problème.
+
+[Rémi : ]{.fw-bold .text-blue} Non, mais moi j'en mangerai pas, pas question. Si je mange un steak, je mange de la vraie viande.
+
+[Alice : ]{.fw-bold .text-green} Bon ben, je propose qu'on fasse autre chose parce qu'on va pas s'en sortir.
+
+[Rémi : ]{.fw-bold .text-blue} Et si on faisait des crêpes ? Chacun peut y mettre ce qu'il veut, non ?
+
+[Alice : ]{.fw-bold .text-green} Moi, des crêpes, je suis toujours d'accord.
+
+[Pierre : ]{.fw-bold .text-red} Ok, je vais chercher du lait, de la farine et des oeufs. Vous vous occupez du reste ?
+
+[Rémi : ]{.fw-bold .text-blue} Ça marche.
+
+[Alice : ]{.fw-bold .text-green} Tu mets quoi d'habitude sur tes crêpes ?
+
+[Rémi : ]{.fw-bold .text-blue} On peut prendre du fromage, du comté et un chèvre frais, ça te va ?
+
+[Alice : ]{.fw-bold .text-green} Et des champignons ?
+
+[Rémi : ]{.fw-bold .text-blue} Bonne idée, mais je sais pas si c'est de saison. Faudrait peut-être voir avec Pierre.
+
+[Alice : ]{.fw-bold .text-green} Ah non, ne le lui demande pas. C'est pas la peine. On a qu'à prendre une boîte. Je m'en occupe, tu regardes pour le reste.
+
+[Rémi : ]{.fw-bold .text-blue} Ok, j'ai pris les fromages et les champignons.
+
+[Alice : ]{.fw-bold .text-green} Donne-les-moi, je les mets dans le panier. Ah bah tiens, voilà Pierre.
+
+[Pierre : ]{.fw-bold .text-red} J'ai trouvé des oeufs de poule élevés en plein air. J'en ai pris en plus pour mettre sur les crêpes. J'ai pris de la salade aussi.
+
+[Alice : ]{.fw-bold .text-green} Hé Pierre, j'ai pris des chips de légumes pour l'apéro.
+
+[Pierre : ]{.fw-bold .text-red} Trop bien, merci.
+
+[Rémi : ]{.fw-bold .text-blue} Et vous avez pensé aux ingrédients pour les crêpes sucrées ? Citron, miel, confiture, pâte à tartiner. Ça te va ?
+
+[Alice : ]{.fw-bold .text-green} Top, on va les chercher.
+
+[Pierre : ]{.fw-bold .text-red} T'inquiète, Rémi me les a déjà données.
+
+[Pierre : ]{.fw-bold .text-red} Rémi, pour la pâte à tartiner, t'as vérifié qu'il n'y avait pas d'huile de palme ?
+
+[Alice : ]{.fw-bold .text-green} J'étais sûre que tu le lui demanderais.
+
+[Rémi : ]{.fw-bold .text-blue} Moi aussi. Regarde, c'est écrit sur l'étiquette « sans huile de palme ».
+
+[Alice : ]{.fw-bold .text-green} Cool ! Il reste plus qu'à passer en caisse.
+
+::::
+:::
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_LE_AUDIO/INSP3_LE_Piste124.mp3" type="audio/mpeg">
+</audio>
+
+------
+
+# Doc3
+
+Mais pourquoi les arbres ont-ils un [comportement]{.underline} social, pourquoi partagent-ils leur nouriture avec des congénères[^ba] [...]?
+Pour les même raisons que dans les sociétés humaines : à plusieurs, la vie est plus facile. Un arbre n'est pas une forêt, il ne peut pas [à lui seul]{.fw-bold} créer des conditions climatiques équilibrées, il [est livré]{.fw-bold .text-red} sans défense [au]{.fw-bold .text-red} vent et [à]{.fw-bold .text-red} la pluie.
+
+À plusieurs, [en revanche]{.fw-bold}[^bb], les arbres forment un écosystème qui modère les températures extrêmes, froides ou chaudes, emmagasine[^bc] de grandes quantités d'eau et augmente l'humilité atmosphérique. [Dans un tel environnement]{.fw-bold}, les arbres peuvent vivre en sécurité et [connaître une grande longévité]{.fw-bold}. Pour [maintenir]{.fw-bold}[^bd] cet idéal, la communauté doit [à tout prix]{.fw-bold} perdurer[^be]. [...]
+
+Chaque arbre est donc utile à la communauté et [**mérite d**'être maintenu en vie]{.underline}[^ca] aussi longtemps que possible. Même les éléments malades[^kk] sont soutenus et approvisionnés[^bf] en éléments nutritifs [jusqu'à ce qu]{.fw-bold}[^bg]'ils aillent mieux. [...]
+
+En réalité, c'est du degré de lien, voire d'empathie que dépend la serviabilité des collègues[^cf]. [...] Deux véritables amis [veillent d'emblée]{.underline}[^cg] à ne pas déployer de trop grosses branches en direction de l'autre. Pour ne pas [empiéter sur]{.underline}[^ch] le domaine du partenaire, chacun développe son houppier[^ci] vers l'extérieur. [...] Ces couples sont liés si intimement par leurs racines qu'ils meurent parfois en même temps.
+
+
+
+[^ba]: n.m., un animal ou une plant qui appartient à la même espèce
+[^bb]: n.m., en revanche, par contre, au contraire
+[^bc]: emmagasiner: faire des réserves
+[^bd]: maintenir: garder, conserver
+[^be]: perdurer: continuer à exister, durer
+[^bf]: approvisionner: fournir, alimenter
+[^bg]: jusqu'à ce que: [locution conjonctive]{.fst-italic} until ..., toujours suivie du subjonctif
+[^ca]: mériter de : avoir le droit de, être digne de
+[^cf]: Note the emphatic extraction structure ([c'est ... que ]{.fst-italic}). The twist is that what's emphasized are [du degré de lien]{.fst-italic},  and [d'empathie]{.fst-italic} 
+[^cg]: veiller à: faire attention à, prendre soin de; d'emblée: adv. dès le début, immédiatement
+[^ch]: empiéter sur: envahir, s'étendre sur le domaine de quelqu'un d'autre
+[^ci]: n.m., les branches situées au sommet du tronc d'un arbre
+[^kk]: [les éléments malades]{.fst-italic} signifie les arbres qui sont malades
+
+------
+
+# Vidéo : Biomimétisme
+
+{{< video https://vimeo.com/668936063 >}}
+
+:::{.callout-tip}
+#### Questions pour la vidéo
+
+- Listez les éspèces vivantes que vous voyez.
+- Qui est Kalina Raskin ?
+- Qu'est-ce que le biomimétisme ?
+- Qui est Tarik Chekchak ? Pourquoi parle-t-il d'économie circulaire ?
+- Quel produit a été créé à partir de l'observation des animaux ?
+- D'après les images, quelle autre propriété est testée dans le laboratoire ?
+- Quelles sont les promesses du biomimétisme sur le plan écologique ?
+
+:::
+
+------
+
+# Grammaire
+
+
+## Ex. 9
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_LE_AUDIO/INSP3_LE_Piste135.mp3" type="audio/mpeg">
+</audio>
+
+------
+
+# Vocabulaire
+
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_LE_AUDIO/INSP3_LE_Piste136" type="audio/mpeg">
+</audio>
+
+:::{.callout-important icon="false"}
+#### L'écologie
+
+- les conditions (f.) climatiques
+- l'huile de palme (f.)
+- l'humidité (f.) atmosphérique
+:::
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_LE_AUDIO/INSP3_LE_Piste137" type="audio/mpeg">
+</audio>
+
+:::{.callout-important icon="false"}
+#### La solidarité
+
+- une communauté : [ensemble d'individus qui partagent des intérêts communs]{.fst-italic}
+- l'empathie (f.) : [capacité de se mettre à la place d'autrui]{.fst-italic}
+- l'entraide (f.) : [aide mutuelle]{.fst-italic}
+- la serviabilité : [disposition à rendre service]{.fst-italic}
+:::
+
+
+:::{.callout-tip}
+#### registre familier
+
+- une caisse : [une voiture]{.fst-italic}
+- un(e) pote : [un(e) ami(e)]{.fst-italic}
+- cool
+- fastoche : [facile]{.fst-italic}
+- top : [super]{.fst-italic}
+- bosser : [travail]{.fst-italic}
+- trop : [très]{.fst-italic}
+:::
+
+
+
+------
+
+# Cahier d'activités
+
+## Ex. 1
+
+::: {.callout-note collapse="true" title="Transcription (activités 1 et 2) : La science entre nous"}
+
+::::{.fs-5}
+
+[Journaliste : ]{.fw-bold .text-blue} Bonjour Aldo Mariasa. Vous êtes chercheur à l'Institut écologie et environnement du CNRS. Alors, dites-nous comment était la société humaine il y a quelques milliers d'années.
+
+[Aldo Mariasa : ]{.fw-bold .text-red} Il faut imaginer la société de nos ancêtres comme une grande communauté où chacun s'entraide. Il faut penser que ce qui compte, c'est de faire des enfants, de passer à la génération suivante.
+
+[Journaliste : ]{.fw-bold .text-blue} Est-ce qu'on n'est pas alors plutôt dans la compétition ?
+
+[Aldo Mariasa : ]{.fw-bold .text-red} C'est vrai que parfois c'est la compétition qui permet de le faire, mais souvent c'est la coopération. Les humains sont naturellement solidaires. On s'entraide et on se développe ensemble. D'ailleurs, l'entraide est partout autour de nous. Regardez faire les animaux, les plantes, les champignons et les micro-organismes, toute la diversité du vivant. De cette diversité, on apprend beaucoup des origines de la collaboration.
+
+[Journaliste : ]{.fw-bold .text-blue} La solidarité est-elle une condition naturelle ? Peut-on coopérer à tous les niveaux ? Aldo Mariasa, comment définiriez-vous l'entraide ?
+
+[Aldo Mariasa : ]{.fw-bold .text-red} Eh bien, l'entraide se développe quand les conditions de vie sont difficiles pour les êtres vivants. C'est ce qu'on trouve partout dans le monde vivant et qui relie les êtres vivants entre eux. C'est la coopération. C'est une manière d'être ensemble.
+
+[Journaliste : ]{.fw-bold .text-blue} Est-ce que les êtres humains pourront continuer à s'entraider dans l'avenir ?
+
+[Aldo Mariasa : ]{.fw-bold .text-red} Je pense que oui. Surtout si les conditions climatiques deviennent difficiles à supporter et que l'environnement devient dangereux. Parce que c'est comme ça qu'on peut survivre. L'entraide se développe quand les conditions de vie sont difficiles pour les êtres humains.
+
+[Journaliste : ]{.fw-bold .text-blue} Que nous apprend la nature sur l'entraide ?
+
+[Aldo Mariasa : ]{.fw-bold .text-red} Quand on regarde les autres êtres vivants, c'est incroyable de voir qu'il existe de nombreuses formes de solidarité dans la nature. Nous sommes naturellement des êtres coopératifs. L'entraide se développe quand le milieu est dangereux, alors que la compétition se développe quand l'environnement est abondant. Par exemple, chez les insectes, il y a une solidarité familiale, comme chez les abeilles. Il y a aussi de la coopération quand les membres de la même espèce agissent les uns pour les autres. La diversité de toutes ces manières de s'associer est très intéressante à étudier. Chez les humains aussi, l'empathie, l'entraide peuvent s'étudier. La compétition telle qu'elle existe dans les sociétés humaines ne s'observe pas chez les autres êtres vivants. Ceux qui survivent sont ceux qui s'entraident. C'est un facteur d'évolution. Les chercheurs nous l'ont montré.
+
+::::
+:::
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_CA_AUDIO/INSP3_CA_Piste74.mp3" type="audio/mpeg">
+</audio>
+
+
+
+
+
+
+
+
+
+
+
+
+

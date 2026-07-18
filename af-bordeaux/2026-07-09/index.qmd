@@ -4,8 +4,9 @@ date: "2026-07-09"
 categories: ["Reflection"]
 reference-location: document # margin, block, section, document
 citation-location: document #margin
-image: "https://images.unsplash.com/photo-1642211841112-2beeda7bfc07?q=80&w=640"
+image: "https://images.unsplash.com/photo-1571498664957-fde285d79857?q=80&w=640"
 ---
+
 
 # Why French Sometimes Feels Surprisingly Chinese
 

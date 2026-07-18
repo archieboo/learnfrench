@@ -1,0 +1,234 @@
+---
+title: "Leçon 30: Prendre position sur les droites des animaux"
+date: "2026-07-13"
+categories: ["B1", "unite8", "autodidacte"]
+reference-location: document # margin, block, section, document
+citation-location: document #margin
+image: "https://images.unsplash.com/photo-1437622368342-7a3d73a34c8f?q=80&w=640"
+
+---
+
+# Doc 2 : La déclaration universelle des animaux
+
+**ARTICLE 1**  
+Tous les animaux ont des droits égaux à l'existence dans le cadre des équilibres biologiques.
+
+**ARTICLE 2**  
+Toute vie animale a doit au respect.
+
+**ARTICLE 3**  
+Aucun animal ne doit être soumis à de mauvais traitements ou à des actes cruels.
+
+**ARTICLE 4**  
+Toutes les formes d'élevage et d'utilisation de l'animal doivent respecter la physiologie et le comportement propres à l'espèce.
+
+**ARTICLE 4**  
+L'éducation et l'instruction publique doivent conduire l'homme, dès son enfance, à observer, à comprendre et à respecter les animaux.
+
+
+# Doc 3
+
+
+::: {.callout-note collapse="true" title="un interview: les doites d'animaux"}
+
+::::{.fs-5}
+
+[Journaliste : ]{.fw-bold .text-blue} Une loi a été adoptée cette semaine en France. Elle interdit les animaux sauvages dans les [cirques]{.underline} et les [delphinariums]{.underline} et [encadre]{.underline} l'adoption des animaux de compagnie. Alors où en sont les Français avec les animaux ? Le sociologue Jean Viard nous aide à y voir clair.
+
+[Journaliste : ]{.fw-bold .text-blue} Jean Viard, [pensez-vous que cette loi soit]{.markpurple} une réelle [avancée]{.underline} pour les espèces animales ?
+
+[Jean Viard : ]{.fw-bold .text-red} Oui, je pense que c'est un [progrès]{.underline}. Il y a une évolution du rapport à l'animal qui est considérable. Mais je [doute que cela suffise]{.markpurple}. On sait que plus de 50 % des Français ont [un animal de compagnie]{.underline}. Certains choisissent même d'avoir une maison avec jardin pour en avoir un. Mais un chien, il faut le promener au moins deux fois par jour. Il faut aller courir avec lui parce qu'il s'ennuie. Parmi les propriétaires d'animaux, tous ne sont pas [prêts à]{.fw-bold} [s'impliquer]{.underline} [autant]{.fw-bold}. Résultat, les [abandons]{.underline} d'animaux sont toujours aussi nombreux.
+
+[Journaliste : ]{.fw-bold .text-blue} Comment expliquez-vous cela ?
+
+[Jean Viard : ]{.fw-bold .text-red} Il y a plusieurs raisons [à]{.fw-bold} cela. Je pense que de nombreux propriétaires ont un rapport immature à l'animal. Ils pensent d'abord à leur [propre]{.underline .fw-bold} plaisir. Quelques-uns traitent même leur animal comme un objet. Ils le [teignent]{.underline}, ils l'habillent. Mais l'animal n'est pas un [jouet]{.underline}, c'est un être vivant qui a des besoins. Chaque animal a droit au respect.
+
+[Journaliste : ]{.fw-bold .text-blue} Comment expliquer, [alors que]{.fw-bold} les êtres humains ont des animaux de compagnie et des [animaux d'élevage]{.fw-bold} depuis [la nuit des temps]{.underline}, que ce débat sur le bien-être animal n'[émerge]{.underline} qu'aujourd'hui ?
+
+[Jean Viard : ]{.fw-bold .text-red} Je [ne crois pas que nous parlions]{.markpurple} du même rapport à l'animal quand nous parlons des [éleveurs]{.underline}. D'abord, je pense qu'ils respectent beaucoup leurs animaux en général. Ils [font appel à des abattoirs]{.fw-bold} pour les tuer. Mais bien sûr, l'objectif, c'est [malgré tout]{.fw-bold} de vendre de la viande.
+
+[Journaliste : ]{.fw-bold .text-blue} Justement, [croyez-vous qu'il faille]{.markpurple} également [réglementer]{.underline} les conditions de vie des animaux dans les élevages ?
+
+[Jean Viard : ]{.fw-bold .text-red} Bien sûr. C'est [indispensable]{.underline} [non seulement]{.fw-bold .text-orange} de [garantir]{.underline} des conditions d'élevage [décentes]{.underline}, [mais aussi]{.fw-bold .text-orange} de revoir les conditions d'[abattage]{.underline}.
+
+[Journaliste : ]{.fw-bold .text-blue} De manière générale, pensez-vous que notre rapport [au monde animal]{.underline} évolue ?
+
+[Jean Viard : ]{.fw-bold .text-red} Je n'en suis pas convaincu personnellement. Certains [prétendent]{.fw-bold .underline} qu'on a progressé en tuant les nuisibles. On [s'est débarrassé]{.underline} des loups, puis des ours. Maintenant, on [pleure les hérissons]{.underline}. On [se rend compte]{.underline} qu'on est allé beaucoup trop loin dans la domination des animaux. Regardez les insectes, il n'y en a presque plus. C'est tragique. L'insecte est un [enjeu]{.underline} absolument majeur.
+
+::::
+:::
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_LE_AUDIO/INSP3_LE_Piste123.mp3" type="audio/mpeg">
+</audio>
+
+# Cahier d'activités
+
+## Ex. 1
+
+::: {.callout-note collapse="true" title="Transcription (activités 1 et 2)"}
+
+::::{.fs-5}
+
+[Léa : ]{.fw-bold .text-red} Tu sais Amidou, j'ai entendu à la radio une émission très intéressante sur les droits des animaux.
+
+[Amidou : ]{.fw-bold .text-blue} Ah bon Léa, tu es sûre que les animaux ont des droits ?
+
+[Léa : ]{.fw-bold .text-red} Oui, depuis 1978, il existe une déclaration universelle des droits de l'animal pour encadrer les comportements humains envers les animaux. Nous, les hommes et les femmes, devons les respecter et leur éviter des souffrances. Il n'est pas normal qu'on maltraite les animaux ou qu'on ne les respecte pas. Aucun animal ne devrait souffrir à cause des êtres humains.
+
+[Amidou : ]{.fw-bold .text-blue} Oui, mais je doute qu'en France ce soit très encadré. Nous avons beaucoup d'élevages et plus de la moitié de la population possède un animal de compagnie. On entend dire que les gens abandonnent souvent leurs chiens ou leurs chats.
+
+[Léa : ]{.fw-bold .text-red} C'est vrai que pendant longtemps, les animaux n'avaient aucun droit en France. Ils étaient traités comme des objets. Maintenant, la situation est différente. Il y a des lois pour protéger plusieurs catégories d'animaux. Par exemple, les animaux de compagnie, les chiens et les chats. Et aussi, les animaux exploités dans le cadre des loisirs. Aujourd'hui, en France, les animaux sont reconnus comme des êtres sensibles.
+
+[Amidou : ]{.fw-bold .text-blue} Et quelles en sont les conséquences exactement ?
+
+[Léa : ]{.fw-bold .text-red} Une loi vient d'être passée pour interdire les animaux dans les cirques et les delphinariums. Ça signifie qu'en 2028, il sera interdit de proposer des spectacles avec des animaux sauvages. C'est aussi la fin des élevages d'animaux pour faire des vêtements, comme les visons d'Amérique.
+
+[Amidou : ]{.fw-bold .text-blue} Mais crois-tu que les animaux puissent être protégés s'il y a encore des élevages et des abattoirs ?
+
+[Léa : ]{.fw-bold .text-red} C'est difficile, mais je pense qu'on fait des progrès. Je sais qu'il existe des textes qui réglementent les conditions de vie des animaux dans les élevages, en respectant la physiologie de chaque espèce. Tout le monde commence à être sensibilisé à la souffrance des animaux. Il y a plusieurs associations qui travaillent sur ce sujet. Alors, nous ne pouvons que progresser.
+
+[Amidou : ]{.fw-bold .text-blue} C'est vrai qu'il faudrait aller plus loin. La biodiversité diminue et beaucoup d'animaux disparaissent.
+
+[Léa : ]{.fw-bold .text-red} Heureusement, en France, les loups et les ours sont des espèces protégées. Pour moi, négliger la biodiversité, c'est le plus grand danger. Je ne crois pas qu'on puisse vivre dans un monde où la vie sauvage a disparu.
+
+::::
+:::
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_CA_AUDIO/INSP3_CA_Piste69.mp3" type="audio/mpeg">
+</audio>
+
+
+## Ex. 4
+
+::: {.callout-note collapse="true" title="Transcription (activité 4)"}
+
+::::{.fs-5}
+
+1. Contrôler une situation par un règlement ou des lois.
+2. Décider d'une nouvelle loi.
+3. Un animal dangereux pour l'homme.
+4. Un petit animal avec plusieurs pattes et/ou des ailes.
+5. Un lieu où les animaux sont tués pour l'alimentation.
+6. Un parc de loisirs avec des animaux de mer.
+
+::::
+:::
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_CA_AUDIO/INSP3_CA_Piste70.mp3" type="audio/mpeg">
+</audio>
+
+## Ex. 7
+
+::: {.callout-note collapse="true" title="Transcription (activité 7)"}
+
+::::{.fs-5}
+
+**Exemple.** Tous les animaux sont des êtres sensibles.
+
+**A.** Certains ne pensent pas à la souffrance animale.
+
+**B.** Plusieurs chasseurs se sont opposés à une loi réglementant la chasse à la glu.
+
+**C.** Des cirques confirmés, quelques-uns refusaient d'arrêter le dressage des animaux sauvages.
+
+**D.** La défense de la cause animale concerne tout le monde.
+
+**E.** Chacun devra changer sa façon de voir les animaux.
+
+**F.** Aucun animal de compagnie ne pourra plus être abandonné lors des départs en vacances.
+
+::::
+:::
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_CA_AUDIO/INSP3_CA_Piste71.mp3" type="audio/mpeg">
+</audio>
+
+## Ex. 12
+
+::::{.callout-note}
+
+J'aime bien le slogan et je suis tout d'accord avec lequel nos animaux de compagnie ont besoins de nos aides. D'abord, les animaux de compagnie ne sont pas l'objets : ils sont êtres vivants et ont besoins de sortir et de courir. Les gens habillant leurs animaux ne rendent pas compt des potentiels des mals fait aux animaux. Les animaux ne sont pas l'objets d'humains. Ils sont nos compagnies et doient être traités en tant qu'un.
+
+En suite, les propriétairs d'animaux de compagnie doient prendre les responsabilités aux animaux. Beacoup d'animaux sont abandonnés chaque année car leurs propriétairs se trouvent que il n'ont pas du temps ou de la resource pour eux. Il faut adapter des lois se battant contre les abandonnements d'animaux. 
+
+De plus, le gourvenement doit adopter des lois réglementant les ventes d'animaux de compagnie et assurer qu'ils sont élevés et vendus responsablement. Je crois qu'il y a quelques lois qui advoquent le bien-être d'animaux mais je ne suis pas sûr que celles-la sont suffisantes.
+
+### Correction (niveau DELF B1)
+
+#### 1. Ton texte avec les erreurs signalées
+
+:::{.callout-warning collapse="true" title="Repérage des erreurs"}
+
+J'aime bien le slogan et je suis [tout d'accord]{.text-red} [avec lequel]{.text-red} nos animaux de compagnie [ont besoins]{.text-red} de [nos aides]{.text-red}. D'abord, les animaux de compagnie ne sont pas [l'objets]{.text-red} : ils [sont êtres vivants]{.text-red} et [ont besoins]{.text-red} de sortir et de courir. Les gens [habillant]{.text-red} leurs animaux [ne rendent pas compt]{.text-red} [des potentiels des mals fait]{.text-red} aux animaux. Les animaux ne sont pas [l'objets d'humains]{.text-red}. Ils sont [nos compagnies]{.text-red} et [doient]{.text-red} être traités [en tant qu'un]{.text-red}.
+
+[En suite]{.text-red}, les [propriétairs]{.text-red} d'animaux de compagnie [doient]{.text-red} [prendre les responsabilités aux animaux]{.text-red}. [Beacoup]{.text-red} d'animaux sont abandonnés chaque année [car leurs propriétairs se trouvent que il n'ont pas]{.text-red} [du temps]{.text-red} ou [de la resource]{.text-red} pour eux. Il faut [adapter]{.text-red} des lois [se battant contre]{.text-red} les [abandonnements]{.text-red} d'animaux.
+
+De plus, le [gourvenement]{.text-red} doit adopter des lois réglementant [les ventes]{.text-red} d'animaux de compagnie et [assurer qu'ils sont]{.text-red} élevés et vendus [responsablement]{.text-red}. Je crois qu'il y a quelques lois qui [advoquent]{.text-red} le bien-être [d'animaux]{.text-red} mais je ne suis pas sûr que celles-là [sont]{.text-red} suffisantes.
+
+:::
+
+#### 2. Section corrigée (corrections en gras)
+
+:::{.callout-tip collapse="true" title="Version corrigée"}
+
+J'aime bien le slogan et je suis [tout à fait]{.fw-bold} d'accord [avec l'idée que]{.fw-bold} nos animaux de compagnie [ont besoin]{.fw-bold} de [notre aide]{.fw-bold}. D'abord, les animaux de compagnie ne sont pas [des objets]{.fw-bold} : [ce sont des êtres vivants]{.fw-bold} qui [ont besoin]{.fw-bold} de sortir et de courir. Les gens [qui habillent]{.fw-bold} leurs animaux [ne se rendent pas compte]{.fw-bold} [du mal qu'ils peuvent leur faire]{.fw-bold}. Les animaux ne sont pas [des objets pour les humains]{.fw-bold}. Ils sont [nos compagnons]{.fw-bold} et [doivent]{.fw-bold} être traités [comme tels]{.fw-bold}.
+
+[Ensuite]{.fw-bold}, les [propriétaires]{.fw-bold} d'animaux de compagnie [doivent]{.fw-bold} [assumer leurs responsabilités envers eux]{.fw-bold}. [Beaucoup]{.fw-bold} d'animaux sont abandonnés chaque année [parce que leurs propriétaires se rendent compte qu'ils n'ont pas]{.fw-bold} [le temps]{.fw-bold} ou [les ressources]{.fw-bold} pour [s'en occuper]{.fw-bold}. Il faut [adopter]{.fw-bold} des lois [qui luttent contre]{.fw-bold} les [abandons]{.fw-bold} d'animaux.
+
+De plus, le [gouvernement]{.fw-bold} doit adopter des lois réglementant [la vente]{.fw-bold} d'animaux de compagnie et [veiller à ce qu'ils soient]{.fw-bold} élevés et vendus [de manière responsable]{.fw-bold}. Je crois qu'il [existe]{.fw-bold} quelques lois qui [défendent]{.fw-bold} le bien-être [des animaux]{.fw-bold}, mais je ne suis pas sûr [qu'elles soient]{.fw-bold} suffisantes.
+
+:::
+
+#### 3. Explication des corrections
+
+:::{.callout-note collapse="true" title="Pourquoi ces corrections ?"}
+
+**Grammaire et conjugaison**
+
+- **doient → doivent** : conjugaison du verbe *devoir* à la 3ᵉ personne du pluriel (erreur répétée).
+- **ont besoins → ont besoin** : dans l'expression *avoir besoin de*, « besoin » reste toujours au singulier.
+- **se trouvent que… → se rendent compte que…** : *se trouver que* n'existe pas ; on dit *se rendre compte que* ou *trouver que*.
+- **car… que il n'ont pas → parce qu'ils n'ont pas** : élision obligatoire *que + il → qu'il*, et accord *ils* (les propriétaires).
+
+**Articles et déterminants**
+
+- **ne sont pas l'objets → ne sont pas des objets** : devant un nom pluriel indéfini, on emploie *des*, jamais *l'* (article défini singulier).
+- **du temps / de la resource → le temps / les ressources** : on parle du temps et des ressources de façon précise → article défini. Orthographe : *ressources* (deux « s »).
+- **le bien-être d'animaux → des animaux** : *de + les = des* (le bien-être des animaux en général).
+
+**Le subjonctif (point clé du B1)**
+
+- **je ne suis pas sûr que… sont → soient** : après *ne pas être sûr que*, on emploie le **subjonctif**.
+- **assurer qu'ils sont → veiller à ce qu'ils soient** : *veiller à ce que* + subjonctif ; tournure plus idiomatique que *assurer que* ici.
+
+**Lexique et vocabulaire**
+
+- **avec lequel → avec l'idée que / sur le fait que** : *être d'accord avec lequel* est incorrect ; on est d'accord *avec une idée* ou *sur un fait*.
+- **tout d'accord → tout à fait d'accord** : locution figée.
+- **nos aides → notre aide** : *aide* s'emploie au singulier dans ce sens (le soutien).
+- **habillant → qui habillent** : le participe présent est lourd ici ; une proposition relative (*les gens qui habillent*) est plus naturelle.
+- **ne rendent pas compt → ne se rendent pas compte** : verbe pronominal *se rendre compte* + orthographe *compte*.
+- **des potentiels des mals fait → du mal qu'ils peuvent leur faire** : *mals* n'existe pas (le pluriel de *mal* est *maux*) ; la formulation d'origine est agrammaticale.
+- **nos compagnies → nos compagnons** : *compagnie* = entreprise ou présence ; l'animal est un *compagnon*.
+- **en tant qu'un → comme tels / en tant que tels** : expression figée pour dire « en fonction de ce qu'ils sont ».
+- **En suite → Ensuite** : le connecteur logique s'écrit en un seul mot.
+- **prendre les responsabilités aux animaux → assumer leurs responsabilités envers eux** : *prendre une responsabilité à quelqu'un* est incorrect ; on *assume une responsabilité envers* quelqu'un.
+- **adapter → adopter** : faux-ami ; *adopter une loi* = la voter (adapter = ajuster).
+- **se battant contre → qui luttent contre** : préférer une relative ; *lutter contre* est plus courant.
+- **abandonnements → abandons** : le nom correct est *abandon*.
+- **advoquent → défendent / promeuvent** : *advoquer* n'existe pas en français.
+- **responsablement → de manière responsable** : l'adverbe *responsablement* est rare ; préférer la locution.
+- **celles-la → celles-ci / celles-là** : accent grave obligatoire sur *là*.
+
+**Orthographe**
+
+- **l'objets, propriétairs, Beacoup, resource, gourvenement, compt** : fautes de frappe / d'orthographe → *des objets, propriétaires, Beaucoup, ressources, gouvernement, compte*.
+
+:::
+
+::::
+

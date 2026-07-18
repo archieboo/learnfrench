@@ -4,9 +4,8 @@ date: "2026-07-08"
 categories: ["B1", "unite8", "se enseigner"]
 reference-location: document # margin, block, section, document
 citation-location: document #margin
-image: "https://images.unsplash.com/photo-1642211841112-2beeda7bfc07?q=80&w=640"
+image: "https://images.unsplash.com/photo-1653525749885-46a75af1eb5d?q=80&w=640"
 ---
-
 
 # Leçon 29 : Parler des changements climatiques
 
@@ -19,6 +18,8 @@ image: "https://images.unsplash.com/photo-1642211841112-2beeda7bfc07?q=80&w=640"
 
 ::: {.callout-note collapse="true" title="Transcription — Doc 120"}
 
+::::{.fs-5}
+
 Un rapport d'experts présenté ce jour révèle que les vagues de chaleur de ces dernières années n'auraient pas été si fortes si les activités humaines n'avaient pas été aussi [importantes]{.underline}.
 
 Météo France et l'Institut Pierre-Simon Laplace ont présenté les [relevés]{.underline} des températures depuis 1947 en France, en Allemagne, aux Pays-Bas et au Royaume-Uni. Ils montrent des températures extrêmes ces dernières années. En effet, à Paris par exemple, il a fait 42,6 degrés le 25 juillet 2019 contre 40,4 degrés en 1947 qui représentait le précédent record de chaleur.
@@ -26,7 +27,7 @@ Météo France et l'Institut Pierre-Simon Laplace ont présenté les [relevés]{
 C'est avec la canicule de 2003 que les experts ont [pris conscience de]{.underline} ces vagues de chaleur. D'après le rapport, si le climat n'avait pas été modifié par les activités humaines, la canicule qui [s'est abattue sur]{.underline} plusieurs pays d'Europe en 2019 aurait été de 1,5 à 3 degrés moins chaude.
 
 Les chercheurs veulent interpeller le grand public. Ils soulignent que les États ne semblent pas mesurer l'urgence de la situation et précisent que les accords de Paris, qui [visent à contenir]{.underline} le réchauffement planétaire en dessous de 2 degrés, ne sont pas respectés par les pays qui en sont pourtant membres.
-
+::::
 :::
 
 <audio controls style="width:95%">
