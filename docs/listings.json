@@ -2,6 +2,7 @@
   {
     "listing": "/misc.html",
     "items": [
+      "/misc/2026-07-09-French-Chinese-English-connections/index.html",
       "/misc/2026-06-29-Suzi-de-gienchy/index.html",
       "/misc/2026-05-14-L’opéra-un-art-sous-respiration-artificielle-ou/index.html",
       "/misc/2026-05-12-Le-jeu-de-1000-euros/index.html",
@@ -69,15 +70,6 @@
   {
     "listing": "/af-bordeaux.html",
     "items": [
-      "/af-bordeaux/2026-07-16/index.html",
-      "/af-bordeaux/2026-07-13/index.html",
-      "/af-bordeaux/2026-07-09/index.html",
-      "/af-bordeaux/2026-07-08/index.html",
-      "/af-bordeaux/2026-07-06/index.html",
-      "/af-bordeaux/2026-07-02/index.html",
-      "/af-bordeaux/2026-07-01/index.html",
-      "/af-bordeaux/2026-06-30/index.html",
-      "/af-bordeaux/2026-06-29/index.html",
       "/af-bordeaux/2026-06-26/index.html",
       "/af-bordeaux/2026-06-25/index.html",
       "/af-bordeaux/2026-06-24/index.html",
@@ -120,5 +112,22 @@
       "/defi4/unite1-dossier2/index.html",
       "/defi4/unite1-dossier1/index.html"
     ]
+  },
+  {
+    "listing": "/inspire3.html",
+    "items": [
+      "/inspire3/2026-07-16/index.html",
+      "/inspire3/2026-07-13/index.html",
+      "/inspire3/2026-07-08/index.html",
+      "/inspire3/2026-07-06/index.html",
+      "/inspire3/2026-07-02/index.html",
+      "/inspire3/2026-07-01/index.html",
+      "/inspire3/2026-06-30/index.html",
+      "/inspire3/2026-06-29/index.html"
+    ]
+  },
+  {
+    "listing": "/inspire4.html",
+    "items": []
   }
 ]

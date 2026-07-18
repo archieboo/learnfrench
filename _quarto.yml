@@ -14,6 +14,8 @@ project:
     - 'lenouveautaxi3/**/*.qmd'
     - 'af-nice-b1-2/**/*.qmd'
     - 'af-bordeaux/**/*.qmd'
+    - 'inspire3/**/*.qmd'
+    - 'inspire4/**/*.qmd'
     - 'defi*/**/*.qmd'
     - 'misc/**/*.qmd'
     # - 'archive/**/*.qmd'
@@ -24,15 +26,21 @@ website:
   navbar:
     logo: profile.jpg
     left:
+      - text: "Inspire 4"
+        icon: book
+        href: inspire4.qmd
+      - text: "Inspire 3"
+        icon: book
+        href: inspire3.qmd
+      - text: "AF Bordeaux"
+        icon: backpack
+        href: af-bordeaux.qmd
       - text: "Défi 4"
         icon: book
         href: defi4.qmd
       - text: "Défi 3"
         icon: book
         href: defi3.qmd
-      - text: "AF Bordeaux"
-        icon: backpack
-        href: af-bordeaux.qmd
       - text: "Misc"
         icon: collection
         href: misc.qmd

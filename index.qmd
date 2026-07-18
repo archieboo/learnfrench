@@ -12,7 +12,46 @@ format: html
 ---
 
 
-# Textbook Notes
+::::{.columns style="align-items: center; padding: 10px; "}
+
+:::::{.column .text-center width="40%"}
+
+[![](inspire4/inspire4-cover.png){height="200px" fig-align="center" style="box-shadow: 5px 5px 15px rgba(0,0,0,0.4);"}](inspire4.html)
+
+[Inspire 4]{.text-primary style="font-size: 2em; font-weight: bold; line-height: 1"}
+
+:::::
+::::
+
+<br>
+
+
+::::{.columns style="align-items: center; padding: 10px; "}
+
+:::::{.column .text-center width="40%"}
+
+[![](inspire3/inspire3-cover.png){height="200px" fig-align="center" style="box-shadow: 5px 5px 15px rgba(0,0,0,0.4);"}](inspire3.html)
+
+[Inspire 3]{.text-primary style="font-size: 2em; font-weight: bold; line-height: 1"}
+
+:::::
+::::
+
+<br>
+
+
+::::{.columns style="align-items: center; padding: 10px; "}
+
+:::::{.column .text-center width="40%"}
+
+[![](https://images.unsplash.com/photo-1493564738392-d148cfbd6eda?q=80&w=640){height="200px" fig-align="center" style="box-shadow: 5px 5px 15px rgba(0,0,0,0.4);"}](af-bordeaux.html)
+
+[l'AF-Bordeaux]{.text-primary style="font-size: 2em; font-weight: bold; line-height: 1"}
+
+:::::
+::::
+
+<br>
 
 
 ::::{.columns style="align-items: center; padding: 10px; "}
@@ -24,9 +63,14 @@ format: html
 [Défi 4]{.text-primary style="font-size: 2em; font-weight: bold; line-height: 1"}
 
 :::::
+::::
+
+<br>
 
 
-:::::{.column .text-center width="40%" style="border-left: 1px solid #dee2e6 !important; padding-left: 1%; margin-left: 1%;"}
+::::{.columns style="align-items: center; padding: 10px; "}
+
+:::::{.column .text-center width="40%"}
 
 [![](defi3/defi3-cover.png){height="200px" fig-align="center" style="box-shadow: 5px 5px 15px rgba(0,0,0,0.4);"}](defi3.html)
 
@@ -34,16 +78,6 @@ format: html
 
 :::::
 ::::
-
-<br>
-
-
-:::::{.column}
-
-# AF-Bordeaux Class Notes
-
-[![](https://images.unsplash.com/photo-1493564738392-d148cfbd6eda?q=80&w=640){height="200px" fig-align="center" style="box-shadow: 5px 5px 15px rgba(0,0,0,0.4);"}](af-bordeaux.html)
-:::::
 
 
 
