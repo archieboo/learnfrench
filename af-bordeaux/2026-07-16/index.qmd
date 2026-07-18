@@ -4,11 +4,9 @@ date: "2026-07-16"
 categories: ["B1", "unite8", "autodidacte"]
 reference-location: document # margin, block, section, document
 citation-location: document #margin
-image: "https://images.unsplash.com/photo-1437622368342-7a3d73a34c8f?q=80&w=640"
+image: "https://images.unsplash.com/photo-1759681770982-313332e7f42c?q=80&w=640"
 
 ---
-
-
 
 # Doc2
 
@@ -234,12 +232,92 @@ En réalité, c'est du degré de lien, voire d'empathie que dépend la serviabil
   <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_CA_AUDIO/INSP3_CA_Piste74.mp3" type="audio/mpeg">
 </audio>
 
+## Ex. 4
+
+::: {.callout-note collapse="true" title="Transcription (activité 4)"}
+
+::::{.fs-5}
+
+1. C'est exposé sur l'environnement, c'est fastoche !
+2. Mon frère m'a prêté sa caisse pour aller au ciné.
+3. Ce soir, je retrouve une pote au café.
+4. C'est cool de pouvoir discuter en ligne avec toi.
+5. Tu as préparé un repas végétarien, c'est top !
+6. Tu pars toujours à la même heure pour aller bosser ?
+7. On est allés ensemble à la manifestation pour le climat, c'était trop bien !
+
+::::
+:::
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_CA_AUDIO/INSP3_CA_Piste75.mp3" type="audio/mpeg">
+</audio>
 
 
+## Ex. 8
+
+::: {.callout-note collapse="true" title="Transcription (activité 8)"}
+
+::::{.fs-5}
+
+- **Exemple :** Tu lui en as acheté.
+- **A.** Vous le lui avez demandé ?
+- **B.** Tu l'y emmènes souvent.
+- **C.** Prends-lui en !
+- **D.** Vous leur en donnez.
+- **E.** Ils les leur ont proposés.
+- **F.** Ne leur en apporte pas.
+- **G.** Tu nous en achètes ?
+
+::::
+:::
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_CA_AUDIO/INSP3_CA_Piste76.mp3" type="audio/mpeg">
+</audio>
 
 
+## Ex. 9
+
+::: {.callout-note collapse="true" title="Transcription (activité 9)"}
+
+::::{.fs-5}
+
+- **D.** Il aime la cuisine végane ?
+- **E.** Vous n'avez pas lu l'article sur la solidarité entre les arbres ?
+- **F.** T'adores les steaks végétariens, on dirait !
+- **G.** J'ai jamais pris de viande dans ce restaurant.
+- **H.** Est-ce qu'il y a de l'huile de palme dans les chips ?
+
+::::
+:::
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_CA_AUDIO/INSP3_CA_Piste77.mp3" type="audio/mpeg">
+</audio>
 
 
+## Ex. 10
+
+::: {.callout-note collapse="true" title="Transcription (activité 10) : Dictée"}
+
+::::{.fs-5}
+
+- **A.** L'humidité atmosphérique est nécessaire pour les êtres vivants.
+- **B.** Tu vas bosser avec ta caisse.
+- **C.** Vous leur en avez pris beaucoup.
+- **D.** Emporte-le-lui.
+- **E.** Donne-moi un pot.
+- **F.** L'empathie et l'entraide seraient présentes dans les communautés animales.
+- **G.** J'ai adoré l'émission sur les conditions climatiques.
+- **H.** Il y a de l'huile de palme dans les ingrédients.
+
+::::
+:::
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_CA_AUDIO/INSP3_CA_Piste78.mp3" type="audio/mpeg">
+</audio>
 
 
 
