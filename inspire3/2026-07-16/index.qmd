@@ -156,7 +156,7 @@ En réalité, c'est du degré de lien, voire d'empathie que dépend la serviabil
 
 
 <audio controls style="width:95%">
-  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_LE_AUDIO/INSP3_LE_Piste136" type="audio/mpeg">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_LE_AUDIO/INSP3_LE_Piste136.mp3" type="audio/mpeg">
 </audio>
 
 :::{.callout-important icon="false"}
@@ -168,7 +168,7 @@ En réalité, c'est du degré de lien, voire d'empathie que dépend la serviabil
 :::
 
 <audio controls style="width:95%">
-  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_LE_AUDIO/INSP3_LE_Piste137" type="audio/mpeg">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_LE_AUDIO/INSP3_LE_Piste137.mp3" type="audio/mpeg">
 </audio>
 
 :::{.callout-important icon="false"}
@@ -297,6 +297,9 @@ En réalité, c'est du degré de lien, voire d'empathie que dépend la serviabil
 </audio>
 
 
+
+
+
 ## Ex. 10
 
 ::: {.callout-note collapse="true" title="Transcription (activité 10) : Dictée"}
@@ -320,7 +323,79 @@ En réalité, c'est du degré de lien, voire d'empathie que dépend la serviabil
 </audio>
 
 
+## Ex. 11 Communiquer
 
+::::{.callout-note icon="false"}
+#### Donnez votre opinion sur l'image partagée sur Instagram.
 
+Je suis d'accord avec cet image. Les changements climatiques sont vrais, et nous avons déjà constaté des concéquences comme les augmentations des inondations et des incendies. Les scientifiques nous ont alertés le rechauffement climatique de la planète et ont appelé de reduire l'émission de gaz d'effet de serre. Malheureusement, tous les payes ne sont pas d'accord avec les objets et les procès de lutter contre celui-ci.
+
+Maintenant, tout le monde a déjà à certain degrés expérimenté l'effet des changements climatiques. C'est nous et les générations avant qui les ont entraînés. Nous nous sommes trompés et nous sont résponsables. Il faut que nous soyons plus sensibles de la mode auquelle nous vivons, que nous fassions plein d'effort à améliorer l'environnement. Nous avons des résponsabilités de protéger la planète pour nos enfants et tous les générations de futures.
+
+### Correction (niveau DELF B1)
+
+#### 1. Ton texte avec les erreurs signalées
+
+:::{.callout-warning collapse="true" title="Repérage des erreurs"}
+
+Je suis d'accord avec [cet image]{.text-red}. Les changements climatiques sont [vrais]{.text-red}, et nous avons déjà constaté des [concéquences]{.text-red} comme [les augmentations]{.text-red} des inondations et des incendies. Les scientifiques nous ont [alertés le rechauffement climatique]{.text-red} de la planète et ont [appelé de reduire]{.text-red} [l'émission]{.text-red} de gaz [d'effet]{.text-red} de serre. Malheureusement, tous les [payes]{.text-red} ne sont pas d'accord [avec les objets et les procès de lutter]{.text-red} contre celui-ci.
+
+Maintenant, tout le monde a déjà [à certain degrés]{.text-red} [expérimenté l'effet]{.text-red} des changements climatiques. C'est nous et les [générations avant]{.text-red} qui les [ont entraînés]{.text-red}. Nous nous sommes trompés et nous [sont résponsables]{.text-red}. Il faut que nous soyons plus [sensibles de]{.text-red} [la mode auquelle]{.text-red} nous vivons, que nous fassions [plein d'effort à améliorer]{.text-red} l'environnement. Nous avons [des résponsabilités de]{.text-red} protéger la planète pour nos enfants et [tous les générations de futures]{.text-red}.
+
+:::
+
+#### 2. Section corrigée (corrections en gras)
+
+:::{.callout-tip collapse="true" title="Version corrigée"}
+
+Je suis d'accord avec [cette image]{.fw-bold}. Les changements climatiques sont [réels]{.fw-bold}, et nous avons déjà constaté des [conséquences]{.fw-bold} comme [l'augmentation]{.fw-bold} des inondations et des incendies. Les scientifiques nous ont [alertés sur le réchauffement climatique]{.fw-bold} de la planète et ont [appelé à réduire]{.fw-bold} [les émissions]{.fw-bold} de gaz [à effet]{.fw-bold} de serre. Malheureusement, tous les [pays]{.fw-bold} ne sont pas d'accord [sur les objectifs et les mesures pour lutter]{.fw-bold} contre celui-ci.
+
+Maintenant, tout le monde a déjà [ressenti, à un certain degré,]{.fw-bold} [les effets]{.fw-bold} des changements climatiques. C'est nous et les [générations précédentes]{.fw-bold} qui les [avons provoqués]{.fw-bold}. Nous nous sommes trompés et nous [sommes responsables]{.fw-bold}. Il faut que nous soyons plus [conscients de]{.fw-bold} [la manière dont]{.fw-bold} nous vivons, [et]{.fw-bold} que nous fassions [beaucoup d'efforts pour améliorer]{.fw-bold} l'environnement. Nous avons [la responsabilité de]{.fw-bold} protéger la planète pour nos enfants et [toutes les générations futures]{.fw-bold}.
+
+:::
+
+#### 3. Explication des corrections
+
+:::{.callout-note collapse="true" title="Pourquoi ces corrections ?"}
+
+**Grammaire et accords**
+
+- **cet image → cette image** : *image* est féminin, on emploie le déterminant *cette*.
+- **les augmentations → l'augmentation** : on parle du phénomène global au singulier.
+- **l'émission de gaz → les émissions de gaz** : on emploie le pluriel pour parler de l'ensemble des rejets.
+- **nous sont résponsables → nous sommes responsables** : conjugaison de *être* à la 1ʳᵉ personne du pluriel (*nous sommes*), pas *nous sont*.
+- **qui les ont entraînés → qui les avons provoqués** : le sujet *nous et les générations…* équivaut à *nous* → accord à la 1ʳᵉ personne du pluriel (*avons*).
+- **tous les générations de futures → toutes les générations futures** : *génération* est féminin (*toutes*) ; l'adjectif *futures* se place directement après le nom, sans *de*.
+
+**Le subjonctif et les constructions verbales**
+
+- **alertés le réchauffement → alertés sur le réchauffement** : *alerter quelqu'un **sur** quelque chose*.
+- **appelé de reduire → appelé à réduire** : *appeler **à** faire quelque chose*.
+- **de lutter → pour lutter** : on exprime le but avec *pour + infinitif*.
+- **plein d'effort à améliorer → beaucoup d'efforts pour améliorer** : *faire des efforts **pour** faire quelque chose* (but).
+- **des résponsabilités de protéger → la responsabilité de protéger** : *avoir la responsabilité de + infinitif* (singulier).
+
+**Lexique et vocabulaire**
+
+- **vrais → réels** : pour un phénomène, on dit qu'il est *réel* (ou *bien réel*), plutôt que *vrai*.
+- **avec les objets et les procès → sur les objectifs et les mesures** : *objet* = chose matérielle (faux-ami de *objectif*) ; *procès* = poursuite en justice (≠ *processus/démarche*) ; on est d'accord *sur* des objectifs.
+- **expérimenté l'effet → ressenti les effets** : *expérimenter* est un anglicisme ici ; on *ressent* les effets.
+- **les générations avant → les générations précédentes** : *avant* ne s'emploie pas comme adjectif ; dire *précédentes* (ou *d'avant*).
+- **sensibles de la mode → conscients de la manière** : *être sensible **à*** (pas *de*) ; *la mode* = la tendance vestimentaire (contresens) → *la manière / la façon*.
+- **auquelle → dont** : *la manière **dont** nous vivons* (le relatif *dont* reprend *de*).
+
+**Orthographe**
+
+- **concéquences → conséquences** : accent aigu, puis *s* (*con-sé-quences*).
+- **rechauffement → réchauffement** : accent aigu sur le premier *e*.
+- **reduire → réduire** : accent aigu.
+- **payes → pays** : le nom *pays* est invariable et s'écrit ainsi.
+- **à certain degrés → à un certain degré** : article *un* obligatoire et singulier (*à un certain degré*).
+- **d'effet de serre → à effet de serre** : locution figée *gaz **à** effet de serre*.
+- **résponsables / résponsabilités → responsables / responsabilité** : pas d'accent sur le premier *e*.
+
+:::
+
+::::
 
 
