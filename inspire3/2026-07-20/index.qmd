@@ -1,0 +1,205 @@
+---
+title: "Leçon 32: Techniques pour participer à un débat"
+date: "2026-07-20"
+categories: ["B1", "unite8", "autodidacte"]
+reference-location: document # margin, block, section, document
+citation-location: document #margin
+image: "https://images.unsplash.com/photo-1759681770982-313332e7f42c?q=80&w=640"
+
+---
+
+
+# Doc1 : un débat
+
+::: {.callout-note collapse="true" title="Transcription : 5 minutes pour débattre"}
+
+::::{.fs-5}
+
+[Animateur : ]{.fw-bold .text-purple} Bonjour à tous, bienvenue dans notre émission « 5 minutes pour [débattre]{.underline} ». Aujourd'hui, notre débat [portera sur]{.underline}[^aa] la mode. Peut-on encore acheter des vêtements neufs ? Pour en parler, nous accueillons Sidonie Mirabeau, créatrice de mode, Emmanuel Gonzague, influenceur, et enfin Carmen Baron, responsable de boutique. Nous allons commencer avec vous, Carmen Baron. Pouvez-vous nous dire quel type de vêtements vous vendez ?
+
+[Carmen Baron : ]{.fw-bold .text-green} Je travaille dans une [friperie]{.underline}, c'est-à-dire que je ne vends que des vêtements de [seconde main]{.underline}. Mes clients sont des personnes de tous les âges qui ont décidé d'avoir une consommation plus responsable des vêtements et qui ont donc de vraies motivations écologiques. Pour moi, [c'est vraiment ça]{.fw-bold} l'avenir de la mode.
+
+[Animateur : ]{.fw-bold .text-purple} Emmanuel Gonzague, vous voulez réagir ?
+
+[Emmanuel Gonzague : ]{.fw-bold .text-red} Je ne suis pas du tout d'accord avec ce qui vient d'être dit. [Au contraire]{.underline}, la mode doit [se renouveler]{.underline}. Elle ne [se trouve]{.underline} pas dans les friperies.
+
+[Animateur : ]{.fw-bold .text-purple} Justement, à ce propos, nous allons laisser la parole à Sidonie Mirabeau.
+
+[Sidonie Mirabeau : ]{.fw-bold .text-blue} Merci. Je [tiens à dire]{.fw-bold}[^ab] que je partage l'avis de monsieur. La mode a toujours besoin de nouvelles inspirations. Je ne suis bien sûr pas contre les friperies, mais il doit y en avoir pour tout le monde.
+
+[Carmen Baron : ]{.fw-bold .text-green} Tout à fait. J'aimerais ajouter qu'il existe d'autres solutions. Aujourd'hui, certaines boutiques proposent des [bons d'achat]{.underline}[^ac] en échange de vos **anciens** vêtements. C'est une autre façon de s'engager pour l'environnement.
+
+[Animateur : ]{.fw-bold .text-purple} Absolument. Si je vous comprends bien, on ne peut plus acheter un vêtement simplement parce qu'il nous plaît et qu'on aime la mode ?
+
+[Sidonie Mirabeau : ]{.fw-bold .text-blue} Ça n'est pas ce que j'ai dit. Mais comme l'a souligné Madame Baron, de plus en plus de gens [cherchent à]{.underline} consommer de manière plus raisonnée. Et ils ont raison. On ne peut plus se permettre aujourd'hui de consommer sans réfléchir à ses achats.
+
+[Emmanuel Gonzague : ]{.fw-bold .text-red} Vous allez trop loin. Pour moi, c'est aux créateurs et aux [enseignes]{.fw-bold}[^ad] d'être responsables, pas aux clients.
+
+[Sidonie Mirabeau : ]{.fw-bold .text-blue} C'est vrai. Pour ma part, j'utilise beaucoup de textiles recyclés dans mes créations. Mais ça ne suffit pas. Les consommateurs doivent être attentifs aux marques qu'ils choisissent.
+
+[Carmen Baron : ]{.fw-bold .text-green} Je suis entièrement d'accord.
+
+[Animateur : ]{.fw-bold .text-purple} Monsieur Gonzague, vous voulez intervenir ?
+
+[Emmanuel Gonzague : ]{.fw-bold .text-red} Moi, je ne suis vraiment pas convaincu. Le problème, c'est que les marques qui affichent leur engagement écologique sont souvent des marques chères. Et tout le monde ne peut pas se permettre d'acheter ce type de produit.
+
+[Sidonie Mirabeau : ]{.fw-bold .text-blue} Vous permettez ? Vous avez [en partie]{.fw-bold} raison. Mais aujourd'hui, il existe de plus en plus de marques éthiques accessibles à tous. En réalité, je crois que la solution, c'est vraiment de mettre en place des règles strictes dans la production des vêtements. Ça aiderait aussi les consommateurs.
+
+[Animateur : ]{.fw-bold .text-purple} Les cinq minutes sont [écoulées]{.underline}. Merci à tous les trois pour votre participation.
+
+::::
+:::
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_LE_AUDIO/INSP3_LE_Piste125.mp3" type="audio/mpeg">
+</audio>
+
+
+[^aa]: porter sur : concerner, traiter de, avoir pour sujet
+[^ab]: tenir à faire qqch : vouloir absolument faire qqch, insister pour faire qqch; mettre l'emphase sur faire qqch
+[^ac]: bon d'achat : coupon qui permet d'acheter un produit ou un service à prix réduit
+[^ad]: les ensignes : les marques
+
+
+## POUR participer à un débat
+
+:::{.callout-tip}
+#### Les expressions utilisées pour : 
+
+::::{.columns}
+
+:::::{.column .fs-6 width="48%"}
+
+- [prendre la parole]{.fw-bold} :  
+  Vous permettez ?  
+  J'aimerais ajouter qu'il existe d'autres solutions !  
+  Je peux prendre la parole à mon tour ?
+  Je peux intervenir ?
+
+- [dire qu'on est d'accord]{.fw-bold} :  
+  Je partage l'avis de monsieur.  
+  Tout à fait !  
+  Absolument !  
+  C'est vrai !  
+  Je suis entièrement d'accord.  
+  Je partage votre point de vue.  
+  Vous avez en partie raison.  
+
+- [dire qu'on n'est pas d'accord]{.fw-bold} :  
+  Je ne suis pas du tout d'acord avec ce qui vient d'être dit !  
+  Je ne suis vraiment pas convaincu.  
+  Pas du tout !  
+  Absolument pas !  
+::::: 
+
+:::::{.column width="2%"}
+:::::
+
+:::::{.column .fs-6 width="48%"}
+- [reformuler]{.fw-bold} :  
+  Si je vous comprends bien, on ne peut plus acheter un vêtement parce qu'il nous plaît ?  
+  Comme l'a souligné Madame Baron...  
+  Vous dites que...  
+  D'après vous...  
+
+- [émettre des réserves ou contredire]{.fw-bold} :  
+  Vous allez trop loin !  
+  Au contraire, la mode doit se renouveler.  
+  On ne peut pas affirmer que...  
+
+- [se défendre]{.fw-bold} :  
+  Ça n'est pas ce que j'ai dit.  
+
+- [pour l'animateur/animatrice]{.fw-bold} :   
+  - **distribuer la parole**  
+    Nous allons commencer avec vous...  
+    Vous allez réagir / intervenir ?  
+    Nous allons laisser la parole à Sidonie Mirabeau.  
+  - **conclure**  
+    Merci à tous les trois pour votre participation.  
+    Merci pour ces échanges.
+:::::
+
+
+::::
+:::
+
+------
+
+# Doc2: gérer un désaccord
+
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_LE_AUDIO/INSP3_LE_Piste126.mp3" type="audio/mpeg">
+</audio>
+
+
+------ 
+
+# Faites le point
+
+
+
+:::::{.columns}
+
+::::{.column width="48%"}
+
+:::{ .callout-note icon="false"}
+#### [Exprimer un regret ou un reproche]{.text-capitalize}
+- [Ça fait des années qu'on aurait dû agit.]{.text-muted}  
+- [Il aurait fallu faire quelque chose.]{.text-muted}  
+- [Je regrette sincèrement.]{.text-muted}  
+- [On aurait dû consommer moins, se montrer plus responsables.]{.text-muted}  
+- [Vous auriez pu penser aux générations futures.]{.text-muted}
+:::
+
+:::{.callout-note icon="false"}
+#### [Consulter quelqu'un]{.text-capitalize}
+- [Comment expliquez-vous cela ?]{.text-muted}  
+- [[Croyez-vous qu'il faille]{.text-purple .fw-bold} réglementer les conditions de vie des animaux dans les élevages ?]{.text-muted}  
+- [[Pensez-vous que]{.text-purple .fw-bold} notre rapport au monde animal [evolue]{.text-purple .fw-bold} ?]{.text-muted}  
+:::
+
+
+::::
+
+::::{.column width="2%"}
+::::
+
+::::{.column width="48%"}
+
+
+:::{.callout-note icon="false"}
+#### [Dire une régle]{.text-capitalize}
+- [Toute vie animale a droit au respect.]{.text-muted}  
+- [Aucun animal doit être soumis à de mauvais traitements ou à des actes cruels.]{.text-muted}  
+:::
+
+:::{.callout-note icon="false"}
+#### [Réagir]{.text-capitalize}
+- [Qu'est-ce qu'il fait chaud !]{.text-muted}  
+- [C'est de pire en pire !]{.text-muted}  
+- [Je trouve ça fou !]{.text-muted}  
+:::
+
+:::{.callout-note icon="false"}
+#### [Faire une proposition]{.text-capitalize}
+- [On n'a qu'à prendre du saucisson !]{.text-muted}  
+- [Je [propose qu'on fasse]{.text-purple .fw-bold} autre chose.]{.text-muted}  
+- [Et si on faisait des crêpes ?]{.text-muted}
+:::
+
+::::
+
+:::::
+
+
+
+
+
+
+
+
+
+
+
