@@ -194,9 +194,32 @@ image: "https://images.unsplash.com/photo-1759681770982-313332e7f42c?q=80&w=640"
 :::::
 
 
+------
+
+# Cahier d'activités : Bilan d'unité 8
+
+## Ex. 1
 
 
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_CA_AUDIO/INSP3_CA_Piste79.mp3" type="audio/mpeg">
+</audio>
 
+
+## Ex. 2 : Vous lisez sur Internet le titre d'un article, vous le commentez sur les réseaux sociaux.
+
+:::{.border .shadow .bg-light .text-center}
+
+[Regret, déspoir, peur, colère : le réchauffement climatique lié aux activités humaines est connu depuis **40** ans !]{.text-orange .fs-2}
+
+:::
+
+
+:::{.callout-note icon="false"}
+#### ✍️
+J'ai lu...
+
+:::
 
 
 
