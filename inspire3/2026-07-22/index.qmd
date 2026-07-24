@@ -109,7 +109,7 @@ On a très vite [sympathisé]{.underline}[^ap] et on a marché ensemble jusqu'à
 [^db]: suivre une formation (loc.) : suivre un cours pour apprendre quelque chose. formation (n.f.) : cours, enseignement, apprentissage.
 [^dc]: s'échapper (v.) : fuir, se libérer d'une situation.
 [^dd]: tout plaquer (loc.) : abandonner son travail, sa vie, ses habitudes. plaquer (v.) : abandonner, laisser tomber.
-[^de] escale (n.f.) : arrêt d'un bateau dans un port pour se ravitailler ou faire une pause.
+[^de]: escale (n.f.) : arrêt d'un bateau dans un port pour se ravitailler ou faire une pause.
 
 ::::
 :::
