@@ -27,9 +27,10 @@ Je m'étais longtemps préparée à ce challenge et c'est le 12 novembre 2017 qu
 Je voulais tester mes limites, [affronter]{.underline} la solitude, comprendre ce qui nous lie à la nature et enfin tester ma force mentale et ma détermination.
 
 [^ab]: prendre forme : se concrétiser, se réaliser.
+[^az]: s'y faire (loc.) : s'habituer à quelque chose, accepter une situation.
 
 
-L'avantage de voyager seule, d'être une femme et [en plus]{.fw-bold}[^ac] étrangère, c'est que j'ai reçu beaucoup d'aide ! [Par contre]{.fw-bold}[^ad], en 105 jours je n'ai pu me doucher que 10 fois... Mais on s'y fait !
+L'avantage de voyager seule, d'être une femme et [en plus]{.fw-bold}[^ac] étrangère, c'est que j'ai reçu beaucoup d'aide ! [Par contre]{.fw-bold}[^ad], en 105 jours je n'ai pu me doucher que 10 fois... Mais on [s'y fait]{.underline}[^az] !
 
 Il faut aussi aimer dormir [au milieu de]{.fw-bold} la nature avec les animaux qui [rôdent]{.underline}[^ae]... les ours, les serpents à sonnette, les pumas et autres. Ma plus grande crainte était justement de [me retrouver face à]{.fw-bold} un ours... [Comme]{.fw-bold} je n'en avais jamais rencontré, [cela m'inquiétait]{.fw-bold}.
 Alors au début, dans les zones vraiment [à risques]{.underline}, j'essayais de camper avec d'autres randonneurs pour ne pas avoir de mauvaise surprise comme un ours qui viendrait [renifler]{.underline}[^af] [autour]{.fw-bold} de ma tente. Heureusement, [ça ne m'est jamais arrivé]{.fw-bold}. 
@@ -120,11 +121,128 @@ On a très vite [sympathisé]{.underline}[^ap] et on a marché ensemble jusqu'à
 
 
 
+# Grammaire
+
+
+:::{.bg-red .rounded-3 .shadow .m-1 .p-2}
+
+[Les temps du récit au passé]{.fw-bold .fs-5}
+
+- **Le passé composé** : pour parler [d'un événement ou d'un fait ponctuel]{.underline} et pour exprimer [un succession d'actions]{.underline}.
+- **L'imparfait** : pour décrire [les circonstances]{.underline} d'un événement ou d'un fait ponctuel, faire une [description]{.underline} ou raconter des [habitudes]{.underline}.
+- **Le plus-que-parfait** : pour exprimer une action passée antérieure à une action passée.
+
+:::
+
+### Ex. 1 : Complétez le témoignage avec les verbes au passé composé, à l'imparfait ou au plus-que-parfait
+
+:::{.border .shadow-sm .m-2 .p-2 .marksilver .fs-5}
+
+L'hiver dernier, je [me suis inscrit]{.text-orange} (s'inscrire) à l'Ultra Trail du Mont-Blanc (UTMB) et je [ai couru]{.text-orange} (courir) 168 kilomètres autour du Mont-Blanc avec un dénivelé de 9 600 mètres. Avant de faire cette course, je [n'avais jamais couru]{.text-orange} (ne jamais courir) aussi longtemps. Il y [avait]{.text-orange} (avoir) 2 500 coureurs. Je [m'étais preparé]{.text-orange} (se préparer) longtemps à l'avance pour être en forme car je [savais]{.text-orange} (savoir) que j'allais courir pendant 40 heures. 
+
+On [a quitté]{.text-orange} (quitter) Chamonix le vendredi à 17 h 30 et malheureusement il ne [faisait]{.text-orange} (faire) pas très beau : alors que le soleil [a brillé]{.text-orange} (briller) les deux jours précédents, il [s'est mis]{.text-orange} (se mettre) à pleuvoir au moment où nous [sommes partis]{.text-orange} (partir). Et il [a plu]{.text-orange} (pleuvoir) pendant les quatre premières heures de course. La fatigue [a commencé]{.text-orange} (commencer) à se faire sentir au bout de 10 heures de course. De plus, je [m'étais blessé]{.text-orange} (se blesser) à la cuisse trois jours avant et la douleur [est revenue]{.text-orange} (revenir) pendant une descente. À la première grande pause, je [ai mangé]{.text-orange} (manger) une grande assiette de pâtes et je [suis reparti]{.text-orange} (repartir). Il [restait]{.text-orange} (rester) 122 kilomètres et je [avais]{.text-orange} (avoir) envie d'abandonner. Je [ai trouvé]{.text-orange} (trouver) la force mentale au fond de moi et je [ai continué]{.text-orange} (continuer). Mais ma cuisse me [faisait]{.text-orange} (faire) de plus en plus mal et, en arrivant à une étape, je [me suis dirigé]{.text-orange} (se diriger) vers la tente des soigneurs. Un médecin me [a ausculté]{.text-orange} (ausculter) et me [a autorisé]{.text-orange} (autoriser) à repartir en me conseillant de ralentir un peu. Je [souffrais]{.text-orange} (souffrir) mais je [voulais]{.text-orange} (vouloir) tester mes limites. Je [ai marché]{.text-orange} (marcher) pendant les 50 derniers kilomètres mais je [n'ai pas renoncé]{.text-orange} (ne pas renoncer). Je [ai passé]{.text-orange} (passer) la ligne d'arrivée épuisé mais heureux !
+
+
+:::
+
+
+------
+
+# Cahier d'activités
+
+## Ex. 1
+
+::: {.callout-note collapse="true" title="Transcription : voyage insolite en Amérique du Sud"}
+
+::::{.fs-5}
+
+[Le journaliste : ]{.fw-bold .text-green} Bonjour à toutes et à tous. Aujourd'hui, dans notre émission Voyage insolite, nous recevons Salma Boussif, qui revient d'un long voyage. Bonjour Salma, pourquoi avez-vous choisi de voyager ?
+
+[Salma : ]{.fw-bold .text-blue} Quand j'étais jeune, j'avais un rêve. Je voulais voyager pendant plusieurs mois. Mais je n'avais pas d'argent. Après mes études, j'ai dû commencer à travailler. J'avais 23 ans. Je me suis dit que je ne pourrais jamais prendre une année de césure, puisque j'avais déjà démarré dans la vie active. Pourtant, je n'ai pas abandonné cette idée. J'ai pu faire des économies, et huit ans plus tard, étant célibataire, j'étais prête à partir. J'ai quitté mon travail, après que l'entreprise qui m'employait m'a donné un congé, et je suis partie.
+
+[Le journaliste : ]{.fw-bold .text-green} Comment avez-vous préparé votre voyage ?
+
+[Salma : ]{.fw-bold .text-blue} Pendant que je travaillais, j'ai commencé à penser à mon voyage, à ce que je voulais faire. J'ai décidé de voyager en Amérique du Sud, parce que je parlais espagnol, et que j'avais envie de découvrir cette partie du monde. Je voulais visiter plusieurs pays et faire de la randonnée. Il y a de magnifiques sites naturels dans cette région du monde.
+
+[Le journaliste : ]{.fw-bold .text-green} Vous n'avez jamais eu peur de la solitude ?
+
+[Salma : ]{.fw-bold .text-blue} Non. Mes amis étaient déjà en couple, ou formaient une famille, les célibataires travaillaient. Si je voulais voyager, il fallait que je le fasse seule. Avant que je parte, plusieurs personnes de ma famille ont essayé de me décourager. J'ai senti que les autres avaient une crainte, mais moi pas. Après mon retour, ils ont été très heureux pour moi.
+
+[Le journaliste : ]{.fw-bold .text-green} Comment s'est passé votre voyage ?
+
+[Salma : ]{.fw-bold .text-blue} Ça a été un moment de vie extraordinaire. J'étais libre et sans contrainte. Je suis partie six mois, parce que j'avais juste assez d'argent pour ça. Au moment où je suis montée dans l'avion, j'ai ressenti une grande liberté. Quand on a le temps de voyager, on peut s'arrêter dans les endroits qui nous plaisent. On n'est pas obligé de suivre un programme. C'était une expérience incroyable.
+
+[Le journaliste : ]{.fw-bold .text-green} Qu'est-ce qui vous a le plus marqué ?
+
+[Salma : ]{.fw-bold .text-blue} Avoir du temps. Dans notre vie quotidienne, nous sommes toujours pressés. Pendant que je voyageais, le temps ne passait pas de la même façon. J'ai aimé ce rythme lent. Et puis, l'accueil et la gentillesse des gens que j'ai rencontrés. Et aussi, avoir la chance d'aller dans des endroits très isolés, peu connus. J'ai traversé la forêt amazonienne sur un petit bateau et j'étais la seule touriste.
+
+[Le journaliste : ]{.fw-bold .text-green} Quelle aventure ! Vous avez pensé à votre prochain voyage ?
+
+::::
+:::
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_CA_AUDIO/INSP3_CA_Piste80.mp3" type="audio/mpeg">
+</audio>
 
 
 
+## Ex. 9
+
+::: {.callout-note collapse="true" title="Transcription : les propositions de temps"}
+
+::::{.fs-5}
+
+1. Au moment où les voyageurs sont arrivés au port.
+2. Avant qu'elles partent en voyage.
+3. Après que la tempête est passée.
+4. Au moment où j'ai pris ma décision.
+5. Dès que tu recevras ton passeport.
+6. Avant que nos enfants reviennent à Paris.
+7. Pendant que vous prépariez les bagages.
+
+::::
+:::
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_CA_AUDIO/INSP3_CA_Piste81.mp3" type="audio/mpeg">
+</audio>
 
 
+## Ex. 10 Dictée
+
+::: {.callout-note collapse="true" title="Transcription : dictée"}
+
+::::{.fs-5}
+
+a. Dès qu'il aura trouvé un équipage, il quittera son emploi pour faire le tour du monde sur un voilier.
+b. J'avais beaucoup de craintes avant que vous me racontiez votre voyage.
+c. Il a rangé les affaires pendant que je préparais l'itinéraire.
+d. Nous sommes arrivés au moment où la course a commencé.
+e. Il lui avait fallu beaucoup de temps pour décider d'accomplir cet exploit.
+f. Nous avons terminé l'ascension après que vous êtes parti.
+g. J'avais peur d'affronter des problèmes avant d'entreprendre cet exploit.
+h. L'équipage a navigué pendant plus d'un an.
+
+::::
+:::
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_CA_AUDIO/INSP3_CA_Piste82.mp3" type="audio/mpeg">
+</audio>
+
+
+## Ex. 11
+
+:::{.marksilver .text-orange .fs-5 .fst-italic .border .shadow-sm}
+Racontez votre voyage le plus marquant. Enregistrez-vous.
+:::
+
+:::{.callout-note}
+#### ✍️
+
+
+:::
 
 
 
