@@ -116,6 +116,15 @@ article.content, .quarto-content-body {
 .markgrey   { background-color: #f2f3f4; } // Light neutral gray
 .markslate  { background-color: #c8d3df; } // Noticeably darker cool gray
 
+// Full-width block bar: combine with any mark* class on a fenced div
+// e.g.  ::: {.bar .marksilver}
+.bar {
+  display: block;
+  width: 100%;
+  padding: 0.35em 0.6em;
+  margin: 0 0 0.75em 0;
+}
+
 /* Margin images — uniform width */
 .column-margin img {
   width: 95%;

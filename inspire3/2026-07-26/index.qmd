@@ -1,0 +1,164 @@
+---
+title: "Leçon 34: Parler du tourisme"
+date: "2026-07-26"
+categories: ["B1", "unite9", "autodidacte"]
+reference-location: document # margin, block, section, document
+citation-location: document #margin
+image: "https://images.unsplash.com/photo-1708621555106-9ee9ed1d28f8?q=80&w=640"
+
+---
+
+# Doc1
+
+::: {.bar .marksilver .py-0 width="80%"}
+[Passion française]{.fw-bold .fs-3 .text-info}
+:::
+
+C'est l'été des randonneurs, grâce [auxquels]{.mark} nos campagnes revivent. Partout dans l'Hexagone, les Français [dévorent]{.underline}[^aa] les kilomètres. Sur les sommets, en bord de mer, en pleine campagne ou en ville, cartes IGN et bâtons à la main, bonnes chaussures aux pieds, la marche est le loisir numéro un de l'été. Toutes les générations [s'y mettent]{.fw-bold}.
+
+Les réfuges de montagne, dans [lesquels]{.mark} on ne croisait généralement que peu de touristes, sont aujourd'hui [envahis]{.underline} de groupes de jeunes citadins [amoureux des grandes espaces]{.underline}.
+
+Aux offices de tourisme, les familles cherchent les balades [environnantes]{.underline}[^ab] pour un pique-nique au bord d'une rivière.
+
+C'est l'occasion d'échanger avec l'[inconnu]{.underline} à côté de qui on marche. On va aussi à la rencontre des agriculteurs, chez [lesquels]{.mark} on s'installe pour quelques jours avant de repartir ver une autre ferme.
+
+D'autres transportent leur tente, qu'ils montent en pleine nature et sous [laquelle]{.mark} ils se reposent. La randonnée offre une l'évasion pour un coût modeste. Elle [libère]{.underline} l'horizon aux télétravailleurs. Elle est bonne pour la santé et, en famille ou entre amis, la marche, pour zéro émission carbonne, est un formidable lieu de rencontres en plein air, de discussions et de partages. Les chemins ne sont-ils pas les derniers lieux où l'on salue systèmatiquement les gens que l'on croise ? Belle civilité.
+
+
+[^aa]: dévorer : devour 
+[^ab]: environnant (adj.) : surrounding
+
+
+
+# Doc3
+
+::: {.callout-note collapse="true" title="Transcription : le tourisme spatial"}
+
+::::{.fs-5}
+
+[Le chroniqueur : ]{.fw-bold .text-blue} Aujourd'hui, je ne vous parlerai pas d'avion, mais de [tourisme spatial]{.underline}. Demain, à 20 h — 2 h du matin, heure française — le premier vol touristique de SpaceX [décollera]{.text-orange}[^ca] des États-Unis. Quatre touristes [passeront]{.text-orange} trois jours dans l'espace. Des tests [seront effectués]{.text-orange} avant et après le vol pour étudier l'effet du voyage sur leur corps. L'idée est d'accumuler des données pour les futurs passagers privés.
+
+Après ces trois jours [en orbite]{.underline} à 540 km d'altitude, les astronautes [devraient]{.fw-bold} [amerrir]{.underline}[^cb] dans l'océan Atlantique, [au large des côtes]{.fw-bold}[^cc] de la Floride.
+
+Alors, en 2049, les touristes [enverront]{.text-orange} sans doute à leurs proches des cartes postales depuis des hôtels [tout compris]{.underline}[^cd] : « bises de la station orbitale ». [En tout cas]{.fw-bold}, dans 30 ans, nous ne [voyagerons]{.text-orange} plus comme aujourd'hui, c'est certain. Les moins riches [auront fait]{.text-purple} l'expérience de [l'apesanteur]{.underline}[^ce] et le tourisme spatial [sera entré]{.text-purple} dans les habitudes.
+
+Mais quel [sera]{.text-orange} le coût écologique de ces voyages dans l'espace ? Il est encore difficile d'estimer précisément l'impact environnemental de ce tourisme. Mais [en se basant sur]{.fw-bold} [l'empreinte carbone]{.underline}[^cf] des récents vols commerciaux dans l'espace, les scientifiques [alertent sur]{.fw-bold} les conséquences pour l'environnement.
+
+Alors, vivre l'extase[^cg] de l'apesanteur avec vue sur la Terre et sans penser au futur : le tourisme spatial [a-t-il un bel avenir devant lui]{.fw-bold} ?
+
+[^ca]: décoller (v.) : quitter le sol (avion, fusée). ↔ atterrir.
+[^cb]: amerrir (v.) : se poser sur la mer.
+[^cc]: au large de (loc.) : en pleine mer, à distance de la côte.
+[^cd]: tout compris (loc.) : all-inclusive.
+[^ce]: apesanteur (n.f.) : absence de gravité, weightlessness.
+[^cf]: empreinte carbone (n.f.) : quantité de CO₂ émise par une activité.
+[^cg]: extase (n.f.) : état de joie intense, ravissement ; ecstasy, bliss. « vivre l'extase de » = éprouver un plaisir extrême.
+
+::::
+:::
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_LE_AUDIO/INSP3_LE_Piste140.mp3" type="audio/mpeg">
+</audio>
+
+
+------
+
+# Grammaire
+
+
+:::{.markyellow .rounded-3 .shadow .m-1 .p-2}
+
+## Les pronoms relatifs composés
+
+[Formation :]{.fw-bold} [préposition]{.fw-bold .text-red} (dans, avec, sur, sous...) + [lequel]{.fw-bold .text-red} / [laquelle]{.fw-bold .text-red} / [lesquels]{.fw-bold .text-red} / [lesquelles]{.fw-bold .text-red}
+
+[Les refuges de montagne, [dans lesquels]{.fw-bold .text-red} on ne croisait généralement que peu de touristes, sont aujourd'hui envahis de groupes de jeunes citadins amoureux des grandes espaces.]{.fst-italic}  
+[D'autres transportent leur tente, qu'ils montent en pleine nature et sous [laquelle]{.fw-bold .text-red} ils se reposent.]{.fst-italic}
+
+
+- ‼️ Quand le pronom replace [une personne]{.underline .text-red}, on peut utiliser [qui]{.fw-bold .text-red} à la place de [lequel]{.fw-bold}.  
+  [C'est l'occasion d'échanger avec l'[inconnu]{.underline} [à côté de qui]{.fw-bold .text-red} on marche.]{.fst-italic}  
+- ‼️ Le pronom se contracte avec les prépositions [à]{.fw-bold .text-red} et [de]{.fw-bold .text-red} : [auquel]{.fw-bold .text-red}, [duquel]{.fw-bold .text-red}, [auxquels]{.fw-bold .text-red}, [desquels]{.fw-bold .text-red}...  
+  [C'est l'été des randonneurs, grâce [auxquels]{.fw-bold .text-red} nos campagnes revivent.]{.fst-italic}
+
+:::
+
+:::{.column}
+:::
+
+:::{.markyellow .rounded-3 .shadow .m-1 .p-2}
+
+## Le futur antérieur
+
+On utilise le futur antérieur pour parler d'une action future antérieur à une autre action future.
+
+[Formation :]{.fw-bold} [avoir ou être au futur]{.fw-bold .text-red} + [participe passé]{.fw-bold .text-red}
+
+[Dans trente ans, nous ne [voyagerons]{.fw-bold} plus comme aujourd'hui, c'est certain. Les moins riches [auront fait]{.fw-bold .text-red} l'expérience de l'apesanteur et le tourisme spatial [sera entré]{.fw-bold .text-red} dans les habitudes.]{.fst-italic}
+
+:::
+
+
+## Ex. 5
+
+::: {.callout-note collapse="true" title="Transcription : futur antérieur ou autre temps ?"}
+
+::::{.fs-5}
+
+[Exemple :]{.fw-bold} Elle aura voyagé.
+
+a. Ils se seront entraînés.
+b. Il est parti.
+c. Tu auras marché.
+d. On avait couru.
+e. Elle aurait modifié.
+f. Elle se sera reposée.
+g. Ils gagneront.
+h. Vous aviez participé.
+i. Vous aurez gagné.
+j. Ils se seraient inscrits.
+
+::::
+:::
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_LE_AUDIO/INSP3_LE_Piste147.mp3" type="audio/mpeg">
+</audio>
+
+
+# Vocabulaire
+
+
+:::{.markgreen .rounded-3 .shadow .m-1 .p-2}
+
+**La randonnée : **   
+
+- un bâton  : (n.m.) un bâton de marche
+- l'évasion : (n.f.) action de s'évader, de s'échapper
+- un(e) randonneur / randonneuse : (n.) personne qui pratique la randonnée
+- un refuge : (n.m.) abri pour les randonneurs
+- (monter) une tente : (v.) installer une tente
+- en plein air : (loc.) à l'extérieur, à l'air libre
+- en pleine nature : (loc.) dans la nature, loin de la ville
+
+**L'espace : **
+
+- l'apesanteur : (n.f.) absence de gravité, weightlessness
+- un(e) astronaute : (n.) personne qui voyage dans l'espace
+- une station orbitale : (n.f.) station spatiale en orbite autour de la Terre
+- un vol : (n.m.) voyage en avion ou en fusée
+- spatial(e) : (adj.) qui concerne l'espace, l'univers
+- amerrir / atterrir : (v.) se poser sur la mer / sur la terre.
+- décoller : (v.) quitter le sol (avion, fusée). ↔ atterrir.
+- en orbite : (loc.) autour d'une planète, d'un astre
+
+:::
+
+
+
+
+
+
+
+
