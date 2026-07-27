@@ -8,5 +8,7 @@ format:
     citation-location: document
     margin-header: |
       <a href="https://inspire.hachettefle.fr/inspire-3_livre-de-l-eleve_fr.html" target="_blank" style="font-size:0.85em;"><i class="bi bi-collection-play"></i> Inspire 3</a><br>
-      <a href="https://inspire.hachettefle.fr/index_fr.html" target="_blank" style="font-size:0.85em;"><i class="bi bi-broadcast"></i> inspire média</a>
+      <a href="https://inspire.hachettefle.fr/index_fr.html" target="_blank" style="font-size:0.85em;"><i class="bi bi-broadcast"></i> inspire média</a><br>
+      <a href="https://inspire.hachettefle.fr/ressources/INSP3_CA_PDF/INS3_CA_corriges_transcriptions.pdf" target="_blank" style="font-size:0.85em;"><i class="bi bi-file-earmark-pdf"></i> Corrigés(CA)</a><br>
+      <a href="https://inspire.hachettefle.fr/ressources/INSP3_LE_PDF/INSP3_corriges-sentrainer.pdf" target="_blank" style="font-size:0.85em;"><i class="bi bi-file-earmark-pdf"></i> Corrigés(livre)</a>
 

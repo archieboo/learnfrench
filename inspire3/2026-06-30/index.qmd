@@ -279,6 +279,8 @@ Enfin, [en tant que journaliste, on doit]{.fw-bold style="background-color:#d1e7
 
 ::::
 
+:::
+
 :::{.callout-tip title="🗣️ Commentaire général"}
 Dans l'ensemble, vos idées sont **claires et bien organisées** : vous utilisez de bons connecteurs (*de plus, enfin, au contraire, alors que*) et vous réemployez le vocabulaire de la leçon (*déontologie, véracité, mettre en contexte, sources, soutenu*).
 

@@ -156,6 +156,94 @@ j. Ils se seraient inscrits.
 :::
 
 
+# Cahier d'activités
+
+## Ex. 9 Dictée
+
+::: {.callout-note collapse="true" title="Transcription : dictée"}
+
+::::{.fs-5}
+
+a. Ce sont des livres sur la randonnée [auxquels]{.mark} on peut [faire confiance]{.underline}.
+b. Les voyages dans l'espace seront plus fréquents dans le futur.
+c. Pour les habitants des villes, la randonnée est une évasion dans la nature.
+d. Nous avons marché vers le refuge [dans lequel]{.mark} nous avions dormi l'année dernière.
+e. Ce sont les maisons [près desquelles]{.mark} nous nous sommes arrêtés.
+f. Les astronautes sont [en apesanteur]{.underline} dans l'espace.
+g. Vous [aurez eu]{.text-purple} le temps de finir la randonnée avant qu'il pleuve.
+h. Je prendrai un bâton pour faire l'ascension de cette montagne.
+
+::::
+:::
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_CA_AUDIO/INSP3_CA_Piste83.mp3" type="audio/mpeg">
+</audio>
+
+
+## Ex. 10 Communiquer
+
+::::{.callout-note icon="false"}
+#### ✍️
+
+C'est décidé, je vais partir faire une grande randonnée dans les Alpes. Avant de faire la randonnée, j'aurai eu besoins de procuer les matériels nécessaires. J'ai déjà fait une liste, dans laquelle il y a des vêtements adaptés à la saison et aux conditions, des chaussures de randonnée confortables, des bâtons de randonnée, et une tente dans laquelle je me reposerai en plein air. Je vais prendre la route de Nice au lac Leman sur laquelle je marcherai environ 600 km, avec une dénivelé de 30 000 mètres. Bien sûr, ce sera une longue randonnée, comprirant 36 étapes et plusiers refuges duquels beaucoup de sentiers partent. Je parcourais tous les étapes dans 3 semaines à un mois, ce qui dépendera sur les météo et ma forme. Bonne chance à moi !
+
+### Correction (niveau DELF B1)
+
+#### 1. Ton texte avec les erreurs signalées
+
+:::{.callout-warning collapse="true" title="Repérage des erreurs"}
+
+C'est décidé, je vais partir faire une grande randonnée dans les Alpes. Avant de faire la randonnée, [j'aurai eu besoins]{.text-red} de [procuer]{.text-red} [les matériels]{.text-red} nécessaires. J'ai déjà fait une liste, [dans laquelle]{.text-red} il y a des vêtements adaptés à la saison et aux conditions, des chaussures de randonnée confortables, des bâtons de randonnée, et une tente dans laquelle je me reposerai en plein air. Je vais prendre la route de Nice au [lac Leman]{.text-red} sur laquelle je marcherai environ 600 km, avec [une dénivelé]{.text-red} de 30 000 mètres. Bien sûr, ce sera une longue randonnée, [comprirant]{.text-red} 36 étapes et [plusiers]{.text-red} refuges [duquels]{.text-red} beaucoup de sentiers partent. [Je parcourais]{.text-red} [tous les étapes]{.text-red} [dans 3 semaines]{.text-red} à un mois, ce qui [dépendera sur]{.text-red} [les météo]{.text-red} et ma forme. Bonne chance à moi !
+
+:::
+
+#### 2. Section corrigée (corrections en gras)
+
+:::{.callout-tip collapse="true" title="Version corrigée"}
+
+C'est décidé, je vais partir faire une grande randonnée dans les Alpes. Avant de faire la randonnée, [j'aurai eu besoin]{.fw-bold} de [me procurer]{.fw-bold} [le matériel]{.fw-bold} nécessaire. J'ai déjà fait une liste, [sur laquelle]{.fw-bold} il y a des vêtements adaptés à la saison et aux conditions, des chaussures de randonnée confortables, des bâtons de randonnée, et une tente dans laquelle je me reposerai en plein air. Je vais prendre la route de Nice au [lac Léman]{.fw-bold} sur laquelle je marcherai environ 600 km, avec [un dénivelé]{.fw-bold} de 30 000 mètres. Bien sûr, ce sera une longue randonnée, [comprenant]{.fw-bold} 36 étapes et [plusieurs]{.fw-bold} refuges [desquels]{.fw-bold} beaucoup de sentiers partent. [Je parcourrai]{.fw-bold} [toutes les étapes]{.fw-bold} [en 3 semaines]{.fw-bold} à un mois, ce qui [dépendra de]{.fw-bold} [la météo]{.fw-bold} et ma forme. Bonne chance à moi !
+
+:::
+
+#### 3. Explication des corrections
+
+:::{.callout-note collapse="true" title="Pourquoi ces corrections ?"}
+
+**Grammaire et accords**
+
+- **besoins → besoin** : dans *avoir besoin de*, le nom reste toujours au singulier.
+- **les matériels → le matériel** : *matériel* est un collectif ; il s'emploie au singulier (= l'ensemble de l'équipement).
+- **une dénivelé → un dénivelé** : *dénivelé* est masculin (à ne pas confondre avec *une dénivellation*).
+- **plusieurs refuges duquels → desquels** : l'antécédent est pluriel → *de + lesquels = desquels* (*duquel* ne s'emploie qu'au masculin singulier).
+- **tous les étapes → toutes les étapes** : *étape* est féminin.
+- **les météo → la météo** : nom féminin singulier, invariable ici.
+
+**Les temps du futur**
+
+- **je parcourais → je parcourrai** : *parcourais* est l'imparfait ; le futur simple de *parcourir* prend deux *r* (*je parcourrai*, comme *courir → je courrai*).
+- **dépendera → dépendra** : futur de *dépendre* = radical *dépendr-* + *-a* (pas de *e* intercalaire).
+- **j'aurai eu besoin** : correct comme futur antérieur (action achevée avant une autre action future). Plus naturel encore : *Avant de partir, j'aurai acheté tout le matériel nécessaire.*
+
+**Constructions verbales et prépositions**
+
+- **procuer les matériels → me procurer le matériel** : d'abord l'orthographe (*procurer*), ensuite la forme pronominale : *se procurer qqch* = l'obtenir pour soi. *Procurer* seul veut dire *procurer qqch **à** qqn*.
+- **dépendre sur → dépendre de** : anglicisme (*to depend **on***) ; en français on *dépend **de*** quelque chose.
+- **dans 3 semaines → en 3 semaines** : *en* exprime la durée nécessaire pour accomplir l'action ; *dans* situerait le départ dans 3 semaines.
+
+**Lexique et orthographe**
+
+- **comprirant → comprenant** : participe présent de *comprendre* (radical *compren-*). *Comprirent* serait le passé simple.
+- **plusiers → plusieurs**.
+- **lac Leman → lac Léman** : accent aigu.
+- **une liste dans laquelle → sur laquelle** : on écrit *sur une liste*, donc le relatif reprend *sur*. Encore plus idiomatique : *une liste sur laquelle **figurent** des vêtements…*
+
+:::
+
+::::
+
+
+
 
 
 
