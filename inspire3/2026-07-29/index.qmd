@@ -1,0 +1,102 @@
+---
+title: "Leçon 35: Réfléchir au voyage"
+date: "2026-07-29"
+categories: ["B1", "unite9", "autodidacte"]
+reference-location: document # margin, block, section, document
+citation-location: document #margin
+image: "https://images.unsplash.com/photo-1627949566743-283bf691cff6?q=80&w=640"
+
+---
+
+
+# Doc1
+
+[Guide du voyage immobile]{.fw-bold .fs-3 .text-capitalize} 
+
+Comment peut-on voyager en restant immobile ? Le « voyage immobile » est une expression [paradoxale]{.underline} mais pourtant très utilisée. Elle désigne [aussi bien]{.markorange .fw-bold}[^aa] le fait de vivre un voyage géographiquement immobile, [que]{.markorange .fw-bold}[^aa] celui de voyager par l'esprit, sans aller nulle part. Nous vous proposons plusieur [pistes]{.underline} pour découvrir et explorer les différents types de voyages immobiles.
+
+
+**Vivre un voyage géographiquement immobile**
+
+Pour expérimenter ce type de voyage, vous devrez partir quelque part et [vous y poser]{.underline}[^ab]. Vous pourrez, selon votre envie, [soit][.markorange .fw-bold] vous consacrer à un objectif, par exemple, découvrir de vous plus en profondeur, [soit]{.markorange .fw-bold}[^ac] au contraire « [laisser venir]{.underline}[^ad] ». Le temps [s'écoule]{.underline} et l'endroit que nous avons choisi fait ton travail en nous.
+
+
+**Voyager vers d'autres lieux et d'autres époques sans se déplacer**
+
+Pour aller ailleurs, consultez des guides de voyage et lisez des récits de voyage : Marco Polo, Stendhal, Sylvain Tesson, Titouan Lamazou...
+
+On peut aussi n'importe où, dans le temps et dans l'espace, grâce à la philosophie, au cinéma, au théâtre... Ou bien visiter des musées, comme le musée Guimet à Paris, des Confluences à Lyon.
+
+**Voyager vers un lieu imaginé**
+
+Laissez votre esprit [vagagonder]{.underline}. Allez partout en rêve. Comme Baudelaire, qui considère que « les plus beaux voyages sont ceux que l'on imagine ».
+
+**Prendre son temps**
+
+Ayez du temps à perdre : le voyage immobile comme l'art de ne rien faire et de contempler.  
+Méditez : laissez derrière vous votre [port d'attache]{.underline}[^ae], quittez les rivages de l'habitude et de vos certitudes[^af], tracez des chemins dans l'inconnu.
+
+
+[^aa]: aussi bien... que... : introduit deux éléments de même nature, exprimant une idée de comparaison ou d'équivalence ( [as well as..., as...]{.fst-italic} ). 
+[^ab]: s'y poser : se fixer dans un lieu, s'installer quelque part pour y rester un certain temps ( [to settle down]{.fst-italic} ).
+[^ac]: soit... soit... : introduit deux alternatives, exprimant un choix entre deux possibilités ( [either... or...]{.fst-italic} ).
+[^ad]: laisser venir : se laisser aller, ne pas chercher à contrôler ou à diriger les événements ( [to let things happen]{.fst-italic} ).
+[^ae]: port d'attache : lieu où l'on se sent chez soi, où l'on a ses repères et ses habitudes ( [home port, ~comfort zone]{.fst-italic} ).
+[^af]: certitude (n.f.) : conviction ferme et inébranlable, croyance en la vérité ou la justesse de quelque chose ( [certainty]{.fst-italic} ).
+
+
+------
+
+# Doc2
+
+::: {.callout-note collapse="true" title="Transcription : le voyage immobile d'Ariane Mnouchkine"}
+
+::::{.fs-5}
+
+[La journaliste : ]{.fw-bold .text-blue} Bonjour Ariane Mnouchkine. Vous êtes la fondatrice du Théâtre du Soleil et vous avez choisi d'évoquer pour nous votre « voyage immobile » à Bodnat, un [sanctuaire]{.underline}[^ba] bouddhiste situé à Katmandou, au Népal. Pourquoi êtes-vous partie seule au Népal ?
+
+[Ariane Mnouchkine : ]{.fw-bold .text-red} Je souhaitais [m'éloigner]{.underline} de Paris, du travail. Je suis alors partie à Bodnat, lieu profondément bouddhiste. Je suis heureuse que des visiteurs [puissent]{.text-orange} profiter de cet endroit extraordinaire. Je suis arrivée juste après Noël. Il faisait un temps sublime. Je me suis installée dans la guest house du monastère où j'ai passé quinze jours. Là, je n'ai rien fait d'autre que de me lever le matin, tourner autour du grand [stupa]{.underline}[^bb] vingt ou trente fois par jour. Le stupa, c'est le monument religieux [autour duquel]{.mark} on tourne, toujours par la gauche. Je m'arrêtais pour manger un bol de nouilles et boire du thé préparé par les moines.
+
+[La journaliste : ]{.fw-bold .text-blue} Comment vos journées étaient-elles [rythmées]{.underline}[^bc] ?
+
+[Ariane Mnouchkine : ]{.fw-bold .text-red} Par les tours autour du stupa. Je me suis autorisée une vie quotidienne sans aucune activité. Cette vie [oisive]{.underline}[^bd] était supportable, je crois, parce que je travaillais spirituellement.
+
+[La journaliste : ]{.fw-bold .text-blue} C'est la première fois que vous [séjourniez]{.underline}[^be] à Bodnat ?
+
+[Ariane Mnouchkine : ]{.fw-bold .text-red} Non. D'ailleurs, la dernière fois que j'y étais allée, les pots et les [bassines]{.underline}[^bf] pour se laver, celles-ci étaient en [cuivre]{.underline}[^bg]. Aujourd'hui, ils sont en plastique. Je suis triste qu'on [fasse]{.text-orange} disparaître les choses du passé. Je me suis posé la question du progrès véritable et je regrette qu'on [soit]{.text-orange} obligé de choisir entre tradition et progrès.
+
+[La journaliste : ]{.fw-bold .text-blue} L'un de vos plus beaux voyages a donc été immobile.
+
+[Ariane Mnouchkine : ]{.fw-bold .text-red} C'est vrai. J'ai [davantage]{.fw-bold} voyagé sans bouger à Bodnat que si j'avais parcouru 150 kilomètres dans la région. J'observais les gens, je cherchais des regards. [En fait]{.fw-bold}, je n'ai plus envie de passer trois jours quelque part, puis de vite [m'en aller]{.underline}[^bh]. Je veux rester. Quand j'ai quitté Bodnat, j'ai eu envie de pleurer. [J'aurais pu, j'aurais dû]{.text-purple} rester plus longtemps.
+
+[^ba]: sanctuaire (n.m.) : lieu saint, édifice consacré au culte ( [sanctuary, shrine]{.fst-italic} ).
+[^bb]: stupa (n.m.) : monument bouddhiste en forme de dôme, autour duquel les fidèles tournent en signe de dévotion.
+[^bc]: rythmer (v.) : donner un rythme, une régularité à ( [to set the pace of]{.fst-italic} ).
+[^bd]: oisif / oisive (adj.) : qui ne fait rien, sans occupation ( [idle]{.fst-italic} ). → l'oisiveté (n.f.).
+[^be]: séjourner (v.) : rester un certain temps dans un lieu ( [to stay]{.fst-italic} ). → un séjour.
+[^bf]: bassine (n.f.) : grand récipient large et peu profond ( [basin, tub]{.fst-italic} ).
+[^bg]: cuivre (n.m.) : métal rouge-orangé ( [copper]{.fst-italic} ).
+[^bh]: s'en aller (v.) : partir, quitter un lieu ( [to leave, to go away]{.fst-italic} ).
+
+::::
+:::
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_LE_AUDIO/INSP3_LE_Piste141.mp3" type="audio/mpeg">
+</audio>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
