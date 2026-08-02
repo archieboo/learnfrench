@@ -86,12 +86,114 @@ Méditez : laissez derrière vous votre [port d'attache]{.underline}[^ae], quitt
 </audio>
 
 
+------
+
+# Grammaire
 
 
+:::{.markyellow .rounded-3 .shadow .m-1 .p-2}
+
+#### [Le subjonctif]{.fw-bold .fs-4 .text-capitalize}
+
+On utilise le subjonctif arès l'expression d'un sentiment.  
+_[Je suis content(e) / furieux(euse) / triste... que]{.fw-bold} + [subjonctif]{.fw-bold .text-purple}_  
+_[Je regrette que / je suis désolé(e) que / je suis heureux(se) que...]{.fw-bold} + [subjonctif]{.fw-bold .text-purple}_  
+
+- ‼️ Quand le sujet parle de lui-même, on utilise l'indicatif.  
+     _Je suis heureuse [de retourner]{.fw-bold} à Bodnat._  
+
+- 💭 On utilise également le subjonctif pour exprimer l'obligation, le doute ou le souhait.  
+     _[Il faut que]{.fw-bold} le patrimoine culturel [soit]{.fw-bold} préservé._  
+     _[Je ne crois pas que]{.fw-bold} les voyages [soient]{.fw-bold} dangereux._  
+     _[Je souhaite qu']{.fw-bold}on [prenne]{.fw-bold} moins l'avoin._
+
+:::
 
 
+## Ex. 8
+
+::: {.callout-note collapse="true" title="Transcription : Ex. 8"}
+
+::::{.fs-5}
+
+**Exemple.** Je suis heureuse qu'on [parte]{.text-orange} en voyage ensemble.
+
+**a.** Il regrette que ses amis ne [viennent]{.text-orange} pas avec lui.
+
+**b.** Il faut que les sites touristiques [soient]{.text-orange} protégés.
+
+**c.** Je ne pense pas que nous [puissions]{.text-orange} bientôt aller sur la Lune.
+
+**d.** On est énervé que le vol [soit]{.text-orange} retardé.
+
+**e.** Il a peur que ce voyage [soit]{.text-orange} dangereux.
+
+**f.** Il est nécessaire que tu [sois]{.text-orange} en forme pour faire cette randonnée.
+
+**g.** Il ne croit pas que cette destination [soit]{.text-orange} intéressante pour un enfant.
+
+**h.** Elle souhaite que ses amis [viennent]{.text-orange} avec elle sur le voilier.
+
+::::
+:::
 
 
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP3_LE_AUDIO/INSP3_LE_Piste150.mp3" type="audio/mpeg">
+</audio>
+
+
+------
+
+# Vocabulaire
+
+:::{.markgreen .rounded-3 .shadow .m-1 .p-2}
+
+**Le voyage :**
+
+- un port d'attache : lieu où l'on se sent chez soi  
+- mobile <> immobile
+- contempler : regarder avec attention, admirer
+- découvrir
+- explorer
+- laisser derrière soi : quitter, abandonner
+- s'éloigner de : se mettre à distance de, s'échapper de
+- s'installer : se fixer dans un lieu, s'établir
+- se poser : se fixer dans un lieu, s'installer quelque part pour y rester un certain temps
+- vagabonder : se promener sans but précis, errer
+
+
+**La mer :**
+
+- la houle : mouvement de la mer, des vagues
+- un navire : bateau de grande taille
+- un phare
+- un rivage : bord de la mer, de l'océan ou d'un lac
+
+**Les sentiments :**
+
+- le plaisir
+- heureux / heureuse
+- triste
+- regretter
+
+**La sacré :**
+
+- l'âme (n.f.)
+- l'esprit (n.m.)
+- un  moine / une moniale : personne qui se consacre à la vie religieuse, vivant dans un monastère ou un couvent
+- un monastère 
+- un sanctuaire 
+- spirituel / spirituelle , spirituellement
+
+**La localisation :**
+
+- ailleurs: dans un autre lieu, dans un autre endroit; d'ailleurs; par ailleurs
+- n'importe où
+- quelque part <> nulle part
+
+
+:::
 
 
 
