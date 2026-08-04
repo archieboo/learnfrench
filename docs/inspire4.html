@@ -86,9 +86,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -255,7 +255,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(0)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="YXV0b2RpZGFjdGU=">autodidacte <span class="quarto-category-count">(1)</span></div><div class="category" data-category="QjI=">B2 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="dW5pdGUx">unite1 <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
@@ -269,7 +269,37 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="QjIlMkN1bml0ZTElMkNhdXRvZGlkYWN0ZQ==" data-listing-date-sort="1785560400000" data-listing-file-modified-sort="1785810339077" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="10" data-listing-word-count-sort="1833">
+<div class="thumbnail"><a href="./inspire4/2026-08-01/index.html" class="no-external">
 
+<img loading="lazy" src="https://images.unsplash.com/photo-1509909756405-be0199881695?q=80&amp;w=640" class="thumbnail-image" style="height: 200px;">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./inspire4/2026-08-01/index.html" class="no-external">Leçon 1: Donner une définition du bonheur</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('QjI='); return false;">B2</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('dW5pdGUx'); return false;">unite1</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('YXV0b2RpZGFjdGU='); return false;">autodidacte</div>
+
+</div>
+<div class="delink listing-description"><a href="./inspire4/2026-08-01/index.html" class="no-external">
+<span class="fw-bold text-blue">La journaliste :</span> C’est quoi le bonheur ?
+</a></div>
+</div>
+<div class="metadata">
+<a href="./inspire4/2026-08-01/index.html" class="no-external">
+<div class="listing-date">
+Aug 1, 2026
+</div>
+</a>
+</div>
+</div>
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
 </div></main> <!-- /main -->

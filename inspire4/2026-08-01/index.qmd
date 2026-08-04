@@ -1,0 +1,237 @@
+---
+title: "Leçon 1: Donner une définition du bonheur"
+date: "2026-08-01"
+categories: ["B2", "unite1", "autodidacte"]
+reference-location: document # margin, block, section, document
+citation-location: document #margin
+image: "https://images.unsplash.com/photo-1509909756405-be0199881695?q=80&w=640"
+
+---
+
+# Doc1
+
+::: {.callout-note collapse="true" title="Transcription : C'est quoi le bonheur ?"}
+
+::::{.fs-5}
+
+[La journaliste : ]{.fw-bold .text-blue} C'est quoi le bonheur ?
+
+[– ]{.fw-bold .text-red} Le bonheur, c'est une [joie de vivre]{.text-orange} pour moi.
+
+[– ]{.fw-bold .text-red} C'est ma vie de famille, avec mes enfants, et le rugby aussi.
+
+[– ]{.fw-bold .text-red} Le bonheur, c'est éviter le malheur, sûrement, déjà.
+
+[– ]{.fw-bold .text-red} C'est surtout le fait d'[être bien dans sa peau]{.underline}[^aa] et d'avoir [confiance]{.text-orange} en soi. Et d'être avec les personnes qu'on aime, et de faire ce qu'on aime, tout simplement.
+
+[La journaliste : ]{.fw-bold .text-blue} Est-ce que c'est difficile d'être heureux ?
+
+[– ]{.fw-bold .text-red} Je pense que si on se pose trop de questions et si on cherche trop à vouloir être heureux, je pense que c'est compliqué.
+
+[– ]{.fw-bold .text-red} Oui, c'est très difficile, mais c'est passionnant.
+
+[La journaliste : ]{.fw-bold .text-blue} Est-ce que l'argent fait le bonheur ?
+
+[– ]{.fw-bold .text-red} Non.
+
+[– ]{.fw-bold .text-red} Alors, ça y contribue un petit peu quand même. Parce que quand on n'a pas du tout d'argent, je pense que... quand on est dans la rue, comme on voit des gens aujourd'hui dans la rue, je ne suis pas sûr qu'ils soient très heureux. Et je pense que [ça joue]{.underline}[^ab], le fait de ne pas avoir d'argent.
+
+[La journaliste : ]{.fw-bold .text-blue} Est-ce que [le bien-être au travail]{.underline}[^ac] contribue au bonheur ?
+
+[– ]{.fw-bold .text-red} Oui.
+
+[– ]{.fw-bold .text-red} [Par contre]{.underline}, avoir un travail qui nous plaît et être bien dans son travail, je pense que ça [apporte]{.underline} beaucoup dans le bonheur de la vie de tous les jours.
+
+[La journaliste : ]{.fw-bold .text-blue} Est-ce que les moyens actuels de communication rendent plus heureux ?
+
+[– ]{.fw-bold .text-red} Non, je ne pense pas. Parce que, même au contraire, on [s'éloigne]{.underline} des autres.
+
+[– ]{.fw-bold .text-red} Je crois que c'est plus pratique, mais je ne crois pas que ça rende plus heureux.
+
+[^aa]: être bien dans sa peau : se sentir à l'aise avec soi-même, être en accord avec soi ( [to feel comfortable in one's own skin]{.fst-italic} ).
+[^ab]: ça joue (fam.) : cela compte, cela a une influence ( [that plays a part]{.fst-italic} ).
+[^ac]: le bien-être au travail (loc.) : le fait de se sentir bien dans son travail, d'avoir un bon équilibre entre vie professionnelle et vie personnelle ( [well-being at work]{.fst-italic} ).
+::::
+:::
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP4_LE_AUDIO/INSP_4_LE_Piste002.mp3" type="audio/mpeg">
+</audio>
+
+
+
+# Doc2
+
+::: {.callout-note collapse="true" title="Transcription : le bonheur, une émotion difficile à mettre en mots"}
+
+::::{.fs-5}
+
+« Toutes les familles heureuses se ressemblent, mais chaque famille malheureuse l'est à sa façon. » J'ai longtemps pensé que cette phrase de Tolstoï, au tout début d'_Anna Karénine_, était juste. Le bonheur me semblait plus agréable à vivre, mais moins [pittoresque]{.underline}[^ba] à observer et à raconter. Parce que le bonheur se [savoure]{.underline}[^bb] souvent sans qu'on ait besoin de mots, et que le malheur se [décortique]{.underline}[^bc] — [on rumine, on ressasse, on gémit, on se plaint]{.text-orange}[^bd] —, le second donne l'impression d'être plus riche et intéressant. Il est juste plus [bavard]{.underline}[^be].
+
+Le bonheur est peut-être l'émotion la plus délicate à mettre en mots, et aussi à transmettre par les mots. Lire un témoignage ou un récit de bonheur ne rend pas forcément heureux, et [agace]{.underline}[^bf] même parfois. C'est pour cela qu'on fait moins souvent de bonnes histoires, films ou romans avec le bonheur. Le malheur est plus captivant.
+
+Pour la vie quotidienne, c'est évidemment autre chose. Et cela [vaut la peine de]{.underline} s'interroger : [au sein de]{.underline}[^ca] notre vie intérieure, quelle attitude [adoptons]{.text-red}-[nous]{.text-green} envers les émotions agréables ? [Notre regard sur nos ressentis positifs]{.text-green} est-[il]{.underline}, par exemple, aussi [négligent]{.underline}[^bg] que notre regard sur la nature ? Sans effort d'attention, nous n'y voyons que de l'herbe, des arbres, des fleurs, des oiseaux. Simplification [appauvrissante]{.underline}[^bh].
+
+Dans une lettre à son ami d'enfance, Alfred Le Poittevin, Flaubert écrivait : « [Pour qu]{.fw-bold}'une chose soit intéressante, il [suffit de]{.underline} la regarder longtemps. » [Dès qu]{.fw-bold}'on s'intéresse à un sujet, on en perçoit [la richesse]{.underline}, la diversité et [la subtilité]{.underline}[^cb]. Tous les [brins]{.underline}[^bi] d'herbe se ressemblent ? Non. Allongez-vous sur une prairie, comptez le nombre de plantes différentes dans ce que vous nommez « herbe ».
+
+Eh bien, c'est la même chose pour le bonheur et les émotions agréables. Leur richesse est quasi infinie. En voici une petite liste non exhaustive : [joie, bonne humeur, amusement, plaisir, intérêt, enthousiasme, curiosité, confiance, sérénité, harmonie, concordance, admiration, élévation, estime, affection, sympathie, amitié, appartenance, satisfaction, fierté, gratitude, reconnaissance]{.text-orange}...
+
+Et il ne s'agit pas, ou pas seulement, de rendre notre vie plus belle, mais de prendre conscience que toutes ces émotions agréables nous aident à mieux affronter l'[adversité]{.underline}[^bj]. C'est pourquoi la moitié de notre travail sur la vie intérieure devrait consister à reconnaître l'extrême variété de nos émotions agréables, à les [susciter]{.underline}[^bk], à les savourer, à les nommer. Camus disait : « Mal nommer un objet, c'est ajouter au malheur de ce monde. » Et mal savourer les émotions agréables, c'est [priver]{.underline}[^bl] notre bonheur de ressources quotidiennes [inépuisables]{.underline}[^bm].
+
+À demain, et ne perdez jamais le lien avec vous-même.
+
+[^ba]: pittoresque (adj.) : qui frappe l'imagination, qui mérite d'être peint ou raconté ( [picturesque, colourful]{.fst-italic} ).
+[^bb]: savourer (v.) : goûter lentement, apprécier pleinement ( [to savour]{.fst-italic} ).
+[^bc]: se décortiquer (v.) : ici, s'analyser en détail, se démonter pièce par pièce ( [to be dissected, picked apart]{.fst-italic} ).
+[^bd]: ruminer / ressasser / gémir / se plaindre : accumulation de quatre verbes très proches → ressasser = répéter sans cesse ; gémir = se lamenter ( [to brood / to rehash / to moan / to complain]{.fst-italic} ).
+[^be]: bavard (adj.) : qui parle beaucoup ( [talkative]{.fst-italic} ).
+[^bf]: agacer (v.) : irriter, énerver légèrement ( [to irritate]{.fst-italic} ).
+[^bg]: négligent (adj.) : qui manque d'attention, de soin ( [careless, inattentive]{.fst-italic} ).
+[^bh]: appauvrissant (adj.) : qui rend plus pauvre, qui appauvrit ( [impoverishing]{.fst-italic} ).
+[^bi]: un brin (n.m.) : une tige fine et légère ( [a blade (of grass)]{.fst-italic} ).
+[^bj]: l'adversité (n.f.) : l'ensemble des malheurs, des vicissitudes de la vie ( [adversity]{.fst-italic} ).
+[^bk]: susciter (v.) : faire naître, provoquer ( [to arouse, to bring about]{.fst-italic} ).
+[^bl]: priver de (v.) : enlever à quelqu'un ce dont il a besoin ou envie ( [to deprive of]{.fst-italic} ).
+[^bm]: inépuisable (adj.) : qu'on ne peut pas épuiser, sans fin ( [inexhaustible]{.fst-italic} ).
+[^ca]: au sein de (loc.) : dans le cadre de, à l'intérieur de ( [within]{.fst-italic} ).
+[^cb]: la subtilité (n.f.) : la finesse, la délicatesse ( [subtlety]{.fst-italic} ).
+
+::::
+:::
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP4_LE_AUDIO/INSP_4_LE_Piste003.mp3" type="audio/mpeg">
+</audio>
+
+
+------
+
+# Doc3
+
+:::{.text-center}
+[Le bonheur, histoire d'une quête universelle]{.fs-3 .fw-bold .text-blue}  
+[SOCIÉTÉ - le 24/01/2022 par Marina Bellot]{.fs-6 .text-secondary}
+:::
+
+Nos ancêtres étaient-ils heureux ? En quoi la recherche du bonheur a-t-elle été la [matrice]{.underline}[^fa] de l'avancée des droits sociaux ? Dans un ouvrage collectif, plus de soixante chercheurs retracent[^fb] l'Histoire mondiale du bonheur. [...]
+
+[En matière de bonheur, qu'ont en commun les traditions orientales et occidentales ?]{.fw-bold}
+
+[...] Les interrogations sont communes, notamment sur la gestion de la frustration, la manière de distinguer le plaisir, le bonheur et la tranquillité d'âme. C'est la définition la plus universelle du bonheur : l'installation d'une satisfaction durable dans un monde fait de vicissitudes[^fc].
+
+[Durant le Moyen Âge européen, comment expliquer que le bonheur ne soit qu'une promesse, inaccessible dans le présent ?]{.fw-bold}
+
+Le bonheur est [au cœur des]{.underline} interrogations des philosophes de l'Antiquité, [...] de la Grèce à la Rome antique. Le plaisir, la tranquillité de l'âme, le bonheur étaient alors envisagés comme des biens terrestres[^fd].
+
+Avec le long Moyen Âge, on a comme [une sorte de]{.fw-bold} [parenthèse]{.underline} d'un bonheur accessible ici-bas[^fe]. Pendant cette période, le bonheur est synonyme de quelque chose à attendre pour [la vie d'après]{.underline}. [...] Il faut être [vertueux]{.underline}[^ff] ici-bas pour atteindre le bonheur dans [l'au-delà]{.underline}[^fg].
+
+Ceci dit, il ne faudrait pas caricaturer. Il y a aussi pendant cette période une notion de bonheur terrestre. Dans les textes de Thomas D'Aquin, par exemple, l'idée d'amitié est très forte : on [est bien là]{.underline} [dans l'idée d]{.underline}'un bonheur pour ici-bas.[...]
+
+
+[^fa]: matrice (n.f.) : ici, le fondement, la base ( [foundation]{.fst-italic} )
+[^fb]: retracer (v.) : raconter, décrire ( [to trace, to recount]{.fst-italic} )
+[^fc]: les vicissitudes (n.f.) : les aléas de la vie, les difficultés ( [vicissitudes, ups and downs]{.fst-italic} )
+[^fd]: les biens terrestres (n.m.) : les biens matériels, les biens de ce monde ( [earthly goods]{.fst-italic} ). bien = un bien (n.m.) : un objet, une chose ( [a good, a thing]{.fst-italic} )
+[^fe]: ici-bas (loc.) : dans ce monde, sur cette terre ( [in this world, on this earth]{.fst-italic} )
+[^ff]: vertueux (adj.) : moralement bon, honnête, juste ( [virtuous]{.fst-italic} )
+[^fg]: l'au-delà (n.m.) : la vie après la mort ( [the afterlife]{.fst-italic} )
+
+
+
+
+
+------
+
+# Grammaire
+
+:::{.markyellow .rounded-3 .shadow .m-1 .p-2}
+
+#### [La question avec inversion]{.fw-bold .fs-4 .text-capitalize}
+[Pour exprimer une interrogation à l'oral et à l'écrit dans un registre soutenu]{.fw-bold .fs-6 .text-secondary}
+
+Les mots interrogatifs se placent toujours au début de la phrase.
+
+- **Inversion : ** [sujet]{.fw-bold .text-green}-[verbe]{.fw-bold .text-red} ➡️ [verbe]{.fw-bold .text-red}-[sujet]{.fw-bold .text-green}
+  - Quand le sujet est un pronom :  
+    _[Êtes]{.text-red}-[vous]{.text-green} heureux ?_  
+    _[A]{.text-red}-t-[on]{.text-green} le droit au bonheur ?_  
+    _Pourquoi [a]{.text-red}-t-[elle]{.text-green} [pleuré]{.text-red} ?_  
+  - Quand le sujet est un nom et avec le mot interrogatif [que]{.fw-bold} :  
+    _[Qu]{.fw-bold}'[ont]{.text-red} en commun [les traditions orientales et occidentales]{.text-green} ?_
+
+- **Inversion avec reprise du sujet :** [nom sujet]{.fw-bold .text-green} - [verbe]{.fw-bold .text-red} - [il(s) / elle(s)]{.fw-bold .text-green}  
+  Le sujet est placé devant le verbe et repris par il(s) ou elle(s) après le verbe.  
+  - quand la question est fermée (réponse par oui ou non) :  
+    _[Nos ancêtres]{.text-green} étaient-[ils]{.underline} heureux ?_  
+  - quand la question commence par un mot interrogatif :  
+    _Pourquoi [les gens]{.text-green} parlent-[ils]{.underline} plus du malheur que du bonheur ?_  
+    _Quand [la notion de bonheur]{.text-green} s'est-[elle]{.underline} imposée ?_  
+:::
+
+:::{.column}
+:::
+
+:::{.markyellow .rounded-3 .shadow .m-1 .p-2}
+
+#### [L'accumulation]{.fw-bold .fs-4 .text-capitalize}
+[Pour insister sur une idée ou attirer l'attention]{.fw-bold .fs-6 .text-secondary}
+
+Elle consiste à aligner plusieurs mots ou groupes de mots, en général de même nature grammaticale (noms, adjectifs...).
+
+_En voici une petite liste non exhaustive : [joie, bonne humeur, amusement, plaisir, intérêt, enthousiasme, curiosité, confiance, sérénité]{.text-orange}..._
+
+:::
+
+
+------
+
+# Vocabulaire
+
+:::{.markgreen .rounded-3 .shadow .m-1 .p-2}
+
+**Les émotions positives :**  
+
+- l'amusement (n.m.)
+- la bonne humeur
+- la concordance
+- l'enthousiasme (n.m.)
+- l'harmonie (n.f.)
+- la joie de vivre
+- la sérénité
+- la tranquillité de l'âme
+
+**Les émotions négatives :**
+
+- la frustration
+- les vicissitudes (n.f.) : les aléas de la vie, les difficultés
+
+**Le développement personnel :**
+
+- l'élévation de soi (n.f.) : le fait de se développer, de s'améliorer
+- l'estime de soi (n.f.) : le fait de se respecter, de se valoriser
+- la fiérté (n.f.) : le fait d'être fier de soi
+- la satisfaction (n.f.) : le fait d'être satisfait de soi
+- être vertueux (adj.) : être moralement bon, honnête, juste
+
+**Les relations sociales :**
+
+- l'admiration (n.f.) 
+- l'affection (n.f.)
+- l'amitié (n.f.)
+- l'appartenance (n.f.) : le fait de faire partie d'un groupe, d'une communauté
+- la gratitude (n.f.) : le fait d'être reconnaissant, de remercier
+- la reconnaissance (n.f.) : le fait de reconnaître les qualités ou les mérites de quelqu'un
+- la sympathie
+
+**Les qualités : **
+
+- la curiosité 
+- l'interêt (n.m.)
+
+:::
+
+
+
+
+
+
