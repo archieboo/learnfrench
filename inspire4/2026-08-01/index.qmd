@@ -113,19 +113,40 @@ Et il ne s'agit pas, ou pas seulement, de rendre notre vie plus belle, mais de p
 [SOCIÉTÉ - le 24/01/2022 par Marina Bellot]{.fs-6 .text-secondary}
 :::
 
-Nos ancêtres étaient-ils heureux ? En quoi la recherche du bonheur a-t-elle été la [matrice]{.underline}[^fa] de l'avancée des droits sociaux ? Dans un ouvrage collectif, plus de soixante chercheurs retracent[^fb] l'Histoire mondiale du bonheur. [...]
+Nos ancêtres étaient-ils heureux ? [En quoi]{.fw-bold} la recherche du bonheur a-t-elle été la [matrice]{.underline}[^fa] de l'avancée des droits sociaux ? Dans un ouvrage collectif, plus de soixante chercheurs retracent[^fb] l'Histoire mondiale du bonheur. [[...]]{.text-light}
 
 [En matière de bonheur, qu'ont en commun les traditions orientales et occidentales ?]{.fw-bold}
 
-[...] Les interrogations sont communes, notamment sur la gestion de la frustration, la manière de distinguer le plaisir, le bonheur et la tranquillité d'âme. C'est la définition la plus universelle du bonheur : l'installation d'une satisfaction durable dans un monde fait de vicissitudes[^fc].
+[[...]]{.text-light} Les interrogations sont communes, notamment sur la gestion de la frustration, la manière de distinguer le plaisir, le bonheur et la tranquillité d'âme. C'est la définition la plus universelle du bonheur : l'installation d'une satisfaction durable dans un monde fait de vicissitudes[^fc].
 
 [Durant le Moyen Âge européen, comment expliquer que le bonheur ne soit qu'une promesse, inaccessible dans le présent ?]{.fw-bold}
 
-Le bonheur est [au cœur des]{.underline} interrogations des philosophes de l'Antiquité, [...] de la Grèce à la Rome antique. Le plaisir, la tranquillité de l'âme, le bonheur étaient alors envisagés comme des biens terrestres[^fd].
+Le bonheur est [au cœur des]{.underline} interrogations des philosophes de l'Antiquité, [[...]]{.text-light} de la Grèce à la Rome antique. Le plaisir, la tranquillité de l'âme, le bonheur étaient alors envisagés comme des biens terrestres[^fd].
 
-Avec le long Moyen Âge, on a comme [une sorte de]{.fw-bold} [parenthèse]{.underline} d'un bonheur accessible ici-bas[^fe]. Pendant cette période, le bonheur est synonyme de quelque chose à attendre pour [la vie d'après]{.underline}. [...] Il faut être [vertueux]{.underline}[^ff] ici-bas pour atteindre le bonheur dans [l'au-delà]{.underline}[^fg].
+Avec le long Moyen Âge, on a comme [une sorte de]{.fw-bold} [parenthèse]{.underline} d'un bonheur accessible ici-bas[^fe]. Pendant cette période, le bonheur est synonyme de quelque chose à attendre pour [la vie d'après]{.underline}. [[...]]{.text-light} Il faut être [vertueux]{.underline}[^ff] ici-bas pour atteindre le bonheur dans [l'au-delà]{.underline}[^fg].
 
-Ceci dit, il ne faudrait pas caricaturer. Il y a aussi pendant cette période une notion de bonheur terrestre. Dans les textes de Thomas D'Aquin, par exemple, l'idée d'amitié est très forte : on [est bien là]{.underline} [dans l'idée d]{.underline}'un bonheur pour ici-bas.[...]
+Ceci dit, il ne faudrait pas caricaturer. Il y a aussi pendant cette période une notion de bonheur terrestre. Dans les textes de Thomas D'Aquin, par exemple, l'idée d'amitié est très forte : on [est bien là]{.underline} [dans l'idée d]{.underline}'un bonheur pour ici-bas.[[...]]{.text-light}
+
+[La Renaissance semble être l'âge d'or du bonheur. Quelle philosophie sous-tend[^fe] alors l'idée du bonheur, et quelles sont les manières concretes d'être heureux ?]{.fw-bold}
+
+À la periode de la Renaissance, le bonheur redescend sur terre. Les fêtes du XVI^e^ siècle témoignent de ce bonheur renaissant, de la réhabilitation du goût, de la joie d'être ensemble...
+
+La découverte des nouveaux mondes donne [par ailleurs]{.fw-bold} un aperçu[^rj] de ce que pourrait être un bonneur plus immédiat, primaire, avec l'idée d'un paradis perdu qu'il faudrait retrouver. [Peu à peu]{.fw-bold}, on voit dans la quantité de textes écrits au XVII^e^ siècle cette interrogation du bonheur qui [se pose à nouveau]{.fw-bold}, [de manière de plus en plus prégnante]{.underline}[^fh], non pas seulement pour une élite mais pour une catégorie de population de plus en plus large.
+
+[En quoi le bonheur a-t-il été l'un des moteurs des révolutions ?]{.fw-bold}
+
+La première révolution de 1776, la Révolution américaine, [s'articule]{.underline} clairement [autour de]{.fw-bold} la recherche du bonheur. L'idée, [c'est de partager le bonheur, d'en faire un bien commun, un moteur pour s'organiser]{.underline}.
+
+On le retrouve chez les philosophes des Lumières, en particulier chez Rousseau, avec l'idée d'évolution. La Révolution française est très festive : le jour national, le 14 juillet, a d'abord été la commémoration de la fête de la Fédération. C'est peut-être la révolution la plus apurée[^fi] : il ne s'agit pas de [la conquête]{.underline} d'une classe sociale sur une autre, mais de la conquête de la liberté pour tous.
+
+[Dans quelle mesure le bonheur a-t-il également été la matrice de l'avancée des droits sociaux ?]{.fw-bold}
+
+Sans un minimum d'organisatin sociale, sans interdiction du travail des enfants, sans l'accès des femmes aux droits, sans la création de la Sécurité sociale, il n'y a pas de bonheur collectif possible. Et sans bonheur collectif, il n'y a pas de bonheur individuel.
+
+On le retrouve dans la Révolution française, moteur des droits, puis dans l'installation de la République, et [ensuite]{.fw-bold} dans des révolutions plus [exigeantes]{.underline}[^fk] sur le plan de l'égalité.
+
+Ensuite, avec les révolutions socialistes, on voit [se dessiner]{.underline} les grandes ruptures idéologiques du XX^e^ siècle, entre la liberté d'être heureux, et l'égalité avec l'idée que la liberté des uns prive tous les autres de leur boneur... On a là deux visions opposées de la société et du bonheur.
+
 
 
 [^fa]: matrice (n.f.) : ici, le fondement, la base ( [foundation]{.fst-italic} )
@@ -135,7 +156,11 @@ Ceci dit, il ne faudrait pas caricaturer. Il y a aussi pendant cette période un
 [^fe]: ici-bas (loc.) : dans ce monde, sur cette terre ( [in this world, on this earth]{.fst-italic} )
 [^ff]: vertueux (adj.) : moralement bon, honnête, juste ( [virtuous]{.fst-italic} )
 [^fg]: l'au-delà (n.m.) : la vie après la mort ( [the afterlife]{.fst-italic} )
-
+[^fe]: sous-tendre (v.) : soutenir, être à la base de ( [to underpin, to support]{.fst-italic} )
+[^rj]: un aperçu (n.m.) : une idée, une vision ( [an insight, a glimpse]{.fst-italic} )
+[^fh]: prégnant (adj.) : qui s'impose à l'esprit, qui est très présent ( [prevalent, pervasive]{.fst-italic} )
+[^fi]: apuré (adj.) : ici, simple, pur, sans excès ( [refined, pure]{.fst-italic} )
+[^fk]: exigeant (adj.) : qui demande beaucoup, qui est difficile ( [demanding, exacting]{.fst-italic} )
 
 
 

@@ -18,7 +18,7 @@ Comment peut-on voyager en restant immobile ? Le « voyage immobile » est une e
 
 **Vivre un voyage géographiquement immobile**
 
-Pour expérimenter ce type de voyage, vous devrez partir quelque part et [vous y poser]{.underline}[^ab]. Vous pourrez, selon votre envie, [soit][.markorange .fw-bold] vous consacrer à un objectif, par exemple, découvrir de vous plus en profondeur, [soit]{.markorange .fw-bold}[^ac] au contraire « [laisser venir]{.underline}[^ad] ». Le temps [s'écoule]{.underline} et l'endroit que nous avons choisi fait ton travail en nous.
+Pour expérimenter ce type de voyage, vous devrez partir quelque part et [vous y poser]{.underline}[^ab]. Vous pourrez, selon votre envie, [soit]{ .markorange .fw-bold } vous consacrer à un objectif, par exemple, découvrir de vous plus en profondeur, [soit]{.markorange .fw-bold}[^ac] au contraire « [laisser venir]{.underline}[^ad] ». Le temps [s'écoule]{.underline} et l'endroit que nous avons choisi fait ton travail en nous.
 
 
 **Voyager vers d'autres lieux et d'autres époques sans se déplacer**

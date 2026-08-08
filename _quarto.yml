@@ -76,10 +76,7 @@ format:
     number-sections: true
     number-depth: 3
     theme:
-      # - lumen
-      # - united
       # - yeti
-      # - sandstone
       - sandstone
       - custom.scss
     css: 
