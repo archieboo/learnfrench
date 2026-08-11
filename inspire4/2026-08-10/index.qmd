@@ -161,6 +161,10 @@ Une situation financière stable est un facteur important de bonheur individuel,
 
 - déçu(e) (adj.) : qui éprouve de la déception ( [disappointed]{.fst-italic} )
 - malheureux(se)
+- le spleen (n.m.) : sentiment de tristesse, de mélancolie ( [melancholy, sadness]{.fst-italic} )
+- délaisser (v.) : abandonner, laisser tomber ( [to give up, to let go]{.fst-italic} ), délaissé(e) (adj.) : abandonné, laissé de côté ( [neglected, abandoned]{.fst-italic} )
+- blesser (v.) : faire de la peine, faire souffrir ( [to hurt, to wound]{.fst-italic} ), blessé(e) (adj.) : qui a été blessé, qui a mal ( [hurt, wounded]{.fst-italic} )
+- malaise (n.m.) : sensation pénible, gêne ( [unease, discomfort]{.fst-italic} )
 
 **Les problèmes de santé**
 
@@ -179,9 +183,143 @@ Une situation financière stable est un facteur important de bonheur individuel,
 - volontaire (adj.) : qui agit de sa propre volonté ( [voluntary]{.fst-italic} )
 
 
+:::
+
+
+## La métaphore
+
+
+::::{.columns}
+
+:::{.column .bg-blue .rounded-3 .shadow width="49%"}
+
+1. avoir une patience d'ange
+2. avoir la banane
+3. recharger ses batteries
+4. ne pas faire de cadeau
+5. ne pas y aller par quatre chemins
+6. tenir le coup
+7. se faire des cheveux blancs
+8. avoir le cœur gros
+9. ne pas avoir de sang dans les veines
 
 :::
 
+:::{.column width="2%"}
+:::
+
+:::{.column .bg-blue .rounded-3 .shadow width="49%"}
+
+a. s'inquiéter
+b. sourire
+c. agir ou parler directement
+d. résister
+e. être triste
+f. ne pas être courageux
+g. récupérer de l'énergie
+h. avoir beaucoup de patience
+i. être très sévère, sans pitié
+
+:::
+
+::::
+
+::: {.callout-tip collapse="true" title="Solution"}
+
+| | Métaphore | | Sens |
+|---|---|---|---|
+| 1 | avoir une patience d'ange | **h** | avoir beaucoup de patience |
+| 2 | avoir la banane | **b** | sourire |
+| 3 | recharger ses batteries | **g** | récupérer de l'énergie |
+| 4 | ne pas faire de cadeau | **i** | être très sévère, sans pitié |
+| 5 | ne pas y aller par quatre chemins | **c** | agir ou parler directement |
+| 6 | tenir le coup | **d** | résister |
+| 7 | se faire des cheveux blancs | **a** | s'inquiéter |
+| 8 | avoir le cœur gros | **e** | être triste |
+| 9 | ne pas avoir de sang dans les veines | **f** | ne pas être courageux |
+
+:::
+
+
+------
+
+# Cahier d'activités
+
+## Ex. 1
+
+[Heureux à tout prix : et si c'était une mauvaise idée ?]{.fw-bold .fs-5 .text-blue}
+
+[Être plus heureux, sûr de soi, moins [angoissé]{.underline}[^la]... Ce sont des objectifs [qu'on se fixe]{.text-orange}[^lb] assez souvent. Et ça ne fonctionne pas toujours ! C'est peut-être parce qu'on [se trompe de cible]{.text-orange}[^lc] ? Commencer par accepter ses émotions négatives, voilà ce que proposent des spécialistes.]{.fw-bold}
+
+[S'appliquer à]{.underline}[^ld] être souriant, [serviable]{.underline}[^le]... Faire du yoga, des exercices de [pleine conscience]{.underline}[^lf], lire des livres de psychologie positive... [Nul n'y échappe]{.text-orange}[^lg]... Tout ça pour se libérer des émotions désagréables qui [s'agitent]{.underline}[^lh] sous la surface — la jalousie, la colère, l'égoïsme, l'anxiété, la culpabilité... [Non seulement]{.fw-bold} on [aurait tort de]{.text-orange}[^li] les ignorer, [mais]{.fw-bold} on ne les [exploiterait]{.underline}[^lj] pas assez ! C'est [du moins]{.underline}[^lk] la thèse de plusieurs chercheurs en psychologie, qui [en ont assez de]{.text-orange}[^ll] l'obsession culturelle du bonheur [à tout prix]{.text-orange}.
+
+« [On dirait qu']{.text-orange}[^lm]il faut toujours être dans le plaisir, le désir, la joie », [constate]{.underline}[^ln] Frédéric Langlois, professeur et chercheur en psychologie à l'Université du Québec à Trois-Rivières. C'est dommage, parce que toutes les émotions ont une fonction [saine]{.underline}[^lo], même celles qui semblent détestables ou qu'on a envie de fuir. « [Aucune]{.fw-bold} émotion [n']{.fw-bold}est inutile, [sinon]{.underline}[^lp] les humains ne les auraient pas développées au cours de leur évolution. » Elles nous aident à [cerner]{.underline}[^lq] les problèmes, trouver des solutions, obtenir des gains et nous protéger.
+
+Prenons la colère. Émotion détestée à cause du potentiel de violence qu'elle [recèle]{.underline}[^lr] et du [malaise]{.underline}[^ls] qu'elle nous impose. Pourtant, elle constitue un outil précieux pour obtenir justice lorsqu'on se sent [sous-évalué]{.underline}[^lt], une manière de signaler qu'on [ne se laissera pas]{.text-orange}[^lu] exploiter. Elle apporte confiance et [audace]{.underline}[^lv], en plus de [rehausser]{.underline}[^lw] notre statut : quand on est en colère, on est perçu comme plus compétent et plus crédible. C'est aussi un formidable vecteur d'action. Elle a permis aux femmes d'obtenir plus de droits et aux Noirs d'Afrique du Sud de [renverser]{.underline}[^lx] l'apartheid, entre autres.
+
+Les chercheurs concluent : « C'est lorsqu'on [tire profit de]{.text-orange}[^ly] toute la [gamme]{.underline}[^lz] des émotions, des pensées et des comportements de notre répertoire que nous devenons des êtres complets. »
+
+[^la]: angoissé (adj.) : très inquiet, tendu ( [anxious, distressed]{.fst-italic} ).
+[^lb]: se fixer un objectif (loc.) : se donner un but à atteindre ( [to set oneself a goal]{.fst-italic} ).
+[^lc]: se tromper de cible (loc.) : viser la mauvaise chose ( [to aim at the wrong target]{.fst-italic} ). *une cible* = ce qu'on vise.
+[^ld]: s'appliquer à (v.) : faire des efforts pour, s'efforcer de ( [to make a point of, to strive to]{.fst-italic} ).
+[^le]: serviable (adj.) : qui aime rendre service aux autres ( [helpful, obliging]{.fst-italic} ).
+[^lf]: la pleine conscience (n.f.) : attention portée à l'instant présent ( [mindfulness]{.fst-italic} ).
+[^lg]: nul n'y échappe (loc., soutenu) : personne n'y échappe ( [no one escapes it]{.fst-italic} ). Même *nul* soutenu que dans le Doc3.
+[^lh]: s'agiter (v.) : bouger en tous sens, être en mouvement ( [to stir, to churn]{.fst-italic} ).
+[^li]: avoir tort de (loc.) : faire une erreur en ( [to be wrong to]{.fst-italic} ). Contraire : *avoir raison de*.
+[^lj]: exploiter (v.) : ici, tirer parti de ( [to harness, to make use of]{.fst-italic} ). Ailleurs, sens négatif : profiter de quelqu'un.
+[^lk]: du moins (loc.) : en tout cas, c'est au minimum ce que ( [at least, at any rate]{.fst-italic} ).
+[^ll]: en avoir assez de (loc., fam.) : ne plus supporter ( [to be fed up with]{.fst-italic} ).
+[^lm]: on dirait que (loc.) : il semble que, c'est comme si ( [it seems that, you'd think that]{.fst-italic} ).
+[^ln]: constater (v.) : remarquer, observer un fait ( [to note, to observe]{.fst-italic} ).
+[^lo]: sain(e) (adj.) : bon pour la santé, équilibré ( [healthy, sound]{.fst-italic} ).
+[^lp]: sinon (conj.) : sans quoi, autrement ( [otherwise, or else]{.fst-italic} ).
+[^lq]: cerner (v.) : délimiter, identifier avec précision ( [to pinpoint, to get a clear picture of]{.fst-italic} ).
+[^lr]: receler (v., soutenu) : contenir, cacher en soi ( [to harbour, to hold within]{.fst-italic} ).
+[^ls]: un malaise (n.m.) : ici, une sensation pénible, une gêne ( [unease, discomfort]{.fst-italic} ).
+[^lt]: sous-évalué (adj.) : estimé au-dessous de sa valeur réelle ( [undervalued]{.fst-italic} ).
+[^lu]: se laisser + infinitif (loc.) : subir sans réagir ( [to let oneself be...]{.fst-italic} ). *Ne pas se laisser exploiter* = refuser d'être exploité.
+[^lv]: l'audace (n.f.) : le courage d'oser ( [boldness, daring]{.fst-italic} ).
+[^lw]: rehausser (v.) : augmenter, mettre en valeur ( [to enhance, to raise]{.fst-italic} ).
+[^lx]: renverser (v.) : faire tomber un pouvoir, un régime ( [to overthrow]{.fst-italic} ).
+[^ly]: tirer profit de (loc.) : utiliser à son avantage ( [to turn to good account, to benefit from]{.fst-italic} ).
+[^lz]: la gamme (n.f.) : l'étendue complète d'une série ( [the range]{.fst-italic} ). *toute la gamme* = the whole range.
+
+
+## Ex. 5
+
+::: {.callout-note collapse="true" title="Transcription : Écoutez et repérez les négations"}
+
+::::{.fs-5}
+
+[Exemple : ]{.fw-bold .text-secondary} Nous [n']{.text-red}avons [guère]{.text-red} le temps de nous [attarder]{.underline}[^ma].
+
+[a. ]{.fw-bold .text-blue} [Nul ne]{.text-red} peut connaître la solitude mieux que lui.
+
+[b. ]{.fw-bold .text-blue} Il [n']{.text-red}a [guère]{.text-red} de raison d'être malheureux.
+
+[c. ]{.fw-bold .text-blue} [Aucune]{.text-red} remarque [n']{.text-red}aurait pu la [blesser]{.underline}[^mb] autant.
+
+[d. ]{.fw-bold .text-blue} Il était [déprimé]{.underline}[^mc], mais il [ne]{.text-red} l'a [jamais]{.text-red} dit à [personne]{.text-red}.
+
+[e. ]{.fw-bold .text-blue} [Personne ne]{.text-red} peut [jamais]{.text-red} [atteindre]{.underline} un [tel]{.underline}[^md] bonheur.
+
+[f. ]{.fw-bold .text-blue} Ils [ne]{.text-red} font [jamais rien]{.text-red} ensemble.
+
+[g. ]{.fw-bold .text-blue} Certains pensent qu'[aucun]{.text-red} bonheur [n']{.text-red}est possible dans ce monde.
+
+[^ma]: s'attarder (v.) : rester plus longtemps que prévu ( [to linger]{.fst-italic} ).
+[^mb]: blesser (v.) : ici au sens moral, faire de la peine ( [to hurt, to wound]{.fst-italic} ).
+[^mc]: déprimé (adj.) : abattu, sans énergie ni moral ( [depressed]{.fst-italic} ).
+[^md]: un tel / une telle (adj.) : un si grand, un pareil ( [such a]{.fst-italic} ).
+
+::::
+:::
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP4_CA_AUDIO/INSP_4_CA_Piste04.mp3" type="audio/mpeg">
+</audio>
 
 
 
