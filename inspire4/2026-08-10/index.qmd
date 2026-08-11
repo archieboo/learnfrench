@@ -1,0 +1,198 @@
+---
+title: "Leçon 2: Analyser des idées reçues"
+date: "2026-08-10"
+categories: ["B2", "unite2", "autodidacte"]
+reference-location: document # margin, block, section, document
+citation-location: document #margin
+image: "https://images.unsplash.com/photo-1746469291641-21d4f69cc61e?q=80&w=640"
+
+---
+
+
+
+# Doc2
+
+::: {.callout-note collapse="true" title="Transcription : Le bonheur en chansons (5 extraits)"}
+
+::::{.fs-5}
+
+[Extrait 1 : ]{.fw-bold .text-blue} On court après le bonheur, comme s'il venait de [s'échapper]{.underline}[^ia], comme s'il avait soudain pris peur. En ce tout début d'année, on [joue à se faire peur]{.underline}[^ib] à l'idée qu'il ait pu [s'évader]{.underline}[^ic].
+
+[Extrait 2 : ]{.fw-bold .text-red} T'as besoin d'une voiture pour aller travailler. Tu travailles pour [rembourser]{.underline}[^id] la voiture que tu viens d'acheter. Tu vois le genre de [cercle vicieux]{.text-orange}[^ie], le genre de truc qui donne envie de tout faire sauf de mourir vieux. Tu peux courir à l'infini, [à la poursuite du bonheur]{.text-orange} : la terre est ronde, tu reviendras ici.
+
+[Extrait 3 : ]{.fw-bold .text-green} Et quand il veut [serrer]{.underline}[^if] son bonheur, il le [broie]{.underline}[^ig]. Sa vie est un étrange et [douloureux]{.underline}[^ih] [divorce]{.text-orange}. Il n'y a pas d'amour heureux.
+
+[Extrait 4 : ]{.fw-bold .text-purple} Le premier bonheur du jour, c'est un [ruban]{.underline}[^ii] de soleil qui [s'enroule]{.underline}[^ij] sur ta main et [caresse]{.underline}[^ik] mon épaule.
+
+[Extrait 5 : ]{.fw-bold .text-teal} Allez-y, [faites des gosses]{.text-orange}[^il] ! Tu verras, c'est que du bonheur, tu verras, c'est que d'la joie : les pleurs, les [sautes d'humeur]{.underline}[^im]... Et tu [défieras]{.underline}[^in] papa, et puis tout le reste. Tu verras, c'est que du bonheur.
+
+[^ia]: s'échapper (v.) : partir, fuir, se libérer ( [to escape, to slip away]{.fst-italic} ).
+[^ib]: jouer à se faire peur (loc.) : s'effrayer volontairement, pour le plaisir ( [to scare oneself for fun]{.fst-italic} ).
+[^ic]: s'évader (v.) : s'enfuir d'un lieu fermé ; ici, disparaître ( [to escape, to break out]{.fst-italic} ).
+[^id]: rembourser (v.) : rendre l'argent emprunté ( [to pay back, to repay]{.fst-italic} ).
+[^ie]: un cercle vicieux (n.m.) : une situation où chaque effet relance sa propre cause ( [a vicious circle]{.fst-italic} ).
+[^if]: serrer (v.) : tenir fermement contre soi ( [to hold tight, to squeeze]{.fst-italic} ).
+[^ig]: broyer (v.) : écraser, réduire en morceaux ( [to crush]{.fst-italic} ).
+[^ih]: douloureux (adj.) : qui fait souffrir ( [painful]{.fst-italic} ).
+[^ii]: un ruban (n.m.) : une bande de tissu longue et étroite ( [a ribbon]{.fst-italic} ).
+[^ij]: s'enrouler (v.) : se tourner autour de quelque chose ( [to wind, to coil around]{.fst-italic} ).
+[^ik]: caresser (v.) : toucher doucement ( [to stroke, to caress]{.fst-italic} ).
+[^il]: un gosse (n.m., fam.) : un enfant ( [a kid]{.fst-italic} ).
+[^im]: une saute d'humeur (n.f.) : un changement d'humeur brusque ( [a mood swing]{.fst-italic} ).
+[^in]: défier (v.) : provoquer, s'opposer à ( [to defy, to challenge]{.fst-italic} ).
+
+::::
+:::
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP4_LE_AUDIO/INSP_4_LE_Piste004.mp3" type="audio/mpeg">
+</audio>
+
+
+# Doc3
+
+:::{.text-center}
+[Cessons de faire du bonheur l'objectif ultime de notre existence]{.fs-3 .fw-bold .text-blue}  
+[Dirk De Wachter - 24 mars 2021 à 7 h 27]{.fs-6 .text-secondary}
+:::
+
+[Si nous n'obtenons pas ce que nous voulons, nous sommes déçus. Nous avons [toutes les peines du monde à]{.text-orange}[^ja] [encaisser]{.underline}[^jb] [les revers]{.underline}[^jc], ils nous rendent malheureux. Être juste un peu heureux ne suffit jamais à personne.]{.fst-italic}
+
+[[De toute éternité]{.text-orange}[^jd], le bonheur est le plus grand bien auquel on puisse [aspirer]{.underline}[^je]. Nous courons tous après lui, pour nous et pour nos enfants, parfois jusqu'à l'obsession. « Ce qui compte, c'est que tu sois heureux ! » L'être et le rester, [tel est]{.underline}[^jf] l'objectif ultime de notre existence.]{.fw-bold}
+
+
+[En outre]{.fw-bold}[^jg], dans nos sociétés occidentales, nous croyons que chacun peut [atteindre]{.underline} ce but par lui-même : nous sommes les acteurs de notre propre bonheur, nous en sommes convaincus. Notre monde est [imprégné de]{.underline}[^jh] l'idée que nous pouvons [façonner]{.underline}[^ji] nous-mêmes notre vie, et donc le bonheur qui va avec. Chacun est le [gérant]{.underline}[^jj] de sa propre start-up, de son ego autonome et volontaire. [Tout se passe comme si]{.text-orange}[^jk] nous voulions créer le paradis ici et maintenant. Il faut dire que nous [n]{.fw-bold}'avons [guère]{.fw-bold}[^jl] de choix, puisque la plupart d'entre nous sont convaincus qu'aucun paradis ne les attend après cette vie [terrestre]{.underline}[^jm].
+
+
+Mais devons-nous [coûte que coûte]{.text-orange}[^jn] tous partir à l'aventure dans l'[arrière-pays]{.underline}[^jo] de Bornéo où [nul n'a encore mis les pieds]{.text-orange}[^jp] ? Est-il vrai qu'on a [raté]{.underline}[^jq] sa vie d'étudiant si on n'a jamais [atterri]{.underline}[^jr] au moins une fois aux urgences en état de [coma éthylique]{.underline}[^js] ? On dit parfois qu'il faut [croquer la vie à pleines dents]{.text-orange}[^jt]. Pourquoi pas. Mais attention ! On peut [s'étouffer]{.underline}[^ju] avec le gâteau, ou faire une [indigestion]{.underline}[^jv] ! C'est pourquoi je pense qu'il est tout aussi valable de [se contenter]{.underline}[^jw] de petites [bouchées]{.underline}[^jx]. Inutile de vouloir [à tout prix]{.text-orange} l'impossible. Il peut [s'avérer]{.underline}[^jy] problématique de vouloir vivre systématiquement dans l'excès. [Le revers de la médaille est loin d'être rose]{.text-orange}[^jz]. Dans mon [cabinet]{.underline}[^ka], je reçois parfois des gens [auréolés de]{.underline}[^kb] succès, qui ont [brûlé la chandelle par les deux bouts]{.text-orange}[^kc], convaincus qu'ils devaient [tirer le maximum de]{.underline}[^kd] l'existence. Ils sont assis devant moi et ne peuvent plus [faire face]{.text-orange}[^ke]. Rien ne peut plus les satisfaire, ils [fondent en larmes]{.text-orange}[^kf]. Dans ces moments-là, je me dis qu'une vie ordinaire, c'est bien aussi.
+
+De nombreuses personnes sont très heureuses de leur mode de vie plus lent et plus [sobre]{.underline}[^kg]. Une attitude qui [ne vaut pas moins qu']{.underline}[^kh]une autre. Elles n'[éprouvent]{.underline}[^ki] pas le besoin d'escalader l'Everest en passant par le [versant]{.underline}[^kj] le plus difficile ou de courir trois marathons [d'affilée]{.text-orange}[^kk]. J'admire celles et ceux qui en sont capables, et leur choix est respectable. Il n'existe aucune norme dans ce domaine. Mais [abstenons-nous d']{.text-orange}[^kl]en faire une obligation.
+
+
+[De tout temps]{.text-orange}[^km], les êtres humains ont voulu plus. Mais la société contemporaine a donné à cette philosophie du « toujours plus » un sens presque exclusivement [consumériste]{.underline}[^kn]. Nous sommes tous poussés à consommer, même les plus sceptiques d'entre nous [tombent]{.text-orange} tôt ou tard [dans le panneau]{.text-orange}[^ko]. Le monde nous [martèle]{.underline}[^kp] que le bonheur est synonyme de réussite, qu'il peut être fabriqué et [quantifié]{.underline}[^kq]. Nous [mesurons le bonheur à]{.underline}[^kr] la profondeur de notre piscine ou à la taille de notre voiture. Les objets matériels doivent prendre de la place, les expériences coûter beaucoup d'argent.
+Une situation financière stable est un facteur important de bonheur individuel, ce que l'on comprend [aisément]{.underline}[^ks]. Mais [au-delà]{.underline}[^kt], il [semble bien que]{.text-purple} l'argent ne [fasse]{.text-purple}[^ku] pas le bonheur, ou [en tout cas]{.fw-bold} de manière limitée.
+
+[^ja]: avoir toutes les peines du monde à (loc.) : avoir énormément de mal à ( [to have the greatest difficulty in]{.fst-italic} ).
+[^jb]: encaisser (v., fam.) : supporter, subir sans s'effondrer ( [to take, to absorb a blow]{.fst-italic} ). Sens propre : recevoir de l'argent.
+[^jc]: un revers (n.m.) : un échec, un coup dur ( [a setback]{.fst-italic} ).
+[^jd]: de toute éternité (loc.) : depuis toujours ( [from time immemorial]{.fst-italic} ).
+[^je]: aspirer à (v.) : désirer fortement ( [to aspire to, to long for]{.fst-italic} ).
+[^jf]: tel est... (loc., soutenu) : voilà ce qu'est... ; inversion littéraire de « c'est là l'objectif » ( [such is...]{.fst-italic} ).
+[^jg]: en outre (loc., soutenu) : de plus, par ailleurs ( [moreover, furthermore]{.fst-italic} ).
+[^jh]: imprégné de (adj.) : rempli de, pénétré par ( [steeped in, imbued with]{.fst-italic} ).
+[^ji]: façonner (v.) : donner une forme à, fabriquer de ses mains ( [to shape, to mould]{.fst-italic} ).
+[^jj]: un gérant (n.m.) : celui qui dirige une entreprise pour le compte d'un autre ( [a manager]{.fst-italic} ).
+[^jk]: tout se passe comme si + imparfait (loc.) : on dirait que, c'est comme si ( [it is as though]{.fst-italic} ).
+[^jl]: ne... guère (adv., soutenu) : ne... pas beaucoup, presque pas ( [hardly, scarcely]{.fst-italic} ).
+[^jm]: terrestre (adj.) : de cette terre, par opposition au ciel, à l'au-delà ( [earthly]{.fst-italic} ).
+[^jn]: coûte que coûte (loc.) : à tout prix, quoi qu'il arrive ( [at all costs]{.fst-italic} ).
+[^jo]: l'arrière-pays (n.m.) : la région intérieure, loin de la côte et des villes ( [the hinterland, the backcountry]{.fst-italic} ).
+[^jp]: nul n'a mis les pieds (loc., soutenu) : personne n'est jamais allé ( [where no one has ever set foot]{.fst-italic} ). *nul* = personne, registre soutenu.
+[^jq]: rater sa vie (v.) : manquer sa vie, échouer ( [to mess up / waste one's life]{.fst-italic} ).
+[^jr]: atterrir (v., ici fam.) : finir, arriver quelque part sans l'avoir prévu ( [to end up]{.fst-italic} ). Sens propre : se poser au sol (avion).
+[^js]: un coma éthylique (n.m.) : perte de conscience due à un excès d'alcool ( [an alcohol-induced coma]{.fst-italic} ).
+[^jt]: croquer la vie à pleines dents (loc.) : profiter intensément de la vie ( [to live life to the full]{.fst-italic} ). Littéralement : mordre dans la vie comme dans un fruit — c'est cette image qui lance toute la métaphore alimentaire du paragraphe.
+[^ju]: s'étouffer (v.) : ne plus pouvoir respirer ( [to choke]{.fst-italic} ).
+[^jv]: une indigestion (n.f.) : un malaise dû à un excès de nourriture ( [indigestion]{.fst-italic} ).
+[^jw]: se contenter de (v.) : se satisfaire de, ne pas demander plus que ( [to make do with]{.fst-italic} ).
+[^jx]: une bouchée (n.f.) : la quantité qu'on met dans la bouche en une fois ( [a mouthful]{.fst-italic} ).
+[^jy]: s'avérer (v., soutenu) : se révéler, apparaître finalement comme ( [to prove to be, to turn out to be]{.fst-italic} ).
+[^jz]: le revers de la médaille (loc.) : le mauvais côté d'une situation apparemment bonne ( [the other side of the coin]{.fst-italic} ). *loin d'être rose* = tout sauf agréable ( [far from rosy]{.fst-italic} ).
+[^ka]: un cabinet (n.m.) : le lieu où reçoit un médecin, un psychiatre, un avocat ( [a practice, a consulting room]{.fst-italic} ).
+[^kb]: auréolé de (adj.) : entouré du prestige de ( [crowned with, basking in]{.fst-italic} ). De *une auréole* = le cercle lumineux des saints.
+[^kc]: brûler la chandelle par les deux bouts (loc.) : dépenser son énergie et son argent sans compter, mener une vie excessive ( [to burn the candle at both ends]{.fst-italic} ).
+[^kd]: tirer le maximum de (loc.) : obtenir le plus possible de ( [to get the most out of]{.fst-italic} ).
+[^ke]: faire face (loc.) : affronter la situation, tenir bon ( [to cope, to face up to things]{.fst-italic} ).
+[^kf]: fondre en larmes (loc.) : se mettre soudain à pleurer ( [to burst into tears]{.fst-italic} ).
+[^kg]: sobre (adj.) : ici, simple, sans excès ( [restrained, understated]{.fst-italic} ).
+[^kh]: ne pas valoir moins que (loc.) : avoir autant de valeur que ( [to be worth no less than]{.fst-italic} ).
+[^ki]: éprouver (v., soutenu) : ressentir ( [to feel, to experience]{.fst-italic} ).
+[^kj]: un versant (n.m.) : le côté d'une montagne ( [a slope, a face]{.fst-italic} ).
+[^kk]: d'affilée (loc.) : à la suite, sans interruption ( [in a row]{.fst-italic} ).
+[^kl]: s'abstenir de (v., soutenu) : éviter de, se retenir de ( [to refrain from]{.fst-italic} ). Ici à l'impératif : *abstenons-nous*.
+[^km]: de tout temps (loc.) : depuis toujours ( [always, at all times]{.fst-italic} ).
+[^kn]: consumériste (adj.) : lié à la consommation de masse ( [consumerist]{.fst-italic} ).
+[^ko]: tomber dans le panneau (loc., fam.) : se laisser piéger, se faire avoir ( [to fall for it, to walk into the trap]{.fst-italic} ).
+[^kp]: marteler (v.) : répéter avec insistance, comme des coups de marteau ( [to hammer home]{.fst-italic} ).
+[^kq]: quantifier (v.) : mesurer en chiffres ( [to quantify]{.fst-italic} ).
+[^kr]: mesurer qqch à qqch (v.) : évaluer une chose d'après une autre ( [to measure sth by sth]{.fst-italic} ).
+[^ks]: aisément (adv., soutenu) : facilement ( [easily, readily]{.fst-italic} ).
+[^kt]: au-delà (adv.) : plus loin que cela, en dehors de ce cas ( [beyond that]{.fst-italic} ).
+[^ku]: *il semble que* + [subjonctif]{.fw-bold} : *il semble bien que l'argent ne **fasse** pas le bonheur*. Attention : *il me semble que* + indicatif.
+
+
+
+------
+
+# Grammaire
+
+:::{.markyellow .rounded-3 .shadow .m-1 .p-2}
+
+#### [La négation]{.fw-bold .fs-4 .text-capitalize}
+[Pour indiquer une quantité nulle ou faible]{.fw-bold .fs-6 .text-secondary}
+
+- **Quantité nulle**
+  - [personne ... ne ]{.fw-bold .text-red} / [ne ... personne]{.fw-bold .text-red} :  
+    [[Personne n']{.text-red}a trouvé le paradis terreste.]{.fst-italic .fs-6}  
+  ⚠️ [nul ... ne]{.text-red} en registre soutenu :  
+    [Mais devons-nous coûte que coûte tous partir à l'aventure dans l'arrière-pays de Bornéo où [nul n']{.text-red}a encore mis les pieds ?]{.fst-italic .fs-6}  
+  - [rien ... ne]{.fw-bold .text-red} / [ne ... rien]{.fw-bold .text-red} :  
+    [On [ne]{.text-red} désire [rien]{.text-red} d'autre que le bonheur.]{.fst-italic .fs-6}  
+  - [ne ... aucun(e)]{.fw-bold .text-red} (+ nom) / [aucun(e)]{.fw-bold .text-red} (+ nom) [ne]{.fw-bold .text-red}  
+    [La plupart d'entre nous sont convaincus qu'[aucun paradis]{.text-red} ne les attend après cette vie terrestre.]{.fst-italic .fs-6}  
+- **Quantité faible**  
+  Dans le registre soutenu, [ne ... guère]{.fw-bold .text-red} = pas beaucoup, pas vraiment.  
+  [Il faut dire que nous [n']{.text-red}avons [guère]{.text-red} de choix.]{.fst-italic .fs-6}  
+  On peut associer deux négations.  
+  [Être juste un peu heureux ne suffit [guère]{.text-red} à personne.]{.fst-italic .fs-6}  
+  ⚠️ [ne ... que]{.fw-bold .text-red} exprime la restriction.  
+  [Nous [n']{.text-red}avons [qu']{.text-red}à nous contenter de nos vies. = Nous avons seulement à nous contenter de nos vies.]{.fst-italic .fs-6}
+
+:::
+
+
+------
+
+# Vocabulaire
+
+:::{.markgreen .rounded-3 .shadow .m-1 .p-2}
+
+**Les émotions négatives**  
+
+- déçu(e) (adj.) : qui éprouve de la déception ( [disappointed]{.fst-italic} )
+- malheureux(se)
+
+**Les problèmes de santé**
+
+- un coma éthylique (n.m.) : perte de conscience due à un excès d'alcool ( [an alcohol-induced coma]{.fst-italic} )
+- les urgences (n.f.pl.) : service hospitalier pour les cas graves et urgents ( [emergency room]{.fst-italic} )
+- s'étouffer (v.) : ne plus pouvoir respirer ( [to choke]{.fst-italic} )
+
+**Les échecs**
+
+- un revers (n.m.) : un échec, un coup dur ( [a setback]{.fst-italic} )
+- rater (v.) : échouer
+
+**Les qualités**
+
+- autonome (adj.) : qui agit par soi-même, sans dépendre de quelqu'un d'autre ( [autonomous]{.fst-italic} )
+- volontaire (adj.) : qui agit de sa propre volonté ( [voluntary]{.fst-italic} )
+
+
+
+:::
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

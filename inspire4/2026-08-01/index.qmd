@@ -125,13 +125,13 @@ Le bonheur est [au cœur des]{.underline} interrogations des philosophes de l'An
 
 Avec le long Moyen Âge, on a comme [une sorte de]{.fw-bold} [parenthèse]{.underline} d'un bonheur accessible ici-bas[^fe]. Pendant cette période, le bonheur est synonyme de quelque chose à attendre pour [la vie d'après]{.underline}. [[...]]{.text-light} Il faut être [vertueux]{.underline}[^ff] ici-bas pour atteindre le bonheur dans [l'au-delà]{.underline}[^fg].
 
-Ceci dit, il ne faudrait pas caricaturer. Il y a aussi pendant cette période une notion de bonheur terrestre. Dans les textes de Thomas D'Aquin, par exemple, l'idée d'amitié est très forte : on [est bien là]{.underline} [dans l'idée d]{.underline}'un bonheur pour ici-bas.[[...]]{.text-light}
+Ceci dit, il ne faudrait pas caricaturer. Il y a aussi pendant cette période une notion de bonheur terrestre. Dans les textes de Thomas d'Aquin, par exemple, l'idée d'amitié est très forte : on [est bien là]{.underline} [dans l'idée d]{.underline}'un bonheur pour ici-bas.[[...]]{.text-light}
 
-[La Renaissance semble être l'âge d'or du bonheur. Quelle philosophie sous-tend[^fe] alors l'idée du bonheur, et quelles sont les manières concretes d'être heureux ?]{.fw-bold}
+[La Renaissance semble être l'âge d'or du bonheur. Quelle philosophie sous-tend[^fj] alors l'idée du bonheur, et quelles sont les manières concrètes d'être heureux ?]{.fw-bold}
 
-À la periode de la Renaissance, le bonheur redescend sur terre. Les fêtes du XVI^e^ siècle témoignent de ce bonheur renaissant, de la réhabilitation du goût, de la joie d'être ensemble...
+À la période de la Renaissance, le bonheur redescend sur terre. Les fêtes du XVI^e^ siècle témoignent de ce bonheur renaissant, de la réhabilitation du goût, de la joie d'être ensemble...
 
-La découverte des nouveaux mondes donne [par ailleurs]{.fw-bold} un aperçu[^rj] de ce que pourrait être un bonneur plus immédiat, primaire, avec l'idée d'un paradis perdu qu'il faudrait retrouver. [Peu à peu]{.fw-bold}, on voit dans la quantité de textes écrits au XVII^e^ siècle cette interrogation du bonheur qui [se pose à nouveau]{.fw-bold}, [de manière de plus en plus prégnante]{.underline}[^fh], non pas seulement pour une élite mais pour une catégorie de population de plus en plus large.
+La découverte des nouveaux mondes donne [par ailleurs]{.fw-bold} un aperçu[^rj] de ce que pourrait être un bonheur plus immédiat, primaire, avec l'idée d'un paradis perdu qu'il faudrait retrouver. [Peu à peu]{.fw-bold}, on voit dans la quantité de textes écrits au XVII^e^ siècle cette interrogation du bonheur qui [se pose à nouveau]{.fw-bold}, [de manière de plus en plus prégnante]{.underline}[^fh], non pas seulement pour une élite mais pour une catégorie de population de plus en plus large.
 
 [En quoi le bonheur a-t-il été l'un des moteurs des révolutions ?]{.fw-bold}
 
@@ -141,11 +141,11 @@ On le retrouve chez les philosophes des Lumières, en particulier chez Rousseau,
 
 [Dans quelle mesure le bonheur a-t-il également été la matrice de l'avancée des droits sociaux ?]{.fw-bold}
 
-Sans un minimum d'organisatin sociale, sans interdiction du travail des enfants, sans l'accès des femmes aux droits, sans la création de la Sécurité sociale, il n'y a pas de bonheur collectif possible. Et sans bonheur collectif, il n'y a pas de bonheur individuel.
+Sans un minimum d'organisation sociale, sans interdiction du travail des enfants, sans l'accès des femmes aux droits, sans la création de la Sécurité sociale, il n'y a pas de bonheur collectif possible. Et sans bonheur collectif, il n'y a pas de bonheur individuel.
 
 On le retrouve dans la Révolution française, moteur des droits, puis dans l'installation de la République, et [ensuite]{.fw-bold} dans des révolutions plus [exigeantes]{.underline}[^fk] sur le plan de l'égalité.
 
-Ensuite, avec les révolutions socialistes, on voit [se dessiner]{.underline} les grandes ruptures idéologiques du XX^e^ siècle, entre la liberté d'être heureux, et l'égalité avec l'idée que la liberté des uns prive tous les autres de leur boneur... On a là deux visions opposées de la société et du bonheur.
+Ensuite, avec les révolutions socialistes, on voit [se dessiner]{.underline} les grandes ruptures idéologiques du XX^e^ siècle, entre la liberté d'être heureux, et l'égalité avec l'idée que la liberté des uns prive tous les autres de leur bonheur... On a là deux visions opposées de la société et du bonheur.
 
 
 
@@ -156,7 +156,7 @@ Ensuite, avec les révolutions socialistes, on voit [se dessiner]{.underline} le
 [^fe]: ici-bas (loc.) : dans ce monde, sur cette terre ( [in this world, on this earth]{.fst-italic} )
 [^ff]: vertueux (adj.) : moralement bon, honnête, juste ( [virtuous]{.fst-italic} )
 [^fg]: l'au-delà (n.m.) : la vie après la mort ( [the afterlife]{.fst-italic} )
-[^fe]: sous-tendre (v.) : soutenir, être à la base de ( [to underpin, to support]{.fst-italic} )
+[^fj]: sous-tendre (v.) : soutenir, être à la base de ( [to underpin, to support]{.fst-italic} )
 [^rj]: un aperçu (n.m.) : une idée, une vision ( [an insight, a glimpse]{.fst-italic} )
 [^fh]: prégnant (adj.) : qui s'impose à l'esprit, qui est très présent ( [prevalent, pervasive]{.fst-italic} )
 [^fi]: apuré (adj.) : ici, simple, pur, sans excès ( [refined, pure]{.fst-italic} )
@@ -222,6 +222,8 @@ _En voici une petite liste non exhaustive : [joie, bonne humeur, amusement, plai
 - l'enthousiasme (n.m.)
 - l'harmonie (n.f.)
 - la joie de vivre
+- la gaieté (n.f.) : le fait d'être joyeux, de rire facilement
+- l'exaltation (n.f.) : le fait d'être très heureux, très content
 - la sérénité
 - la tranquillité de l'âme
 
@@ -229,6 +231,8 @@ _En voici une petite liste non exhaustive : [joie, bonne humeur, amusement, plai
 
 - la frustration
 - les vicissitudes (n.f.) : les aléas de la vie, les difficultés
+- l'ennui (n.m.) : le fait de s'ennuyer, de ne pas être intéressé par ce qu'on fait
+- le colère (n.m.) : le fait d'être en colère, de se fâcher
 
 **Le développement personnel :**
 
@@ -256,7 +260,156 @@ _En voici une petite liste non exhaustive : [joie, bonne humeur, amusement, plai
 :::
 
 
+------
+
+# Cahier d'activités
+
+## Ex.1
+
+::: {.callout-note collapse="true" title="Transcription : Quelle est votre définition du bonheur ?"}
+
+::::{.fs-5}
+
+[Laure, 24 ans, étudiante : ]{.fw-bold .text-blue} Le bonheur, pour moi, c'est une [philosophie de vie]{.text-orange} qui se construit petit à petit. C'est un [équilibre]{.underline} entre tous les aspects de la vie, la vie personnelle comme la vie professionnelle. C'est également une [tranquillité de l'âme]{.underline}[^ga] qui se développe au quotidien. Le bonheur permet de trouver un chemin vers la [sérénité]{.text-orange}. Pour moi, le bonheur, c'est être [en harmonie avec]{.underline} soi-même.
+
+[Yasmine, 49 ans, vendeuse : ]{.fw-bold .text-green} C'est la santé, la famille et les enfants. Le bonheur, c'est d'être [entouré]{.underline} des personnes qu'on aime, de [s'intéresser aux]{.underline} autres et d'avoir de [l'affection]{.text-orange} pour eux. C'est d'[être bien dans sa peau]{.underline}[^aa] aussi. Beaucoup de personnes ne savent pas vraiment [apprécier]{.underline} les choses de la vie et [souffrent de]{.underline} [frustration]{.text-orange}. On peut réussir à trouver le bonheur même si on n'a pas grand-chose. Enfin, je pense.
+
+[Elias, 28 ans, responsable de magasin : ]{.fw-bold .text-purple} Ma définition du bonheur ? C'est une question difficile. Je crois que c'est simplement [voir le bon côté de la vie]{.underline}[^gb], faire ce qu'on aime, être [enthousiaste]{.text-orange} et savoir [se faire plaisir]{.underline}[^gc]. Mais chacun a sa propre définition du bonheur.
+
+[Youssef, 33 ans, infirmier : ]{.fw-bold .text-red} Pour moi, le bonheur, c'est de ne pas [me soucier du lendemain]{.underline}[^gd] et de [vivre au jour le jour]{.underline}[^ge]. C'est voir [mes proches]{.underline}[^gf] heureux ou encore apporter de la [bonne humeur]{.text-orange} aux personnes qui [m'entourent]{.underline}. Dans mon métier, je rencontre beaucoup de gens qui ont souffert des [vicissitudes]{.underline}[^gg] de la vie. C'est important de les aider à retrouver des [émotions positives]{.text-orange} et de [l'estime de soi]{.underline}[^gh]. Le bonheur, c'est un [état d'âme]{.underline}[^gi] où les émotions positives [l'emportent sur]{.underline}[^gj] les émotions négatives. Et c'est nécessaire quand on souffre de problèmes de santé.
+
+[^ga]: la tranquillité de l'âme (loc.) : le calme intérieur, la paix de l'esprit ( [peace of mind]{.fst-italic} ).
+[^gb]: voir le bon côté de la vie (loc.) : rester optimiste, regarder ce qu'il y a de positif ( [to look on the bright side]{.fst-italic} ).
+[^gc]: se faire plaisir (loc.) : s'accorder ce qui fait envie ( [to treat oneself]{.fst-italic} ).
+[^gd]: se soucier de (v.) : s'inquiéter de, se préoccuper de ( [to worry about]{.fst-italic} ).
+[^ge]: vivre au jour le jour (loc.) : vivre sans se projeter dans l'avenir ( [to live from day to day]{.fst-italic} ).
+[^gf]: les proches (n.m.pl.) : la famille et les amis intimes ( [loved ones]{.fst-italic} ).
+[^gg]: les vicissitudes (n.f.pl.) : les difficultés et les changements pénibles de l'existence ( [the ups and downs of life]{.fst-italic} ).
+[^gh]: l'estime de soi (n.f.) : la valeur qu'on s'accorde à soi-même ( [self-esteem]{.fst-italic} ).
+[^gi]: un état d'âme (n.m.) : une disposition intérieure, une humeur ( [a state of mind]{.fst-italic} ).
+[^gj]: l'emporter sur (v.) : être plus fort que, prendre le dessus ( [to prevail over]{.fst-italic} ).
+
+::::
+:::
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP4_CA_AUDIO/INSP_4_CA_Piste02.mp3" type="audio/mpeg">
+</audio>
 
 
+## Ex. 5
+
+::: {.callout-note collapse="true" title="Transcription : Activité 5"}
+
+::::{.fs-5}
+
+[Exemple : ]{.fw-bold .text-blue} L'idée du bonheur collectif [apaisante]{.text-orange}[^ha] se développe encore à notre époque.
+
+[a. ]{.fw-bold .text-red} Les émotions [négatives]{.text-orange} ont-elles des conséquences sur notre bien-être ?
+
+[b. ]{.fw-bold .text-red} Ces souvenirs se sont formés à partir d'événements [marquants]{.text-orange}[^hb].
+
+[c. ]{.fw-bold .text-red} Ton amitié [exigeante]{.text-orange}[^hc] m'[agace]{.underline}[^bf].
+
+[d. ]{.fw-bold .text-red} Il se sent souvent [frustré]{.text-orange}[^hd] de ne pas [susciter]{.underline}[^bk] l'intérêt de ses collègues.
+
+[e. ]{.fw-bold .text-red} Elle [fait preuve d']{.underline}[^he]une [tranquillité d'âme]{.underline}[^ga] [réconfortante]{.text-orange}[^hf].
+
+[f. ]{.fw-bold .text-red} La philosophie est un moyen [intelligent]{.text-orange} d'accéder à la connaissance de soi.
+
+[^ha]: apaisant (adj.) : qui calme, qui procure la paix ( [soothing, calming]{.fst-italic} ).
+[^hb]: marquant (adj.) : qui laisse une trace durable dans la mémoire ( [significant, memorable]{.fst-italic} ).
+[^hc]: exigeant (adj.) : qui demande beaucoup, difficile à satisfaire ( [demanding]{.fst-italic} ).
+[^hd]: frustré (adj.) : déçu de ne pas obtenir ce qu'on attendait ( [frustrated]{.fst-italic} ).
+[^he]: faire preuve de (loc.) : montrer, manifester (une qualité) ( [to show, to display]{.fst-italic} ).
+[^hf]: réconfortant (adj.) : qui redonne du courage, qui fait du bien ( [comforting, heartening]{.fst-italic} ).
+
+::::
+:::
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP4_CA_AUDIO/INSP_4_CA_Piste03.mp3" type="audio/mpeg">
+</audio>
+
+
+## Ex. 6 : Communiquer
+
+> Le bonheur positif et parfait est impossible ; il faut seulment [s'attendre à]{.underline} un état comparativement moins douloureux. 
+-- [Schopenhauer]{.text-secondary .fst-italic}
+
+> Le pouvoir, la richesse, la considération, même la santé ainsi que le bien-être complet et le contentement de son état, est ce qu'on nomme le bonheur.
+-- [Kant]{.text-secondary .fst-italic}
+
+:::{.callout-note}
+# ✍️
+[J'ai lu ces deux définitions du bonheur]{.fst-italic}
+mais je ne suis pas d'accord avec nulle. J'avoue que il ne existe pas de bonheur parfait, parce que la vie n'est jamais parfaite. Toutefois, il vaut de retrouver une petite dose de bonheur òu on pourrait. Et dans ce moment là, on est heureux. Ce n'est pas parfait mais c'est la vie. Les moines boudhistes disaient : la vie s'agit de la souffrance et on trouve le bonheur de la souffrance.
+
+À l'autre coté, le bonheur consiste à tous les formes. Le pouvoir, la richesse, et bien nulle chose singulaire peut garantir du bonheur. Pourtant, on peut être d'accord avec l'idée que quand on est content de son état et peut profiter de bien-être de sa santé, c'est plus facile d'être heureux. À mon avis, à rechercher le bonheur, il faut suivre son cœur, ecouter son corp, et prendre du temps à apprécier ce que on possède.
+
+::::{.callout-important title="✍️ Corrections — « J'ai lu ces deux définitions du bonheur… »"}
+
+**① Votre texte** — surligné : les passages à revoir
+
+:::{.border-start .border-warning .border-3 .ps-2 .fst-italic}
+J'ai lu ces deux définitions du bonheur mais [je ne suis pas d'accord avec nulle]{style="background-color:#fff3cd"}. J'avoue [que il ne existe pas]{style="background-color:#fff3cd"} de bonheur parfait, parce que la vie n'est jamais parfaite. Toutefois, [il vaut de retrouver]{style="background-color:#fff3cd"} une petite dose de bonheur [òu on pourrait]{style="background-color:#fff3cd"}. Et [dans ce moment là]{style="background-color:#fff3cd"}, on est heureux. Ce n'est pas parfait mais c'est la vie. Les moines [boudhistes]{style="background-color:#fff3cd"} disaient : [la vie s'agit de la souffrance]{style="background-color:#fff3cd"} et [on trouve le bonheur de la souffrance]{style="background-color:#fff3cd"}.
+
+[À l'autre coté]{style="background-color:#fff3cd"}, le bonheur [consiste à tous les formes]{style="background-color:#fff3cd"}. Le pouvoir, la richesse, [et bien nulle chose singulaire peut garantir du bonheur]{style="background-color:#fff3cd"}. Pourtant, on peut être d'accord avec l'idée que quand on est content de son état [et peut profiter de bien-être de sa santé]{style="background-color:#fff3cd"}, c'est plus facile d'être heureux. À mon avis, [à rechercher]{style="background-color:#fff3cd"} le bonheur, il faut suivre son cœur, [ecouter son corp]{style="background-color:#fff3cd"}, et [prendre du temps à apprécier]{style="background-color:#fff3cd"} [ce que on possède]{style="background-color:#fff3cd"}.
+:::
+
+**② Version corrigée** — surligné : les remplacements
+
+:::{.border-start .border-success .border-3 .ps-2 .fst-italic}
+J'ai lu ces deux définitions du bonheur, mais [je ne suis d'accord ni avec l'une ni avec l'autre]{.fw-bold style="background-color:#d1e7dd"}. J'avoue [qu'il n'existe pas]{.fw-bold style="background-color:#d1e7dd"} de bonheur parfait, parce que la vie n'est jamais parfaite. Toutefois, [il vaut la peine de trouver]{.fw-bold style="background-color:#d1e7dd"} une petite dose de bonheur [là où l'on peut]{.fw-bold style="background-color:#d1e7dd"}. Et [à ce moment-là]{.fw-bold style="background-color:#d1e7dd"}, on est heureux. Ce n'est pas parfait, mais c'est la vie. Les moines [bouddhistes]{.fw-bold style="background-color:#d1e7dd"} disaient [que la vie est faite de souffrance]{.fw-bold style="background-color:#d1e7dd"} et [que c'est dans la souffrance qu'on trouve le bonheur]{.fw-bold style="background-color:#d1e7dd"}.
+
+[D'un autre côté]{.fw-bold style="background-color:#d1e7dd"}, le bonheur [prend toutes les formes]{.fw-bold style="background-color:#d1e7dd"}. Le pouvoir, la richesse… [eh bien, aucune chose à elle seule ne peut garantir le bonheur]{.fw-bold style="background-color:#d1e7dd"}. Pourtant, on peut être d'accord avec l'idée que, quand on est content de son état [et qu'on peut profiter du bien-être que procure la santé]{.fw-bold style="background-color:#d1e7dd"}, il est plus facile d'être heureux. À mon avis, [pour rechercher]{.fw-bold style="background-color:#d1e7dd"} le bonheur, il faut suivre son cœur, [écouter son corps]{.fw-bold style="background-color:#d1e7dd"} et [prendre le temps d'apprécier]{.fw-bold style="background-color:#d1e7dd"} [ce que l'on possède]{.fw-bold style="background-color:#d1e7dd"}.
+:::
+
+**③ Explications**
+
+| ❌ Votre texte | ✅ Correction | 💡 Explication |
+|---|---|---|
+| je ne suis pas d'accord avec nulle | je ne suis d'accord **ni avec l'une ni avec l'autre** | *nulle* ne s'emploie pas seul comme pronom. Pour deux éléments : « ni l'un(e) ni l'autre » ; sinon « avec aucune des deux ». |
+| que il ne existe pas | **qu'il n'existe** pas | Double élision obligatoire : *que + il* → *qu'il* ; *ne + existe* → *n'existe*. |
+| il vaut de retrouver | il vaut **la peine de trouver** | L'expression est « **il vaut la peine de** + infinitif ». *Retrouver* = trouver de nouveau ; ici c'est *trouver*. |
+| òu on pourrait | **là où l'on peut** | Accent grave à l'envers : *où* (jamais *òu*). Le conditionnel n'a pas de justification ici → présent. *l'on* après *où* est plus élégant. |
+| dans ce moment là | **à ce moment-là** | On dit « **à** ce moment-là » (*dans ce moment* est un calque). Trait d'union obligatoire avec *-là*. |
+| boudhistes | **bouddhistes** | Orthographe : deux *d*. |
+| disaient : la vie s'agit de la souffrance | disaient **que la vie est faite de souffrance** | *s'agir* est impersonnel : seulement « **il** s'agit de ». Avec un sujet réel : *la vie est faite de / consiste en*. |
+| on trouve le bonheur de la souffrance | c'est **dans** la souffrance **qu'on** trouve le bonheur | *trouver le bonheur **dans** qqch* ; *de* exprimerait l'origine, pas le lieu. |
+| À l'autre coté | **D'un autre côté** | Expression figée : « d'un autre côté / en revanche ». Accent circonflexe sur *côté*. |
+| le bonheur consiste à tous les formes | le bonheur **prend toutes les formes** | *consister à* + infinitif, *consister en* + nom. Ici : *prendre / revêtir* des formes. Accord : *forme* est féminin → **toutes**. |
+| et bien nulle chose singulaire peut garantir du bonheur | **eh bien, aucune chose à elle seule ne peut garantir le bonheur** | *eh bien* (interjection) ≠ *et bien*. Négation à deux éléments : *aucune… **ne***. *Garantir* est transitif direct : garantir **le** bonheur. |
+| et peut profiter de bien-être de sa santé | et **qu'on peut** profiter **du** bien-être **que procure la santé** | Après *que*, chaque subordonnée coordonnée reprend *que* + son sujet. *de + le* → **du**. |
+| c'est plus facile d'être heureux | **il est** plus facile d'être heureux | Registre écrit : la tournure impersonnelle *il est + adj. + de* est préférable à *c'est*. |
+| à rechercher le bonheur | **pour rechercher** le bonheur | Le but s'exprime par *pour* + infinitif, pas par *à*. |
+| ecouter son corp | **écouter son corps** | Accent aigu sur *é* ; *corps* s'écrit toujours avec un *s*. |
+| prendre du temps à apprécier | prendre **le** temps **d'**apprécier | Expression figée : « prendre **le temps de** + infinitif ». |
+| ce que on possède | ce **qu'on** possède (ou *ce que l'on*) | Élision de *que* devant voyelle. |
+
+::::
+
+::::{.callout-tip title="🗣️ Commentaire général et note"}
+
+| Critère | Note | Commentaire |
+|---|:--:|---|
+| Respect de la consigne (réagir aux deux citations) | **4 / 5** | Vous répondez bien aux deux philosophes : Schopenhauer au § 1, Kant au § 2. |
+| Cohérence et connecteurs | **3,5 / 5** | Bons articulateurs (*Toutefois, D'un autre côté, Pourtant, À mon avis*), mais le lien entre le bouddhisme et la suite reste implicite. |
+| Richesse lexicale | **3 / 5** | Vocabulaire de la leçon bien réemployé (*bonheur parfait, bien-être, souffrance, se contenter de son état*) ; encore quelques mots approximatifs (*singulaire, retrouver, soigner le temps*). |
+| Correction grammaticale et orthographe | **2 / 5** | Point faible : élisions (*qu'il, n'existe, qu'on*), négations à deux éléments (*aucune… ne*), genre des noms (*toutes les formes*), accents (*où, écouter, côté*). |
+| **Total** | **12,5 / 20** | Niveau **B1+ / B2 en cours d'acquisition**. |
+
+**Ce qui fonctionne bien :** votre position est nuancée et personnelle — vous refusez les deux définitions, puis vous proposez la vôtre (le bonheur comme petites doses, à chercher en écoutant son cœur et son corps). C'est exactement ce qu'on attend d'une production B2 : argumenter, pas seulement résumer.
+
+**Les trois priorités à travailler :**
+
+1. **Les élisions** — *que + il/on/elle* → *qu'il, qu'on* ; *ne + voyelle* → *n'*. C'est l'erreur la plus fréquente dans votre texte.
+2. **La négation complète** — en français, *aucun, nul, personne, rien* exigent toujours **ne** devant le verbe : *aucune chose **ne** peut garantir…*
+3. **Les expressions figées** — *il vaut **la peine** de*, *prendre **le** temps **de***, *à ce moment**-là***, *d'un autre côté*. Notez-les en bloc, sans les découper.
+
+En corrigeant ces trois points, la même copie passerait facilement à **15 / 20**. Les idées, elles, sont déjà d'un bon niveau B2 👍
+::::
+
+:::
 
 
