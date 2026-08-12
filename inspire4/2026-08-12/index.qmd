@@ -1,0 +1,249 @@
+---
+title: "Leçon 3: Envisager le bonheur"
+date: "2026-08-12"
+categories: ["B2", "unite2", "autodidacte"]
+reference-location: document # margin, block, section, document
+citation-location: document #margin
+image: "https://images.unsplash.com/photo-1590580673100-ee7ee687bfa6?q=80&w=640"
+
+---
+
+
+# Doc2 
+
+:::{.text-center}
+[Le Bonheur National Brut, ce concept venu de l'Himalaya a 50 ans !]{.fs-3 .fw-bold .text-blue}  
+[par Arnaud P. 9 avril 2022]{.fs-6 .text-secondary}
+:::
+
+[C'est le Bhoutan qui a, dès 1972, mis en avant le concept de Bonheur National [Brut]{.underline}[^ia]. Un indicateur [censé]{.underline}[^ib] remplacer le Produit National Brut. C'était il y a 50 ans et il a été [affiné]{.underline}[^ic] [en cours de route]{.text-orange}[^id]. Aujourd'hui, que [se cache-t-il derrière]{.text-orange}[^ie] cette invention venue des montagnes de l'Himalaya ? Réponse en 5 points clés.]{.fw-bold}
+
+**1. Une boussole pour les décideurs**
+
+Le Bonheur National Brut [n']{.fw-bold}est pas [(qu')]{.fw-bold}[^if]un indicateur marketing. C'est [un axe central]{.underline}[^ig] de la politique de développement du pays. [[...]]{.text-light}
+
+**2. Le Bonheur National Brut n'est pas subjectif**
+
+Le développement durable d'une nation passe [également]{.text-purple} par la dimension économique. Une approche plus globale doit intégrer dans la notion de progrès des éléments non-économiques. Le Bonheur National Brut [vise donc à]{.underline}[^ih] mesurer ce développement des populations et de leur bien-être. Il n'est pas une compilation de [ressentis]{.underline}[^ii] subjectifs [issus de]{.underline}[^ij] sondages comme on peut en voir souvent : « les populations les plus heureuses sont ... ». Le [classement]{.underline}[^ik] annuel World Happiness Report se base ainsi sur un sondage demandant aux [répondants]{.underline}[^il] de mesurer leur bonheur sur un certain nombre de critères.
+
+**3. 33 critères évalués**
+
+L'indicateur se base sur 9 domaines précis. Le bien-être psychologique, la santé, l'éducation, la [répartition]{.underline}[^im] du temps, la diversité culturelle et sa résilience, la bonne gouvernance, la vitalité de la communauté, la biodiversité et sa résilience, et le [niveau de vie]{.text-orange}[^in]. Plusieurs points précis sont évalués (33) et les 9 domaines sont [pondérés]{.underline}[^io] [de manière équivalente]{.text-purple}. Pour chaque critère, les répondants ont une traduction concrète du sujet, des [seuils]{.underline}[^ip] [vis-à-vis desquels]{.text-orange}[^iq] se positionner sans ambiguïté. L'ensemble donne une [note globale]{.underline}[^ir] pour l'ensemble du pays mais identifie [également]{.text-purple} des catégories de population [en fonction de]{.text-orange}[^is] leur niveau de bonheur.
+
+**4. Une population [largement]{.text-purple}[^it] heureuse**
+
+Prenons l'exemple du Bhoutan, où [environ]{.text-purple} 10 % de la population entre dans la catégorie « non heureux » ou dans une terminologie plus récente « pas encore heureux ». 48 % sont « juste heureux », 32 % sont « considérablement heureux » et 8 % sont « profondément heureux ». Les différents projets [entrepris]{.underline}[^iu] par les autorités sont tous évalués [à l'aune de]{.text-orange}[^iv] leur impact sur le Bonheur National Brut. Ils sont [supposés]{.underline}[^iw] viser à augmenter le pourcentage de la population dans les catégories « les plus heureux ». [En moyenne]{.text-purple}, les populations urbaines [se révèlent]{.underline}[^ix] plus heureuses que les populations rurales. [Idem pour]{.text-orange}[^iy] les hommes versus les femmes.
+
+**5. Une définition adaptée au développement**
+
+Un questionnaire individuel vous permet de calculer votre Bonheur National Brut. On y apprend que, pour contribuer à son bonheur, la dimension spirituelle est importante. [Ainsi]{.fw-bold} méditer [occasionnellement]{.text-purple} ou [souvent]{.text-purple} fera de vous un être plus heureux. Si vous avez confiance en vos voisins, une famille [compréhensive]{.underline}[^iz] et que vous dormez [suffisamment]{.text-purple}, vous [devriez]{.text-purple}[^ja] également être plus heureux. Certains aspects de l'indicateur [rentrent dans]{.underline}[^jb] des niveaux de détails très concrets et très liés au développement du pays. Comme la qualité de l'[hébergement]{.underline}[^jc] définie comme « un [toit]{.underline}[^jd] de qualité », « des toilettes » et des « pièces non [surpeuplées]{.underline}[^je] ».
+
+[^ia]: brut(e) (adj.) : total, avant toute déduction ( [gross]{.fst-italic} ). Contraire : *net(te)* ( [net]{.fst-italic} ).
+[^ib]: censé + infinitif (adj.) : supposé, qui devrait ( [supposed to, meant to]{.fst-italic} ). ⚠️ Ne pas confondre avec *sensé* = raisonnable.
+[^ic]: affiner (v.) : rendre plus précis, perfectionner ( [to refine, to fine-tune]{.fst-italic} ).
+[^id]: en cours de route (loc.) : pendant le trajet ; ici, au fil du temps ( [along the way]{.fst-italic} ).
+[^ie]: se cacher derrière (loc.) : *que se cache-t-il derrière... ?* = qu'y a-t-il vraiment dans... ? ( [what lies behind... ?]{.fst-italic} ).
+[^if]: [ne ... que]{.fw-bold} exprime la restriction (= seulement). Les parenthèses sont un jeu de l'auteur : *n'est pas qu'un indicateur* = il est un indicateur, mais pas seulement.
+[^ig]: un axe (n.m.) : une ligne directrice, une orientation principale ( [a focus, a central thrust]{.fst-italic} ).
+[^ih]: viser à (v.) : avoir pour objectif de ( [to aim to]{.fst-italic} ).
+[^ii]: un ressenti (n.m.) : ce que l'on éprouve personnellement ( [a subjective feeling, a perception]{.fst-italic} ).
+[^ij]: issu de (adj.) : qui vient de, tiré de ( [drawn from, stemming from]{.fst-italic} ).
+[^ik]: un classement (n.m.) : une liste ordonnée par rang ( [a ranking]{.fst-italic} ).
+[^il]: un répondant (n.m.) : la personne qui répond à une enquête ( [a respondent]{.fst-italic} ).
+[^im]: la répartition (n.f.) : la manière dont une chose est distribuée ( [the distribution, the allocation]{.fst-italic} ).
+[^in]: le niveau de vie (loc.) : les conditions matérielles d'existence ( [the standard of living]{.fst-italic} ).
+[^io]: pondérer (v.) : donner un poids, une importance relative à ( [to weight]{.fst-italic} ).
+[^ip]: un seuil (n.m.) : une limite à partir de laquelle on change de catégorie ( [a threshold]{.fst-italic} ). Sens propre : la pierre sous la porte d'entrée.
+[^iq]: vis-à-vis de (loc.) : par rapport à, face à ( [in relation to, with regard to]{.fst-italic} ).
+[^ir]: une note globale (n.f.) : un score d'ensemble ( [an overall score]{.fst-italic} ).
+[^is]: en fonction de (loc.) : selon, d'après ( [according to, depending on]{.fst-italic} ).
+[^it]: largement (adv.) : dans une large mesure, bien plus qu'un peu ( [largely, by a wide margin]{.fst-italic} ). Premier des [adverbes pour nuancer un propos]{.fw-bold} signalés en violet dans ce document : *environ*, *en moyenne*, *de manière équivalente*, *occasionnellement*, *suffisamment*, *également*... Ils dosent la force de l'affirmation au lieu de la donner comme absolue.
+[^iu]: entreprendre (v.) : commencer, se lancer dans ( [to undertake]{.fst-italic} ). Participe passé : *entrepris*.
+[^iv]: à l'aune de (loc., soutenu) : à la mesure de, selon le critère de ( [by the yardstick of]{.fst-italic} ). *Une aune* = ancienne unité de mesure de longueur.
+[^iw]: être supposé + infinitif (loc.) : être censé, devoir en principe ( [to be supposed to]{.fst-italic} ). Synonyme de *censé*, plus courant à l'oral.
+[^ix]: se révéler (v.) : apparaître finalement comme ( [to prove to be, to turn out to be]{.fst-italic} ). Proche de *s'avérer*.
+[^iy]: idem (adv., latin) : de même, pareil ( [likewise, same goes for]{.fst-italic} ).
+[^iz]: compréhensif(ve) (adj.) : qui comprend les autres, indulgent ( [understanding]{.fst-italic} ). ⚠️ Faux ami : *comprehensive* se dit *complet*, *exhaustif*.
+[^ja]: [devriez]{.fw-bold} = *devoir* au [conditionnel présent]{.fw-bold}. Après *si* + présent, on attend normalement le futur (*vous serez plus heureux*) ; le conditionnel atténue l'affirmation : c'est une probabilité, pas une certitude ( [you should be / you ought to be]{.fst-italic} ). Formation : radical du futur + terminaisons de l'imparfait (*devr-* + *-iez*).
+[^jb]: rentrer dans (v., fam.) : ici, aller jusqu'à, entrer dans ( [to go into]{.fst-italic} ).
+[^jc]: l'hébergement (n.m.) : le fait de loger quelqu'un ; le logement ( [housing, accommodation]{.fst-italic} ).
+[^jd]: un toit (n.m.) : la partie qui couvre une maison ; par extension, un logement ( [a roof]{.fst-italic} ).
+[^je]: surpeuplé(e) (adj.) : où il y a trop de monde ( [overcrowded]{.fst-italic} ).
+
+
+------
+
+# Doc3
+
+::: {.callout-note collapse="true" title="Transcription : Eotopia, un projet d'économie du don"}
+
+::::{.fs-5}
+
+Eotopia, pour nous, l'idéal de ce projet, [ce serait]{.text-purple} un lieu où il [y aurait]{.text-purple} un certain nombre de personnes qui [vivraient]{.text-purple} — donc ce [ne sera]{.fw-bold} pas plus de 100, c'est sûr. Parce qu'une [économie du don]{.text-orange}[^kc], ça demande de la confiance. Donc, pour qu'il [y ait]{.fw-bold} de la confiance, il faut que les gens se reconnaissent, c'est un minimum. Tu ne peux pas faire confiance à quelqu'un que tu n'as jamais vu.
+
+[Ce serait]{.text-purple} un lieu où il [y aurait]{.text-purple} des habitations : chaque groupe, chaque famille [aurait]{.text-purple} une maison à elle, ou [pourrait]{.text-purple} partager une maison. Une maison, [bien entendu]{.text-purple}, l'idéal, [ce serait]{.text-purple} écologique, en [terre crue]{.underline}[^kf], en [paille]{.underline}[^kg]. [J'aimerais]{.text-purple} qu'on [puisse]{.fw-bold} expérimenter plusieurs types.
+
+Et donc, à côté de cet endroit où il [y aurait]{.text-purple} les maisons habituelles, un autre endroit qui [serait]{.text-purple} un endroit commun, où beaucoup de gens [pourraient]{.text-purple} venir de l'extérieur pour passer deux, trois jours, une semaine, même un mois. Nous, on [ouvrirait]{.text-purple} le lieu et on [ferait]{.text-purple}[^kh] en sorte que le lieu tourne, fonctionne, pour que d'autres gens puissent apprendre d'eux-mêmes en expérimentant. Ça, [ce serait]{.text-purple} l'idéal : qu'Eotopia soit un lieu d'expérimentation pour tous, avec un [noyau]{.underline}[^ki] de 20, 30, 40, 50 personnes, et que tout fonctionne.
+
+Donc [ce serait]{.text-purple} un lieu [végétalien]{.underline}[^kj], [idéalement]{.text-purple}, parce que la [diète]{.underline}[^kk] végétalienne, pour nous, c'est aussi une question de conviction. On pense que c'est un [régime]{.underline}[^kl] adapté à l'homme, biologique, comme le régime du chimpanzé ou du gorille, et que c'est un régime très écologique, dans le sens où il est effectué local.
+
+Donc un lieu d'économie du don : pas d'argent, pas d'échange monétaire entre les gens. Et [si possible]{.text-purple}, pareil, une économie du don ouverte à l'extérieur. Ça veut dire que si on est dans une [commune]{.underline}[^km], on [aimerait]{.text-purple} pouvoir faire des [paniers de légumes]{.underline}[^kn] qu'on [donnerait]{.text-purple} aux gens qui en [auraient]{.text-purple} besoin, qu'on [offrirait]{.text-purple} nos services aux personnes âgées, pour aller leur [rendre visite]{.text-orange}[^ko], passer un peu de temps avec eux. On [pourrait]{.text-purple} faire une [garderie]{.underline}[^kp] — parce qu'il y a beaucoup de problèmes dans les villages avec ça — que les gens puissent amener leurs enfants, puis nous, on [aurait]{.text-purple} un établissement, on les [recevrait]{.text-purple}, on [s'occuperait]{.text-purple} d'eux dans la journée, on leur [donnerait]{.text-purple} un repas, etc.
+
+S'occuper du recyclage, faire des [tournées]{.underline}[^kq] pour récupérer toutes les poubelles des gens, puis nous, faire le recyclage, récupérer ce qui [pourrait]{.text-purple} nous être utile, et puis essayer de faire en sorte que la commune... [ce serait]{.text-purple} une commune où il [y aurait]{.text-purple} un « [zero waste]{.underline}[^kr] », avec [le moins de poubelles possible]{.text-orange}[^ks]. Rendre des services à la commune, donc aussi donner, pour que la commune aussi comprenne qu'on est avec eux, puis que si eux veulent nous donner des [trucs]{.underline}[^kt] — donc le droit, par exemple, d'avoir l'électricité [au cas où]{.text-orange}[^ku], le droit d'avoir Internet, [ce serait]{.text-purple} bien. On ne peut pas [se fermer]{.underline}[^kv] pour dire : « Bon, là, sans don. » Et non, on [aimerait]{.text-purple} que ça sorte.
+
+Nous, ce qu'on [aimerait]{.text-purple}, c'est que la municipalité nous laisse, qu'elle nous donne une sorte de permis d'expérimentation, qu'on leur dise : « Ben, laissez-nous, pendant quelques années, on va essayer de vivre dans ces [habitats]{.underline}[^kw]-là, on regarde [ce que ça donne]{.text-orange}[^kx], on voit comment ça fonctionne. » En même temps, on est en économie du don, donc on voit comment est-ce qu'on arrive à être ensemble. On ouvre le projet pour que les écoles viennent nous voir, les universitaires — enfin, que ce soit un projet ouvert, donc que cette expérience puisse bénéficier à des études et tout ça. Enfin, oui, on [aimerait]{.text-purple} [vraiment]{.text-purple}... Nous, on se propose comme [cobaye]{.underline}[^ky] pour faire un laboratoire sur cette expérience, et la seule chose qu'on demande, c'est [d'avoir le droit de faire]{.text-orange}[^kz].
+
+[^kc]: une économie du don (n.f.) : système où l'on donne sans attendre de paiement en retour ( [a gift economy]{.fst-italic} ).
+[^kf]: la terre crue (n.f.) : terre non cuite employée comme matériau de construction ( [raw earth, cob]{.fst-italic} ).
+[^kg]: la paille (n.f.) : tige sèche de céréale ( [straw]{.fst-italic} ). *Une maison en paille* = a straw-bale house.
+[^kh]: faire en sorte que (loc.) : s'arranger pour que ( [to see to it that]{.fst-italic} ).
+[^ki]: un noyau (n.m.) : le groupe central, le cœur d'un ensemble ( [a core group]{.fst-italic} ). Sens propre : la partie dure au centre d'un fruit.
+[^kj]: végétalien(ne) (adj.) : qui exclut tout produit animal ( [vegan]{.fst-italic} ). ⚠️ *végétarien* = sans viande, mais avec œufs et laitages.
+[^kk]: une diète (n.f.) : ici, la manière de se nourrir ( [a diet]{.fst-italic} ).
+[^kl]: un régime (n.m.) : ici, l'ensemble des aliments consommés ( [a diet]{.fst-italic} ). Autres sens : un régime politique, le régime d'un moteur.
+[^km]: une commune (n.f.) : la plus petite division administrative française, dirigée par un maire ( [a municipality, a town]{.fst-italic} ). ⚠️ Faux ami : ce n'est pas *a commune* (= une communauté).
+[^kn]: un panier de légumes (n.m.) : lot de légumes préparé et distribué aux habitants ( [a vegetable box]{.fst-italic} ).
+[^ko]: rendre visite à (loc.) : aller voir quelqu'un ( [to pay a visit to]{.fst-italic} ). ⚠️ *visiter* s'emploie pour un lieu, pas pour une personne.
+[^kp]: une garderie (n.f.) : lieu où l'on garde les enfants pendant la journée ( [a daycare centre]{.fst-italic} ).
+[^kq]: une tournée (n.f.) : un parcours régulier, de porte en porte ( [a round]{.fst-italic} ).
+[^kr]: zero waste (angl.) : *zéro déchet* — l'objectif de ne produire aucun déchet ( [zero waste]{.fst-italic} ).
+[^ks]: le moins de ... possible (loc.) : la plus petite quantité possible de ( [as little / as few ... as possible]{.fst-italic} ).
+[^kt]: un truc (n.m., fam.) : une chose ( [a thing, stuff]{.fst-italic} ). Registre familier, très fréquent à l'oral.
+[^ku]: au cas où (loc.) : par précaution, si jamais ( [just in case]{.fst-italic} ).
+[^kv]: se fermer (v.) : ici, refuser tout contact avec l'extérieur ( [to shut oneself off]{.fst-italic} ).
+[^kw]: un habitat (n.m.) : un mode de logement ( [a form of housing]{.fst-italic} ). *ces habitats-**là*** : le *-là* insiste sur « ceux-ci précisément », très courant à l'oral.
+[^kx]: voir ce que ça donne (loc., fam.) : voir le résultat ( [to see how it turns out]{.fst-italic} ).
+[^ky]: un cobaye (n.m.) : petit rongeur de laboratoire ; ici, personne qui sert d'expérience ( [a guinea pig]{.fst-italic} ).
+[^kz]: avoir le droit de faire (loc.) : ici *faire* reste sans complément — « avoir le droit d'agir, de le faire à notre manière » ( [to have the right to do it]{.fst-italic} ).
+
+::::
+:::
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP4_LE_AUDIO/INSP_4_LE_Piste005.mp3" type="audio/mpeg">
+</audio>
+
+
+------
+
+# Grammaire
+
+
+:::{.markyellow .rounded-3 .shadow .m-1 .p-2}
+
+#### [Les adverbes pour nuancer un propos]{.fw-bold .fs-4 .text-capitalize}
+[Pour indiquer la fréquence]{.fw-bold .fs-6 .text-secondary}  
+[Ainsi méditer [occasionnellement]{.text-red} ou [souvent]{.text-red} fera de vous un être plus heureux.]{.fst-italic}
+
+[Pour nuancer l'intensité]{.fw-bold .fs-6 .text-secondary}  
+[48 % sont « [juste]{.text-red} heureux », 32 % sont « [considérablement]{.text-red} heureux » et 8 % sont « [profondément]{.text-red} heureux ».]{.fst-italic}
+
+[Pour ajouter une information complémentaire]{.fw-bold .fs-6 .text-secondary}  
+[Le développement durable d'une nation passe [également]{.text-red} par la dimension économique. Une approche [plus]{.text-red} globale doit intégrer dans la notion de progrès des éléments non-économiques.]{.fst-italic}
+
+:::
+
+:::{.column}
+:::
+
+:::{.markyellow .rounded-3 .shadow .m-1 .p-2}
+
+#### [Le conditionnel présent (1)]{.fw-bold .fs-4 .text-capitalize}
+
+[Pour imaginer, décrire un projet incertain]{.fw-bold .fs-6 .text-secondary}  
+[Ce [serait]{.text-red} un liu où il y [aurait]{.text-red} des habitations. Chaque groupe, chaque famille [aurait]{.text-red} une maison à elle ou [pourrait]{.text-red} partager une maison.]{.fst-italic}
+
+
+:::
+
+## Ex. 8
+
+::: {.callout-note collapse="true" title="Transcription : Écoutez et repérez le conditionnel présent"}
+
+::::{.fs-5}
+
+[Exemple : ]{.fw-bold .text-secondary} Tous les habitants [vivraient]{.text-red} en paix.
+
+[a. ]{.fw-bold .text-blue} Les gens [auraient]{.text-red} les mêmes droits.
+
+[b. ]{.fw-bold .text-blue} Personne ne [mourrait]{.text-red}[^ma] de faim.
+
+[c. ]{.fw-bold .text-blue} Il n'y [aurait]{.text-red} pas de guerre.
+
+[d. ]{.fw-bold .text-blue} On [ferait]{.text-red} tout ce qu'on veut.
+
+[e. ]{.fw-bold .text-blue} Chacun [respecterait]{.text-red} la loi.
+
+[f. ]{.fw-bold .text-blue} Nous [prendrions]{.text-red} le temps de faire les choses.
+
+[g. ]{.fw-bold .text-blue} L'esprit de tolérance [régnerait]{.text-red}[^mb].
+
+[^ma]: ⚠️ Deux *r* : *il mour**r**ait* (conditionnel) ≠ *il mourait* (imparfait). Même piège avec *courir* → *il cour**r**ait*.
+[^mb]: régner (v.) : ici, dominer, être partout présent ( [to prevail, to reign]{.fst-italic} ).
+
+::::
+:::
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP4_LE_AUDIO/INSP_4_LE_Piste016.mp3" type="audio/mpeg">
+</audio>
+
+
+
+------
+
+# Vocabulaire
+
+
+:::{.markgreen .rounded-3 .shadow .m-1 .p-2}
+
+**L'alimentation**
+
+- la diète
+- un panier de légumes
+- un régime
+- végétalien(ne) : une personne végétalienne ([vegan]{.fst-italic})
+- végétarien(ne) : une personne végétarienne ([vegetarian]{.fst-italic})
+
+**Les matière**
+
+- en paille : ([made of straw, straw-based]{.fst-italic})
+- en terre crue : ([made of raw earth, cob]{.fst-italic})
+
+**L'économie**
+
+- un don : un cadeau, une contribution volontaire sans attente de retour ( [a gift, a donation]{.fst-italic} )
+- un échange monétaire
+- le niveau de vie
+- le Produit Intérieur Brut 
+- le Produit National Brut
+
+**L'État**
+
+- une communauté : un groupe de personnes partageant des intérêts ou des valeurs communs ( [a community]{.fst-italic} )
+- une commune : la plus petite division administrative française, dirigée par un maire ( [a municipality]{.fst-italic} )
+- une gouvernance
+- une municipalité
+- une nation
+
+**Les expérimentations**
+
+- un cobaye : une personne ou un animal utilisé pour tester quelque chose ( [a guinea pig]{.fst-italic} )
+- une expérience
+- un laboratoire
+
+**Les sondages**
+
+- un critère
+- un domaine
+- un indicateur
+- une population
+- un questionnaire
+- les répondants (n.m.)
+- un seuil : un niveau limite ou un point de transition ( [a threshold]{.fst-italic} )
+- une terminologie
+- mesurer
+
+:::
+
+
