@@ -6,9 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2026-02-12">
 
-<title>Lesson 14 – Bonjour!</title>
+<title>AF Nice – Bonjour!</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -30,24 +29,26 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../../">
-<link href="../../profile.jpg" rel="icon" type="image/jpeg">
-<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../../site_libs/quarto-html/popper.min.js"></script>
-<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-6bd78948ab9176f3debdca9f0542b5e1.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./profile.jpg" rel="icon" type="image/jpeg">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-6bd78948ab9176f3debdca9f0542b5e1.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -75,9 +76,67 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
 
-<link rel="stylesheet" href="../../styles.css">
+    const options = {
+      valueNames: ['listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="styles.css">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -87,11 +146,11 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../../profile.jpg" alt="" class="navbar-logo light-content">
-    <img src="../../profile.jpg" alt="" class="navbar-logo dark-content">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./profile.jpg" alt="" class="navbar-logo light-content">
+    <img src="./profile.jpg" alt="" class="navbar-logo dark-content">
     </a>
-    <a class="navbar-brand" href="../../index.html">
+    <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Bonjour!</span>
     </a>
   </div>
@@ -102,32 +161,32 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../inspire4.html"> <i class="bi bi-book" role="img">
+    <a class="nav-link" href="./inspire4.html"> <i class="bi bi-book" role="img">
 </i> 
 <span class="menu-text">Inspire 4</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../inspire3.html"> <i class="bi bi-book" role="img">
+    <a class="nav-link" href="./inspire3.html"> <i class="bi bi-book" role="img">
 </i> 
 <span class="menu-text">Inspire 3</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../af-bordeaux.html"> <i class="bi bi-backpack" role="img">
+    <a class="nav-link" href="./cours-francais.html"> <i class="bi bi-backpack" role="img">
 </i> 
-<span class="menu-text">AF Bordeaux</span></a>
+<span class="menu-text">Cours Français</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../defi4.html"> <i class="bi bi-book" role="img">
+    <a class="nav-link" href="./defi4.html"> <i class="bi bi-book" role="img">
 </i> 
 <span class="menu-text">Défi 4</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../defi3.html"> <i class="bi bi-book" role="img">
+    <a class="nav-link" href="./defi3.html"> <i class="bi bi-book" role="img">
 </i> 
 <span class="menu-text">Défi 3</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../misc.html"> <i class="bi bi-collection" role="img">
+    <a class="nav-link" href="./misc.html"> <i class="bi bi-collection" role="img">
 </i> 
 <span class="menu-text">Misc</span></a>
   </li>  
@@ -146,7 +205,7 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-inspire-média">    
         <li>
-    <a class="dropdown-item" href="../../asset/af-bordeaux/INSP3_LE_HT.pdf" target="_blank"><i class="bi bi-file-earmark-pdf" role="img">
+    <a class="dropdown-item" href="./asset/af-bordeaux/INSP3_LE_HT.pdf" target="_blank"><i class="bi bi-file-earmark-pdf" role="img">
 </i> 
  <span class="dropdown-text">Audio Transcripts</span></a>
   </li>  
@@ -177,201 +236,43 @@ ul.task-list li input[type="checkbox"] {
 <!-- content -->
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-body">
-      <h1 class="title">Lesson 14</h1>
-                                <div class="quarto-categories">
-                <div class="quarto-category">AF Nice</div>
-                <div class="quarto-category">B2</div>
-                <div class="quarto-category">Défi4</div>
-                <div class="quarto-category">Unit1</div>
-              </div>
-                  </div>
+    <div class="quarto-title column-page-left">
+      <h1 class="title">AF Nice</h1>
+                      </div>
   </div>
     
   
-  <div class="quarto-title-meta">
+  <div class="quarto-title-meta column-page-left">
 
       
-      <div>
-      <div class="quarto-title-meta-heading">Published</div>
-      <div class="quarto-title-meta-contents">
-        <p class="date">February 12, 2026</p>
-      </div>
-    </div>
     
       
     </div>
     
   
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#standard-course" id="toc-standard-course" class="nav-link active" data-scroll-target="#standard-course">Standard course</a>
-  <ul class="collapse">
-  <li><a href="#text" id="toc-text" class="nav-link" data-scroll-target="#text">TEXT</a>
-  <ul class="collapse">
-  <li><a href="#rédigier-un-lettre-ouverte" id="toc-rédigier-un-lettre-ouverte" class="nav-link" data-scroll-target="#rédigier-un-lettre-ouverte">RÉDIGIER UN LETTRE OUVERTE</a></li>
-  </ul></li>
-  <li><a href="#vocabulaire" id="toc-vocabulaire" class="nav-link" data-scroll-target="#vocabulaire">Vocabulaire</a></li>
-  <li><a href="#devoirs" id="toc-devoirs" class="nav-link" data-scroll-target="#devoirs">Devoirs</a></li>
-  </ul></li>
-  </ul>
-</nav>
-    </div>
+        
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(0)</span></div></div></div>
 <!-- main -->
-<main class="content quarto-banner-title-block page-columns page-full" id="quarto-document-content">
+<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
 
 
 
 
-<section id="standard-course" class="level1 page-columns page-full">
-<h1>Standard course</h1>
-<section id="text" class="level2 page-columns page-full">
-<h2 class="anchored" data-anchor-id="text">TEXT</h2>
-<section id="rédigier-un-lettre-ouverte" class="level3 page-columns page-full">
-<h3 class="anchored" data-anchor-id="rédigier-un-lettre-ouverte">RÉDIGIER UN LETTRE OUVERTE</h3>
-<p>Lettre ouverte contre le construction d’un nouveau centre commercial <span style="display: block; text-align: right;">À Liège, le 27 juin 2018</span></p>
-<p>Monsieur le Bourgmestre,</p>
-<p>J’ai l’honneur de vous écrire au nom de l’asbl Liègeurb pour vous demander de renoncer à la construction du centre commercial “Au bord de quai” sur friche industrielle d’Omni-Tech. En effet, notre association doute de la nécessité de construire un centre commercial supplémentaire. Les arguments à son encontre<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> sont nombreux.</p>
-<div class="no-row-height column-margin column-container"><div id="fn1"><p><sup>1</sup>&nbsp;encontre = against, in opposition to</p></div><div id="fn2"><p><sup>2</sup>&nbsp;tenir à rappeler = to want to remind, to wish to recall</p></div><div id="fn3"><p><sup>3</sup>&nbsp;a sprawl, étaler= to spread out, to expand</p></div><div id="fn4"><p><sup>4</sup>&nbsp;excessive</p></div><div id="fn5"><p><sup>5</sup>&nbsp;affaiblir = to weaken</p></div><div id="fn6"><p><sup>6</sup>&nbsp;enlaidir = to make ugly; laid = ugly (adj.)</p></div><div id="fn7"><p><sup>7</sup>&nbsp;a landscape, a scenery</p></div></div><p>Tout d’abord, nous tenons à rappeler<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a> que plusieurs études socio-économiques indiquent une saturation des zones commerciales en province de Liège. La mutiplication de ces zones en périphérie de la ville a conduit à une augmentation du trafic automobile et à un étalement<a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a> urbain démesuré<a href="#fn4" class="footnote-ref" id="fnref4" role="doc-noteref"><sup>4</sup></a>. En parallèle, ces denières années, divers centres commerciaux ont été construits au cœur de la ville pour la redynamiser. Mais, ces projets affaiblissent<a href="#fn5" class="footnote-ref" id="fnref5" role="doc-noteref"><sup>5</sup></a> les commerçants indépendants et enlaidissent<a href="#fn6" class="footnote-ref" id="fnref6" role="doc-noteref"><sup>6</sup></a> le paysage<a href="#fn7" class="footnote-ref" id="fnref7" role="doc-noteref"><sup>7</sup></a> urbain.</p>
-<p>Sur le plan de<a href="#fn8" class="footnote-ref" id="fnref8" role="doc-noteref"><sup>8</sup></a> la mobilité, nous pensons qu’il est incohérent d’autoriser la construction d’un parking de 2350 places, alors que<a href="#fn9" class="footnote-ref" id="fnref9" role="doc-noteref"><sup>9</sup></a> le conseil communal s’est engagé à diminuer le trafic automobile. C’est d’autant plus inacceptable que<a href="#fn10" class="footnote-ref" id="fnref10" role="doc-noteref"><sup>10</sup></a> cette zone est déjà saturée par la circulation automobile et très bien desservie par les transports public.</p>
-<div class="no-row-height column-margin column-container"><div id="fn8"><p><sup>8</sup>&nbsp;on the level of, in terms of</p></div><div id="fn9"><p><sup>9</sup>&nbsp;alors que = while, whereas</p></div><div id="fn10"><p><sup>10</sup>&nbsp;it’s all the more unacceptable that; d’autant plus (adj.) que = all the more (adj.) that…</p></div><div id="fn11"><p><sup>11</sup>&nbsp;paraître = to seem, to appear</p></div><div id="fn12"><p><sup>12</sup>&nbsp;infinitely</p></div><div id="fn13"><p><sup>13</sup>&nbsp;la rive = bank, shore; la rivière = river; le rivage = coastline</p></div></div><p>Sur le plan esthétique, il nous paraît<a href="#fn11" class="footnote-ref" id="fnref11" role="doc-noteref"><sup>11</sup></a> infiniment<a href="#fn12" class="footnote-ref" id="fnref12" role="doc-noteref"><sup>12</sup></a> triste de voir une ville tourner le dos à son cours d’eau<a href="#fn13" class="footnote-ref" id="fnref13" role="doc-noteref"><sup>13</sup></a>. Le projet prevoit la construction d’un mur de 20 mètres de haut sur plus de 200 mètres de long des rives[^2a7] de la Meuse. Quelle absurdité pour notre ville qui porte le titre de capitale wallone de l’eau!</p>
-<p>Par conséquent<a href="#fn14" class="footnote-ref" id="fnref14" role="doc-noteref"><sup>14</sup></a>, nous proposons de réhabiliter cette friche industrielle en y développant un espace vert, ce projet nous semble une initiative susceptible<a href="#fn15" class="footnote-ref" id="fnref15" role="doc-noteref"><sup>15</sup></a> de contribuer au bien-être des Liégois. Par ailleurs, le développement d’un parc au cœur de la ville permettra de réduire la chaleur urbaine tout en créant<a href="#fn16" class="footnote-ref" id="fnref16" role="doc-noteref"><sup>16</sup></a> un lien social.</p>
-<div class="no-row-height column-margin column-container"><div id="fn14"><p><sup>14</sup>&nbsp;par conséquent = consequently; note conséquent is adj. the noun is conséquence</p></div><div id="fn15"><p><sup>15</sup>&nbsp;susceptible de = likely to, liable to, capable of</p></div><div id="fn16"><p><sup>16</sup>&nbsp;tout en créant = all the while creating…; tout en + gérondif = all the while + present participle</p></div><div id="fn17"><p><sup>17</sup>&nbsp;prier de croire = to beg to believe, to ask to believe</p></div><div id="fn18"><p><sup>18</sup>&nbsp;respectful consideration; respectueux/respectueuse = respectful</p></div></div><p>En espérant que ces arguments pourront influencer votre décision, nous vous prions de croire<a href="#fn17" class="footnote-ref" id="fnref17" role="doc-noteref"><sup>17</sup></a>, Monsieur le Bourgmestre, en notre respectueuse considération<a href="#fn18" class="footnote-ref" id="fnref18" role="doc-noteref"><sup>18</sup></a>.</p>
-<p>Patrice Deweeler, président de l’asbl Liègeurb</p>
-</section>
-</section>
-<section id="vocabulaire" class="level2">
-<h2 class="anchored" data-anchor-id="vocabulaire">Vocabulaire</h2>
-<ul>
-<li>Un bourgmestre (n.m) = a mayor (in Belgium and Luxembourg)</li>
-<li>Une bourgmestre (n.f)<br>
-</li>
-<li>Un magistrat (n.m) = a magistrate, a judge (in France)</li>
-<li>Une magistrate (n.f)<br>
-</li>
-<li>Un juge (n.m)<br>
-</li>
-<li>Une juge (n.f)<br>
-</li>
-<li>Un étalement (n.m)<br>
-</li>
-<li>Étaler (v.)<br>
-</li>
-<li>Laid (adj.)<br>
-</li>
-<li>Enlaidir (v.) = to make ugly<br>
-</li>
-<li>Un enlaidissement (n.m)<br>
-</li>
-<li>Faible (adj.)<br>
-</li>
-<li>Faiblir (v.) = to weaken, to become weak<br>
-</li>
-<li>Affaiblir (v.) = to weaken, to make weak<br>
-</li>
-<li>Un affaiblissement (n.m) = a weakening, a decline - Un affaiblissement de la santé, de l’économie, etc.<br>
-</li>
-<li>Prendre congé</li>
-</ul>
-</section>
-<section id="devoirs" class="level2">
-<h2 class="anchored" data-anchor-id="devoirs">Devoirs</h2>
-<div class="callout callout-style-default callout-important callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
+
+
+
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+
 </div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Important</span>Devoirs
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Pour le vendredi 13 février :</p>
-<ul>
-<li>Revoir les leçons sur les points de grammaire vus cette semaine et le vocabulaire.</li>
-<li>Rédiger une lettre ouverte.
-<ul>
-<li>Choisissez un sujet, déterminez un objectif et le destinataire de votre lettre ouverte.</li>
-<li>Sujets :
-<ul>
-<li><span style="background-color: #90ee90;">Embellir la ville.</span></li>
-<li><span style="background-color: #add8e6;">Rendre la ville plus poétique.</span></li>
-<li><span style="background-color: #ffcccb;">Interdire la voiture en ville.</span></li>
-<li><span style="background-color: #ffeccb;">Créer un péage (toll) urbain.</span></li>
-<li><span style="background-color: #ff80cb;">Réglementer la circulation des trottinettes.</span></li>
-</ul></li>
-</ul></li>
-</ul>
-<p><strong><em>conseils</em></strong>:</p>
-<ul>
-<li>Respectez les règles formelles de la lettre (destinataire, date, lieu, expéditeur…).<br>
-</li>
-<li>Structurez-la en paragraphes (faits, arguments, proposition…) et utilisez des connecteurs logiques.<br>
-</li>
-<li>Choisissez soigneusement vos arguments et utilisez-les avec des exemples concrets.<br>
-</li>
-<li>Faites des phrases courtes</li>
-<li>Prenez le temps de faire brouillon. (brouillon = draft)</li>
-</ul>
-<p><strong><em>lexique</em></strong>:</p>
-<p>Pour commencer la lettre</p>
-<ul>
-<li>J’ai l’honneur de vous écrire pour vous demander de …<br>
-</li>
-<li>Ce qui motive cette lettre, c’est …</li>
-</ul>
-<p>Pour présenter les arguments</p>
-<ul>
-<li>Les arguments à son encontre sont …<br>
-</li>
-<li>Nous tenons à dire / signaler / dénoncer …<br>
-</li>
-<li>Les études indiquent que …<br>
-</li>
-<li>Sur le plan de …</li>
-<li>Ces projets contribuent à …</li>
-</ul>
-<p>Pour exprimer une opinion</p>
-<ul>
-<li>Il nous paraît triste / évident / scandaleux / essentiel de …</li>
-</ul>
-<p>Pour proposer</p>
-<ul>
-<li>Face à ce problème, nous proposons …<br>
-</li>
-<li>Nous souhaitons / demandons que …</li>
-</ul>
-<p>Pour conclure</p>
-<ul>
-<li>En espérant que ces arguments pourront influencer …</li>
-</ul>
-</div>
-</div>
-<blockquote class="blockquote">
-<p><strong>Lettre ouverte pour réglementer la circulation des trottinettes à Pandaville</strong></p>
-<p><span style="display: block; text-align: right; font-weight: bold">À Pandaville, le 12 fevrier 2026</span></p>
-<p><strong>Monsieur le Maire,</strong></p>
-<p>J’ai l’honneur de vous écrire au nom de l’association Chevaliers Dragons pour vous demander de réglementer la circulation des trottinettes dans notre ville. Dans le cadre de la loi existant, rien ne régle les utilisations et les gestions de trottinette.</p>
-<p>Prémierment, nous tenons à rappeler que plusieurs études indiquent une augmentation de les accidents à cause des trottinettes. L’utilisation de trottinette par le public sans régulations a contribué aux problèmes de sécurité publique. De plus, sans la supervision adéquate, les trottoirs pourraient devenir inaccessibles.</p>
-<p>Sur le plan de l’obligation de l’enterprise, nous pensons lorsque une enterprise privée qui conduit et profite de l’opération de trottinettes, celle-ci soit obligée à gérer des parkings ordrés des trottinettes et à assumer les résponsibilités légales en cas des accidents.</p>
-<p>Finalement, nous croyons que le gouvernement de la ville est responsable d’assuer la qualité et le recyclage prudent des trottinettes, surtout des batteries. Les trottinettes, c’est une mode écologique de transport. Mais, c’est vrai uniquement si les utilisations sont réglementées efficacement</p>
-<p>En espérant que ces propositions pourront influencer votre décisions, nous vous prions de croire, Monsieur le Maire, en notre respectueuse considération.</p>
-<p><span style="display: block; text-align: right; font-weight: bold">Maître Shifu, président de la association de Chevaliers Dragons</span></p>
-</blockquote>
-
-
-</section>
-</section>
-
-
-</main> <!-- /main -->
+<div class="listing-no-matching d-none">No matching items</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

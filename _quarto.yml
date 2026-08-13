@@ -14,6 +14,7 @@ project:
     - 'lenouveautaxi3/**/*.qmd'
     - 'af-nice-b1-2/**/*.qmd'
     - 'af-bordeaux/**/*.qmd'
+    - 'af-nice/**/*.qmd'
     - 'inspire3/**/*.qmd'
     - 'inspire4/**/*.qmd'
     - 'defi*/**/*.qmd'
@@ -32,9 +33,9 @@ website:
       - text: "Inspire 3"
         icon: book
         href: inspire3.qmd
-      - text: "AF Bordeaux"
+      - text: "Cours Français"
         icon: backpack
-        href: af-bordeaux.qmd
+        href: cours-francais.qmd
       - text: "Défi 4"
         icon: book
         href: defi4.qmd

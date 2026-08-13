@@ -1,5 +1,5 @@
 ---
-title: "Learn French"
+title: "Apprenons le français !"
 image-height: 200px
 type: grid
 categories: false
@@ -12,23 +12,17 @@ format: html
 ---
 
 
-::::{.columns style="align-items: center; padding: 10px; "}
+::::{.grid style="align-items: center; padding: 10px; "}
 
-:::::{.column .text-center width="40%"}
+:::::{.g-col-12 .g-col-sm-6 .text-center}
 
 [![](inspire4/inspire4-cover.png){height="200px" fig-align="center" style="box-shadow: 5px 5px 15px rgba(0,0,0,0.4);"}](inspire4.html)
 
 [Inspire 4]{.text-primary style="font-size: 2em; font-weight: bold; line-height: 1"}
 
 :::::
-::::
 
-<br>
-
-
-::::{.columns style="align-items: center; padding: 10px; "}
-
-:::::{.column .text-center width="40%"}
+:::::{.g-col-12 .g-col-sm-6 .text-center}
 
 [![](inspire3/inspire3-cover.png){height="200px" fig-align="center" style="box-shadow: 5px 5px 15px rgba(0,0,0,0.4);"}](inspire3.html)
 
@@ -40,13 +34,21 @@ format: html
 <br>
 
 
-::::{.columns style="align-items: center; padding: 10px; "}
+::::{.grid style="align-items: center; padding: 10px; "}
 
-:::::{.column .text-center width="40%"}
+:::::{.g-col-12 .g-col-sm-6 .text-center}
 
-[![](https://images.unsplash.com/photo-1493564738392-d148cfbd6eda?q=80&w=640){height="200px" fig-align="center" style="box-shadow: 5px 5px 15px rgba(0,0,0,0.4);"}](af-bordeaux.html)
+[![](https://images.unsplash.com/photo-1493564738392-d148cfbd6eda?fit=crop&w=600&h=400&q=80){height="200px" fig-align="center" style="box-shadow: 5px 5px 15px rgba(0,0,0,0.4);"}](af-bordeaux.html)
 
 [l'AF-Bordeaux]{.text-primary style="font-size: 2em; font-weight: bold; line-height: 1"}
+
+:::::
+
+:::::{.g-col-12 .g-col-sm-6 .text-center}
+
+[![](https://images.unsplash.com/photo-1643914729809-4aa59fdc4c17?fit=crop&w=600&h=400&q=80){height="200px" fig-align="center" style="box-shadow: 5px 5px 15px rgba(0,0,0,0.4);"}](af-nice.html)
+
+[l'AF-Nice]{.text-primary style="font-size: 2em; font-weight: bold; line-height: 1"}
 
 :::::
 ::::
@@ -54,23 +56,17 @@ format: html
 <br>
 
 
-::::{.columns style="align-items: center; padding: 10px; "}
+::::{.grid style="align-items: center; padding: 10px; "}
 
-:::::{.column .text-center width="40%"}
+:::::{.g-col-12 .g-col-sm-6 .text-center}
 
 [![](defi4/defi4-cover.png){height="200px" fig-align="center" style="box-shadow: 5px 5px 15px rgba(0,0,0,0.4);"}](defi4.html)
 
 [Défi 4]{.text-primary style="font-size: 2em; font-weight: bold; line-height: 1"}
 
 :::::
-::::
 
-<br>
-
-
-::::{.columns style="align-items: center; padding: 10px; "}
-
-:::::{.column .text-center width="40%"}
+:::::{.g-col-12 .g-col-sm-6 .text-center}
 
 [![](defi3/defi3-cover.png){height="200px" fig-align="center" style="box-shadow: 5px 5px 15px rgba(0,0,0,0.4);"}](defi3.html)
 

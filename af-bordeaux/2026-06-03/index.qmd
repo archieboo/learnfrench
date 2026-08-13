@@ -1,5 +1,5 @@
 ---
-title: "2026-06-03 Week 1 Lesson 3"
+title: "2026-06-03 Bordeaux Week 1 Lesson 3"
 date: "2026-06-03"
 categories: ["bordeaux", "af", "B1", "unite4"]
 reference-location: document # margin, block, section, document

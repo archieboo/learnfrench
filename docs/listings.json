@@ -75,7 +75,6 @@
       "/af-bordeaux/2026-06-17/index.html",
       "/af-bordeaux/2026-06-16/index.html",
       "/af-bordeaux/2026-06-15/index.html",
-      "/af-bordeaux/2026-06-13/index.html",
       "/af-bordeaux/2026-06-12/index.html",
       "/af-bordeaux/2026-06-11/index.html",
       "/af-bordeaux/2026-06-10/index.html",
@@ -137,5 +136,34 @@
       "/lenouveautaxi3/le-nouveau-taxi-3-2/index.html",
       "/lenouveautaxi3/le-nouveau-taxi-3-1/index.html"
     ]
+  },
+  {
+    "listing": "/cours-francais.html",
+    "items": [
+      "/af-bordeaux/2026-06-26/index.html",
+      "/af-bordeaux/2026-06-25/index.html",
+      "/af-bordeaux/2026-06-24/index.html",
+      "/af-bordeaux/2026-06-23/index.html",
+      "/af-bordeaux/2026-06-22/index.html",
+      "/af-bordeaux/2026-06-19/index.html",
+      "/af-bordeaux/2026-06-18/index.html",
+      "/af-bordeaux/2026-06-17/index.html",
+      "/af-bordeaux/2026-06-16/index.html",
+      "/af-bordeaux/2026-06-15/index.html",
+      "/af-bordeaux/2026-06-12/index.html",
+      "/af-bordeaux/2026-06-11/index.html",
+      "/af-bordeaux/2026-06-10/index.html",
+      "/af-bordeaux/2026-06-09/index.html",
+      "/af-bordeaux/2026-06-08/index.html",
+      "/af-bordeaux/2026-06-05/index.html",
+      "/af-bordeaux/2026-06-04/index.html",
+      "/af-bordeaux/2026-06-03/index.html",
+      "/af-bordeaux/2026-06-02/index.html",
+      "/af-bordeaux/2026-06-01/index.html"
+    ]
+  },
+  {
+    "listing": "/af-nice.html",
+    "items": []
   }
 ]
