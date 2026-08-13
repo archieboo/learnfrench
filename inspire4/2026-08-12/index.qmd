@@ -8,7 +8,6 @@ image: "https://images.unsplash.com/photo-1590580673100-ee7ee687bfa6?q=80&w=640"
 
 ---
 
-
 # Doc2 
 
 :::{.text-center}
@@ -18,7 +17,7 @@ image: "https://images.unsplash.com/photo-1590580673100-ee7ee687bfa6?q=80&w=640"
 
 [C'est le Bhoutan qui a, dès 1972, mis en avant le concept de Bonheur National [Brut]{.underline}[^ia]. Un indicateur [censé]{.underline}[^ib] remplacer le Produit National Brut. C'était il y a 50 ans et il a été [affiné]{.underline}[^ic] [en cours de route]{.text-orange}[^id]. Aujourd'hui, que [se cache-t-il derrière]{.text-orange}[^ie] cette invention venue des montagnes de l'Himalaya ? Réponse en 5 points clés.]{.fw-bold}
 
-**1. Une boussole pour les décideurs**
+**1. Une [boussole]{.underline}[^ie2] pour les décideurs**
 
 Le Bonheur National Brut [n']{.fw-bold}est pas [(qu')]{.fw-bold}[^if]un indicateur marketing. C'est [un axe central]{.underline}[^ig] de la politique de développement du pays. [[...]]{.text-light}
 
@@ -43,6 +42,7 @@ Un questionnaire individuel vous permet de calculer votre Bonheur National Brut.
 [^ic]: affiner (v.) : rendre plus précis, perfectionner ( [to refine, to fine-tune]{.fst-italic} ).
 [^id]: en cours de route (loc.) : pendant le trajet ; ici, au fil du temps ( [along the way]{.fst-italic} ).
 [^ie]: se cacher derrière (loc.) : *que se cache-t-il derrière... ?* = qu'y a-t-il vraiment dans... ? ( [what lies behind... ?]{.fst-italic} ).
+[^ie2]: une boussole (n.f.) : instrument qui indique le nord ; ici, au sens figuré, ce qui oriente les décisions ( [a compass]{.fst-italic} ). *Servir de boussole* = donner la direction à suivre.
 [^if]: [ne ... que]{.fw-bold} exprime la restriction (= seulement). Les parenthèses sont un jeu de l'auteur : *n'est pas qu'un indicateur* = il est un indicateur, mais pas seulement.
 [^ig]: un axe (n.m.) : une ligne directrice, une orientation principale ( [a focus, a central thrust]{.fst-italic} ).
 [^ih]: viser à (v.) : avoir pour objectif de ( [to aim to]{.fst-italic} ).
@@ -250,5 +250,24 @@ Nous ce qu'on [aimerait]{.text-purple}, c'est que la municipalité nous laisse, 
 - mesurer
 
 :::
+
+
+------
+
+# Cahier d'activité
+
+# Ex.3
+
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP4_CA_AUDIO/INSP_4_CA_Piste05.mp3" type="audio/mpeg">
+</audio>
+
+# Ex.5
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP4_CA_AUDIO/INSP_4_CA_Piste06.mp3" type="audio/mpeg">
+</audio>
+
 
 
