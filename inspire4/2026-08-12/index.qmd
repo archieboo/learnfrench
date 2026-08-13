@@ -256,14 +256,14 @@ Nous ce qu'on [aimerait]{.text-purple}, c'est que la municipalité nous laisse, 
 
 # Cahier d'activité
 
-# Ex.3
+## Ex.3
 
 
 <audio controls style="width:95%">
   <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP4_CA_AUDIO/INSP_4_CA_Piste05.mp3" type="audio/mpeg">
 </audio>
 
-# Ex.5
+## Ex.5
 
 <audio controls style="width:95%">
   <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP4_CA_AUDIO/INSP_4_CA_Piste06.mp3" type="audio/mpeg">
