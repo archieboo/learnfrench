@@ -1,0 +1,255 @@
+---
+title: "Leçon 4: Techniques pour presenter et recommander un film"
+date: "2026-08-23"
+categories: ["B2", "unite2", "autodidacte"]
+reference-location: document # margin, block, section, document
+citation-location: document #margin
+image: "https://images.unsplash.com/photo-1478720568477-152d9b164e26?q=80&w=640"
+
+
+---
+
+# Doc1
+
+::: {.callout-note collapse="true" title="Transcription : Tu veux regarder quoi comme film ?"}
+
+::::{.fs-5}
+
+[Charlotte : ]{.fw-bold .text-blue} Tu veux regarder quoi comme film ?
+
+[Betty : ]{.fw-bold .text-red} Je sais pas. Regarde le programme.
+
+[(à la télévision)]{.fst-italic .text-secondary} C'était un soir historique.
+
+[Charlotte : ]{.fw-bold .text-blue} Ah tiens ! Il y a *Les Demoiselles de Rochefort* sur Arte. Tu connais ?
+
+[Betty : ]{.fw-bold .text-red} Non, je l'ai pas vu mais je crois que [j'en ai entendu parler]{.text-orange}[^ab].
+
+[Charlotte : ]{.fw-bold .text-blue} J'adore. J'ai dû le voir au moins cinq fois. Peut-être plus, je sais pas. Tu sais, c'est une [comédie musicale]{.underline}[^ad] de Jacques Demy des années 60. 1967 je crois.
+
+[Betty : ]{.fw-bold .text-red} Oui, oui, [ça me dit quelque chose]{.text-orange}[^ae].
+
+[Charlotte : ]{.fw-bold .text-blue} Oui, il est très connu. C'est avec Catherine Deneuve et Jacques Perrin. Ces deux acteurs sont géniaux. Catherine Deneuve est charmante. Elle est très [convaincante]{.underline}[^af], très naturelle. Elle arrive à passer de la [fantaisie]{.underline}[^ag] à la réalité avec naturel. Ça a l'air très [spontané]{.underline}[^ah]. Et Jacques Perrin joue très bien le [marin]{.underline}[^ai] romantique qui attend l'amour. [Son jeu]{.underline}[^aj] est plus [subtil]{.underline}[^ak].
+
+[Betty : ]{.fw-bold .text-red} Ah oui ? J'aime bien Catherine Deneuve. C'est quoi l'histoire déjà ?
+
+[Charlotte : ]{.fw-bold .text-blue} Alors, c'est l'histoire de deux [jumelles]{.underline}[^al]. Elles habitent Rochefort et rêvent de trouver le grand amour et d'aller à Paris. Une veut être danseuse, l'autre veut être musicienne.
+
+[Betty : ]{.fw-bold .text-red} Oui, oui.
+
+[Charlotte : ]{.fw-bold .text-blue} Et tu dois sûrement connaître quelques chansons. Elles sont célèbres. La musique est de Michel Legrand. Vraiment, c'est un classique. L'[atmosphère]{.underline}[^an] est très [travaillée]{.underline}[^ao]. Les [plans]{.underline}[^ap] et les mouvements de la caméra sont [fluides]{.underline}[^aq]. Il y a plein de couleurs. Chaque scène ressemble à un [tableau]{.underline}[^ar]. C'est [sensible]{.underline}[^as], [lumineux]{.underline}[^at]. Franchement, c'est [chouette]{.underline}[^au]. C'est tellement [gai]{.underline}[^av].
+
+[Betty : ]{.fw-bold .text-red} [Dis donc]{.text-orange}[^aw], tu l'aimes bien ce film.
+
+[Charlotte : ]{.fw-bold .text-blue} Ouais, c'est vrai. Et puis, le [réalisateur]{.underline}[^ax] fait plein de références aux comédies musicales américaines, qu'il [reprend]{.underline}[^ay] avec beaucoup d'intelligence et d'humour.
+
+[Betty : ]{.fw-bold .text-red} Allez, tu m'as convaincue. Mettons Arte. Je te sers quelque chose à boire ?
+
+[^ab]: entendre parler de (loc.) : avoir vaguement connaissance de ( [to have heard of]{.fst-italic} ). ⚠️ *entendre parler de qqch* ≠ *écouter*.
+[^ad]: une comédie musicale (n.f.) : film ou spectacle où l'histoire est chantée et dansée ( [a musical]{.fst-italic} ).
+[^ae]: ça me dit quelque chose (loc.) : ça me rappelle vaguement quelque chose ( [that rings a bell]{.fst-italic} ). Contraire : *ça ne me dit rien*.
+[^af]: convaincant(e) (adj.) : qui donne envie d'y croire ( [convincing]{.fst-italic} ). ⚠️ Ne pas confondre avec *convaincu(e)* = persuadé.
+[^ag]: la fantaisie (n.f.) : ici, l'imaginaire, le monde rêvé ( [whimsy, make-believe]{.fst-italic} ).
+[^ah]: spontané(e) (adj.) : qui vient naturellement, sans effort ( [spontaneous, effortless]{.fst-italic} ).
+[^ai]: un marin (n.m.) : homme qui travaille sur un bateau ( [a sailor]{.fst-italic} ).
+[^aj]: le jeu (n.m.) : la manière dont un acteur interprète son rôle ( [the acting, the performance]{.fst-italic} ). Verbe : *jouer un rôle*.
+[^ak]: subtil(e) (adj.) : fin, tout en nuances, peu appuyé ( [subtle, understated]{.fst-italic} ).
+[^al]: une jumelle (n.f.) : sœur née le même jour ( [a twin sister]{.fst-italic} ). Masculin : *un jumeau*.
+[^an]: l'atmosphère (n.f.) : l'ambiance générale que dégage le film ( [the mood, the atmosphere]{.fst-italic} ).
+[^ao]: travaillé(e) (adj.) : fait avec beaucoup de soin, très élaboré ( [carefully crafted]{.fst-italic} ).
+[^ap]: un plan (n.m.) : une prise de vue continue de la caméra ( [a shot]{.fst-italic} ). Vocabulaire du cinéma, comme *un gros plan* ( [a close-up]{.fst-italic} ).
+[^aq]: fluide (adj.) : qui coule sans à-coups ( [smooth, flowing]{.fst-italic} ).
+[^ar]: un tableau (n.m.) : ici, une peinture ( [a painting]{.fst-italic} ). *Ressembler à un tableau* = être composé comme un tableau.
+[^as]: sensible (adj.) : ici, plein de sensibilité, qui touche ( [tender, moving]{.fst-italic} ). ⚠️ Faux ami : l'anglais *sensible* se dit *raisonnable*.
+[^at]: lumineux(se) (adj.) : plein de lumière ; ici, qui rend joyeux ( [luminous, radiant]{.fst-italic} ).
+[^au]: chouette (adj., fam.) : sympa, très bien ( [great, lovely]{.fst-italic} ). Registre familier, très courant à l'oral.
+[^av]: gai(e) (adj.) : joyeux, qui met de bonne humeur ( [cheerful, upbeat]{.fst-italic} ).
+[^aw]: dis donc (loc., fam.) : sert à souligner une remarque, avec une pointe de taquinerie ( [wow, hey now]{.fst-italic} ).
+[^ax]: un réalisateur (n.m.) : la personne qui dirige le film ( [a director]{.fst-italic} ). ⚠️ *un producteur* = celui qui finance.
+[^ay]: reprendre (v.) : ici, réutiliser à son compte, citer ( [to take up, to rework]{.fst-italic} ).
+
+::::
+:::
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP4_LE_AUDIO/INSP_4_LE_Piste006.mp3" type="audio/mpeg">
+</audio>
+
+
+:::{.markyellow .rounded-3 .shadow .m-1 .p-2}
+
+#### [Pour présenter et recommander un film]{.fw-bold .fs-4 .text-capitalize}
+
+- [Décrire le type de film et donner la date]{.fw-bold .fs-6 .text-blue}  
+  [C'est une comédie musicale ... des années 60.]{.fst-italic}
+
+- [Présenter le réalisateur]{.fw-bold .fs-6 .text-blue}   
+  [C'est une comédie musicale de Jacques Demy.]{.fst-italic}
+
+- [Parler du jeu des acteurs]{.fw-bold .fs-6 .text-blue}  
+  [Ces deux acteurs sont géniaux]{.fst-italic}  
+  [Catherine Deneuve est charmante. Elle est très convaincante. Elle arrive à passer de la fantaisie à  la réalité avec naturel, ça a l'air très spontané.]{.fst-italic}  
+  [Jacques Perrin jour très bien le marin romantique, qui attend l'amour. Son jeu est plus subtil.]{.fst-italic}
+
+- [Faire le synopsis]{.fw-bold .fs-6 .text-blue}  
+  [C'est l'histoire de deux jumelles. Elles habitent Rochefort et rêvent de trouver le grand amour et d'aller à Paris. L'une veut être danseuse, l'autre veut être musicienne.]{.fst-italic}
+
+- [Décrire les aspects techniques]{.fw-bold .fs-6 .text-blue}  
+  [L'atmosphère est très travaillée. Les plans et les mouvements de la caméra sont fluides. Il y a plein de couleurs. Chaque scène ressemble à un tableau. C'est sensible, lumineux.]{.fst-italic}  
+  [La musique est de Michele Legrand.]{.fst-italic}
+
+- [Donner son appréciation personnelle]{.fw-bold .fs-6 .text-blue}  
+  [Vraiment, c'est un classique !]{.fst-italic}  
+  [Chaque scène ressemble à un tableu.]{.fst-italic}  
+  [C'est sensible, lumineux.]{.fst-italic}  
+  [Franchement, c'est chouette !]{.fst-italic}  
+  [C'est tellement gai !]{.fst-italic}  
+
+- [Comparer avec un autre genre]{.fw-bold .fs-6 .text-blue}  
+  [Le réalisateur fait plein de références aux comédies musicales américaines, qu'il reprend avec beaucoup d'intelligence et d'humour.]{.fst-italic}
+
+:::
+
+
+
+# Doc2
+
+::: {.callout-note collapse="true" title="Transcription : Alors, on va au cinéma ?"}
+
+::::{.fs-5}
+
+[– ]{.fw-bold .text-blue} Alors, on va au cinéma ?
+
+[– ]{.fw-bold .text-red} Oui, mais on reste dans le quartier. Allons à l'UGC Odéon. Il y a souvent des bons films et [pas mal de]{.text-orange}[^ba] choix là-bas.
+
+[– ]{.fw-bold .text-green} D'accord. Mais s'il vous plaît, pas de film américain.
+
+[– ]{.fw-bold .text-blue} Pas de film américain ? Pourquoi ?
+
+[– ]{.fw-bold .text-green} Parce que j'en ai vu deux ce mois-ci. [Par contre]{.text-orange}[^bb], ça fait longtemps que j'ai pas vu de film français. [Je veux bien]{.text-orange}[^bc] tous les genres : science-fiction, animation, [polar]{.underline}[^bd], mais pas américain.
+
+[– ]{.fw-bold .text-red} Et moi, je suis pas contre un film américain. [En revanche]{.text-orange}[^be], je préférerais ne pas voir de comédie romantique. [Ça m'ennuie]{.underline}[^bg].
+
+[– ]{.fw-bold .text-blue} Alors moi, je voudrais bien voir quelque chose avec un grand acteur. Une star, [quoi]{.text-orange}[^bh]. Mais pas de film d'horreur. [C'est vraiment pas mon truc]{.text-orange}[^bi].
+
+[– ]{.fw-bold .text-red} Et pas un film trop long.
+
+[– ]{.fw-bold .text-green} Je suis d'accord. Maximum deux heures.
+
+[– ]{.fw-bold .text-blue} OK. Voyons un peu ce qu'on a. Il y a une comédie française.
+
+[(synopsis)]{.fst-italic .text-secondary} Un ancien policier se retrouve avec cinq ados [déscolarisés]{.underline}[^bj] sur son bateau pour une [traversée]{.underline}[^bk] de la Méditerranée.
+
+[– ]{.fw-bold .text-red} Ouais, pas mal. Je sais pas.
+
+[– ]{.fw-bold .text-green} Un film français, d'accord, mais [pas non plus n'importe quoi]{.text-orange}[^bl].
+
+[– ]{.fw-bold .text-blue} Attends. Ah, et il y a le nouveau *Top Gun*. Hum, 2 h 11.
+
+[(synopsis)]{.fst-italic .text-secondary} Pete « Maverick » Mitchell forme un [détachement]{.underline}[^bm] de jeunes pilotes pour une mission spéciale.
+
+[– ]{.fw-bold .text-red} Pourquoi pas ? Mais j'ai pas vu le premier.
+
+[– ]{.fw-bold .text-green} Les avions, Tom Cruise, je suis pas sûre.
+
+[– ]{.fw-bold .text-blue} Ouais, je l'ai déjà vu. Sinon, il y a une comédie avec Javier Bardem.
+
+[– ]{.fw-bold .text-red} J'aime bien Javier Bardem.
+
+[(synopsis)]{.fst-italic .text-secondary} C'est l'histoire d'un patron qui essaie de sauver son entreprise.
+
+[– ]{.fw-bold .text-blue} On peut voir *Buzz l'Éclair*[^bn]. C'est un film d'animation, 1 h 45.
+
+[– ]{.fw-bold .text-green} C'est cool, ça.
+
+[– ]{.fw-bold .text-red} Bon, si chacun veut un film différent, je sais pas comment on va faire pour [se mettre d'accord]{.text-orange}[^bo].
+
+[– ]{.fw-bold .text-green} On perd du temps, là.
+
+[– ]{.fw-bold .text-blue} C'est sûr que vous voulez voir un film ?
+
+[^ba]: pas mal de (loc., fam.) : un bon nombre de, beaucoup de ( [quite a lot of]{.fst-italic} ). Comme dans Doc1, l'oral domine : chute du *ne* (*j'ai **pas** vu*, *c'est **pas** mon truc*), *ouais*, *quoi* en fin de phrase.
+[^bb]: par contre (loc.) : marque l'opposition, registre courant ( [on the other hand]{.fst-italic} ).
+[^bc]: je veux bien (loc.) : j'accepte, ça me va ( [I'm fine with, I'm happy with]{.fst-italic} ). Le *bien* adoucit : ce n'est pas *je veux* (exigence) mais une acceptation.
+[^bd]: un polar (n.m., fam.) : un film ou un roman policier ( [a crime film, a thriller]{.fst-italic} ).
+[^be]: en revanche (loc.) : même valeur d'opposition que *par contre*, mais registre plus soutenu ( [however]{.fst-italic} ). Les deux se répondent ici d'une réplique à l'autre.
+[^bg]: ennuyer (v.) : ici, lasser, faire trouver le temps long ( [to bore]{.fst-italic} ). *Ça m'ennuie* = ça m'embête, ça ne m'amuse pas.
+[^bh]: ..., quoi (loc., fam.) : en fin de phrase, conclut et résume ce qu'on vient de dire, « voilà, c'est ça » ( [you know, like]{.fst-italic} ). Uniquement à l'oral.
+[^bi]: c'est pas mon truc (loc., fam.) : ce n'est pas ce que j'aime ( [it's not my thing]{.fst-italic} ).
+[^bj]: déscolarisé(e) (adj.) : qui ne va plus à l'école ( [out of school]{.fst-italic} ). *Un ado* = un adolescent (fam.).
+[^bk]: une traversée (n.f.) : le fait d'aller d'une rive à l'autre ( [a crossing]{.fst-italic} ). Verbe : *traverser*.
+[^bl]: pas non plus n'importe quoi (loc., fam.) : mais pas au point d'accepter n'importe lequel ( [but not just anything either]{.fst-italic} ). *N'importe quoi* = une chose sans valeur, choisie au hasard.
+[^bm]: un détachement (n.m.) : un petit groupe de militaires envoyé en mission ( [a detachment, a squad]{.fst-italic} ).
+[^bn]: *Buzz l'Éclair* : titre français de *Lightyear* (Pixar, 2022). Les titres de films sont souvent traduits, parfois complètement changés.
+[^bo]: se mettre d'accord (loc.) : arriver ensemble à une décision commune ( [to reach an agreement]{.fst-italic} ). C'est l'objectif de la leçon ; voisins : *tomber d'accord*, *trouver un compromis*.
+
+::::
+:::
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP4_LE_AUDIO/INSP_4_LE_Piste007.mp3" type="audio/mpeg">
+</audio>
+
+
+
+-------
+
+# Cahiér d'activités
+
+## Bilan Ex. 1
+
+::: {.callout-note collapse="true" title="Transcription : La philosophie a-t-elle encore quelque chose à dire du bonheur ?"}
+
+::::{.fs-5}
+
+[(générique)]{.fst-italic .text-secondary} France Culture. *Avec philosophie*. Géraldine Muhlmann.
+
+[Géraldine Muhlmann : ]{.fw-bold .text-blue} Aujourd'hui, je vous propose un entretien avec le philosophe André Comte-Sponville, avec pour [fil conducteur]{.text-orange}[^ca] cette interrogation : la philosophie a-t-elle encore quelque chose à dire du bonheur ? André Comte-Sponville, peut-on dire que vous aussi, vous pensez le bonheur à partir de la tristesse, comme quelque chose qui parvient à interrompre la tristesse, à la [suspendre]{.underline}[^cc] ?
+
+[André Comte-Sponville : ]{.fw-bold .text-red} Ce qui interrompt la tristesse, c'est moins le bonheur que la joie. Mais c'est vrai que, peut-être par [tempérament]{.underline}[^ce], en fonction de mon histoire, de mon enfance, c'est vrai que l'expérience de la tristesse me paraît plus [prégnante]{.underline}[^cf] que celle du bonheur. D'ailleurs, on peut se poser la question — on y reviendra : le bonheur existe-t-il ? Et qu'est-ce que c'est ?
+
+Alors, avant de dire ce qu'est le bonheur, commençons par dire ce que ce n'est pas. Le bonheur, ce n'est évidemment pas une joie constante, permanente, [immuable]{.underline}[^cg]. Ça, c'est ce que j'appelle la [félicité]{.underline}[^ch], et bien sûr la félicité, ça n'existe pas. Parce que l'idée même, l'expérience même de la joie nous apprend qu'elle est fluctuation, [jaillissement]{.underline}[^ci] [impermanent]{.underline}[^cj]. Donc le bonheur, ce n'est pas la félicité, ce n'est pas une joie constante.
+
+Le bonheur, ce n'est pas non plus, contrairement à ce qu'écrit Kant parfois, la satisfaction de tous nos désirs. Autrement dit, le bonheur, ce n'est pas non plus la [satiété]{.underline}[^ck]. Ce que j'appelle la satiété, c'est la satisfaction de tous nos désirs, qui [d'une part]{.text-orange}[^cl] serait formidablement ennuyeuse, si elle était possible, mais qui [d'autre part]{.text-orange} est impossible. Pourquoi ? Parce que nos désirs sont ouverts à l'infini. Et comme notre vie est toujours [vouée]{.underline}[^cm] à la [finitude]{.underline}[^cn], par définition, une vie vouée à la finitude ne pourra jamais satisfaire l'infinité de nos désirs.
+
+Donc si le bonheur, ce n'est pas la félicité, une joie constante, si le bonheur, ce n'est pas la satiété, la satisfaction de tous nos désirs, qu'est-ce que c'est ? La définition que je vais vous proposer va vous paraître d'abord terriblement [triviale]{.underline}[^co], et je crois qu'en fait elle est très [éclairante]{.underline}[^cp]. Ma définition, c'est de dire que le bonheur, c'est simplement le contraire du malheur. Alors vous allez me dire : on n'est pas très avancé. On est considérablement avancé. Parce que le bonheur, [à la limite]{.text-orange}[^cq], je ne sais pas ce que c'est — [idéal de l'imagination, non de la raison]{.underline}[^cr] ; le malheur, je sais ce que c'est, je l'ai vécu. Et nous sommes des millions à l'avoir vécu. Et donc on va pouvoir [s'appuyer sur]{.underline}[^cs] l'expérience vraie du malheur pour savoir [par différence]{.text-orange}[^ct] ce qu'est le bonheur, puisque le bonheur, par hypothèse, c'est le contraire du malheur. Donc le malheur, ce n'est pas un idéal, c'est une expérience.
+
+Alors, qu'est-ce que le malheur ? Mon expérience du malheur m'amène à dire que j'appelle malheur tout [laps de temps]{.underline}[^cu], toute durée, où la joie paraît immédiatement impossible. Vous vous réveillez le matin, la joie n'est pas là, et vous savez [de source sûre]{.text-orange}[^cv] qu'elle ne sera pas là de la journée, ni les jours ou les semaines qui vont venir. La joie vous paraît impossible : c'est ce que j'appelle le malheur.
+
+Le bonheur, disais-je, c'est le contraire du malheur. Si le malheur, c'est tout laps de temps où la joie paraît immédiatement impossible, j'appelle bonheur tout laps de temps, toute durée, où la joie paraît immédiatement et [continuellement]{.underline}[^cx] possible.
+
+[^ca]: un fil conducteur (n.m.) : l'idée qui guide et relie tout un propos ( [a guiding thread]{.fst-italic} ). Sens propre : le fil qui conduit l'électricité.
+[^cc]: suspendre (v.) : ici, arrêter provisoirement ( [to suspend, to put on hold]{.fst-italic} ). Plus faible qu'*interrompre* : la tristesse reste là, en pause.
+[^ce]: un tempérament (n.m.) : le caractère qu'on a de naissance ( [a temperament, a disposition]{.fst-italic} ). *Par tempérament* = par nature.
+[^cf]: prégnant(e) (adj., soutenu) : qui s'impose fortement à l'esprit ( [pervasive, compelling]{.fst-italic} ).
+[^cg]: immuable (adj.) : qui ne change jamais ( [unchanging, immutable]{.fst-italic} ).
+[^ch]: la félicité (n.f., soutenu) : bonheur parfait et sans interruption ( [bliss]{.fst-italic} ). Ici, terme défini par le philosophe lui-même pour l'opposer au bonheur.
+[^ci]: un jaillissement (n.m.) : le fait de surgir brusquement, comme l'eau d'une source ( [a burst, a welling up]{.fst-italic} ). Verbe : *jaillir*.
+[^cj]: impermanent(e) (adj.) : qui ne dure pas ( [impermanent]{.fst-italic} ). Vocabulaire d'origine bouddhiste, fréquent chez Comte-Sponville.
+[^ck]: la satiété (n.f.) : état de celui qui n'a plus aucun manque, plus aucun désir ( [satiety, satiation]{.fst-italic} ). Se prononce *sa-sié-té*. Expression courante : *à satiété* = jusqu'à en avoir assez.
+[^cl]: d'une part ... d'autre part (loc.) : couple d'articulateurs pour présenter deux arguments successifs ( [on the one hand ... on the other hand]{.fst-italic} ). Très utile à l'écrit comme à l'oral d'examen.
+[^cm]: voué(e) à (adj.) : destiné à, condamné à ( [doomed to, bound for]{.fst-italic} ).
+[^cn]: la finitude (n.f.) : le fait d'être limité, mortel ( [finitude]{.fst-italic} ). Contraire : *l'infini*, *l'infinité*.
+[^co]: trivial(e) (adj.) : ici, banal, évident ( [trivial, obvious]{.fst-italic} ). ⚠️ En français, *trivial* peut aussi signifier *vulgaire*, sens qui n'existe pas en anglais.
+[^cp]: éclairant(e) (adj.) : qui fait comprendre, qui éclaire ( [illuminating, enlightening]{.fst-italic} ).
+[^cq]: à la limite (loc.) : ici, « si on va au bout du raisonnement », pour introduire un aveu ( [in the end, if you push it]{.fst-italic} ).
+[^cr]: « idéal de l'imagination, non de la raison » : citation de Kant — le bonheur ne peut pas être défini rationnellement, chacun se l'imagine à sa façon.
+[^cs]: s'appuyer sur (v.) : prendre comme base, comme point de départ ( [to rely on, to build on]{.fst-italic} ).
+[^ct]: par différence (loc.) : en partant de ce que la chose n'est pas ( [by contrast]{.fst-italic} ). C'est toute la méthode du philosophe ici : définir le bonheur en définissant d'abord le malheur.
+[^cu]: un laps de temps (n.m.) : un intervalle, une durée ( [a period of time]{.fst-italic} ). *Laps* se prononce avec le *s* : *laps*.
+[^cv]: de source sûre (loc.) : d'une information certaine ( [from a reliable source, for a fact]{.fst-italic} ).
+[^cx]: continuellement (adv.) : sans interruption ( [continually]{.fst-italic} ). À distinguer de *continûment* et de *sans cesse*.
+
+::::
+:::
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP4_CA_AUDIO/INSP_4_CA_Piste08.mp3" type="audio/mpeg">
+</audio>
+
+
+
+
+
+
+
