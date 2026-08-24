@@ -1,0 +1,232 @@
+---
+title: "Leçon 5: Raconter une discrimination"
+date: "2026-08-24"
+categories: ["B2", "unite2", "autodidacte"]
+reference-location: document # margin, block, section, document
+citation-location: document #margin
+image: "https://images.unsplash.com/photo-1716948943021-cea8dc2d2c3f?q=80&w=640"
+
+
+---
+
+
+# Doc1
+
+:::{.text-center}
+[Sylvain, délit de faciès]{.fs-3 .fw-bold .text-orange}[^la]  
+:::
+
+C'est à 27 ans que Sylvain [se lance]{.underline}[^la2] [à corps perdu]{.text-orange}[^lb] dans le tatouage et décide de [faire de]{.fw-bold} son corps [[...]]{.text-light} un tableau vivant où la [chair]{.underline}[^lc] [laisse bien vite place à]{.underline}[^lc2] l'[encre]{.underline}[^ld]. [Aujourd'hui]{.text-red}, âgé de 35 ans, « Freaky Hoody » est l'un des hommes les plus tatoués au monde. Problème pour ce [professeur des écoles]{.underline}[^lf], certains parents d'élèves n'apprécient que peu cette apparence et les plaintes répétées lui interdisent [désormais]{.text-red} d'exercer auprès des [maternelles]{.underline}[^lg] dont il [s'occupait]{.text-purple} avec une [bienveillance]{.underline}[^li] reconnue de tous.
+Dans un pays républicain qui [prône]{.underline}[^lj] la tolérance, on peut légitimement s'étonner que notre système éducatif ait décidé de [pointer du doigt]{.text-orange}[^lk] un homme apprécié pour ses qualités professionnelles, [prétextant]{.underline}[^ll] une apparence physique supposée [en inadéquation avec]{.underline}[^lm] son activité.
+
+[[Lorsque]{.text-red} tu [as commencé]{.text-purple} à te tatouer, à 27 ans, ta [démarche]{.underline}[^lm2] [allait]{.text-purple}-elle [au-delà]{.underline}[^ln] du simple ornement corporel ?]{.fw-bold}
+
+J'[étais]{.text-purple} [à cette époque]{.text-red} à Londres pour travailler. [[...]]{.text-light} Là-bas, en plus, les tatouages ne sont pas du tout perçus comme chez nous. En France, historiquement, les tatoués [étaient]{.text-purple} souvent ceux qui [étaient partis]{.text-purple} au [bagne]{.underline}[^lo] à Cayenne et [revenaient]{.text-purple} avec de l'encre sur le corps pour [signifier]{.underline}[^lp] qu'ils [avaient été]{.text-purple} prisonniers. [[...]]{.text-light}
+
+[[Aujourd'hui]{.text-red}, tu es [sous les feux des projecteurs]{.text-orange}[^lq] car ton apparence physique t'interdit [désormais]{.text-red} d'enseigner auprès des maternelles. Tu peux nous expliquer le [déroulement]{.underline}[^lr] qui [a conduit]{.text-purple} à cette décision ?]{.fw-bold}
+
+[Cela fait]{.text-red} douze ans [que]{.text-red} j'enseigne et trois ans que je fais des [remplacements]{.underline}[^lt] courts [entre]{.text-red} une demi-journée [et]{.text-red} trois semaines. [[...]]{.text-light} [L'année dernière]{.text-red} [en 2019], [après que]{.text-red} je m'[étais fait]{.text-purple} tatouer les yeux en noir, je [suis allé]{.text-purple} me présenter à la directrice. Un élève m'aurait vu [alors que]{.text-red} je [passais]{.text-purple} devant une classe et aurait eu peur. C'est ce que l'on m'[a dit]{.text-purple} car je n'[ai]{.text-purple} personnellement pas [rencontré]{.text-purple} cet élève. Cet enfant aurait le soir même parlé de moi à ses parents et ces derniers [ont écrit]{.text-purple} une lettre pour signifier leur [mécontentement]{.underline}[^lu]. Il y [avait]{.text-purple} déjà [eu]{.text-purple} des lettres de plaintes concernant mon apparence physique mais j'[avais]{.text-purple} [jusqu'alors]{.text-red} toujours [été soutenu]{.text-purple} par ma hiérarchie. La lettre des parents de cet élève [était]{.text-purple} très [véhémente]{.underline}[^lw]. [[...]]{.text-light}
+
+Pour la première fois, l'inspection m'[a lâché]{.text-purple}[^lx] et [est]{.text-purple} [immédiatement]{.text-red} [allée]{.text-purple} dans le sens des parents. J'[ai été mis au placard]{.text-purple}[^ly] [pendant]{.text-red} deux mois, [de]{.text-red} septembre [à]{.text-red} novembre 2019. [[...]]{.text-light} Le fait d'être pointé du doigt et [laissé de côté]{.text-orange}[^lz] sans pouvoir enseigner n'[a]{.text-purple} pas [été]{.text-purple} très facile à vivre. [Le]{.text-red} 7 novembre 2019, j'[ai eu]{.text-purple} un entretien à la DSDEN (Direction des Services Départementaux de l'Éducation nationale) [à la suite de quoi]{.underline}[^ma] il [a été décidé]{.text-purple} que je ne remplacerais plus qu'en [classes élémentaires du CP au CM2]{.underline}[^mb]. [[...]]{.text-light}
+
+[[Lorsque]{.text-red} tu [t'es lancé]{.text-purple} dans le tatouage [alors que]{.text-red} tu [étais]{.text-purple} déjà professeur des écoles, tu ne [t'es]{.text-purple} jamais [dit]{.text-purple} que l'évolution de ton apparence physique [allait]{.text-purple}, [à terme]{.text-orange}[^mc], poser problème ?]{.fw-bold}
+
+[Au moment où]{.text-red} j'[ai commencé]{.text-purple} à me faire tatouer, je n'[ai]{.text-purple} égoïstement [pensé]{.text-purple} qu'à moi ! Naïvement, je [croyais]{.text-purple} qu'[en 2020]{.text-red} l'apparence ne [posait]{.text-purple} pas de problème particulier. En tant que [fonctionnaire]{.underline}[^md], j'[avais]{.text-purple} une garantie d'emploi et d'ailleurs, à l'entretien, je [sentais]{.text-purple} bien que s'ils avaient pu se [débarrasser]{.underline}[^me] de moi, ils l'auraient fait, mais cela leur [était]{.text-purple} impossible.
+
+[La différence fait peur seulement [quand]{.text-red} on ne la connaît pas et que l'on ne tente pas de la comprendre !]{.fw-bold}
+
+Oui, c'est tout le principe de la xénophobie. On a peur de l'inconnu, de l'étranger. Sur Internet, comme je [fais le buzz]{.text-orange}[^mg] [en ce moment]{.text-red}, j'[ai vu]{.text-purple} qu'il y [avait]{.text-purple} [à mon égard]{.text-orange}[^mh] des références au diable, ce genre de trucs... [Comment peut-on en être encore là ?]{.text-orange}[^mi] [Lorsque]{.text-red} j'[ai commencé]{.text-purple} à me faire tatouer, je n'[étais]{.text-purple} pas dans une démarche où je [souhaitais]{.text-purple} être le [porte-parole]{.underline}[^mj] de la tolérance. Si enseigner aux enfants peut leur permettre de moins s'attacher à l'apparence physique, il y aura je l'espère moins d'intolérance vis-à-vis de la différence. [Aujourd'hui]{.text-red}, si je peux aider à une certaine [ouverture d'esprit]{.underline}[^mk], alors j'en suis heureux.
+
+[^la]: un délit de faciès (loc.) : le fait d'être visé ou sanctionné à cause de son apparence ( [profiling based on looks]{.fst-italic} ). *Un délit* = une infraction ; *le faciès* = le visage, l'allure générale.
+[^la2]: se lancer dans (v.) : commencer avec élan une activité nouvelle, s'y engager pleinement ( [to throw oneself into, to embark on]{.fst-italic} ). Ici renforcé par *à corps perdu*. Autres emplois : *se lancer en politique*, *se lancer dans les affaires* ; à l'oral, *lance-toi !* = ose !
+[^lb]: à corps perdu (loc.) : sans retenue, en s'engageant tout entier ( [headlong, wholeheartedly]{.fst-italic} ). S'emploie surtout avec *se lancer*, *se jeter*.
+[^lc]: la chair (n.f.) : la peau et les muscles du corps ( [flesh]{.fst-italic} ). Se prononce comme *cher* ; ⚠️ ne pas confondre avec *la chaire* (du professeur).
+[^lc2]: laisser place à (loc.) : céder la place à, être remplacé par ( [to give way to]{.fst-italic} ). Ici, la peau disparaît peu à peu sous le tatouage. Variante : *faire place à*.
+[^ld]: l'encre (n.f.) : liquide coloré, ici celui du tatouage ( [ink]{.fst-italic} ). ⚠️ Homophone de *une ancre* (celle du bateau).
+[^lf]: un professeur des écoles (n.m.) : enseignant du primaire, maternelle et élémentaire ( [a primary school teacher]{.fst-italic} ). C'est le titre officiel depuis 1990 ; l'ancien mot était *instituteur*.
+[^lg]: une maternelle (n.f.) : *l'école maternelle*, de 3 à 6 ans ( [nursery school, pre-school]{.fst-italic} ). *Enseigner auprès des maternelles* = auprès des classes de maternelle.
+[^li]: la bienveillance (n.f.) : attitude attentive et bonne envers les autres ( [kindness, caring]{.fst-italic} ). Adj. : *bienveillant(e)* ; contraire : *malveillant(e)*.
+[^lj]: prôner (v., soutenu) : recommander publiquement, défendre une valeur ( [to advocate]{.fst-italic} ).
+[^lk]: pointer du doigt (loc.) : désigner quelqu'un comme coupable, stigmatiser ( [to single out, to point the finger at]{.fst-italic} ). Repris plus loin au passif : *être pointé du doigt*.
+[^ll]: prétexter (v.) : donner comme fausse raison ( [to use as a pretext]{.fst-italic} ). Nom : *un prétexte* ; loc. : *sous prétexte de*.
+[^lm]: en inadéquation avec (loc., soutenu) : qui ne correspond pas à ( [at odds with, ill-suited to]{.fst-italic} ). Contraire : *en adéquation avec*.
+[^lm2]: une démarche (n.f.) : ici, l'intention, le projet qui guide une action ( [an approach, an intent]{.fst-italic} ). Autre sens courant, au pluriel : *faire des démarches* = accomplir les formalités administratives. Sylvain reprend le mot plus loin : *je n'étais pas dans une démarche où je souhaitais être le porte-parole de la tolérance*.
+[^ln]: au-delà de (loc.) : plus loin que, en dépassant ( [beyond]{.fst-italic} ). Aussi adverbe : *mais au-delà, il semble que...*
+[^lo]: le bagne (n.m.) : ancienne colonie pénitentiaire où l'on envoyait les condamnés ; celle de Cayenne, en Guyane, a fermé en 1953 ( [the penal colony]{.fst-italic} ). *Un bagnard* = un forçat. Au figuré, *c'est le bagne !* = c'est un travail épuisant.
+[^lp]: signifier (v.) : ici, faire savoir officiellement ( [to notify, to make known]{.fst-italic} ). Autre sens, plus courant : vouloir dire.
+[^lq]: être sous les feux des projecteurs (loc.) : être au centre de l'attention médiatique ( [to be in the spotlight]{.fst-italic} ).
+[^lr]: le déroulement (n.m.) : la suite des faits, la manière dont les choses se sont passées ( [the sequence of events]{.fst-italic} ). Verbe : *se dérouler*.
+[^lt]: un remplacement (n.m.) : le fait d'assurer le poste d'un collègue absent ( [a substitute assignment]{.fst-italic} ). *Faire des remplacements* = être enseignant remplaçant.
+[^lu]: le mécontentement (n.m.) : le fait de ne pas être satisfait ( [dissatisfaction, discontent]{.fst-italic} ). Adj. : *mécontent(e)*. Le préfixe *mé-* marque le défaut ou le contraire : *mécontent*, *méfiance*, *mésentente*.
+[^lw]: véhément(e) (adj., soutenu) : violent de ton, passionné ( [vehement, forceful]{.fst-italic} ). Nom : *la véhémence*.
+[^lx]: lâcher quelqu'un (v., fam.) : l'abandonner, cesser de le soutenir ( [to drop sb, to leave sb hanging]{.fst-italic} ). Contraire dans la phrase suivante : *être soutenu par*.
+[^ly]: mettre au placard (loc., fam.) : écarter un employé en le laissant sans travail réel ( [to sideline sb]{.fst-italic} ). Littéralement « mettre dans l'armoire ». Verbe dérivé : *placardiser*.
+[^lz]: laisser de côté (loc.) : mettre à l'écart, ne plus faire participer ( [to leave aside, to sideline]{.fst-italic} ).
+[^ma]: à la suite de quoi (loc., soutenu) : après quoi, ce qui a eu pour conséquence ( [following which, whereupon]{.fst-italic} ). *Quoi* reprend ici tout ce qui précède — l'entretien et son déroulement ; avec un antécédent nominal précis, on dirait *un entretien à la suite duquel...*. Tournure surtout écrite.
+[^mb]: les classes élémentaires, du CP au CM2 : les cinq années de l'école élémentaire, de 6 à 11 ans — CP, CE1, CE2, CM1, CM2 ( [primary school, years 1 to 5]{.fst-italic} ). Vient ensuite le collège.
+[^mc]: à terme (loc.) : à la longue, tôt ou tard ( [in the long run, eventually]{.fst-italic} ). Voisins : *à court / moyen / long terme*.
+[^md]: un fonctionnaire (n.m.) : agent de l'État, titulaire de son poste ( [a civil servant]{.fst-italic} ). D'où la *garantie d'emploi* : il est pratiquement impossible de le licencier.
+[^me]: se débarrasser de (v.) : faire partir, se libérer de ( [to get rid of]{.fst-italic} ). ⚠️ Orthographe : deux *r* et deux *s*.
+[^mg]: faire le buzz (loc., fam., de l'anglais) : faire beaucoup parler de soi, surtout en ligne ( [to go viral]{.fst-italic} ).
+[^mh]: à mon égard (loc.) : envers moi, à mon sujet ( [towards me, regarding me]{.fst-italic} ). Voisins : *à l'égard de quelqu'un*, *par égard pour quelqu'un* (= par respect).
+[^mi]: comment peut-on en être encore là ? (loc.) : comment une telle attitude est-elle encore possible aujourd'hui ? ( [how can we still be at this point?]{.fst-italic} ). *En être là* = en être arrivé à ce point.
+[^mj]: un porte-parole (n.m.) : celui qui parle au nom d'un groupe ou d'une cause ( [a spokesperson]{.fst-italic} ). Invariable : *des porte-parole*.
+[^mk]: une ouverture d'esprit (n.f.) : la capacité d'accepter ce qui est différent ( [open-mindedness]{.fst-italic} ). Adj. : *ouvert(e) d'esprit*.
+
+
+
+# Doc3
+
+::: {.callout-note collapse="true" title="Transcription : Contrôle au faciès, trois lycéens attaquent l'État"}
+
+::::{.fs-5}
+
+[(extrait d'ouverture)]{.fst-italic .text-secondary} Ils sont [au courant de]{.text-orange}[^na] ces [contrôles au faciès]{.text-orange}[^nb], on ne peut pas les [nier]{.underline}[^nc]. On ne peut pas dire qu'il n'y en a pas. On ne peut pas vivre [comme si de rien n'était]{.text-orange}[^nd], comme s'il ne se passait rien dans nos [quartiers populaires]{.underline}[^ne] ou en France.
+
+[Mamadou : ]{.fw-bold .text-blue} Moi, je m'appelle Mamadou, j'ai 23 ans et j'habite à Épinay-sur-Seine.
+
+[Zakaria : ]{.fw-bold .text-red} Moi, je m'appelle Zakaria, j'ai 23 ans.
+
+Cette affaire [s'est déroulée]{.text-purple} [en 2017]{.text-red}. On [était]{.text-purple} en terminale et on [revenait]{.text-purple} d'une sortie pédagogique à Bruxelles avec notre classe. On [est arrivés]{.text-purple} sur le quai de la gare du Nord. Il y [avait]{.text-purple} trois policiers, ils [étaient]{.text-purple} devant un panneau publicitaire. Ils nous [ont tirés]{.text-purple}[^nf], ils nous [ont mis]{.text-purple} sur le côté. Ils [ont commencé]{.text-purple} à ouvrir nos valises, ils [ont touché]{.text-purple} à nos [biens]{.underline}[^ng]. Ils [ont]{.text-purple} tout [sorti]{.text-purple} devant tout le monde.
+
+Après, ma prof, elle [est arrivée]{.text-purple}. Elle [a demandé]{.text-purple} au policier c'est quoi le problème. Les policiers, ils ne [voulaient]{.text-purple} pas lui répondre. Moi, je [trouvais]{.text-purple} que ça, c'[était]{.text-purple} une [atteinte à]{.underline}[^nh] la dignité d'une personne. [Quand]{.text-red} j'[ai vu]{.text-purple} qu'ils [ont contrôlé]{.text-purple} que deux Noirs et un Arabe, [ça a tilté]{.text-orange}[^ni] dans ma tête. Je me [suis dit]{.text-purple} : c'est ça [en vrai]{.text-orange}[^nj], c'est discriminatoire.
+
+En fait, c'est grâce à ma prof. Elle m'[a appelé]{.text-purple}, elle m'[a dit]{.text-purple} : « Ouais, c'est grave ce qui vous [est arrivé]{.text-purple}. Moi, je vais [déposer une plainte]{.text-orange}[^nk]. Est-ce que tu me suis ? » Moi, je lui [ai dit]{.text-purple} : « Non, je n'ai pas de problème, moi, c'est bon. » Parce que dans ma tête, c'[était]{.text-purple} un contrôle banal, comme je me [faisais]{.text-purple} contrôler dans la [cité]{.underline}[^nl].
+
+Moi, [quand]{.text-red} je me [faisais]{.text-purple} contrôler avant, je [trouvais]{.text-purple} ça... enfin, je ne [trouvais]{.text-purple} pas ça normal, mais je [fermais les yeux sur]{.text-orange}[^nm] la normalité, en fait. C'est-à-dire, même le terme « contrôle au faciès », c'est un mot que j'[ai connu]{.text-purple} après. Pareil, contrôle discriminatoire. Je [savais]{.text-purple} c'était quoi, la discrimination, mais je ne [faisais]{.text-purple} pas [le lien entre]{.text-orange}[^nn] le contrôle et la discrimination.
+
+[(reportage télévisé)]{.fst-italic .text-secondary} Trois lycéens attaquent [aujourd'hui]{.text-red} l'État. Ils sont [scolarisés]{.underline}[^no] en [Seine-Saint-Denis]{.underline}[^np]. Mamadou, Ilias et Zakaria, ce sont leurs prénoms, dénoncent une discrimination, un contrôle au faciès.
+
+La première décision de justice, elle [a été]{.text-purple} négative. Dans ma tête, j'[avais]{.text-purple} les phrases des gens qui me [disaient]{.text-purple} : « C'est impossible de gagner contre l'État. » Ça veut dire, ça me [mettait]{.text-purple} plus [la rage]{.text-orange}[^nq] un peu. On [fait appel]{.text-orange}[^nr]. Un mois plus tard, on [a eu]{.text-purple} la réponse.
+
+Je [sortais]{.text-purple} du travail, ma prof, elle m'[a appelé]{.text-purple}. Elle [a commencé]{.text-purple} par « Félicitations ! ». Ça veut dire, moi, j'[avais compris]{.text-purple}, mais j'[ai fait]{.text-purple} comme si je n'[avais]{.text-purple} pas [compris]{.text-purple}. Je me dis : « Pourquoi, madame ? » Elle me dit : « Ça tourne sur Internet. Vous avez accusé l'État pour [faute lourde]{.text-orange}[^ns] et vous avez une réponse positive. » Jusqu'à j'arrive dans mon quartier, c'est là que j'[ai commencé]{.text-purple} à crier. J'[ai vu]{.text-purple} tous mes [potes]{.underline}[^nt], je dis : « On a gagné, ouais, on a gagné ! »
+
+[(reportage télévisé)]{.fst-italic .text-secondary} La fierté et l'[aboutissement]{.underline}[^nu] d'un long travail.
+
+Ces contrôles au faciès, ils sont là, ils sont visibles. On ne peut pas les nier, on ne peut pas chercher des excuses. Et en gros, moi, c'est ça qui m'[a fait]{.text-purple} plaisir. Enfin, je ne veux pas dire qu'ils ouvrent les yeux, parce que ces contrôles au faciès, [ça fait]{.text-red} longtemps [qu']{.text-red}ils sont là. Mais voilà, qu'ils les [assument]{.underline}[^nv] et qu'il y ait des condamnations et des changements.
+
+Tout le monde peut voir que les gens du [93]{.underline}[^nw], ils ne sont pas vus comme des vendeurs de drogue ou des voleurs. Mais il y en a qui ont [[?]]{.text-light} dans la tête et qui peuvent faire changer les choses. Battez-vous pour vos droits. Si vous pensez être victime d'un contrôle discriminateur, n'hésitez pas à contacter des spécialistes. Il y a des avocats, il y a des associations.
+
+La [devise]{.underline}[^nx] de la France, avant tout, c'est liberté, égalité, fraternité. Et je pense que parfois, cette devise, elle est [bafouée]{.underline}[^ny]. Et que ce n'est pas normal. Il faut tout faire pour la [remettre en place]{.text-orange}[^nz].
+
+[^na]: être au courant de (loc.) : savoir, être informé de ( [to be aware of]{.fst-italic} ). *Mettre quelqu'un au courant* = l'informer.
+[^nb]: un contrôle au faciès (loc.) : contrôle d'identité fondé sur l'apparence physique ou l'origine supposée ( [racial profiling]{.fst-italic} ). C'est le sujet du document ; à rapprocher du *délit de faciès* de Doc1.
+[^nc]: nier (v.) : refuser d'admettre l'existence de ( [to deny]{.fst-italic} ). Nom : *la négation*, *le déni*.
+[^nd]: comme si de rien n'était (loc.) : comme si rien ne s'était passé ( [as if nothing had happened]{.fst-italic} ).
+[^ne]: un quartier populaire (n.m.) : quartier habité par des populations modestes ( [a working-class neighbourhood]{.fst-italic} ). ⚠️ *Populaire* = du peuple, pas *popular*.
+[^nf]: tirer quelqu'un (v., ici fam.) : l'attraper et l'écarter du groupe ( [to pull sb aside]{.fst-italic} ).
+[^ng]: les biens (n.m. pl.) : ce que l'on possède ( [belongings, property]{.fst-italic} ). *Toucher à nos biens* = mettre les mains sur nos affaires.
+[^nh]: une atteinte à (n.f.) : une action qui porte préjudice à ( [an infringement of, an affront to]{.fst-italic} ). *Porter atteinte à la dignité de quelqu'un*.
+[^ni]: ça a tilté (loc., fam.) : j'ai soudain compris, ça a fait déclic ( [it clicked]{.fst-italic} ). Du verbe *tilter*, familier et surtout oral.
+[^nj]: en vrai (loc., fam.) : en réalité, franchement ( [actually, for real]{.fst-italic} ). Très fréquent chez les jeunes locuteurs ; équivalent courant : *en fait*.
+[^nk]: déposer une plainte (loc., juridique) : signaler officiellement une infraction à la justice ( [to file a complaint]{.fst-italic} ). Variante : *porter plainte contre quelqu'un*.
+[^nl]: une cité (n.f.) : ici, un grand ensemble de logements sociaux en banlieue ( [a housing estate]{.fst-italic} ). ⚠️ Sens très différent de *une ville* ou de l'anglais *a city*.
+[^nm]: fermer les yeux sur (loc.) : faire semblant de ne pas voir, accepter sans réagir ( [to turn a blind eye to]{.fst-italic} ).
+[^nn]: faire le lien entre (loc.) : établir un rapport entre deux choses ( [to make the connection between]{.fst-italic} ).
+[^no]: scolarisé(e) (adj.) : inscrit dans un établissement scolaire ( [enrolled in school]{.fst-italic} ). Contraire vu en Doc2 de la leçon 4 : *déscolarisé*.
+[^np]: la Seine-Saint-Denis (n.f.) : département au nord-est de Paris, souvent désigné par son numéro, *le 93* ( [a department bordering Paris]{.fst-italic} ).
+[^nq]: mettre la rage à quelqu'un (loc., fam.) : provoquer une colère mêlée de frustration ( [to make sb furious]{.fst-italic} ). Ici, cette rage devient une motivation.
+[^nr]: faire appel (loc., juridique) : demander qu'une affaire soit rejugée par une juridiction supérieure ( [to appeal]{.fst-italic} ). ⚠️ *Faire appel à quelqu'un* = solliciter son aide, tout autre sens.
+[^ns]: une faute lourde (n.f., juridique) : faute d'une gravité particulière ; ici, celle reprochée à l'État ( [gross negligence]{.fst-italic} ).
+[^nt]: un pote (n.m., fam.) : un ami ( [a mate, a buddy]{.fst-italic} ).
+[^nu]: un aboutissement (n.m.) : le résultat final d'un long effort ( [the culmination, the outcome]{.fst-italic} ). Verbe : *aboutir*.
+[^nv]: assumer (v.) : reconnaître et prendre à son compte ( [to own up to, to take responsibility for]{.fst-italic} ). ⚠️ Faux ami : l'anglais *to assume* se dit *supposer*.
+[^nw]: le 93 (n.m., fam.) : la Seine-Saint-Denis, désignée par son numéro de département ( [the 93]{.fst-italic} ). Dire *le neuf-trois* est très courant.
+[^nx]: une devise (n.f.) : une formule qui exprime les valeurs d'un groupe ou d'un pays ( [a motto]{.fst-italic} ). ⚠️ Autre sens : *les devises* = les monnaies étrangères.
+[^ny]: bafouer (v., soutenu) : traiter avec mépris, ne pas respecter ( [to flout, to trample on]{.fst-italic} ). S'emploie avec *un droit*, *une valeur*, *une règle*.
+[^nz]: remettre en place (loc.) : rétablir, faire de nouveau appliquer ( [to restore, to put back in place]{.fst-italic} ).
+
+::::
+:::
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP4_LE_AUDIO/INSP_4_LE_Piste025.mp3" type="audio/mpeg">
+</audio>
+
+
+
+
+
+# Grammaire
+
+:::{.markyellow .rounded-3 .shadow .m-1 .p-2}
+
+#### [Les temps du passé]{.fw-bold .fs-4 .text-capitalize}
+[Pour faire un récit]{.fw-bold .fs-6 .text-secondary}  
+
+- [L'imparfait]{.fw-bold}  
+  - pour décrire les circonstances d'un événement ou d'un fait ponctuel  
+    [C'[était]{.text-red .fw-bold} ma nouvelle passion et j'[étais]{.text-red .fw-bold} bien décidé à m'y consacrer à fond.]{.fst-italic .text-muted}  
+  - pour faire une description ou raconter des habitudes  
+    [En France, historiquement, les tatoués [étaient]{.text-red .fw-bold} souvent ceux qui [étaient]{.text-red .fw-bold} partis au bagne à Cayenne.]{.fst-italic .text-muted}
+
+
+- [Le passé composé]{.fw-bold}  
+  - pour exprimer des actions ponctuelles ou une succession d'actions qui font avancer le récit.  
+    [Pour la première fois, l'inspection m'[a lâché]{.text-red .fw-bold} et [est allée]{.text-red .fw-bold} immédiatement dans le sens des parents.]{.fst-italic .text-muted}
+
+- [Le plus-que-parfait]{.fw-bold}  
+  - pour exprimer une action passée antérieure à une action passée.  
+    [Il y [avait]{.text-red .fw-bold} déjà [eu]{.text-red .fw-bold} des lettres de plaintes concernant mon apparence physique mais j'[avais]{.text-red .fw-bold} jusqu'alors toujours [été]{.text-red .fw-bold} soutenu par ma hiérarchie.]{.fst-italic .text-muted}
+:::
+
+:::{.column}
+:::
+
+
+:::{.markyellow .rounded-3 .shadow .m-1 .p-2}
+
+#### [Les marqueurs temporels]{.fw-bold .fs-4 .text-capitalize}
+
+[Pour indiquer la durée]{.fw-bold .text-secondary}  
+
+- [pendant]{.fw-bold .text-red} + **durée** / [cela fait]{.fw-bold .text-red} + **durée** + [que]{.fw-bold .text-red}  
+- [de]{.fw-bold .text-red} + **date** + [à]{.fw-bold .text-red} + **date** / [entre]{.fw-bold .text-red} + **date** + [et]{.fw-bold .text-red} + **date**  
+  [J'ai été mis au placard [pendant]{.fw-bold .text-red} deux mois, de septembre à novembre 2019.]{.fst-italic .text-muted}
+
+
+[Pour indiquer le moment]{.fw-bold .text-secondary}
+
+- [en]{.fw-bold .text-red} + **année** / [le]{.fw-bold .text-red} + **date** / [à]{.fw-bold .text-red} + **heure** / [aujourd'hui]{.fw-bold .text-red} / [en ce moment]{.fw-bold .text-red} / [à cette époque]{.fw-bold .text-red} / [l'année dernière]{.fw-bold .text-red} / [désormais]{.fw-bold .text-red}  
+  [J'étais [à cette époque]{.fw-bold .text-red} à Londres pour travailler.]{.fst-italic .text-muted}
+
+
+[Pour indiquer une relation temporelle entre deux actions]{.fw-bold .text-secondary}
+
+- **L'antériorité**  
+  - [jusqu'alors]{.fw-bold .text-red} + **phrase** / [jusqu'à]{.fw-bold .text-red} + **nom**  
+    [J'avais [jusqu'alors]{.fw-bold .text-red} toujours été soutenu par ma hiérarchie.]{.fst-italic .text-muted}  
+- **La simultanéité**  
+  - [lorsque]{.fw-bold .text-red} / [au moment où]{.fw-bold .text-red} / [quand]{.fw-bold .text-red} + **indicatif**  
+    [Lorsque j'ai commencé à me tatouer, je n'ai égoïstement pensé qu'à moi !]{.fst-italic .text-muted}  
+  - [alors que]{.fw-bold .text-red} / [pendant que]{.fw-bold .text-red} + **indicatif**  
+    [Tu t'es lancé dans le tatouage [alors que]{.fw-bold .text-red} tu étais déjà professeur des écoles.]{.fst-italic .text-muted}
+- **La postériorité**  
+  - [à la suite de]{.fw-bold .text-red} + **nom** ou **pronom**  
+    [J'ai eu un entretien _[...]_ [à la suite de]{.fw-bold .text-red} quoi il a été décidé que je ne remplacerais plus qu'en classes élémentaires du CP au CM2.]{.fst-italic .text-muted}  
+  - [après que]{.fw-bold .text-red} / [aussitôt que]{.fw-bold .text-red} + **indicatif**  
+    [[Aussitôt que]{.fw-bold .text-red} j'ai commencé à me faire tatouer, certains parents m'ont regardé bizarrement.]{.fst-italic .text-muted}  
+  - [immédiatement]{.fw-bold .text-red}  
+    [L'inspection m'a lâché et [immédiatement]{.fw-bold .text-red} est allée dans le sens des parents.]{.fst-italic .text-muted}
+
+
+:::
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
