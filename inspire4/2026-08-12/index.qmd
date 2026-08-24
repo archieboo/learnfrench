@@ -1,7 +1,7 @@
 ---
 title: "Leçon 3: Envisager le bonheur"
 date: "2026-08-12"
-categories: ["B2", "unite2", "autodidacte"]
+categories: ["B2", "unite1", "autodidacte"]
 reference-location: document # margin, block, section, document
 citation-location: document #margin
 image: "https://images.unsplash.com/photo-1590580673100-ee7ee687bfa6?q=80&w=640"
