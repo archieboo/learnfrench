@@ -212,6 +212,97 @@ La [devise]{.underline}[^nx] de la France, avant tout, c'est liberté, égalité
 
 :::
 
+------
+
+
+# Vocabulaire
+
+:::{.markgreen .rounded-3 .shadow .m-1 .p-2}
+
+**Le tatouage**
+
+- la chair : la peau du corps humain ( [flesh]{.fst-italic} )
+- l'encre (f.)
+- un ornement corporel : décoration du corps ( [body ornament]{.fst-italic} )
+- un tatouage / être tatoué(e)
+
+**La discrimination**
+
+- une atteinte à la dignité : une violation du respect dû à une personne ( [an affront to one's dignity]{.fst-italic} )
+- un délit de faciès : contrôle ou arrestation basée sur l'apparence physique ( [racial profiling]{.fst-italic} )
+- l'intolérance (f.) / la tolérance
+- la xénophobie
+- discriminatoire (adj.)
+- être victime
+
+**_registre familier_**
+
+- tilter : comprendre soudainement, avoir un déclic ( [to click, to get it]{.fst-italic} )
+- mettre la rage : provoquer une colère intense ( [to make sb furious]{.fst-italic} )
+- en avoir dans la tête : être intelligent, capable ( [to have brains]{.fst-italic} )
+
+:::
+
+
+------
+
+# Cahier d'activités
+
+## Ex. 1
+
+::: {.callout-note collapse="true" title="Transcription : Gracia, son chien guide et le refus du gym"}
+
+::::{.fs-5}
+
+Mon nom est Gracia, je suis handicapée visuelle et Fantôme est mon chien guide. C'est lui qui me suit partout, qui me permet de me déplacer et d'avoir une certaine indépendance.
+
+J'ai eu un problème de discrimination envers mon chien guide lorsque j'ai voulu m'inscrire dans un gym pour pouvoir m'entraîner.
+
+« Je suis ici parce que j'aimerais venir m'entraîner, j'aimerais m'inscrire à un gym, mais je suis handicapée visuelle, donc j'ai très peu de vision et je me déplace avec un chien guide. Est-ce que vous avez un problème ? Est-ce que je viens m'entraîner avec mon chien ? »
+
+On a tout simplement refusé en me donnant des raisons comme des problèmes d'allergie, des problèmes d'endommagement de plancher, en me disant qu'il ne voulait pas perdre de business à cause de moi et mon chien. On m'a demandé de peut-être pouvoir aller au gym à des heures où il n'y avait presque personne, ou d'y aller sans mon chien mais d'y aller avec quelqu'un.
+
+Ce que je veux, c'est d'avoir une vie comme tout le monde. J'ai un empêchement, je ne vois pas, mais à part cet empêchement, cet handicap visuel, il me reste tout [[?]]{.text-light}. Je lui ai expliqué qu'on ne demande pas à quelqu'un qui est en fauteuil roulant de laisser son fauteuil roulant à la porte, alors on ne peut pas demander à quelqu'un qui est handicapé visuel de laisser son chien à la porte.
+
+Ce qui m'a motivée à porter plainte à la commission, c'était que ce n'était pas le premier incident auquel je faisais face. Des gens qui me refusaient l'entrée dans des endroits publics à cause de mon chien guide. Mais cette fois-ci, ça avait été tellement profond, vraiment blessant. Et en appelant la commission des droits de la personne, on m'a très bien conseillé, on m'a dit que sous aucun contexte je devais me sentir différente de quiconque, que j'avais les mêmes droits que tout le monde.
+
+La motivation que j'ai eue à me rendre jusqu'au tribunal, c'était vraiment pour faire la différence. C'était que, pour moi, c'était important que les gens comprennent. C'était important que, spécifiquement dans ce cas-là, que les gens du gym puissent comprendre à quel point c'était dévastateur, leur refus, et de la façon que ça avait été fait. Est-ce que ça signifiait, pour une personne comme moi qui est handicapée visuelle, de pouvoir être autonome et d'être respectée ?
+
+::::
+:::
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP4_CA_AUDIO/INSP_4_CA_Piste09.mp3" type="audio/mpeg">
+</audio>
+
+## Ex. 5
+
+::: {.callout-note collapse="true" title="Transcription : les dix termes"}
+
+::::{.fs-5}
+
+1. une devise
+2. une affaire
+3. une décision de justice
+4. une faute lourde
+5. être bafoué
+6. accusé
+7. déposer une plainte
+8. faire appel
+9. un avocat
+10. une condamnation
+
+::::
+:::
+
+<audio controls style="width:95%">
+  <source src="https://inspire.hachettefle.fr/dl.php?f=ressources/INSP4_CA_AUDIO/INSP_4_CA_Piste10.mp3" type="audio/mpeg">
+</audio>
+
+
+
+
+
 
 
 
