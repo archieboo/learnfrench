@@ -1,1 +1,13 @@
 /* css styles */
+
+/* Give .blockquote divs the same left bar as a real <blockquote> */
+.blockquote {
+  border-left: .25rem solid #dee2e6;
+  padding: .625rem 1.25rem;
+  line-height: 1.4;
+}
+.blockquote p,
+.blockquote ul,
+.blockquote ol { margin-bottom: .5rem; }
+.blockquote li { margin-bottom: .1rem; }
+.blockquote > :last-child { margin-bottom: 0; }
