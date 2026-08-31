@@ -142,6 +142,7 @@
   {
     "listing": "/cours-francais.html",
     "items": [
+      "/af-nice/2026-08-31/index.html",
       "/af-bordeaux/2026-06-26/index.html",
       "/af-bordeaux/2026-06-25/index.html",
       "/af-bordeaux/2026-06-24/index.html",
@@ -166,6 +167,8 @@
   },
   {
     "listing": "/af-nice.html",
-    "items": []
+    "items": [
+      "/af-nice/2026-08-31/index.html"
+    ]
   }
 ]

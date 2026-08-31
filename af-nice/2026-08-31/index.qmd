@@ -1,0 +1,56 @@
+---
+title: "Semaine 1 - leçon 1"
+date: "2026-08-31"
+categories: ["B2", "unite1", "af-nice"]
+reference-location: document # margin, block, section, document
+citation-location: document #margin
+image: "https://images.unsplash.com/photo-1716948943021-cea8dc2d2c3f?q=80&w=640"
+margin-header: |
+  <a href="https://docs.google.com/document/d/1a5kLFhZxemUi71M84zsR8s8YJKR-lgkSOEqBgI6RJWk/edit?usp=sharing" target="_blank" style="font-size:0.85em;"><i class="bi bi-file-earmark-text"></i> Semaine 1 Google doc</a><br>
+  <a href="../../defi4/unite1-dossier1/index.qmd" style="font-size:0.85em;"><i class="bi bi-journal-bookmark"></i> Défi 4 &mdash; Unité 1, Dossier 1</a><br>
+
+
+---
+
+
+# Vocabulaire
+
+
+[👨‍🏫]{.fs-1}
+
+- Un racket : une forme de vol (sous la menace)
+- Se lasser de quelque chose :  se fatiguer de quelque chose 
+- Les coeurs brisés ⇒ cassés
+- Jouer aux jeux vidéos
+- Les crottes de chien
+
+[📖]{.fs-1}
+
+- végétarien(ne) : une personne végétarienne ([vegetarian]{.fst-italic})
+- un vers : une ligne de poésie ou un poème 
+- une rime : la répétition de sons identiques à la fin de deux ou plusieurs vers
+- un acrostiche : un poème où la première lettre de chaque vers forme un mot ou une phrase quand on les lit verticalement ([acrostic]{.fst-italic})
+- un quatrain : une strophe de quatre vers ([quatrain]{.fst-italic})
+- la personnification : une figure de style qui consiste à donner des propriétés humaines à une chose
+
+
+# Devoir
+
+
+::: {.blockquote}
+
+[Ex.6 p.17]{.fw-bold}
+
+- introduction aux figures de style
+- Repérez dans le texte les éléments décrits par l’article. 
+
+[Relisez les poèmes]{.fw-bold}  
+Repérez les mots qui vous posent des difficultés
+
+[Réfléchissez à la question suivante : ]{.fw-bold}  
+Quelle est la ville la plus moche que vous connaissez ? Et pour quelles raisons est-elle aussi moche ? Pourquoi la trouvez-vous moche ? 
+:::
+
+
+
+
