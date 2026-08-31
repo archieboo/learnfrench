@@ -10,10 +10,10 @@ image: "https://images.unsplash.com/photo-1509137705736-c15e10d9ce62?q=80&w=640"
 # TEXTE: Un Brin de poésie urbaine
 
 
-On a tendance à associer la poésie à la nature, aux mouvement de l'âme, à l'amour, voire à la mort. Accueillante ou austère[^1a1], la ville, aussi, inspire les poètes. La poésie se goûte[^1a2] avec le cœur, elle fait appel aux[^1a3] émotions. Bien plus que de simples descriptions, ces poèmes invitent au voyage dans divers paysages urbains. Comme aucun lecteur n'entre dans un poème par le même chemin, quel sera le vôtre?
+On a tendance à associer la poésie à la nature, aux mouvements de l'âme, à l'amour, voire à la mort. Accueillante ou austère[^1a1], la ville, aussi, inspire les poètes. La poésie se goûte[^1a2] avec le cœur, elle fait appel aux[^1a3] émotions. Bien plus que de simples descriptions, ces poèmes invitent au voyage dans divers paysages urbains. Comme aucun lecteur n'entre dans un poème par le même chemin, quel sera le vôtre?
 
 [^1a1]: welcoming or austere
-[^1a2]: se goûter à: to be savored by
+[^1a2]: se goûter: to be savored
 [^1a3]: faire appel à: to call upon
 
 
@@ -31,7 +31,7 @@ On a tendance à associer la poésie à la nature, aux mouvement de l'âme, à l
 > Pour un cœur qui s'ennuie,  
 > Ô le chant de la pluie!  
 >
-> _[Paul Verlaine (1874)]{.marksilver}_  
+> _[Paul Verlaine (1844-1896)]{.marksilver}_  
 > _[« Il pleure dans mon cœur », 1874]{.marksilver}_  
 
 ::::
@@ -57,7 +57,7 @@ On a tendance à associer la poésie à la nature, aux mouvement de l'âme, à l
 > Gratter le ciel de l'ongle sur la vitre du train  
 > Et derrière tout soudain, s'élance le jet d'eau  
 > Nos pas vont de travers, Cornavin à Bel-Air  
-> Et dans la rue du Stand, ç sent le marron chaud  
+> Et dans la rue du Stand, ça sent le marron chaud  
 > Voir la ville griser, givrer, rêver d'hiver  
 > Entourée des montagnes de nos vies à vau-l'eau  
 >
@@ -131,7 +131,7 @@ On a tendance à associer la poésie à la nature, aux mouvement de l'âme, à l
 ![](https://images.unsplash.com/photo-1673391780588-ab3cf46b3e09?q=80&w=640){.column-margin}
 
 
-Avec ses usine en ruine, ses hangars à l'abandon et son ring disgracieux[^2a1], Charleroi est certainement la ville belge [au plus lourd]{.mark} passé industriel[^2a2]. Cette ancienne cité minière et aussi l'ex-capitale de la métallurgie[^2a3] belge. [Suite au]{.mark}[^2a4] choc provoqué par le titre de « la ville la plus laide[^2a5] du monde » décerné[^2a6] au 2008 par le journal néerlandais De Volkskrant, Charleroi s'est lancée[^kk] dans une gigantesque chantier[^2a7]. [À force de]{.mark}[^2a8] volonté[^2a9] politique, artistique et citoyenne, elle [renaît de]{.mark} ses cendres[^2a11]. Zoom sur une agglomération[^2a12] en pleine métamorphose.
+Avec ses usines en ruine, ses hangars à l'abandon et son ring disgracieux[^2a1], Charleroi est certainement la ville belge [au plus lourd]{.mark} passé industriel[^2a2]. Cette ancienne cité minière est aussi l'ex-capitale de la métallurgie[^2a3] belge. [Suite au]{.mark}[^2a4] choc provoqué par le titre de « la ville la plus laide[^2a5] du monde » décerné[^2a6] en 2008 par le journal néerlandais De Volkskrant, Charleroi s'est lancée[^kk] dans un gigantesque chantier[^2a7]. [À force de]{.mark}[^2a8] volonté[^2a9] politique, artistique et citoyenne, elle [renaît de]{.mark} ses cendres[^2a11]. Zoom sur une agglomération[^2a12] en pleine métamorphose.
 
 [^ba]: revanche: revenge (n.f.); moche: ugly (adj.)
 [^2a1]: disgracieux/se: ugly, unattractive
@@ -144,20 +144,20 @@ Avec ses usine en ruine, ses hangars à l'abandon et son ring disgracieux[^2a1],
 [^2a8]: à force de: through, by means of
 [^2a9]: volonté: will, determination (n.f.)
 [^2a11]: renaître de ses cendres: to rise from the ashes; renaître: to be reborn, to rise again; cendre: ash
-[^2a12]: aggloméreration: urban area/district; agglomérer: to agglomerate, to cluster together
+[^2a12]: agglomération: urban area/district; agglomérer: to agglomerate, to cluster together
 [^kk]: se lancer dans: to embark on, to launch into
 
 
 ##### [**Revitalisation de l'espace urbain**]{.text-primary}
 
-Comme dans [d'autres]{.mark}[^3a1] villes wallonnes, le centre-ville s'est lentement vidé [du fait de]{.mark}[^3a2] l'exode de la bourgeoisie [vers]{.mark} les banlieues vertes et de la délocalisation[^3a3] des centres commerciaux en périphérie. Ainsi, pour redynamiser le bas du centre-ville et le rendre plus attrayant, les autorités publiques ont rénové le passage de la Bourse - une galerie classée au patrimoine[^3a4] wallon - et ont autorisé la construction d'un collossal centre commercial de 38 000 m², comprenant 95 commerces, des bureaux, des hotels et des logements. [Dès l'instant]{.mark}[^3a5] où la galerie marchande Rive Gauche a ouvert ses portes en 2017, le quartier [a repris vie]{.mark}[^3a6], et le réaménagement[^3a7] des quais de la Sambre l'a embelli. En se promenant [le long de]{.mark} ses rives, on découvre une ville agréable et attractive qui aura bientôt sa marina! Les immeubles insalubres[^3a8] [font place à]{.mark}[^3a9] des logements de qualité, et les autorités publiques espèrent le retour des classes moyennes dans ces quartiers. 
+Comme dans [d'autres]{.mark}[^3a1] villes wallonnes, le centre-ville s'est lentement vidé [du fait de]{.mark}[^3a2] l'exode de la bourgeoisie [vers]{.mark} les banlieues vertes et de la délocalisation[^3a3] des centres commerciaux en périphérie. Ainsi, pour redynamiser le bas du centre-ville et le rendre plus attrayant, les autorités publiques ont rénové le passage de la Bourse - une galerie classée au patrimoine[^3a4] wallon - et ont autorisé la construction d'un colossal centre commercial de 38 000 m², comprenant 95 commerces, des bureaux, des hôtels et des logements. [Dès l'instant]{.mark}[^3a5] où la galerie marchande Rive Gauche a ouvert ses portes en 2017, le quartier [a repris vie]{.mark}[^3a6], et le réaménagement[^3a7] des quais de la Sambre l'a embelli. En se promenant [le long de]{.mark} ses rives, on découvre une ville agréable et attractive qui aura bientôt sa marina! Les immeubles insalubres[^3a8] [font place à]{.mark}[^3a9] des logements de qualité, et les autorités publiques espèrent le retour des classes moyennes dans ces quartiers. 
 
 [^3a1]: note dans **d**'autres villes, not dans autres villes
 [^3a2]: du fait de: due to, because of
 [^3a3]: délocaliser: relocate
 [^3a4]: patrimoine: heritage
 [^3a5]: dès l'instant: from the moment, as soon as
-[^3a6]: reprendre vie: to come back to life. When the noun expresses a state, an emotion, a quality, or an abstract condition, french often treats it like an advertial concept, thus drop the article.
+[^3a6]: reprendre vie: to come back to life. When the noun expresses a state, an emotion, a quality, or an abstract condition, French often treats it like an adverbial concept, thus drop the article.
 [^3a7]: réaménagement: redevelopment, renovation
 [^3a8]: insalubre: unhealthy, unsanitary
 [^3a9]: faire place à: to give way to, to make room for
@@ -165,9 +165,9 @@ Comme dans [d'autres]{.mark}[^3a1] villes wallonnes, le centre-ville s'est lente
 
 ##### [**Rénovation de bâtiments**]{.text-primary}
 
-En centre-ville, après ces importants travaux dans la Ville-Basse, c'est [au tour de]{.mark} la Ville-Haute de un seconde souffle[^4a1]. Par ses rénovations, Charleroi souhaite redonner[^4a2] un rôle économique à ce quartier. Son objectif: la création d'un centre de congrès[^4a3] et la renovation du Palais des Beaux-Arts et du Palais des expositions. Celui-ci est un bâtiment emblématique[^4a4] datant des années 1950. 
+En centre-ville, après ces importants travaux dans la Ville-Basse, c'est [au tour de]{.mark} la Ville-Haute de connaître un second souffle[^4a1]. Par ses rénovations, Charleroi souhaite redonner[^4a2] un rôle économique à ce quartier. Son objectif: la création d'un centre de congrès[^4a3] et la rénovation du Palais des Beaux-Arts et du Palais des expositions. Celui-ci est un bâtiment emblématique[^4a4] datant des années 1950. 
 
-[^4a1]: souffle: breath. un seconde souffle: a new lease on life
+[^4a1]: souffle: breath. un second souffle: a new lease on life
 [^4a2]: redonner: to give back, to restore
 [^4a3]: un congrès: a conference, a convention
 [^4a4]: emblématique: emblematic, iconic
@@ -187,7 +187,7 @@ Depuis quelque temps, le Pays noir se réinvente et redore[^5a1] son image [grâ
 
 ##### [**...Et culture alternative**]{.text-primary}
 
-[Parlons]{.mark} maintenant des nuis carolos[^6a1]! Rebaptisées Rockerill, les anciennes forges[^6a2] de la Providence ont été reconverties[^6a3] en un lieu culturel: salles de concert, coopérative de ferronnerie[^6a4], ateliers d'artistes et création du label Rockerill Records... Et il y a foule le jeudi aux[^6a5] « apéros industriels » ! Le street-art occupe également [une place de choix]{.mark} à Charleroi. [Étant donné que]{.mark} la ville [était fermement[^6a6] déterminée à]{.mark} apporter[^6a7] de la couleur et de la gaieté[^6a8] aux paysages industriels, elle a lancé le projet Urban Dream, notamment sur [le long]{.markgreen} du chemin, hideux[^6a9] et gris, qui [longe]{.markgreen}[^6a10] la Sambre sur quatre kilomètres. [Plus d'une certaine de]{.mark}[^6a11] graffeurs et peintres, belges et internationaux, ont recouvert les murs de fresques[^6a12] multicolores. Un régal[^6a14] visuel qui fait de[^6a13] Charleroi une ville incontournable[^6a15] en Europe pour les amoureux de street-art. 
+[Parlons]{.mark} maintenant des nuits carolos[^6a1]! Rebaptisées Rockerill, les anciennes forges[^6a2] de la Providence ont été reconverties[^6a3] en un lieu culturel: salles de concert, coopérative de ferronnerie[^6a4], ateliers d'artistes et création du label Rockerill Records... Et il y a foule le jeudi aux[^6a5] « apéros industriels » ! Le street-art occupe également [une place de choix]{.mark} à Charleroi. [Étant donné que]{.mark} la ville [était fermement[^6a6] déterminée à]{.mark} apporter[^6a7] de la couleur et de la gaieté[^6a8] aux paysages industriels, elle a lancé le projet Urban Dream, notamment [le long]{.markgreen} du chemin, hideux[^6a9] et gris, qui [longe]{.markgreen}[^6a10] la Sambre sur quatre kilomètres. [Plus d'une centaine de]{.mark}[^6a11] graffeurs et peintres, belges et internationaux, ont recouvert les murs de fresques[^6a12] multicolores. Un régal[^6a14] visuel qui fait de[^6a13] Charleroi une ville incontournable[^6a15] en Europe pour les amoureux de street-art. 
 
 [^6a1]: the "carolo" nights. carolo: a person from Charleroi. Notice l'imperatif de nous. 
 [^6a2]: forges: forges, ironworks
@@ -199,7 +199,7 @@ Depuis quelque temps, le Pays noir se réinvente et redore[^5a1] son image [grâ
 [^6a8]: gaieté: cheerfulness, joy
 [^6a9]: hideux: hideous, ugly
 [^6a10]: longer: to run along, to border
-[^6a11]: plus d'une certaine de: more than a certain number of
+[^6a11]: plus d'une centaine de: more than a hundred
 [^6a12]: la fresque: mural
 [^6a13]: faire de qch: to make/turn something into ...
 [^6a14]: un régal: a treat, a delight
@@ -208,7 +208,7 @@ Depuis quelque temps, le Pays noir se réinvente et redore[^5a1] son image [grâ
 
 ##### [**La nouvelle Berlin?**]{.text-primary}
 
-Aujourd'hui, on découvre une ville rajeunie[^7a1], la redynamisation urbaine et la culture ont renforcé[^7a2] son attractivité. [Souhaitant ouvrir]{.mark} l'agglomération à l'international, les autorités publiques ont postulé pour devenir capitale européenne de la culture en 2030. [D'autant plus que]{.mark}[^7a7] l'image positive de la ville commerce à s'étendre[^7a3] au-delà[^7a4] de ses frontières... Dans un reportage de la BBC de février 2018, la journaliste conclut: « Charleroi ne peut plus être qualifiée de ville la plus affreuse[^7a5] du monde. » Alors, courez vite à Charleroi avant que la ville devienne une destination touristique très prisée[^7a6]...
+Aujourd'hui, on découvre une ville rajeunie[^7a1], la redynamisation urbaine et la culture ont renforcé[^7a2] son attractivité. [Souhaitant ouvrir]{.mark} l'agglomération à l'international, les autorités publiques ont postulé pour devenir capitale européenne de la culture en 2030. [D'autant plus que]{.mark}[^7a7] l'image positive de la ville commence à s'étendre[^7a3] au-delà[^7a4] de ses frontières... Dans un reportage de la BBC de février 2018, la journaliste conclut: « Charleroi ne peut plus être qualifiée de ville la plus affreuse[^7a5] du monde. » Alors, courez vite à Charleroi avant que la ville devienne une destination touristique très prisée[^7a6]...
 
 [^7a1]: rajeuni: rejuvenated; from rajeunir
 [^7a2]: renforcer: to strengthen
@@ -245,24 +245,24 @@ Aujourd'hui, on découvre une ville rajeunie[^7a1], la redynamisation urbaine et
 
 
 - [à force de, sous prétexte de[^k9] + **infinitif**]{.markgreen} <br>
-  _Ex.: [Sous prétexte de]{.markgreen} rénover la ville, la commmune de Bruxelles a détruit les vieux quartiers..._  
+  _Ex.: [Sous prétexte de]{.markgreen} rénover la ville, la commune de Bruxelles a détruit les vieux quartiers..._  
   _Ex.: [À force de]{.markgreen} vouloir rénover la ville, la commune de Bruxelles a détruit les vieux quartiers..._
 
 [^k9]: sous prétexte de: under the pretext of, on the grounds of (negative connotation)
 
   
-- [vue que[^k10], étant donné que[^k11], d'autant plus que[^k12] + **phrase**]{.markgreen} <br>
-  _Ex.: [Vue que]{.markgreen} le musée a l'ambition d'être plus qu'un simple musée, il propose également diverses activités pour s'interroger sur la relation entre l'art et la société._  
+- [vu que[^k10], étant donné que[^k11], d'autant plus que[^k12] + **phrase**]{.markgreen} <br>
+  _Ex.: [Vu que]{.markgreen} le musée a l'ambition d'être plus qu'un simple musée, il propose également diverses activités pour s'interroger sur la relation entre l'art et la société._  
   _Ex.: [Étant donné que]{.markgreen} la ville était fermement déterminée à apporter de la couleur..._  
-  _Ex.: [D'autant plus que]{.markgreen} l'image positive de la ville commerce à s'étendre au-delà de ses frontières..._
+  _Ex.: [D'autant plus que]{.markgreen} l'image positive de la ville commence à s'étendre au-delà de ses frontières..._
 
-[^k10]: vue que: given that, seeing that (neutral connotation, often used in writing)
+[^k10]: vu que: given that, seeing that (neutral connotation, often used in writing)
 [^k11]: étant donné que: given that, considering that (neutral connotation, often used in writing)
 [^k12]: d'autant plus que: all the more so because, especially since (neutral connotation, often used in writing)
 
 - [avec, sans, par, pour + **nom**]{.markgreen} <br>
-  _Ex.: [Avec]{.markgreen} ses usine en ruine, ses hangars à l'abandon et son ring disgracieux..._  
-  _Ex.: [Sans]{.markgreen} ces importants travaux dans la Ville-Basse, c'est au tour de la Ville-Haute de un seconde souffle._  
+  _Ex.: [Avec]{.markgreen} ses usines en ruine, ses hangars à l'abandon et son ring disgracieux..._  
+  _Ex.: [Sans]{.markgreen} ces importants travaux dans la Ville-Basse, c'est au tour de la Ville-Haute de connaître un second souffle._  
   _Ex.: [Par]{.markgreen} ses rénovations, Charleroi souhaite redonner un rôle économique à ce quartier._  
   _Ex.: [Pour]{.markgreen} redynamiser le bas du centre-ville et le rendre plus attrayant..._
 
