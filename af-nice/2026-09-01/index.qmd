@@ -1,0 +1,84 @@
+---
+title: "Nice September Week 1 Lesson 2"
+date: "2026-09-01"
+categories: ["B2", "unite1", "af-nice"]
+reference-location: document # margin, block, section, document
+citation-location: document #margin
+margin-header: |
+  <a href="https://docs.google.com/document/d/1a5kLFhZxemUi71M84zsR8s8YJKR-lgkSOEqBgI6RJWk/edit?usp=sharing" target="_blank" style="font-size:0.85em;"><i class="bi bi-file-earmark-text"></i> Semaine 1 Google doc</a><br>
+  <a href="../../defi4/unite1-dossier1/index.qmd" style="font-size:0.85em;"><i class="bi bi-journal-bookmark"></i> Défi 4 &mdash; Unité 1, Dossier 1</a><br>
+
+image: "https://images.unsplash.com/photo-1749295599491-0828cfce96be?q=80&w=640"
+
+---
+
+# Vocabulaire
+
+
+[👨‍🏫]{.fs-1}
+
+- le givre : un type de glace friable ([frost]{.fst-italic})  
+- être givré (fam.) : être fou, prendre trop de risque
+- givrer : venir couvert de givre
+- griser : devenir gris; exciter
+- lancer : jeter avec force; commencer une action
+- s'élancer : se lancer avec élan; se précipiter
+- la langueur (vieilli) : une fatique mélancolique
+- se lasser : se fatiguer de quelque chose
+- langoureux : (adj.) qui exprime une fatigue mélancolique & la passion amoureuse
+
+- aller à vau-l'eau / partir à vau-l'eau : se dit de quelque chose sur lequel perd le contrôle, et qui va vers l'échec
+
+
+# Figures de style
+
+## Jouer avec les sons
+
+L'allitération : répéter des consonnes
+
+- "Quels [s]{.bg-light}ont [c]{.bg-light}es [s]{.bg-light}erpents qui [s]{.bg-light}ifflent nos têtes?"
+- "rêv[er]{.bg-light} d'hiv[er]{.bg-light}"
+- nos vies a v[au]{.bg-light}-l'e[au]{.bg-light}
+
+L'assonance : répéter des voyelles
+
+- le tr[ou]{.bg-light} du b[ou]{.bg-light}t du mond
+
+La paronomase : créer un rapprochement entre des mots avec des sonorités similaires
+
+- Carglass [répare]{.bg-light}, Carglass [remplace]{.bg-light}
+
+## La métonymie
+
+Désigner le tout par un détail
+
+> _Hier, [Washington]{.underline} a négocié un accord commercial avec [Pékin]{.underline}._  
+> _Je regardais [les voiles]{.underline} sur la mer. (-> les bâteau à voile)_
+
+
+## La comparaison
+
+> _Il pleure dans mon cœur comme il pleut sur la ville.
+
+
+
+# Devoir
+
+
+::: {.blockquote}
+
+[Ex.6 p.17]{.fw-bold}
+
+- introduction aux figures de style
+- Repérez dans le texte les éléments décrits par l’article. 
+
+[Relisez les poèmes]{.fw-bold}  
+Repérez les mots qui vous posent des difficultés
+
+[Réfléchissez à la question suivante : ]{.fw-bold}  
+Quelle est la ville la plus moche que vous connaissez ? Et pour quelles raisons est-elle aussi moche ? Pourquoi la trouvez-vous moche ? 
+:::
+
+
+
+

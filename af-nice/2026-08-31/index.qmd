@@ -1,17 +1,16 @@
 ---
-title: "Semaine 1 - leçon 1"
+title: "Nice September Week 1 Lesson 1"
 date: "2026-08-31"
 categories: ["B2", "unite1", "af-nice"]
 reference-location: document # margin, block, section, document
 citation-location: document #margin
-image: "https://images.unsplash.com/photo-1716948943021-cea8dc2d2c3f?q=80&w=640"
 margin-header: |
   <a href="https://docs.google.com/document/d/1a5kLFhZxemUi71M84zsR8s8YJKR-lgkSOEqBgI6RJWk/edit?usp=sharing" target="_blank" style="font-size:0.85em;"><i class="bi bi-file-earmark-text"></i> Semaine 1 Google doc</a><br>
   <a href="../../defi4/unite1-dossier1/index.qmd" style="font-size:0.85em;"><i class="bi bi-journal-bookmark"></i> Défi 4 &mdash; Unité 1, Dossier 1</a><br>
 
 
+image: "https://images.unsplash.com/photo-1473186505569-9c61870c11f9?q=80&w=640"
 ---
-
 
 # Vocabulaire
 
@@ -26,7 +25,6 @@ margin-header: |
 
 [📖]{.fs-1}
 
-- végétarien(ne) : une personne végétarienne ([vegetarian]{.fst-italic})
 - un vers : une ligne de poésie ou un poème 
 - une rime : la répétition de sons identiques à la fin de deux ou plusieurs vers
 - un acrostiche : un poème où la première lettre de chaque vers forme un mot ou une phrase quand on les lit verticalement ([acrostic]{.fst-italic})
