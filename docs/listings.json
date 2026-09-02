@@ -2,6 +2,7 @@
   {
     "listing": "/misc.html",
     "items": [
+      "/misc/2026-09-01-nice-a-pied/index.html",
       "/misc/2026-07-09-French-Chinese-English-connections/index.html",
       "/misc/2026-06-29-Suzi-de-gienchy/index.html",
       "/misc/2026-05-14-L’opéra-un-art-sous-respiration-artificielle-ou/index.html",
@@ -142,6 +143,7 @@
   {
     "listing": "/cours-francais.html",
     "items": [
+      "/af-nice/2026-09-01/index.html",
       "/af-nice/2026-08-31/index.html",
       "/af-bordeaux/2026-06-26/index.html",
       "/af-bordeaux/2026-06-25/index.html",
@@ -168,6 +170,7 @@
   {
     "listing": "/af-nice.html",
     "items": [
+      "/af-nice/2026-09-01/index.html",
       "/af-nice/2026-08-31/index.html"
     ]
   }

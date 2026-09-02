@@ -1,8 +1,11 @@
 execute:
   freeze: auto
-format:
-  html:
-    number-sections: false
-    title-block-banner: true
-    reference-location: document
-    citation-location: document
+
+# These were nested under `format: html:`, which forced the html format onto
+# every post in this folder — including revealjs decks, which then lost their
+# index.html to the html render. At the top level they still apply to html
+# posts, but they no longer declare a format.
+number-sections: false
+title-block-banner: true
+reference-location: document
+citation-location: document

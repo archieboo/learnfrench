@@ -1,0 +1,42 @@
+/*-- scss:rules --*/
+
+// Drop shadow under every image on a slide.
+// moon is a dark theme, so a plain black shadow reads as mud —
+// pair it with a faint light rim so the edge still separates.
+.reveal section img {
+  border: none;
+  border-radius: 4px;
+  box-shadow:
+    0 0 0 1px rgba(255, 255, 255, 0.12),
+    0 10px 30px rgba(0, 0, 0, 0.55);
+}
+
+// Mood words under the photos: a single centred line, wide-tracked small caps
+// in a muted tone, so it reads as a caption/label rather than body text.
+// Usage:  ::: {.mots} agréable · animé · coloré :::
+.reveal .mots {
+  margin-top: 0.7em;
+  text-align: center;
+  font-size: 0.55em;
+  font-weight: 300;
+  letter-spacing: 0.24em;
+  text-transform: uppercase;
+  color: rgba(255, 255, 255, 0.6);
+  line-height: 1.6;
+}
+
+// The separator sits between words; dim it further so the words carry.
+.reveal .mots .sep {
+  color: rgba(255, 255, 255, 0.28);
+  margin: 0 0.15em;
+}
+
+// The slide canvas is 700px tall. A portrait photo at 48% column width is
+// ~665px tall on its own, which pushes anything below it off the bottom.
+// Cap the height and let the width follow, so .mots always has room.
+.reveal .columns img {
+  max-height: 460px;
+  width: auto;
+  display: block;
+  margin: 0 auto;
+}

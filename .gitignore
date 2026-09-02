@@ -15,3 +15,6 @@ _site/**
 **/*.quarto_ipynb
 make-quiz-prompt.md
 make-quiz-template.qmd
+
+# full-size photo originals kept locally, not published
+**/_originals/

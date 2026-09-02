@@ -1,0 +1,73 @@
+---
+title: "Nice à pied"
+date: "2026-09-04"
+format:
+  revealjs:
+    theme: [moon, slides.scss]
+    slide-number: true
+    chalkboard: false
+    preview-links: auto
+    incremental: false
+title-slide-attributes:
+  data-background-image: nice-panorama.jpg
+  data-background-size: cover
+  data-background-position: center
+  data-background-opacity: "0.45"
+---
+
+
+
+## Marché de la Libération
+
+:::: {.columns}
+
+::: {.column width="48%"}
+![](marche-liberation.jpg)
+:::
+
+::: {.column width="4%"}
+:::
+
+::: {.column width="48%"}
+![](marche-liberation-poisson.jpg)
+:::
+
+::::
+
+::: {.mots}
+animé [·]{.sep} coloré [·]{.sep} agréable
+:::
+
+## La place Masséna
+
+:::: {.columns}
+
+::: {.column width="48%"}
+![](fontaine-du-soleil.jpg)
+:::
+
+::: {.column width="4%"}
+:::
+
+::: {.column width="48%"}
+![](massena.jpg)
+:::
+
+::::
+
+::: {.mots}
+photogénique [·]{.sep} charmant [·]{.sep} attrayant
+:::
+
+
+## Quartier du port
+
+![](port.jpg)
+
+::: {.mots}
+authentique [·]{.sep} tranquille [·]{.sep} ravissant
+:::
+
+
+
+
