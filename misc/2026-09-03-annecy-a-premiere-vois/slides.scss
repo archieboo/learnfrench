@@ -27,9 +27,59 @@
 }
 
 // The separator sits between fragments; dim it so the words carry.
-.reveal .mots .sep {
+.reveal .sep {
   color: rgba(255, 255, 255, 0.28);
   margin: 0 0.35em;
+}
+
+// Quiz slide: the statement stays visible, the answer appears on click.
+.reveal .vf {
+  font-size: 0.78em;
+  line-height: 1.5;
+}
+
+.reveal .vf li {
+  margin-bottom: 0.9em;
+}
+
+// The answer sits on its own line under its statement, a shade quieter,
+// with a coloured rule so vrai and faux are legible at a glance.
+.reveal .vf .rep {
+  display: block;
+  margin-top: 0.25em;
+  padding-left: 0.6em;
+  font-size: 0.88em;
+  color: rgba(255, 255, 255, 0.72);
+}
+
+.reveal .vf .vrai {
+  border-left: 3px solid rgba(140, 210, 150, 0.85);
+}
+
+.reveal .vf .faux {
+  border-left: 3px solid rgba(230, 130, 125, 0.85);
+}
+
+// The reveal at the end of the quiz: the name of the place, larger and
+// centred, so it lands as the punchline rather than as one more line.
+.reveal .reponse {
+  margin-top: 0.8em;
+  text-align: center;
+  font-size: 0.85em;
+  color: rgba(255, 255, 255, 0.9);
+}
+
+// Appendix link slide: one link, centred and given room, so it reads as a
+// destination rather than as a line of text.
+.reveal .lien {
+  margin-top: 2em;
+  text-align: center;
+  font-size: 0.9em;
+}
+
+.reveal .lien a {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.35);
+  padding-bottom: 0.15em;
 }
 
 // The slide canvas is 700px tall, and the title plus a two-line .mots caption

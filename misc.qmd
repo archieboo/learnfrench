@@ -1,6 +1,6 @@
 ---
 listing:
-  contents: misc
+  contents: misc/*/index.qmd
   sort:
     - "date desc"
     - "title desc"

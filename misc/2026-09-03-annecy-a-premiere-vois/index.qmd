@@ -1,5 +1,5 @@
 ---
-title: "Les photos - Annecy"
+title: "Une ville à première vue"
 date: "2026-09-04"
 format:
   revealjs:
@@ -15,6 +15,7 @@ title-slide-attributes:
   data-background-opacity: "0.45"
 ---
 
+# Presentation
 
 ## 1. La vieille ville
 
@@ -36,6 +37,13 @@ la Venise des Alpes
 le marché coloré
 :::
 
+::: {.notes}
+- Le cœur médiéval : ruelles étroites, arcades, façades roses et ocres.
+- Trois canaux, le Thiou et le Vassé, traversent le centre.
+- Marché le mardi, le vendredi et le dimanche matin : fromages, fruits, fleurs.
+- Mon impression : c'est animé, mais on n'est jamais bousculé.
+:::
+
 
 ## 2. Palais de l'Île
 
@@ -48,8 +56,15 @@ le monument le plus photographié
 
 :::
 
+::: {.notes}
+- Bâtiment du XIIe siècle, posé au milieu du canal, en forme de proue de bateau.
+- Il a été maison seigneuriale, palais de justice, puis prison jusqu'au XIXe siècle.
+- Aujourd'hui, c'est un petit musée sur l'histoire et l'architecture de la ville.
+- La meilleure photo se prend depuis le pont, un peu en hauteur.
+:::
 
-## 3. Le lac d'Annecy
+
+## 3. Le lac
 
 :::{.columns}
 ::::{.column}
@@ -68,7 +83,16 @@ entouré de montagnes
 
 :::
 
-## 4. Noël à Annecy
+::: {.notes}
+- L'un des plus grands lacs de France, alimenté par les montagnes autour.
+- Sa réputation de lac le plus propre d'Europe date des années 1960 : la ville a
+  arrêté d'y rejeter ses eaux usées, ce qui était très rare à l'époque.
+- On en fait le tour à vélo : une quarantaine de kilomètres, presque tout plat.
+- L'été, l'eau reste fraîche mais on se baigne. Autour : la Tournette, le Semnoz.
+:::
+
+
+## 4. Le marché de Noël
 
 :::{.columns}
 ::::{.column}
@@ -86,7 +110,15 @@ le marché de Noël le long des canaux
 boire un vin chaud sous les illuminations
 :::
 
-## 5. On mange bien à Annecy
+::: {.notes}
+- En décembre, des chalets en bois s'installent le long des canaux.
+- Illuminations dans toute la vieille ville, patinoire, odeur de vin chaud.
+- Il fait froid, mais l'ambiance est très chaleureuse — c'est ma saison préférée ici.
+- Question à la classe : qui a déjà visité un marché de Noël ?
+:::
+
+
+## 5. On mange bien
 
 [![](https://images.unsplash.com/photo-1512594282804-b5f400408c9d?q=80&w=2048)](https://images.unsplash.com/photo-1512594282804-b5f400408c9d)
 
@@ -101,3 +133,41 @@ diots au vin blanc
 l'omble chevalier
 :::
 
+::: {.notes}
+- La cuisine savoyarde, c'est une cuisine de montagne : chaude, riche, conviviale.
+- La tartiflette : pommes de terre, lardons, et un reblochon fondu par-dessus.
+- Aussi la fondue, la raclette, et les diots — des saucisses cuites au vin blanc.
+- Et le lac donne ses poissons : la féra, l'omble chevalier, la perche.
+- En dessert : le gâteau de Savoie, très léger, ou une tarte aux myrtilles.
+- Pour finir : passer la parole à Mattia, qui présente les activités autour de la ville.
+:::
+
+# Appendix
+
+## 6. Vrai ou faux ?
+
+::: {.vf}
+1. Cette ville se trouve au bord de la mer.
+   [**Faux** [·]{.sep} au bord d'un lac — et on le dit le plus propre d'Europe !]{.rep .faux}
+
+2. On la surnomme « la Venise des Alpes ».
+   [**Vrai** [·]{.sep} des canaux traversent toute la vieille ville.]{.rep .vrai}
+
+3. Son plat le plus connu se prépare avec du reblochon.
+   [**Vrai** [·]{.sep} la tartiflette — nous sommes en Savoie.]{.rep .vrai}
+:::
+
+::: {.reponse}
+Alors, vous devinez ? **Annecy !**
+:::
+
+
+## Notes de présentation
+
+::: {.lien}
+[Le texte complet à dire, section par section (5 min)](notes.html){target="_blank" data-preview-link="false"}
+:::
+
+::: {.notes}
+- Page à part, pour préparer — pas à montrer pendant la présentation.
+:::
