@@ -1,0 +1,103 @@
+---
+title: "Les photos - Annecy"
+date: "2026-09-04"
+format:
+  revealjs:
+    theme: [moon, slides.scss]
+    slide-number: true
+    chalkboard: false
+    preview-links: auto
+    incremental: false
+title-slide-attributes:
+  data-background-image: "https://images.unsplash.com/photo-1629838485338-7c5c7c6958bc?q=80&w=2048"
+  data-background-size: cover
+  data-background-position: center
+  data-background-opacity: "0.45"
+---
+
+
+## 1. La vieille ville
+
+:::{.columns}
+
+::::{.column}
+[![](https://images.unsplash.com/photo-1726088841239-95fde40a7e95?q=80&w=2048)](https://images.unsplash.com/photo-1726088841239-95fde40a7e95)
+::::
+::::{.column}
+[![](https://images.unsplash.com/photo-1629886107316-d8d3337b7411?q=80&w=2048)](https://images.unsplash.com/photo-1629886107316-d8d3337b7411)
+::::
+:::
+
+::: {.mots}
+se promène entre les canaux 
+[·]{.sep} 
+la Venise des Alpes 
+[·]{.sep} 
+le marché coloré
+:::
+
+
+## 2. Palais de l'Île
+
+[![](https://images.unsplash.com/photo-1590274853934-90bff4d9ba9e?q=80&w=2048)](https://images.unsplash.com/photo-1590274853934-90bff4d9ba9e)
+
+::: {.mots}
+ancienne prison du XII^e^ siècle
+[·]{.sep}
+le monument le plus photographié 
+
+:::
+
+
+## 3. Le lac d'Annecy
+
+:::{.columns}
+::::{.column}
+[![](https://images.unsplash.com/photo-1590397368097-99e20bc20d39?q=80&w=2048)](https://images.unsplash.com/photo-1590397368097-99e20bc20d39)
+::::
+::::{.column}
+[![](https://images.unsplash.com/photo-1629181498384-172de5422ca2?q=80&w=2048)](https://images.unsplash.com/photo-1629181498384-172de5422ca2)
+::::
+
+:::
+
+::: {.mots}
+le lac le plus propre
+[·]{.sep}
+entouré de montagnes
+
+:::
+
+## 4. Noël à Annecy
+
+:::{.columns}
+::::{.column}
+[![](https://www.michelvoyages.fr/produit/principale/ville-d-annecy.jpg)](https://www.michelvoyages.fr/produit/principale/ville-d-annecy.jpg)
+::::
+::::{.column}
+[![](https://www.michelvoyages.fr/produit/principale/himg3207ot-lac-dannecy.jpg)](https://www.michelvoyages.fr/produit/principale/himg3207ot-lac-dannecy.jpg)
+::::
+
+:::
+
+::: {.mots}
+le marché de Noël le long des canaux
+[·]{.sep}
+boire un vin chaud sous les illuminations
+:::
+
+## 5. On mange bien à Annecy
+
+[![](https://images.unsplash.com/photo-1512594282804-b5f400408c9d?q=80&w=2048)](https://images.unsplash.com/photo-1512594282804-b5f400408c9d)
+
+
+::: {.mots}
+mangeons savoyard
+[·]{.sep}
+fondue
+[·]{.sep}
+diots au vin blanc
+[·]{.sep}
+l'omble chevalier
+:::
+

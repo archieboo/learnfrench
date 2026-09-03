@@ -1,0 +1,49 @@
+/*-- scss:rules --*/
+
+// Drop shadow under every image on a slide.
+// moon is a dark theme, so a plain black shadow reads as mud —
+// pair it with a faint light rim so the edge still separates.
+.reveal section img {
+  border: none;
+  border-radius: 4px;
+  box-shadow:
+    0 0 0 1px rgba(255, 255, 255, 0.12),
+    0 10px 30px rgba(0, 0, 0, 0.55);
+}
+
+// A short caption under the photos — one or two sentences, centred, in a light
+// muted tone so it reads as a legend rather than body text. Capped in width so
+// the line stays comfortable to read instead of running the whole slide.
+// Usage:  ::: {.mots} On se promène entre les canaux. :::
+.reveal .mots {
+  margin: 0.7em auto 0;
+  max-width: 26em;
+  text-align: center;
+  font-size: 0.62em;
+  font-weight: 300;
+  letter-spacing: 0.01em;
+  color: rgba(255, 255, 255, 0.72);
+  line-height: 1.5;
+}
+
+// The separator sits between fragments; dim it so the words carry.
+.reveal .mots .sep {
+  color: rgba(255, 255, 255, 0.28);
+  margin: 0 0.35em;
+}
+
+// The slide canvas is 700px tall, and the title plus a two-line .mots caption
+// need ~250px of it. Left alone a tall-ish photo (a 3:2 at full width is ~700px
+// on its own) fills the canvas and pushes the caption off the bottom. Cap the
+// height on every slide image and let the width follow, so .mots always fits.
+.reveal section img {
+  max-height: 440px;
+  width: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+// Side-by-side photos share the row, so they get a little less headroom.
+.reveal .columns img {
+  max-height: 420px;
+}
