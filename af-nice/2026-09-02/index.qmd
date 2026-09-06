@@ -1,0 +1,150 @@
+---
+title: "Nice September Week 1 Lesson 3"
+date: "2026-09-02"
+categories: ["B2", "unite1", "af-nice"]
+reference-location: document # margin, block, section, document
+citation-location: document #margin
+margin-header: |
+  <a href="https://docs.google.com/document/d/1a5kLFhZxemUi71M84zsR8s8YJKR-lgkSOEqBgI6RJWk/edit?usp=sharing" target="_blank" style="font-size:0.85em;"><i class="bi bi-file-earmark-text"></i> Semaine 1 Google doc</a><br>
+  <a href="../../defi4/unite1-dossier1/index.qmd" style="font-size:0.85em;"><i class="bi bi-journal-bookmark"></i> Défi 4 &mdash; Unité 1, Dossier 1</a><br>
+
+image: "https://images.unsplash.com/photo-1628452778140-51cc4ebccd96?q=80&w=640"
+
+---
+
+
+
+# La revanche d'une moche
+
+Analyse du texte p.18 — le titre se lit en deux moitiés, et chaque moitié
+correspond à un champ lexical du texte.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6 .bg-success-subtle .rounded .p-3}
+
+### La revanche… {.mt-0}
+
+[Le renouveau, la métamorphose]{.fst-italic}
+
+- renaître de ses cendres [(idiom.)]{.fst-italic} : se renouveler après « la mort »
+- la revitalisation : remettre de la vie (au sens de l'activité) ; reprendre vie
+- la rénovation : remettre à neuf
+- trouver un second souffle [(idiom.)]{.fst-italic}
+- redynamiser
+- réinventer
+- le réaménagement
+- reconvertir
+- rajeunir
+- ouvrir ses portes [(idiom.)]{.fst-italic} : accueillir
+- faire peau neuve [(idiom.)]{.fst-italic} : se renouveler
+- redorer son image // redorer son blason : améliorer sa réputation perdue
+
+:::
+
+::: {.g-col-12 .g-col-md-6 .bg-danger-subtle .rounded .p-3}
+
+### … d'une moche {.mt-0}
+
+[La ville morte, la laideur industrielle]{.fst-italic}
+
+- le centre-ville s'est lentement vidé ⇒ une ville morte
+  - « Nice est très vivante en été, mais en hiver c'est un peu mort. »
+- les immeubles insalubres : sales, détériorés, dans lesquels on ne peut pas
+  vivre pour des raisons de santé
+- la délocalisation des centres commerciaux en périphérie
+- les usines en ruines, les hangars à l'abandon, un ring disgracieux
+- le chemin hideux et gris (= terne)
+- le pays noir
+- ex-capitale de la métallurgie (se réfère aux paysages industriels)
+- la plus affreuse du monde
+
+:::
+
+:::
+
+[👨‍🏫]{.fs-1}
+
+- la délocalisation : déplacer une activité économique, un service ailleurs
+
+
+# Les adjectifs de la laideur et de la beauté
+
+[Ex.36 p.21]{.fst-italic}
+
+::: {.columns}
+
+::: {.column width="48%" .bg-success-subtle .rounded .p-3}
+
+### La beauté 🌹 {.mt-0}
+
+[(comme le prof)]{.fst-italic}
+
+[Normal]{.fw-bold}
+
+- **agréable** : qui a des qualités appréciables
+  - [(idiom.)]{.fst-italic} être agréable à l'œil
+- **mignon.ne** : une beauté attendrissante (plutôt pour les personnes)
+- **ravissant.e** : une beauté qui m'attendrit
+- **charmant.e**
+- **attrayant** : qui nous attire par son côté agréable
+- **attirant.e** : plutôt pour les personnes (l'attirance physique)
+
+[Extrême]{.fw-bold}
+
+- **splendide** : d'une très grande beauté, une beauté impressionnante
+  (personne, chose)
+- **magnifique** : une beauté impressionnante, éblouissante
+- **envoûtant.e**
+
+[Présentations]{.fw-bold}
+
+- **contempler** : admirer quelque chose de beau
+- **rehausser le charme** : rendre « plus haut » le charme
+- **photogénique** : qui rend bien en photo
+
+:::
+
+::: {.column width="4%"}
+:::
+
+::: {.column width="48%" .bg-danger-subtle .rounded .p-3}
+
+### La mocheté 🧌 {.mt-0}
+
+[(comme Charleroi)]{.fst-italic}
+
+[Normal]{.fw-bold}
+
+- **moche**
+- **disgracieux**
+- **vilain** : une mocheté repoussante, contraire au beau
+  - un vilain (désuet, enfantin) : un méchant
+- **grotesque** : une mocheté qui touche au ridicule
+
+[Extrême]{.fw-bold}
+
+- **affreux // affreuse** : une mocheté qui provoque un dégoût
+- **horrible** : l'horreur, le dégoût ; 2/ terrible, tragique
+- **hideux** : provoque une réaction de dégoût
+
+[Présentations]{.fw-bold}
+
+- **jurer** : créer un contraste disgracieux
+  - _Le bâtiment Ikonik jure avec le reste du quartier._
+- la voie rapide (Pierre Mathis)
+
+:::
+
+:::
+
+Moche++ = [hideux]{.fw-bold}
+
+
+# Recommandations culturelles
+
+- [La France moche](https://x.com/lafrancemoche) — le compte X *@lafrancemoche*
+- Rone — *Bora vocal*
+- *Parler comme jamais* — un podcast sur la langue française
+- Paul Taylor — *FRENCH SLANG IS COMPLICATED* (#FRANGLAIS)
+

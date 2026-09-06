@@ -1,0 +1,176 @@
+---
+title: "Nice September Week 1 Lesson 4"
+date: "2026-09-03"
+categories: ["B2", "unite1", "af-nice"]
+reference-location: document # margin, block, section, document
+citation-location: document #margin
+margin-header: |
+  <a href="https://docs.google.com/document/d/1a5kLFhZxemUi71M84zsR8s8YJKR-lgkSOEqBgI6RJWk/edit?usp=sharing" target="_blank" style="font-size:0.85em;"><i class="bi bi-file-earmark-text"></i> Semaine 1 Google doc</a><br>
+  <a href="../../defi4/unite1-dossier1/index.qmd" style="font-size:0.85em;"><i class="bi bi-journal-bookmark"></i> Défi 4 &mdash; Unité 1, Dossier 1</a><br>
+
+image: "https://images.unsplash.com/photo-1729856934396-f6ab2e47a90e?q=80&w=640"
+
+---
+
+
+# Les expressions de la transformation
+
+[Ex. 6 p.6 (cahier d'exercices) — réutiliser les expressions de la
+transformation et du renouveau]{.fst-italic}
+
+- **donner quelque chose à** (un second souffle, un coup de jeune…)
+  - _Donner un second souffle **au** patrimoine historique._
+  - _Donner **au** centre-ville…_
+- **faire renaître de ses cendres** + COD
+  - _Je veux faire renaître de ses cendres le centre-ville déserté depuis trop
+    longtemps._
+  - _Il est donc urgent de faire renaître de ses cendres le centre-ville._
+
+
+# Les préfixes re- / ré- / ra-
+
+[Ex. 39 p.21]{.fst-italic}
+
+| [Le préfixe]{.d-block .p-2 .rounded .bg-primary-subtle} | [Le radical // la racine]{.d-block .p-2 .rounded .bg-secondary-subtle} | [Le suffixe]{.d-block .p-2 .rounded .bg-info-subtle} |
+|---|---|---|
+| [⇒ change la **signification** du mot]{.d-block .p-2 .rounded .bg-primary-subtle} | [&nbsp;]{.d-block .p-2 .rounded .bg-secondary-subtle} | [⇒ change la **nature** du mot]{.d-block .p-2 .rounded .bg-info-subtle} |
+| [&nbsp;]{.d-block .p-2 .rounded .bg-primary-subtle} | [jeune]{.d-block .p-2 .rounded .bg-secondary-subtle} | [la jeunesse]{.d-block .p-2 .rounded .bg-info-subtle} |
+| [impossible]{.d-block .p-2 .rounded .bg-primary-subtle} | [pouvoir]{.d-block .p-2 .rounded .bg-secondary-subtle} | [possible]{.d-block .p-2 .rounded .bg-info-subtle} |
+
+: La formation des mots {.hover}
+
+::: {.columns}
+
+::: {.column width="48%" .bg-info-subtle .rounded .p-3}
+
+### Répéter une action {.mt-0}
+
+- **réinventer** (généralement positif) : inventer à nouveau
+  - _Uber a réinventé le système de chauffeur._
+  - **se réinventer** : modifier sa vie, sa personnalité, son travail
+- **refaire** : faire à nouveau
+- **reprendre** : prendre à nouveau
+- **réaménager // réorganiser** : aménager de nouveau ; changer de disposition
+  - **aménager** // **déménager** // **emménager**
+  - _J'habite à Nice et je pars à Marseille : je déménage de Nice
+    (provenance) pour emménager à Marseille (arrivée)._
+  - _J'aménage ma chambre_ ⇒ je crée la disposition de ma chambre
+  - _Je déménage mes meubles_ ⇒ je retire les meubles de chez moi
+- **revitaliser** : redonner vie à quelque chose de mort
+- **qualifier** : donner la qualité // la définition de quelque chose
+  - _« Ce crime est qualifié comme homicide involontaire. »_
+- **requalifier** : modifier la qualification, la dénomination
+  - _« La peine de prison ferme a été requalifiée en prison avec sursis. »_
+  - _Le centre-ville est requalifié en centre historique._
+  - _Mon collège a été requalifié en Zone d'Éducation Prioritaire._
+  - _Le terrain doit être requalifié en terrain constructible._
+  - la requalification peut être un outil de l'amélioration, mais aussi une
+    simple répétition de la qualification
+- **rebaptiser** : baptiser de nouveau // nommer quelque chose de nouveau
+
+:::
+
+::: {.column width="4%"}
+:::
+
+::: {.column width="48%" .bg-warning-subtle .rounded .p-3}
+
+### Rendre plus {.mt-0}
+
+- **renforcer** = rendre plus fort
+- **redynamiser** = rendre plus dynamique
+- **ralentir** = rendre plus lent
+- **rafraîchir** = rendre plus frais ; rendre plus « actuel » ⇒ (ré)actualiser
+  - **rafraîchir la mémoire** : actualiser les souvenirs
+  - **rafraîchir les idées** : renouveler les idées
+  - **se rafraîchir les idées** : se calmer, descendre en pression
+- **rénover** = rendre plus neuf
+- **redorer** = rendre plus « doré » ; rendre les honneurs à quelque chose
+  - [(idiom.)]{.fst-italic} redorer l'image de // redorer le blason de
+- **revitaliser** = rendre plus vivant
+- **rajeunir** = rendre plus jeune
+
+:::
+
+:::
+
+
+# L'expression de la cause
+
+[Ex. 8, 9 p.7 — les connecteurs logiques (act. 16 p.19)]{.fst-italic}
+
+**a.** Charleroi est surnommé le Pays Noir…
+
+- … **du fait de** son passé minier.
+- … **à cause de** son passé minier. [(cause négative)]{.fst-italic}
+- … **en raison de** son passé minier.
+- … **dû à** son passé minier.
+- … **par rapport à** son passé minier.
+
+::: {.callout-tip appearance="simple"}
+**grâce à** // **à cause de** : le même rapport de cause, mais l'un positif et
+l'autre négatif.
+:::
+
+**b.** **En raison de** la présence de la plupart des institutions européennes,
+on dit que Bruxelles est la Capitale de l'Europe.
+
+**c.** Toulouse est appelée la Ville Rose **puisque** les bâtiments de cette
+ville sont construits avec des briques de cette teinte.
+
+**d.** **Vu que** Bordeaux est une ville dont le centre historique inspire la
+quiétude, certains la nomment la Belle Endormie.
+
+## Quelques connecteurs spécifiques
+
+- **grâce à** // **à cause de** ⇒ positif / négatif
+- **puisque** ⇒ cause évidente, logique
+- **faute de** + nom ⇒ absence, manque
+  - _Il a raté son examen **faute de** travail._
+  - _Il a raté son examen **puisqu'**il n'a pas assez travaillé._
+- **sous prétexte de** ⇒ cause mensongère
+  - _Le Président a augmenté les impôts **sous prétexte de** lutter contre le
+    réchauffement climatique._
+- **à force de** (+ infinitif // + nom) ⇒ cause + accumulation
+  - _**À force de** fumer, il a développé une toux affreuse._
+  - _**À force de** travail, elle a décroché la médaille d'or._
+- **d'autant plus que** ⇒ cause additionnelle
+  - _Il faut virer cet employé, **d'autant plus qu'**il arrive toujours en
+    retard._
+- **maintenant que** // **dès l'instant où** ⇒ cause + instantanéité
+  - _**Dès l'instant où** elle est entrée sur le terrain, nous savions que
+    c'était une championne._
+  - _**Maintenant que** nous avons ouvert un centre commercial, le quartier est
+    plus vivant._
+
+
+
+## Les mots de passe
+
+Ces petits mots ne portent presque pas de sens, mais structurent le discours
+oral.
+
+| [Mot de passe]{.d-block .p-2 .rounded .bg-secondary-subtle} | Fonction |
+|---|---|
+| [**Voilà**]{.d-block .p-2 .rounded .bg-secondary-subtle} | ⇒ la conclusion ; remplacer le discours<br>exprimer une raison pas claire ; quand les gens ne savent rien dire, ne veulent pas expliquer quelque chose ; pour terminer une discussion |
+| [**Ben ; bah**]{.d-block .p-2 .rounded .bg-secondary-subtle} | ⇒ en début de réponse : « évidemment » ; montre à l'autre qu'il est bête [(fam.)]{.fst-italic} // con [(vulg.)]{.fst-italic}<br>*ben* long ; *euh* ⇒ l'incertitude ⇒ remplir la réflexion, meubler le silence |
+| [**Mais bon**]{.d-block .p-2 .rounded .bg-secondary-subtle} | ⇒ contenir la joie // la tristesse ; apporter un contre-point |
+| [**Quand même**]{.d-block .p-2 .rounded .bg-secondary-subtle} | ⇒ mettre l'emphase ; donne un aspect plus « intéressant, intelligent » |
+| [**Bon ben**]{.d-block .p-2 .rounded .bg-secondary-subtle} | ⇒ remplir les silences // accepter quelque chose de peu désirable |
+| [**Quoi ; tu vois**]{.d-block .p-2 .rounded .bg-secondary-subtle} | ⇒ mettre de l'emphase ; attirer l'attention |
+| [**Donc ; alors**]{.d-block .p-2 .rounded .bg-secondary-subtle} | ⇒ structurer le discours // marquer une nouvelle étape du discours |
+| [**Mais non**]{.d-block .p-2 .rounded .bg-secondary-subtle} | ⇒ contester l'autre ; marquer la surprise |
+| [**Oh là là**]{.d-block .p-2 .rounded .bg-secondary-subtle} | ⇒ marquer une émotion |
+| [**Roooh**]{.d-block .p-2 .rounded .bg-secondary-subtle} | ⇒ marquer la désapprobation |
+
+: Les mots de passe {.hover tbl-colwidths="[22,78]"}
+
+
+# Recommandations culturelles
+
+- [J'irai dormir chez vous](https://www.rmcplus.fr/s-programme/j-irai-dormir-chez-vous)
+- [arte.tv](https://www.arte.tv/fr/)
+- Un spectacle : Sebastian Marx — *Un New-Yorkais à Paris*
+- Un reportage : *Nationalistes contre migrants : tensions aux frontières
+  britanniques* (ARTE)
+- Un film : *L'histoire de Souleymane* (ARTE)
