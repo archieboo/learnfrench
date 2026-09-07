@@ -1,0 +1,80 @@
+---
+title: "Nice September Week 2 Lesson 6"
+date: "2026-09-07"
+categories: ["B2", "unite1", "af-nice"]
+reference-location: document # margin, block, section, document
+citation-location: document #margin
+margin-header: |
+  <a href="https://docs.google.com/document/d/1a5kLFhZxemUi71M84zsR8s8YJKR-lgkSOEqBgI6RJWk/edit?usp=sharing" target="_blank" style="font-size:0.85em;"><i class="bi bi-file-earmark-text"></i> Semaine 1 Google doc</a><br>
+  <a href="../../defi4/unite1-dossier2/index.qmd" style="font-size:0.85em;"><i class="bi bi-journal-bookmark"></i> Défi 4 &mdash; Unité 1, Dossier 2</a><br>
+
+image: "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?q=80&w=640"
+
+---
+
+# Vocabulaire
+
+
+[👨‍🏫]{.fs-1}
+
+- **un chiot** ; **une chiotte** : un petit chien
+- **les chiottes** (fam.) : des toilettes
+- **la farniente** (fam., idiom. du sud) : l'activité de ne rien faire
+    - _Ce week-end, pour Valeria, c'était **farniente**._
+- **un pot-pourri de quelque chose** : un mélange de choses diverses [( 👉 avec un peu de tout )]{.fst-italic .text-secondary}
+    - _Un week-end de **pot-pourri**. // un **pot-pourri** d'activités // J'ai décoré ma chambre avec un **pot-pourri** de posters._
+- **un pot pourri** : un mélange de feuilles et de fleurs qu'on laisse reposer pour l'odeur
+- **bluffer** : deux sens
+    - (1) impressionner, époustoufler
+        - **être bluffé par quelque chose** : être impressionné, époustouflé [( 👉 recevoir un choc positif face à quelque chose de superbe )]{.fst-italic .text-secondary}
+        - **bluffant** (adj.) : impressionnant
+        - _L'attaquant a marqué 5 buts en un match, une performance **bluffante**._
+    - (2) mentir de manière à prendre un avantage sur l'autre
+        - _Au poker, il faut savoir **bluffer**._
+
+
+
+::: {.callout-tip .shadow}
+### Les ambiguïtés du français
+
+[Les enfants]{.fw-bold}
+
+J'ai montré son premier film d'horreur...
+
+- ... à ma [petite fille]{.underline} [( 👉 ma fille, qui est petite )]{.fst-italic .text-secondary}
+- ... à ma [grande fille]{.underline} [( 👉 ma fille, qui est grande )]{.fst-italic .text-secondary}
+- ... à ma [petite-fille]{.underline} [( 👉 je suis son grand-père )]{.fst-italic .text-secondary}
+
+Nos enfants sont grands maintenant...
+
+- nos [petits enfants]{.underline} [( 👉 dit par les parents )]{.fst-italic .text-secondary}
+- nos [petits-enfants]{.underline} [( 👉 dit par les grands-parents )]{.fst-italic .text-secondary}
+
+Le rang dans la fratrie
+
+- ma fille cadette / mon fils cadet [( 👉 plus jeune que l'aîné(e) )]{.fst-italic .text-secondary}
+- ma fille benjamine / mon fils benjamin [( 👉 le/la plus jeune )]{.fst-italic .text-secondary}
+
+[La belle-famille]{.fw-bold}
+
+Ma belle-mère / mon beau-père
+
+- [( 👉 la mère de mon copain ; le père de mon copain )]{.fst-italic .text-secondary}
+- [( 👉 la femme de mon père ; le mari de ma mère )]{.fst-italic .text-secondary}
+
+[Le couple]{.fw-bold}
+
+On est allé à Venise et Vérone avec ma sœur et ma copine.
+
+- mon petit ami / ma petite amie ; mon copain / ma copine [( 👉 termes moins sérieux )]{.fst-italic .text-secondary}
+- mon conjoint / ma conjointe ; mon compagnon / ma compagne ; mon partenaire / ma partenaire [( 👉 relation sérieuse )]{.fst-italic .text-secondary}
+- mon chéri / ma chérie [( 👉 informel, affectueux )]{.fst-italic .text-secondary}
+- mon amie [( 👉 ambigu : une simple amie ? ma compagne ? )]{.fst-italic .text-secondary}
+:::
+
+
+# Recommandations culturelles
+
+- [Alain Damasio : science-fiction, philosophie, politique &mdash; ses conseils lecture (Konbini)](https://www.youtube.com/watch?v=KzpPsaF7X7Y)
+- [La Horde du contrevent (bd)](https://www.editions-delcourt.fr/bd/series/serie-la-horde-du-contrevent)
+- [Carbone & Silicium &mdash; Mathieu Bablet](https://www.ankama-shop.com/fr/label-619/2754-mathieu-bablet-carbone-silicium.html)
