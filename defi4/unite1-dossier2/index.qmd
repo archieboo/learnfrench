@@ -12,116 +12,213 @@ image: "https://images.unsplash.com/photo-1556983852-43bf21186b2a?q=80&w=640"
 
 ![](https://images.unsplash.com/photo-1619697101606-7c092a8e6281?q=80&w=640){.column-margin}
 
-_Selon l'ONU, 66% de la population mondiale vivra en zones urbaines [d'ici 2050]{.mark} (2% au début du $XIX^e$ siècle, 30% en 1950, 54% en 2015). L'exode rural, qui coïncide toujours avec le développement industriel, atteint des niveaux très élevés en Inde, en Chine et au Nigeria. La grande variété de tailles et de niveaux de développement, [ajoutée aux]{.mark} différences de politiques publiques et de comportements[^1a1] sociétaux, [exclut qu]{.markpurple}'il y [ait]{.markpurple} un seul type de ville du futur. Cependant, [malgré les différences]{.mark}, [il est possible de]{.mark} dégager[^1a2] quatre grandes tendances dans l'évolution des villes._
+_Selon l'[ONU]{.underline}[^1a1], 66% de la population mondiale vivra en zones urbaines [d'ici 2050]{.mark} (2% au début du $XIX^e$ siècle, 30% en 1950, 54% en 2015). L'[exode rural]{.underline}[^1a2], qui [coïncide]{.underline}[^1a3] toujours avec le développement industriel, atteint des niveaux très élevés en Inde, en Chine et au Nigeria. La grande variété de tailles et de niveaux de développement, [ajoutée aux]{.mark} différences de politiques publiques et de [comportements]{.underline}[^1a4] sociétaux, [exclut qu]{.markpurple}'il y [ait]{.markpurple} un seul type de ville du futur. Cependant, [malgré les différences]{.mark}, [il est possible de]{.mark} [dégager]{.underline}[^1a5] quatre grandes tendances dans l'évolution des villes._
 
-[^1a1]: comportement = behavior
-[^1a2]: dégager = to identify, to highlight
+[^1a1]: l'ONU (n.f.) : l'Organisation des Nations unies ( [the UN]{.fst-italic} ). Se prononce *o-en-u*.
+[^1a2]: l'exode rural (n.m.) : le départ massif des habitants des campagnes vers les villes ( [rural exodus]{.fst-italic} ). *Un exode* = un départ en masse.
+[^1a3]: coïncider avec (v.) : se produire en même temps que ( [to coincide with]{.fst-italic} ). Le tréma sépare les voyelles : on prononce *co-in-ci-der*.
+[^1a4]: un comportement (n.m.) : la manière d'agir, de se conduire ( [a behavior]{.fst-italic} ). Ici, *comportements sociétaux* = les façons de vivre d'une société. Verbe : *se comporter*.
+[^1a5]: dégager (v.) : ici, faire apparaître, mettre en évidence ( [to identify, to bring out]{.fst-italic} ). Sens propre : libérer un espace encombré.
 
 
 ::: {.text-white .rounded .ps-4 .d-flex .align-items-center style="background-color: #036564; height: 30px; width: 50%; line-height: 1; padding-top: 12px;"}
 [**Les écoquartiers**]{style="margin-bottom:0; line-height:1; font-size:1em;"}
 :::
 
-Immeubles au bilan[^2a1] énergétique positif, écoquartiers, métropoles vertes: les territoires, à différentes échelles[^2a2], prennent de plus en plus d'importance. Leur ambition [est de se rapprocher]{.mark} des principes du développement durable. Ils [aspirent, en particulier, à produire]{.mark} eux-mêmes leur énergie renouvelable et à l'autoconsommer[^2a3] sur place pour chauffer l'habitat, alimenter[^2a4] les équipements électriques, et assurer la mobilité et soutenir[^2a5] une industrie de proximité. 
+Immeubles au [bilan]{.underline}[^2a1] énergétique positif, [écoquartiers]{.underline}[^2a2], métropoles vertes: les territoires, [à différentes échelles]{.text-orange}[^2a3], prennent de plus en plus d'importance. Leur ambition [est de se rapprocher]{.mark} des principes du [développement durable]{.underline}[^2a4]. Ils [aspirent, en particulier, à produire]{.mark}[^2a5] eux-mêmes leur énergie renouvelable et à l'[autoconsommer]{.underline}[^2a6] sur place pour chauffer l'[habitat]{.underline}[^2a7], [alimenter]{.underline}[^2a8] les équipements électriques, et assurer la mobilité et [soutenir]{.underline}[^2a9] une [industrie de proximité]{.underline}[^2a10].
 
-[^2a1]: bilan = balance sheet, assessment
-[^2a2]: at different scales
-[^2a3]: autoconsommer sur place: to self-consume on site
-[^2a4]: to power, to supply
-[^2a5]: to support
+[^2a1]: un bilan (n.m.) : le résultat chiffré d'un compte, ce qu'on obtient une fois tout additionné ( [a balance sheet, an assessment]{.fst-italic} ). *Un bilan énergétique positif* = le bâtiment produit plus d'énergie qu'il n'en consomme.
+[^2a2]: un écoquartier (n.m.) : quartier conçu selon les principes du développement durable ( [an eco-district, a sustainable neighborhood]{.fst-italic} ). Préfixe *éco-* comme dans *écologie*.
+[^2a3]: à différentes échelles (loc.) : à des niveaux de taille différents, du bâtiment à la région ( [at different scales]{.fst-italic} ). *Une échelle* = aussi l'objet pour monter ( [a ladder]{.fst-italic} ).
+[^2a4]: le développement durable (n.m.) : développement qui répond aux besoins actuels sans compromettre ceux des générations futures ( [sustainable development]{.fst-italic} ). ⚠️ *durable* = qui dure, qui tient dans le temps.
+[^2a5]: aspirer à (v., soutenu) : désirer fortement, viser ( [to aspire to]{.fst-italic} ). Se construit avec *à* + nom ou infinitif. Nom : *une aspiration*.
+[^2a6]: autoconsommer (v.) : consommer soi-même ce qu'on a produit ( [to self-consume]{.fst-italic} ). *Sur place* = là où c'est produit, sans transport.
+[^2a7]: l'habitat (n.m.) : l'ensemble des logements ( [housing]{.fst-italic} ). ⚠️ Ne pas confondre avec *un habitant* = la personne qui y vit.
+[^2a8]: alimenter (v.) : ici, fournir en énergie ( [to power, to supply]{.fst-italic} ). Sens propre : donner à manger.
+[^2a9]: soutenir (v.) : ici, aider à se maintenir et à se développer ( [to support, to sustain]{.fst-italic} ). Nom : *un soutien*.
+[^2a10]: une industrie de proximité (n.f.) : une industrie implantée tout près des habitants qu'elle sert ( [local industry]{.fst-italic} ). *De proximité* s'emploie beaucoup : *commerce de proximité*, *police de proximité*.
 
 
 ::: {.text-white .rounded .ps-4 .d-flex .align-items-center style="background-color: #036564; height: 30px; width: 50%; line-height: 1; padding-top: 12px;"}
 [**Le big data urbain**]{style="margin-bottom:0; line-height:1; font-size:1em;"}
 :::
 
-Les données numériques sont aujourd'hui partout dans la gestion urbaine. On les utilise notamment pour maîtriser[^3a1] les dépenses énergétiques des immeubles, car elles [permettent d'avoir]{.mark} une meilleure connaissance de la consommation des foyers[^3a2]. Les données collectées par des capteurs et systèmes de géolocalisation permettent aussi de mieux gérer les flux[^3a3] de circulation. [De plus]{.mark}, les enregistrements[^3a4] vidéo ont été multipliés pour garantir une meilleure sécurité en ville. Les services publics et l'administration des citoyens se numérisent[^3a5] à tous les niveaux. Ce big data impose de nouvelles régulations pour assurer [à la fois]{.mark} une gestion efficace et la liberté individuelle des citoyens.
+Les [données numériques]{.underline}[^3a1] sont aujourd'hui partout dans la gestion urbaine. On les utilise [notamment]{.underline}[^3a2] pour [maîtriser]{.underline}[^3a3] les [dépenses]{.underline}[^3a4] énergétiques des immeubles, car elles [permettent d'avoir]{.mark} une meilleure connaissance de la consommation des [foyers]{.underline}[^3a5]. Les données collectées par des [capteurs]{.underline}[^3a6] et systèmes de géolocalisation permettent aussi de mieux gérer les [flux]{.underline}[^3a7] de circulation. [De plus]{.mark}, les [enregistrements]{.underline}[^3a8] vidéo ont été [multipliés]{.underline}[^3a9] pour [garantir]{.underline}[^3a10] une meilleure sécurité en ville. Les services publics et l'administration des citoyens [se numérisent]{.underline}[^3a11] à tous les niveaux. Ce big data [impose]{.underline}[^3a12] de nouvelles [régulations]{.underline}[^3a13] pour assurer [à la fois]{.mark} une gestion efficace et la liberté individuelle des citoyens.
 
-[^3a1]: maîtriser = to control
-[^3a2]: households
-[^3a3]: traffic flows
-[^3a4]: enregistrements = recordings
-[^3a5]: se numériser = to go digital
+[^3a1]: les données (n.f.pl.) : les informations brutes que l'on recueille ( [data]{.fst-italic} ). *Numérique* (adj.) = qui relève de l'informatique ( [digital]{.fst-italic} ) ; *le numérique* (n.m.) = le secteur informatique.
+[^3a2]: notamment (adv.) : en particulier, entre autres ( [notably, in particular]{.fst-italic} ). Sert à donner un exemple représentatif sans être exhaustif.
+[^3a3]: maîtriser (v.) : garder sous contrôle, limiter ( [to control, to keep in check]{.fst-italic} ). Aussi : *maîtriser une langue* = la posséder parfaitement.
+[^3a4]: une dépense (n.f.) : ce qu'on consomme ou ce qu'on paye ( [an expense, consumption]{.fst-italic} ). Verbe : *dépenser*.
+[^3a5]: un foyer (n.m.) : ici, un ménage, l'ensemble des personnes vivant dans un même logement ( [a household]{.fst-italic} ). Sens propre : l'âtre, le feu de la maison.
+[^3a6]: un capteur (n.m.) : appareil qui mesure et transmet une information ( [a sensor]{.fst-italic} ). Verbe : *capter* = recueillir, saisir.
+[^3a7]: un flux (n.m.) : un écoulement continu ; ici, la circulation des véhicules ( [a flow]{.fst-italic} ). Le *x* final ne se prononce pas ; invariable au pluriel.
+[^3a8]: un enregistrement (n.m.) : ce qui a été capté et conservé sur un support ( [a recording]{.fst-italic} ). Verbe : *enregistrer*.
+[^3a9]: multiplier (v.) : ici, augmenter fortement en nombre ( [to increase sharply, to step up]{.fst-italic} ). *Ont été multipliés* = passif : on en a installé beaucoup plus.
+[^3a10]: garantir (v.) : assurer, rendre certain ( [to guarantee, to ensure]{.fst-italic} ). Nom : *une garantie*.
+[^3a11]: se numériser (v.) : passer au format et aux outils informatiques ( [to go digital]{.fst-italic} ). Nom : *la numérisation*.
+[^3a12]: imposer (v.) : rendre obligatoire ( [to require, to impose]{.fst-italic} ). ⚠️ *imposer qqch à qqn*, mais ici *imposer de* + nom = rendre nécessaire.
+[^3a13]: une régulation (n.f.) : un ensemble de règles pour encadrer une activité ( [regulation]{.fst-italic} ). Verbe : *réguler*.
 
 
 ::: {.text-white .rounded .ps-4 .d-flex .align-items-center style="background-color: #036564; height: 30px; width: 50%; line-height: 1; padding-top: 12px;"}
 [**Les espaces de vie**]{style="margin-bottom:0; line-height:1; font-size:1em;"}
 :::
 
-Après des années d'aspiration à la maison individuelle, la densification des villes est recommandée par de nombreux urbanistes pour éviter un étalement[^4a1] qui menace[^4a2] les zones rurales et les espaces naturels. Cette approche de l'urbanisation [a également pour objectif de]{.mark}[^4a3] rapprocher le lieu de travail du domicile. [Par ailleurs]{.mark}, la réintroduction des végétaux sur les friches[^4a4] industrielles ou autour des immeubles ("les coulées vertes") permet d'augmenter la capacité des zones urbaines à capter $CO_2$ et de réduire la chaleur urbaine. 
+Après des années d'[aspiration]{.underline}[^4a1] à la maison individuelle, la [densification]{.underline}[^4a2] des villes est recommandée par de nombreux [urbanistes]{.underline}[^4a3] pour éviter un [étalement]{.underline}[^4a4] qui [menace]{.underline}[^4a5] les zones rurales et les espaces naturels. Cette approche de l'urbanisation [a également pour objectif de]{.mark}[^4a6] [rapprocher]{.underline}[^4a7] le lieu de travail du [domicile]{.underline}[^4a8]. [Par ailleurs]{.mark}, la [réintroduction]{.underline}[^4a9] des [végétaux]{.underline}[^4a10] sur les [friches]{.underline}[^4a11] industrielles ou autour des immeubles ("les [coulées vertes]{.underline}[^4a12]") permet d'augmenter la capacité des zones urbaines à [capter]{.underline}[^4a13] $CO_2$ et de réduire la [chaleur urbaine]{.underline}[^4a14].
 
-[^4a1]: étalement = sprawl, étaler = to sprawl
-[^4a2]: menacer = to threaten
-[^4a3]: avoir pour objectif de = to have as an objective
-[^4a4]: friches = wasteland
+[^4a1]: une aspiration (n.f.) : ici, un désir profond, ce à quoi on aspire ( [an aspiration, a longing]{.fst-italic} ). Verbe : *aspirer à*. Voir aussi *aspirer* = respirer, aspirer la poussière.
+[^4a2]: la densification (n.f.) : le fait de faire tenir plus d'habitants sur la même surface ( [densification]{.fst-italic} ). Adjectif : *dense* ; nom : *la densité*.
+[^4a3]: un(e) urbaniste (n.) : spécialiste de l'aménagement des villes ( [an urban planner]{.fst-italic} ). Discipline : *l'urbanisme*.
+[^4a4]: l'étalement (n.m.) : le fait de s'étendre en surface ; ici, *l'étalement urbain* ( [urban sprawl]{.fst-italic} ). Verbe : *s'étaler*.
+[^4a5]: menacer (v.) : faire peser un danger sur ( [to threaten]{.fst-italic} ). Nom : *une menace*, très présent dans le texte suivant.
+[^4a6]: avoir pour objectif de (loc.) : viser à, chercher à ( [to aim to, to have as a goal]{.fst-italic} ). Variantes : *avoir pour but de*, *avoir pour ambition de*.
+[^4a7]: rapprocher A de B (v.) : mettre A plus près de B ( [to bring A closer to B]{.fst-italic} ). Forme pronominale : *se rapprocher de*, employée plus haut dans le texte.
+[^4a8]: le domicile (n.m.) : le lieu où l'on habite officiellement ( [home, place of residence]{.fst-italic} ). Registre administratif ; *à domicile* = chez soi.
+[^4a9]: la réintroduction (n.f.) : le fait de faire revenir ce qui avait disparu ( [reintroduction]{.fst-italic} ). Préfixe *ré-* = de nouveau.
+[^4a10]: les végétaux (n.m.pl.) : les plantes en général ( [plants, vegetation]{.fst-italic} ). ⚠️ Singulier irrégulier : *un végétal* → *des végétaux*.
+[^4a11]: une friche (n.f.) : terrain laissé à l'abandon ( [a wasteland, a brownfield]{.fst-italic} ). *Une friche industrielle* = une ancienne usine abandonnée ; *en friche* = à l'abandon.
+[^4a12]: une coulée verte (n.f.) : une longue bande de végétation qui traverse la ville ( [a greenway]{.fst-italic} ). Image de quelque chose qui *coule*, comme une rivière de verdure.
+[^4a13]: capter (v.) : ici, retenir, absorber ( [to capture, to absorb]{.fst-italic} ). Même famille que *un capteur*, vu plus haut.
+[^4a14]: la chaleur urbaine (n.f.) : la surchauffe des villes par rapport aux campagnes ( [urban heat]{.fst-italic} ). On dit aussi *un îlot de chaleur urbain* ( [urban heat island]{.fst-italic} ).
 
 
 ::: {.text-white .rounded .ps-4 .d-flex .align-items-center style="background-color: #036564; height: 30px; width: 50%; line-height: 1; padding-top: 12px;"}
 [**La mobilité**]{style="margin-bottom:0; line-height:1; font-size:1em;"}
 :::
 
-L'accroissement[^5a1] de la population urbaine demande une meilleure gestion des déplacements. De la notion de "transports urbains", on [est passé au concept de]{.mark}[^5a2] "mobilité" qui indique la diversification des moyens de déplacement, la nécessité de les connecter, et la variété des usages. Les moyens de déplacement se multiplient: tramways automatiques, téléphériques, véhicules autonomes, vélos, trottinettes ou hoverboards. Les usages se diversifient: autopartage, covoiturage, location en libre-service de voitures ou vélos, transport à la demande avec réservation par applications mobiles, etc.
+L'[accroissement]{.underline}[^5a1] de la population urbaine demande une meilleure gestion des [déplacements]{.underline}[^5a2]. De la [notion]{.underline}[^5a3] de "transports urbains", on [est passé au concept de]{.mark}[^5a4] "mobilité" qui indique la [diversification]{.underline}[^5a5] des moyens de déplacement, la nécessité de les connecter, et la variété des [usages]{.underline}[^5a6]. Les moyens de déplacement se multiplient: tramways automatiques, [téléphériques]{.underline}[^5a7], véhicules autonomes, vélos, [trottinettes]{.underline}[^5a8] ou hoverboards. Les usages se diversifient: [autopartage]{.underline}[^5a9], [covoiturage]{.underline}[^5a10], [location en libre-service]{.underline}[^5a11] de voitures ou vélos, [transport à la demande]{.underline}[^5a12] avec réservation par applications mobiles, etc.
 
-[^5a1]: accroissement = increase
-[^5a2]: passer au concept de = to move to the concept of
+[^5a1]: l'accroissement (n.m., soutenu) : l'augmentation ( [growth, increase]{.fst-italic} ). Verbe : *s'accroître*. Registre plus soutenu que *l'augmentation*.
+[^5a2]: un déplacement (n.m.) : le fait d'aller d'un point à un autre ( [a trip, travel, movement]{.fst-italic} ). Verbe : *se déplacer*.
+[^5a3]: une notion (n.f.) : une idée, une catégorie de pensée ( [a notion, a concept]{.fst-italic} ). Ici opposée à *concept*, plus élaboré et plus large.
+[^5a4]: passer de … au concept de (loc.) : abandonner une idée pour une autre, plus juste ( [to move from … to the concept of]{.fst-italic} ). Structure très utile pour décrire une évolution.
+[^5a5]: la diversification (n.f.) : le fait de devenir plus varié ( [diversification]{.fst-italic} ). Verbe : *se diversifier*, employé à la fin du paragraphe.
+[^5a6]: un usage (n.m.) : ici, une manière d'utiliser quelque chose ( [a use, a usage practice]{.fst-italic} ). L'utilisateur d'un service public s'appelle *un usager*, mot repris dans le texte suivant.
+[^5a7]: un téléphérique (n.m.) : cabine suspendue à un câble ( [a cable car]{.fst-italic} ). De plus en plus utilisé comme transport urbain en ville escarpée.
+[^5a8]: une trottinette (n.f.) : petit engin à deux roues avec guidon, sur lequel on est debout ( [a scooter]{.fst-italic} ). *Une trottinette électrique* = e-scooter.
+[^5a9]: l'autopartage (n.m.) : service de voitures partagées qu'on loue à l'heure ( [car sharing]{.fst-italic} ).
+[^5a10]: le covoiturage (n.m.) : partager sa voiture et ses frais avec d'autres passagers pour un même trajet ( [carpooling, ridesharing]{.fst-italic} ). Préfixe *co-* = ensemble.
+[^5a11]: en libre-service (loc.) : que l'on prend et rend soi-même, sans employé ( [self-service]{.fst-italic} ). ⚠️ À distinguer de *l'autopartage* : ici on paie une location.
+[^5a12]: le transport à la demande (n.m.) : transport déclenché par la réservation du client, sans horaire fixe ( [on-demand transport]{.fst-italic} ). *À la demande* s'emploie aussi pour la télévision.
 
 
 <br>
 
 --------------------------------------------------------
 
-# TEXTE: Quelles transformations la ville intelligente engendrera-t-elle[^aa]?
+# TEXTE: Quelles transformations la ville intelligente engendrera-t-elle[^6a1]?
 
 ![](https://images.unsplash.com/photo-1525838808082-a422ecbce2ff?q=80&w=640){.column-margin}
 
 ::: {.rounded .ps-2 .d-flex .align-items-center style="height: 70px; line-height: 1.3; padding-top: 12px; border-color: #033649; border-width: 1px; border-style: dashed;"}
-_[Intervenante:]{.text-info}_ _Alice Beaufort, enseignante-chercheuse_  
-_23 mars 2020 $III^e$ colloque[^6a1] international sur les villes connectées_
+_[Intervenante:]{.text-info}_ _Alice Beaufort, enseignante-chercheuse[^6a2]_  
+_23 mars 2020 $III^e$ colloque[^6a3] international sur les villes connectées_
 :::
 
-Cette communication propose d'analyser les attraits des villes intelligentes pour les autorités publiques ainsi que[^6a2] les menaces qui en découlent[^6a3]. Ensuite, je terminerai en montrant les impacts que peut avoir l'exploitation des données numériques sur les citoyens et la démocratie.
+[^6a1]: engendrer (v., soutenu) : produire, avoir pour conséquence ( [to generate, to bring about]{.fst-italic} ). Sens propre : donner naissance à.
+[^6a2]: un(e) enseignant(e)-chercheur/euse (n.) : universitaire qui à la fois enseigne et fait de la recherche ( [an academic, a lecturer-researcher]{.fst-italic} ). L'*intervenant(e)* est la personne qui prend la parole ; verbe *intervenir*.
+[^6a3]: un colloque (n.m.) : réunion de spécialistes qui présentent leurs travaux ( [a conference, a symposium]{.fst-italic} ). Voisins : *un congrès*, *un séminaire*.
 
-Intelligence technique, systémique, politique et culturelle... Il y a [tellement de]{.markteal} conceptions de _smart cities_ [que]{.markteal} j'ai [centré mon étude sur]{.mark} les villes qui collectent et traitent des données numériques pour optimiser leur fonctionnement. Dans ces villes, les autorités publiques travaillent notamment à fluidifier[^ab] la mobilité urbaine, optimiser la consommation énergétique et améliorer la gestion de l'eau et des déchets[^6a4]. Malgré leurs enjeux[^6a5] communs, les objectifs visés[^6a6] par une ville comme Bangkok sont assez éloignés[^6a7] de [ceux]{.markorange} d'Amsterdam. C'est pourquoi aucune ville intelligente ne se ressemble vraiment. [Néanmoins]{.mark}, [elles]{.markpurple} partagent [toutes]{.markpurple} un objectif ambitieux: vivre de [mieux en mieux]{.mark} ensemble. À Singapour, l'analyse de big data a permis, entre autres, l'amélioration de la sécurité. 
+Cette [communication]{.underline}[^6a4] propose d'analyser les [attraits]{.underline}[^6a5] des villes intelligentes pour les autorités publiques [ainsi que]{.text-orange}[^6a6] les menaces qui en [découlent]{.underline}[^6a7]. Ensuite, je terminerai en montrant les impacts que peut avoir l'[exploitation]{.underline}[^6a8] des données numériques sur les citoyens et la démocratie.
 
-[^aa]: engendrer = to generate, to bring about
-[^6a1]: conference
-[^6a2]: ainsi que = as well as
-[^6a3]: découler = to result from, to arise from
-[^6a4]: déchets = waste
-[^6a5]: enjeux = stakes, issues
-[^6a6]: visé = targeted, aimed at; viser = to target, to aim at
-[^6a7]: éloigné = far from, distant from; éloigner = to distance, to move away from
-[^ab]: fluidifier = to make more fluid, to smooth
+[^6a4]: une communication (n.f.) : ici, l'exposé qu'un chercheur présente dans un colloque ( [a paper, a talk]{.fst-italic} ). ⚠️ Faux ami partiel : ce n'est pas *la communication* au sens général.
+[^6a5]: un attrait (n.m.) : ce qui attire, le côté séduisant d'une chose ( [an appeal, an attraction]{.fst-italic} ). Verbe : *attirer* ; adjectif : *attrayant*.
+[^6a6]: ainsi que (loc.) : et aussi, de même que ( [as well as]{.fst-italic} ). Registre soutenu, très utile à l'écrit pour éviter de répéter *et*.
+[^6a7]: découler de (v.) : être la conséquence naturelle de ( [to follow from, to stem from]{.fst-italic} ). Image de l'eau qui coule ; ici *qui en découlent* = qui résultent de ces villes.
+[^6a8]: l'exploitation (n.f.) : ici, le fait de tirer profit d'une ressource ( [use, exploitation]{.fst-italic} ). Neutre en français quand il s'agit de données ; négatif quand il s'agit de personnes.
 
-Les mérites des villes intelligentes sont indéniables [de sorte que]{.mark} certains élus[^7a1] les considèrent comme le remède à tous les maux. Par exemple, la proposition d'aménagement[^7a2] du quartier en friche de Quaiside à Toronto (par Sidewalk Labs, filiale de Google) présente des innovations audacieuses: rues chauffantes, Abribus capables de se déployer automatiquement en cas d'intempéries[^7a3], couloirs[^7a4] réservés aux différents modes de transport pouvant changer en fonction du trafic... Les avantages sont nombreux, [au point qu]{.mark}[^7a4b]'on pourrait oublier que des dangers existent. L'usage abusif du big data [conduit à]{.mark} une surveillance de masse des citoyens, [si bien qu]{.mark}[^7a5]'on peut légitimement se demander: qui gouvernera la ville de demain? [De ce fait]{.mark}[^7a6], j'exposerai les menaces que représente l'exploitation des données numériques par une entreprise privée, car cette mainmise[^7a7] pourrait amener cette entreprise à devenir "propriétaire" de la ville. 
+Intelligence technique, systémique, politique et culturelle... Il y a [tellement de]{.markteal} [conceptions]{.underline}[^6a9] de _smart cities_ [que]{.markteal} j'ai [centré mon étude sur]{.mark}[^6a10] les villes qui collectent et [traitent]{.underline}[^6a11] des données numériques pour [optimiser]{.underline}[^6a12] leur [fonctionnement]{.underline}[^6a13]. Dans ces villes, les autorités publiques travaillent notamment à [fluidifier]{.underline}[^6a14] la mobilité urbaine, optimiser la consommation énergétique et améliorer la gestion de l'eau et des [déchets]{.underline}[^6a15]. Malgré leurs [enjeux]{.underline}[^6a16] communs, les objectifs [visés]{.underline}[^6a17] par une ville comme Bangkok sont assez [éloignés]{.underline}[^6a18] de [ceux]{.markorange} d'Amsterdam. C'est pourquoi aucune ville intelligente ne [se ressemble]{.underline}[^6a19] vraiment. [Néanmoins]{.mark}[^6a20], [elles]{.markpurple} partagent [toutes]{.markpurple} un objectif [ambitieux]{.underline}[^6a21]: vivre de [mieux en mieux]{.mark} ensemble. À Singapour, l'analyse de big data a permis, [entre autres]{.text-orange}[^6a22], l'amélioration de la sécurité.
 
-[^7a1]: élus = elected officials
-[^7a2]: aménagement = development, planning
-[^7a3]: l'intempérie (n.f.) = bad weather
-[^7a4]: couloir (n.m.) = lane
-[^7a4b]: au point que = to the point that; use it to express a consequence
-[^7a5]: si bien que = so much so that; use it to express a consequence
-[^7a6]: de ce fait = as a result; use it to express a consequence
-[^7a7]: mainmise (n.f.) = control, grip
+[^6a9]: une conception (n.f.) : ici, une façon de concevoir, de comprendre une chose ( [a conception, an understanding]{.fst-italic} ). Verbe : *concevoir*.
+[^6a10]: centrer son étude sur (loc.) : limiter volontairement sa recherche à un objet précis ( [to focus one's study on]{.fst-italic} ). Utile pour délimiter un sujet à l'oral d'examen.
+[^6a11]: traiter (v.) : ici, faire subir une opération à des données pour en tirer quelque chose ( [to process]{.fst-italic} ). *Le traitement des données* = data processing.
+[^6a12]: optimiser (v.) : rendre aussi efficace que possible ( [to optimize]{.fst-italic} ). Nom : *l'optimisation*.
+[^6a13]: le fonctionnement (n.m.) : la manière dont une chose marche ( [the workings, the operation]{.fst-italic} ). Verbe : *fonctionner*.
+[^6a14]: fluidifier (v.) : rendre plus fluide, plus régulier ( [to smooth, to ease]{.fst-italic} ). *Fluidifier le trafic* = éviter les embouteillages.
+[^6a15]: les déchets (n.m.pl.) : ce qu'on jette, les ordures ( [waste, rubbish]{.fst-italic} ). *La gestion des déchets* = waste management.
+[^6a16]: un enjeu (n.m.) : ce qui est en jeu, ce qu'on peut gagner ou perdre ( [a stake, a key issue]{.fst-italic} ). Pluriel en *-x*. Repris plus loin par *ce qui se jouait*.
+[^6a17]: visé(e) (adj.) : que l'on cherche à atteindre ( [targeted, intended]{.fst-italic} ). Verbe : *viser* = avoir pour but, repris à la fin du texte (*viser à*, *viser un intérêt général*).
+[^6a18]: éloigné(e) (adj.) : distant, très différent ( [far removed, distant]{.fst-italic} ). Verbe : *éloigner* ; contraire : *proche*, *rapprocher*.
+[^6a19]: se ressembler (v.) : être semblables l'un à l'autre ( [to look alike]{.fst-italic} ). ⚠️ Toujours pronominal réciproque ici : *aucune ne se ressemble* = elles sont toutes différentes.
+[^6a20]: néanmoins (adv., soutenu) : pourtant, malgré cela ( [nevertheless]{.fst-italic} ). Voisins : *cependant*, *toutefois*, employé plus loin dans le roman.
+[^6a21]: ambitieux(se) (adj.) : qui vise haut ( [ambitious]{.fst-italic} ). Nom : *une ambition*.
+[^6a22]: entre autres (loc.) : parmi d'autres choses ( [among other things]{.fst-italic} ). ⚠️ Toujours au pluriel : *entre autres*, jamais *entre autre*.
+
+Les [mérites]{.underline}[^7a1] des villes intelligentes sont [indéniables]{.underline}[^7a2] [de sorte que]{.mark}[^7a3] certains [élus]{.underline}[^7a4] les considèrent comme [le remède à tous les maux]{.text-orange}[^7a5]. Par exemple, la proposition d'[aménagement]{.underline}[^7a6] du quartier [en friche]{.text-orange}[^7a7] de Quaiside à Toronto (par Sidewalk Labs, [filiale]{.underline}[^7a8] de Google) présente des innovations [audacieuses]{.underline}[^7a9]: rues [chauffantes]{.underline}[^7a10], [Abribus]{.underline}[^7a11] capables de [se déployer]{.underline}[^7a12] automatiquement en cas d'[intempéries]{.underline}[^7a13], [couloirs]{.underline}[^7a14] réservés aux différents modes de transport pouvant changer [en fonction du]{.text-orange}[^7a15] trafic... Les avantages sont nombreux, [au point qu]{.mark}[^7a16]'on pourrait oublier que des dangers existent. L'usage [abusif]{.underline}[^7a17] du big data [conduit à]{.mark} une [surveillance de masse]{.underline}[^7a18] des citoyens, [si bien qu]{.mark}[^7a19]'on peut [légitimement]{.underline}[^7a20] se demander: qui gouvernera la ville de demain? [De ce fait]{.mark}[^7a21], j'[exposerai]{.underline}[^7a22] les menaces que représente l'exploitation des données numériques par une entreprise privée, car cette [mainmise]{.underline}[^7a23] pourrait [amener]{.underline}[^7a24] cette entreprise à devenir "propriétaire" de la ville.
+
+[^7a1]: un mérite (n.m.) : une qualité, un point fort qu'on peut porter au crédit de quelque chose ( [a merit, a strength]{.fst-italic} ).
+[^7a2]: indéniable (adj.) : qu'on ne peut pas nier ( [undeniable]{.fst-italic} ). Verbe : *nier* ; voisins : *incontestable*, *évident*.
+[^7a3]: de sorte que + indicatif (loc.) : sert à exprimer une conséquence ( [so that, with the result that]{.fst-italic} ). ⚠️ Avec le subjonctif, *de sorte que* exprime le but, pas la conséquence.
+[^7a4]: un(e) élu(e) (n.) : une personne élue à une fonction politique ( [an elected official]{.fst-italic} ). Participe passé d'*élire* devenu nom.
+[^7a5]: le remède à tous les maux (loc.) : la solution universelle, la panacée ( [the cure-all]{.fst-italic} ). ⚠️ *un mal* → *des maux* (pluriel irrégulier).
+[^7a6]: un aménagement (n.m.) : l'organisation d'un espace pour le rendre utilisable ( [development, planning]{.fst-italic} ). Verbe : *aménager*.
+[^7a7]: en friche (loc.) : laissé à l'abandon, inutilisé ( [derelict, vacant]{.fst-italic} ). Voir *une friche* plus haut dans le premier texte.
+[^7a8]: une filiale (n.f.) : société contrôlée par une société mère ( [a subsidiary]{.fst-italic} ). ⚠️ Ne pas confondre avec *une succursale* = une simple agence.
+[^7a9]: audacieux(se) (adj.) : qui ose, qui prend des risques ( [bold, daring]{.fst-italic} ). Nom : *l'audace*.
+[^7a10]: chauffant(e) (adj.) : qui produit de la chaleur ( [heated]{.fst-italic} ). *Des rues chauffantes* font fondre la neige toutes seules.
+[^7a11]: un Abribus (n.m.) : un abri de transport en commun ( [a bus shelter]{.fst-italic} ). Nom de marque devenu nom commun, comme *Frigidaire*.
+[^7a12]: se déployer (v.) : s'ouvrir, s'étendre ( [to unfold, to deploy]{.fst-italic} ). Nom : *le déploiement*.
+[^7a13]: une intempérie (n.f.) : le mauvais temps ( [bad weather]{.fst-italic} ). ⚠️ S'emploie presque toujours au pluriel : *en cas d'intempéries*.
+[^7a14]: un couloir (n.m.) : ici, une voie réservée sur la chaussée ( [a lane]{.fst-italic} ). *Un couloir de bus* = a bus lane. Sens propre : le corridor d'un appartement.
+[^7a15]: en fonction de (loc.) : selon, d'après ( [depending on, according to]{.fst-italic} ). Très fréquent à l'écrit ; voisin : *selon*.
+[^7a16]: au point que + indicatif (loc.) : exprime une conséquence forte, avec une idée d'intensité ( [to the point that]{.fst-italic} ). Variante : *à tel point que*.
+[^7a17]: abusif(ve) (adj.) : excessif, contraire à ce qui est permis ( [excessive, improper]{.fst-italic} ). Nom : *un abus* ; verbe : *abuser de*.
+[^7a18]: la surveillance de masse (n.f.) : le contrôle généralisé de toute une population ( [mass surveillance]{.fst-italic} ). Verbe : *surveiller*.
+[^7a19]: si bien que + indicatif (loc.) : exprime une conséquence ( [so that, and as a result]{.fst-italic} ). Ne pas confondre avec *si … que* (intensité), vu dans la fiche de grammaire.
+[^7a20]: légitimement (adv.) : à juste titre, avec de bonnes raisons ( [legitimately, rightly]{.fst-italic} ). Adjectif : *légitime*.
+[^7a21]: de ce fait (loc.) : pour cette raison, en conséquence ( [as a result, therefore]{.fst-italic} ). Connecteur de conséquence, à placer en tête de phrase.
+[^7a22]: exposer (v.) : ici, présenter en détail ( [to set out, to lay out]{.fst-italic} ). Nom : *un exposé*. Autre sens : *exposer qqn à un danger*.
+[^7a23]: la mainmise (n.f.) : la prise de contrôle totale ( [a stranglehold, control]{.fst-italic} ). Littéralement « la main mise sur » quelque chose. *Avoir la mainmise sur*.
+[^7a24]: amener qqn à faire qqch (v.) : conduire à, pousser à ( [to lead someone to do something]{.fst-italic} ). Verbe de conséquence, voir la fiche de grammaire.
 
 
-La ville est une société où cohabitent la vidéo surveillance, les réseaux sociaux et les objets connectés. Ces nouvelles formes de surveillance et de contrôle de la population sont sournoises[^8a1]. Tout est miniaturisé et caché: capteurs, caméras et objets connectés sont omniprésents et espionnent les habitants avec ou sans leur consentement. La collecte et l'analyse de toutes ces données (itinéraires, achats, propos sur les réseaux sociaux...) [mènent à]{.mark}[^8a2] une société panoptique menaçant notre vie privée et la démocratie. [D'où]{.mark}[^8a3] la nécessité d'instaurer[^8a4] des mesures [pour que]{.markpurple}[^8a5] la "smartification" des villes [se fasse]{.markpurple} dans l'intérêt de chacun et pas uniquement pour le profit de quelques géants du numérique. [C'est la raison pour laquelle]{.mark}[^8a6] je présenterai plusieurs solutions pour la protection des données, telles les techniques d'anonymisation ou le développement de technologies protectrices de la vie privée[^8a7].
+La ville est une société où [cohabitent]{.underline}[^8a1] la vidéo surveillance, les réseaux sociaux et les [objets connectés]{.underline}[^8a2]. Ces nouvelles formes de surveillance et de contrôle de la population sont [sournoises]{.underline}[^8a3]. Tout est [miniaturisé]{.underline}[^8a4] et caché: capteurs, caméras et objets connectés sont [omniprésents]{.underline}[^8a5] et [espionnent]{.underline}[^8a6] les habitants avec ou sans leur [consentement]{.underline}[^8a7]. La [collecte]{.underline}[^8a8] et l'analyse de toutes ces données ([itinéraires]{.underline}[^8a9], achats, [propos]{.underline}[^8a10] sur les réseaux sociaux...) [mènent à]{.mark}[^8a11] une société [panoptique]{.underline}[^8a12] menaçant notre [vie privée]{.underline}[^8a13] et la démocratie. [D'où]{.mark}[^8a14] la nécessité d'[instaurer]{.underline}[^8a15] des mesures [pour que]{.markpurple}[^8a16] la "[smartification]{.underline}[^8a17]" des villes [se fasse]{.markpurple} dans l'intérêt de chacun et pas [uniquement]{.underline}[^8a18] pour le profit de quelques [géants du numérique]{.text-orange}[^8a19]. [C'est la raison pour laquelle]{.mark}[^8a20] je présenterai plusieurs solutions pour la protection des données, [telles]{.underline}[^8a21] les techniques d'[anonymisation]{.underline}[^8a22] ou le développement de technologies [protectrices]{.underline}[^8a23] de la vie privée.
 
-[^8a1]: sournois = sneaky
-[^8a2]: mener à = to lead to
-[^8a3]: d'où = hence, that's why; use it to express a consequence
-[^8a4]: instaurer = to establish, to set up
-[^8a5]: pour que = so that; use it to express a consequence; note subjonctif
-[^8a6]: c'est la raison pour laquelle, use it to express a cause
-[^8a7]: protectrice (n.f.) = protector; telles = such as
+[^8a1]: cohabiter (v.) : vivre ensemble dans un même lieu ( [to coexist, to live side by side]{.fst-italic} ). Nom : *la cohabitation*. ⚠️ Le sujet est inversé ici : *une société où cohabitent la vidéo surveillance, …*.
+[^8a2]: un objet connecté (n.m.) : appareil du quotidien relié à internet ( [a connected device, IoT device]{.fst-italic} ). Montre, frigo, thermostat…
+[^8a3]: sournois(e) (adj.) : qui agit en cachette, sans se montrer ( [sneaky, insidious]{.fst-italic} ). Contraire : *franc*, *ouvert*.
+[^8a4]: miniaturisé(e) (adj.) : rendu tout petit ( [miniaturized]{.fst-italic} ). Nom : *la miniaturisation*.
+[^8a5]: omniprésent(e) (adj.) : présent partout à la fois ( [omnipresent, ubiquitous]{.fst-italic} ). Préfixe latin *omni-* = tout.
+[^8a6]: espionner (v.) : observer secrètement ( [to spy on]{.fst-italic} ). Nom : *un espion*, *l'espionnage*.
+[^8a7]: le consentement (n.m.) : l'accord donné librement ( [consent]{.fst-italic} ). Verbe : *consentir à*. Mot clé du vocabulaire des données personnelles.
+[^8a8]: la collecte (n.f.) : le fait de recueillir, de rassembler ( [collection, gathering]{.fst-italic} ). Verbe : *collecter*, employé plus haut (*données collectées*).
+[^8a9]: un itinéraire (n.m.) : le trajet suivi d'un point à un autre ( [a route, an itinerary]{.fst-italic} ).
+[^8a10]: des propos (n.m.pl.) : les paroles, ce que quelqu'un a dit ( [remarks, statements]{.fst-italic} ). ⚠️ Presque toujours au pluriel dans ce sens ; ne pas confondre avec *à propos de*.
+[^8a11]: mener à (v.) : conduire à, aboutir à ( [to lead to]{.fst-italic} ). Verbe de conséquence, voir la fiche de grammaire.
+[^8a12]: panoptique (adj.) : où tout peut être vu depuis un seul point ( [panoptic]{.fst-italic} ). Référence à la prison imaginée par Bentham et reprise par Foucault.
+[^8a13]: la vie privée (n.f.) : ce qui relève de l'intime et échappe au regard des autres ( [privacy, private life]{.fst-italic} ). Opposé : *la vie publique*.
+[^8a14]: d'où (loc.) : voilà pourquoi, c'est pour cela que ( [hence]{.fst-italic} ). ⚠️ Toujours suivi d'un **nom**, jamais d'une phrase : *d'où la nécessité de…*.
+[^8a15]: instaurer (v., soutenu) : mettre en place, établir ( [to establish, to introduce]{.fst-italic} ). S'emploie pour des règles, des mesures, un régime.
+[^8a16]: pour que + subjonctif (loc.) : exprime le but, la finalité ( [so that]{.fst-italic} ). ⚠️ Noter *se fasse* (subjonctif de *se faire*), obligatoire après *pour que*.
+[^8a17]: la "smartification" (n.f.) : néologisme, le passage d'une ville au modèle *smart city* ( [smartification]{.fst-italic} ). Les guillemets signalent que le mot n'est pas encore du français standard.
+[^8a18]: uniquement (adv.) : seulement, exclusivement ( [only, solely]{.fst-italic} ).
+[^8a19]: les géants du numérique (n.m.pl.) : les très grandes entreprises de la tech ( [tech giants]{.fst-italic} ). Équivalent français des *GAFAM*.
+[^8a20]: c'est la raison pour laquelle (loc.) : c'est pourquoi ( [that is why]{.fst-italic} ). Connecteur de conséquence, registre soutenu. Variante : *c'est pour cette raison que*.
+[^8a21]: tel(le)s (adj.) : ici, comme, par exemple ( [such as]{.fst-italic} ). ⚠️ *telles les techniques* s'accorde avec le nom qui suit ; sans *que*, la construction est soutenue.
+[^8a22]: l'anonymisation (n.f.) : le fait de rendre des données non rattachables à une personne ( [anonymization]{.fst-italic} ). Verbe : *anonymiser*.
+[^8a23]: protecteur/protectrice (adj.) : qui protège ( [protective]{.fst-italic} ). ⚠️ Féminin irrégulier : *protecteur* → *protectrice*, comme *acteur* → *actrice*.
 
-Dans le cadre de cette communication, je questionnerai le discours binaire opposant[^9a1] "fascination technologique" et "peur de Big Brother". Comme le précise[^9a2] l'économiste Jean Haëntjens, deux visions de la ville du futur sont [en train de]{.mark} se dessiner[^ba]: "[D'un côté]{.mark}, la cité politique, dirigée[^9a3] par un maire élu par des citoyens, qui se fixe des ambitions à long terme en visant un intérêt général; [de l'autre]{.mark}, la ville-service numérisée, pilotée par les 'maîtres[^9a4] des algorithmes' et qui [vise à]{.mark} répondre en temps réel aux demandes des usagers." La démocratie n'est pas forcément condamnée, c'est aux citadins de choisir, puisqu'ils sont [à la fois]{.markteal} citoyens [et]{.markteal} usagers. 
+[Dans le cadre de]{.text-orange}[^9a1] cette communication, je [questionnerai]{.underline}[^9a2] le [discours binaire]{.underline}[^9a3] [opposant]{.underline}[^9a4] "[fascination]{.underline}[^9a5] technologique" et "peur de Big Brother". [Comme le précise]{.text-orange}[^9a6] l'économiste Jean Haëntjens, deux visions de la ville du futur sont [en train de]{.mark} [se dessiner]{.underline}[^9a7]: "[D'un côté]{.mark}, la [cité]{.underline}[^9a8] politique, [dirigée]{.underline}[^9a9] par un maire élu par des citoyens, qui [se fixe des ambitions]{.text-orange}[^9a10] [à long terme]{.underline}[^9a11] en [visant]{.underline}[^9a12] un intérêt général; [de l'autre]{.mark}, la ville-service numérisée, [pilotée]{.underline}[^9a13] par les '[maîtres]{.underline}[^9a14] des algorithmes' et qui [vise à]{.mark} répondre [en temps réel]{.text-orange}[^9a15] aux demandes des [usagers]{.underline}[^9a16]." La démocratie n'est pas [forcément]{.underline}[^9a17] [condamnée]{.underline}[^9a18], c'est aux [citadins]{.underline}[^9a19] de choisir, puisqu'ils sont [à la fois]{.markteal} citoyens [et]{.markteal} usagers.
 
-[^9a1]: an opposing binary discourse
-[^9a2]: as xxx points out; préciser = to specify, to point out
-[^9a3]: dirigé = directed, led by; diriger = to direct, to lead
-[^9a4]: maîtres (n.m.pl.) = masters
-[^ba]: se dessiner = to take shape, to emerge
+[^9a1]: dans le cadre de (loc.) : à l'occasion de, dans les limites de ( [as part of, within the framework of]{.fst-italic} ). Formule très utile pour ouvrir un exposé.
+[^9a2]: questionner (v.) : ici, remettre en cause, interroger la validité de ( [to question, to challenge]{.fst-italic} ). Plus fort que *poser une question*.
+[^9a3]: un discours binaire (n.m.) : une façon de parler qui ne laisse le choix qu'entre deux positions opposées ( [a black-and-white argument]{.fst-italic} ). *Binaire* = à deux termes.
+[^9a4]: opposant (part. prés.) : qui met face à face ( [pitting … against]{.fst-italic} ). Participe présent invariable, employé ici comme relative : *qui oppose*.
+[^9a5]: la fascination (n.f.) : l'attirance très forte, presque irrationnelle ( [fascination]{.fst-italic} ). Verbe : *fasciner*.
+[^9a6]: comme le précise X (loc.) : comme X le fait remarquer ( [as X points out]{.fst-italic} ). ⚠️ Le *le* est le pronom neutre — voir la fiche de grammaire en bas de page. Verbe : *préciser*.
+[^9a7]: se dessiner (v.) : commencer à apparaître, à prendre forme ( [to take shape, to emerge]{.fst-italic} ).
+[^9a8]: une cité (n.f.) : ici, la ville au sens politique, la communauté des citoyens ( [the polis, the city as a political body]{.fst-italic} ). ⚠️ En français courant, *une cité* = un grand ensemble de logements sociaux (sens employé plus loin dans le roman).
+[^9a9]: dirigé(e) (adj.) : conduit, gouverné ( [led, run]{.fst-italic} ). Verbe : *diriger* ; nom : *un dirigeant*.
+[^9a10]: se fixer des ambitions (loc.) : se donner des objectifs ( [to set oneself goals]{.fst-italic} ). Variantes : *se fixer un objectif*, *se fixer une limite*.
+[^9a11]: à long terme (loc.) : sur une longue durée ( [in the long run, long-term]{.fst-italic} ). Opposés : *à court terme*, *à moyen terme*.
+[^9a12]: viser (v.) : avoir pour but ( [to aim at, to target]{.fst-italic} ). *Viser qqch* (construction directe) ou *viser à faire qqch* : les deux apparaissent dans ce texte.
+[^9a13]: piloté(e) (adj.) : dirigé, conduit ( [steered, driven]{.fst-italic} ). Image de l'avion ; ici, la ville est « pilotée » comme une machine, par opposition à *dirigée* par un maire.
+[^9a14]: un maître (n.m.) : celui qui détient le pouvoir sur quelque chose ( [a master]{.fst-italic} ). ⚠️ Ne pas confondre avec *maîtriser*, vu plus haut, ni avec *un mètre*.
+[^9a15]: en temps réel (loc.) : immédiatement, au moment même ( [in real time]{.fst-italic} ).
+[^9a16]: un usager (n.m.) : celui qui utilise un service public ( [a user]{.fst-italic} ). ⚠️ Opposé ici à *citoyen* : l'usager consomme un service, le citoyen participe aux décisions.
+[^9a17]: forcément (adv.) : nécessairement, obligatoirement ( [necessarily]{.fst-italic} ). *Pas forcément* = not necessarily, très fréquent à l'oral.
+[^9a18]: condamné(e) (adj.) : dont la fin est certaine ( [doomed]{.fst-italic} ). Verbe : *condamner* ; le *m* ne se prononce pas : *con-da-né*.
+[^9a19]: un citadin (n.m.) : un habitant de la ville ( [a city dweller]{.fst-italic} ). ⚠️ Ne pas confondre avec *un citoyen* = membre d'une communauté politique.
 
 
 <br>
@@ -135,55 +232,82 @@ Dans le cadre de cette communication, je questionnerai le discours binaire oppos
 
 ::::{.marksilver style="padding: 20px; border: 1px solid #413d3d; box-shadow: 5px 5px 15px rgba(0,0,0,0.4);"}
 
-Alors, notre ville...? Comment s'est-elle construite? D'où sort-elle? [...] 
+Alors, notre ville...? Comment s'est-elle construite? [D'où sort-elle]{.text-orange}[^f1]? [...]
 
-Une ville dite "liberté"[^f1] est une soustraite[^f2] à la gestion publique et intégralement[^f3] détenue[^f4] et gérée[^f5] par une entreprise privée. Son maire est nommé par les actionnaires[^f7], à la majorité simple des parts[^f6]. En août 2030, la ville de vos parents, qui s'appelait Orange, a donc été rachetée[^f8] par la multinationale du même nom, pour un prix dérisoire[^f9].[...]  
+Une ville [dite]{.underline}[^f2] "liberté" est une [soustraite]{.underline}[^f3] à la gestion publique et [intégralement]{.underline}[^f4] [détenue]{.underline}[^f5] et [gérée]{.underline}[^f6] par une entreprise privée. Son maire est [nommé]{.underline}[^f7] par les [actionnaires]{.underline}[^f8], [à la majorité simple des parts]{.text-orange}[^f9]. En août 2030, la ville de vos parents, qui s'appelait Orange, a donc été [rachetée]{.underline}[^f10] par la [multinationale]{.underline}[^f11] du même nom, pour un prix [dérisoire]{.underline}[^f12].[...]
 
-[^f1]: a so called "free" city, here "dite" is a participe passé turned adj.
-[^f2]: soustraite = subcontracted, outsourced; soustraire = to subtract, to take away
-[^f3]: intégralement = entirely, completely
-[^f4]: détenue = owned; détenir = to own
-[^f5]: gérée = managed; gérer = to manage
-[^f6]: à la majorité simple des parts = by a simple majority of the shares; parts = shares, stocks
-[^f7]: actionnaires = shareholders
-[^f8]: rachetée = bought, purchased; racheter = to buy, to purchase
-[^f9]: dérisoire = derisory, ridiculously low
+[^f1]: d'où sort-elle ? (loc., fam.) : d'où vient-elle ?, quelle est son origine ? ( [where does it come from?]{.fst-italic} ). Ton oral et un peu brusque.
+[^f2]: dit(e) (adj.) : appelé, qu'on nomme ainsi ( [so-called]{.fst-italic} ). Participe passé de *dire* employé comme adjectif ; les guillemets marquent la distance ironique.
+[^f3]: soustraire qqch à (v.) : retirer de, faire échapper à ( [to remove from, to withdraw from]{.fst-italic} ). Ici *une [ville] soustraite à la gestion publique* = qu'on a retirée du domaine public. Sens mathématique : soustraire = enlever.
+[^f4]: intégralement (adv.) : entièrement, en totalité ( [entirely, wholly]{.fst-italic} ). Adjectif : *intégral*.
+[^f5]: détenu(e) (adj.) : possédé ( [owned, held]{.fst-italic} ). Verbe : *détenir*. ⚠️ *un détenu* (n.) = un prisonnier.
+[^f6]: géré(e) (adj.) : administré, dirigé au quotidien ( [managed]{.fst-italic} ). Verbe : *gérer* ; nom : *la gestion*.
+[^f7]: nommer (v.) : ici, désigner à un poste (par décision, non par élection) ( [to appoint]{.fst-italic} ). ⚠️ Opposition centrale du texte : *nommé* par des actionnaires ≠ *élu* par des citoyens.
+[^f8]: un actionnaire (n.) : celui qui détient des actions d'une société ( [a shareholder]{.fst-italic} ). *Une action* = a share.
+[^f9]: à la majorité simple des parts (loc.) : par plus de la moitié des parts sociales ( [by a simple majority of shares]{.fst-italic} ). *Une part* = une fraction du capital. Opposé : *la majorité absolue*, *la majorité qualifiée*.
+[^f10]: racheter (v.) : acheter ce qui appartenait à un autre ( [to buy out, to take over]{.fst-italic} ). Nom : *un rachat*.
+[^f11]: une multinationale (n.f.) : une entreprise implantée dans plusieurs pays ( [a multinational]{.fst-italic} ).
+[^f12]: dérisoire (adj.) : ridiculement bas, insignifiant ( [derisory, laughably low]{.fst-italic} ). *Un prix dérisoire* = presque rien.
 
-Je vous rappelle que Paris, rachetée par LVMH, ou Cannes, rachetée par la Warner, ont vendu leur nom à des prix astronomiques. [...] 
+Je vous rappelle que Paris, rachetée par LVMH, ou Cannes, rachetée par la Warner, ont vendu leur nom à des prix [astronomiques]{.underline}[^f13]. [...]
 
-Alors Orange a commencé par faire ce qu'ils font dans toutes les villes "libertés". Ils ont mis en place leurs trois forfaits[^g1] citoyens: un forfait privilège pour les citoyens aisés[^g2] et leur famille, un forfait premium pour les classes moyennes et un forfait standard pour les plus démunis[^g2b]. Et à ceux qui ne pouvaient pas payer le forfait standard, ils sont proposés de partir. D'abord gentiment, avec une prime de départ, puis un peu moins courtoisement avec des lettres et des huissiers[^g3], puis encore moins courtoisement avec le retrait[^g4] des aides sociales et l'interdiction de l'école des enfants. Ça a suffi[^g5] [neuf fois sur dix]{.mark}. Mais les dix pour cent restants n'ont pas voulu céder[^g6] et ils se sont battus[^g7] jusqu'au bout. [Afin de]{.mark}[^g8] garder leur logement et de rester citoyens de la ville. [...]
+[^f13]: astronomique (adj.) : extrêmement élevé ( [astronomical]{.fst-italic} ). S'emploie surtout pour des prix et des sommes.
 
-[^g1]: forfait citoyen: citizen plan, like a phone plan, with different levels of service and price
-[^g2]: aisé = well off, wealthy
-[^g2b]: démuni = destitute, deprived
-[^g3]: huissier = bailiff, the officer who delivers legal documents and can enforce court orders
-[^g4]: retrait = withdrawal, removal; retirer = to withdraw, to remove
-[^g5]: suffire = to be enough, to suffice
-[^g6]: céder = to give in, to yield
-[^g7]: se battre = to fight
-[^g8]: afin de = in order to
+Alors Orange a commencé par faire ce qu'ils font dans toutes les villes "libertés". Ils ont [mis en place]{.text-orange}[^g1] leurs trois [forfaits]{.underline}[^g2] citoyens: un forfait privilège pour les citoyens [aisés]{.underline}[^g3] et leur famille, un forfait premium pour les [classes moyennes]{.underline}[^g4] et un forfait standard pour les plus [démunis]{.underline}[^g5]. Et à ceux qui ne pouvaient pas payer le forfait standard, ils sont proposés de partir. D'abord [gentiment]{.underline}[^g6], avec une [prime de départ]{.underline}[^g7], puis un peu moins [courtoisement]{.underline}[^g8] avec des lettres et des [huissiers]{.underline}[^g9], puis encore moins courtoisement avec le [retrait]{.underline}[^g10] des [aides sociales]{.underline}[^g11] et l'[interdiction]{.underline}[^g12] de l'école des enfants. Ça a [suffi]{.underline}[^g13] [neuf fois sur dix]{.mark}[^g14]. Mais les dix pour cent [restants]{.underline}[^g15] n'ont pas voulu [céder]{.underline}[^g16] et ils [se sont battus]{.underline}[^g17] [jusqu'au bout]{.text-orange}[^g18]. [Afin de]{.mark}[^g19] garder leur logement et de rester citoyens de la ville. [...]
+
+[^g1]: mettre en place (loc.) : installer, instaurer ( [to set up, to roll out]{.fst-italic} ). Très fréquent pour des dispositifs, des mesures, des services.
+[^g2]: un forfait (n.m.) : une offre à prix fixe, tout compris ( [a plan, a package]{.fst-italic} ). Comme *un forfait téléphonique* ; ici, l'ironie est de vendre la citoyenneté comme un abonnement mobile.
+[^g3]: aisé(e) (adj.) : qui a de l'argent, sans être riche à l'extrême ( [well-off, comfortably off]{.fst-italic} ). Autre sens : facile (*ce n'est pas aisé*).
+[^g4]: les classes moyennes (n.f.pl.) : la partie de la population située entre les milieux populaires et les milieux aisés ( [the middle class]{.fst-italic} ). En français, souvent au pluriel.
+[^g5]: démuni(e) (adj.) : qui n'a rien, privé de ressources ( [destitute, deprived]{.fst-italic} ). Verbe : *démunir* = priver de.
+[^g6]: gentiment (adv.) : avec douceur, aimablement ( [nicely, gently]{.fst-italic} ). ⚠️ Adverbe irrégulier : *gentil* → *gentiment*, pas *gentilement*.
+[^g7]: une prime de départ (n.f.) : une somme versée pour inciter quelqu'un à partir ( [a severance payment, a departure bonus]{.fst-italic} ).
+[^g8]: courtoisement (adv.) : poliment, avec des égards ( [courteously]{.fst-italic} ). Adjectif : *courtois* ; nom : *la courtoisie*. La gradation *gentiment → moins courtoisement → encore moins courtoisement* est ironique.
+[^g9]: un huissier (n.m.) : officier de justice qui remet les actes et exécute les décisions de justice ( [a bailiff]{.fst-italic} ). Voir un huissier arriver = mauvais signe.
+[^g10]: le retrait (n.m.) : le fait d'enlever, de reprendre ( [withdrawal, removal]{.fst-italic} ). Verbe : *retirer*.
+[^g11]: les aides sociales (n.f.pl.) : les prestations versées par l'État aux personnes en difficulté ( [welfare benefits]{.fst-italic} ).
+[^g12]: une interdiction (n.f.) : le fait d'empêcher officiellement ( [a ban]{.fst-italic} ). Verbe : *interdire* ; ici *l'interdiction de l'école* = on prive les enfants d'école.
+[^g13]: suffire (v.) : être assez ( [to be enough]{.fst-italic} ). ⚠️ Passé composé irrégulier : *ça a suffi*. Aussi : *il suffit de* + infinitif.
+[^g14]: neuf fois sur dix (loc.) : dans la grande majorité des cas ( [nine times out of ten]{.fst-italic} ). Structure *X fois sur Y* pour exprimer une proportion.
+[^g15]: restant(e) (adj.) : qui reste ( [remaining]{.fst-italic} ). Participe présent de *rester* employé comme adjectif.
+[^g16]: céder (v.) : renoncer à résister ( [to give in, to yield]{.fst-italic} ). Autre sens : *céder qqch à qqn* = le lui laisser.
+[^g17]: se battre (v.) : lutter ( [to fight]{.fst-italic} ). ⚠️ Auxiliaire *être* et accord : *ils se sont battus*.
+[^g18]: jusqu'au bout (loc.) : jusqu'à la fin, sans jamais abandonner ( [to the very end]{.fst-italic} ).
+[^g19]: afin de + infinitif (loc.) : pour, dans le but de ( [in order to]{.fst-italic} ). Registre soutenu ; avec un sujet différent : *afin que* + subjonctif.
 
 
-Orange a commencé par détruire[^j1] des cités et des tours, pour "redynamiser le centre urbain", en expulsant[^j2] les habitants et en les relogeant[^j3] hors de la ville, dans les hôtels-péniches[^j4] que vous connaissez, sur le Rhône. Toutefois[^j5] une tour [a tenu bon]{.mark}[^j6]. On l'a vite rebaptisée la Tour-Rouge à cause des fumigènes[^j7] qui brûlaient[^j8] toutes les nuits sur le toit[^j9], pour flouer[^j10] des drones. Orange a choisi la voie juridique dure[^j11] et [a décidé d]{.mark}'en faire le siège, pendant plus de cent jours. Après un mois, les habitants de la tour ont commencé à [crever de faim]{.mark}[^j12], ils étaient heureusement ravitaillés[^j13] par les caves, par les toits, des drones pirates les livraient sur les balcons... Mais tous ceux qui essayaient de sortir étaient aussitôt capturés par les milices[^j14] et incarcérés pour violation du droit de propriété. La résistance était âpre[^j15] parce que c'était le statut même de la ville qui se jouait là-bas[^j16]. Tout le monde le sentait. Si la Tour-Rouge tombait, les gens savaient que cette ville cesserait[^j17] de fonctionner comme une démocratie. 
+Orange a commencé par [détruire]{.underline}[^j1] des [cités]{.underline}[^j2] et des [tours]{.underline}[^j3], pour "[redynamiser]{.underline}[^j4] le centre urbain", en [expulsant]{.underline}[^j5] les habitants et en les [relogeant]{.underline}[^j6] hors de la ville, dans les [hôtels-péniches]{.underline}[^j7] que vous connaissez, sur le Rhône. [Toutefois]{.underline}[^j8] une tour [a tenu bon]{.mark}[^j9]. On l'a vite [rebaptisée]{.underline}[^j10] la Tour-Rouge à cause des [fumigènes]{.underline}[^j11] qui [brûlaient]{.underline}[^j12] toutes les nuits sur le [toit]{.underline}[^j13], pour [flouer]{.underline}[^j14] des drones. Orange a choisi la [voie juridique dure]{.text-orange}[^j15] et [a décidé d]{.mark}'en [faire le siège]{.text-orange}[^j16], pendant plus de cent jours. Après un mois, les habitants de la tour ont commencé à [crever de faim]{.mark}[^j17], ils étaient heureusement [ravitaillés]{.underline}[^j18] par les [caves]{.underline}[^j19], par les toits, des drones [pirates]{.underline}[^j20] les [livraient]{.underline}[^j21] sur les balcons... Mais tous ceux qui essayaient de sortir étaient [aussitôt]{.underline}[^j22] capturés par les [milices]{.underline}[^j23] et [incarcérés]{.underline}[^j24] pour [violation du droit de propriété]{.underline}[^j25]. La résistance était [âpre]{.underline}[^j26] parce que c'était le statut [même]{.underline}[^j27] de la ville [qui se jouait]{.text-orange}[^j28] là-bas. Tout le monde [le]{.markorange} sentait. Si la Tour-Rouge tombait, les gens savaient que cette ville [cesserait]{.underline}[^j29] de fonctionner comme une démocratie.
 
 
-[^j1]: détruire = to destroy
-[^j2]: expulser = to expel, to evict
-[^j3]: reloger = to rehouse, to relocate
-[^j4]: hôtel-péniche = hotel barge, a boat converted into a hotel; péniche = barge
-[^j5]: toutefois = however, nevertheless
-[^j6]: tenir bon = to hold out, to hold firm
-[^j7]: fumigène = smoke bomb, smoke grenade, (n.m.)
-[^j8]: brûler = to burn
-[^j9]: toit = roof, (n.m.)
-[^j10]: flouer = to trick, to fool
-[^j11]: la voie juridique dure = the hard legal way, meaning a strict legal approach, with no compromise
-[^j12]: crever de faim = to starve to death; crever = to burst, to die (informal)
-[^j13]: ravitailler = to supply, to provide with supplies
-[^j14]: milice = militia, paramilitary force
-[^j15]: âpre = fierce, tough
-[^j16]: le statut même de la ville qui se jouait = the very status of the city was at stake; se jouer = to be at stake
-[^j17]: cesser = to cease
+[^j1]: détruire (v.) : faire disparaître en démolissant ( [to destroy, to demolish]{.fst-italic} ). Nom : *la destruction*.
+[^j2]: une cité (n.f.) : ici, un grand ensemble de logements sociaux en périphérie ( [a housing project, an estate]{.fst-italic} ). ⚠️ Sens très différent de *la cité politique* du texte précédent.
+[^j3]: une tour (n.f.) : un immeuble de grande hauteur ( [a tower block, a high-rise]{.fst-italic} ). ⚠️ *un tour* (n.m.) = a turn, a trick.
+[^j4]: redynamiser (v.) : redonner de la vie, de l'activité à ( [to revitalize]{.fst-italic} ). Les guillemets marquent que c'est le mot d'Orange, pas celui du narrateur.
+[^j5]: expulser (v.) : chasser de force d'un logement ou d'un pays ( [to evict, to expel]{.fst-italic} ). Nom : *une expulsion*.
+[^j6]: reloger (v.) : fournir un nouveau logement à quelqu'un qu'on a déplacé ( [to rehouse]{.fst-italic} ). Nom : *le relogement*.
+[^j7]: un hôtel-péniche (n.m.) : une péniche transformée en hôtel ( [a barge hotel]{.fst-italic} ). *Une péniche* = un long bateau plat de transport fluvial.
+[^j8]: toutefois (adv., soutenu) : cependant, malgré cela ( [however, nevertheless]{.fst-italic} ). Voisin de *néanmoins*, vu dans le texte précédent.
+[^j9]: tenir bon (loc.) : résister, ne pas céder ( [to hold out, to stand firm]{.fst-italic} ). Voir *céder* au paragraphe précédent, son contraire exact.
+[^j10]: rebaptiser (v.) : donner un nouveau nom ( [to rename]{.fst-italic} ). Le *p* ne se prononce pas : *re-ba-ti-zé*.
+[^j11]: un fumigène (n.m.) : engin qui dégage une épaisse fumée ( [a smoke bomb]{.fst-italic} ). De *fumée*.
+[^j12]: brûler (v.) : être consumé par le feu ( [to burn]{.fst-italic} ). Noter l'accent circonflexe sur le *û*.
+[^j13]: le toit (n.m.) : la partie qui couvre un bâtiment ( [the roof]{.fst-italic} ). *Sans toit* = sans logement.
+[^j14]: flouer (v., fam.) : tromper, duper ( [to fool, to trick]{.fst-italic} ). Ici : la fumée trompe les caméras des drones.
+[^j15]: la voie juridique dure (loc.) : la solution légale la plus sévère, sans compromis ( [the hard legal route]{.fst-italic} ). *Une voie* = un chemin, une manière de procéder.
+[^j16]: faire le siège de (loc.) : encercler un lieu pour forcer ceux qui y sont à se rendre ( [to lay siege to]{.fst-italic} ). *Un siège* = a siege ; c'est aussi une chaise, ou le siège d'une entreprise.
+[^j17]: crever de faim (loc., fam.) : mourir de faim ( [to starve]{.fst-italic} ). *Crever* = mourir, très familier et brutal ; sens propre : éclater (*un pneu crève*).
+[^j18]: ravitailler (v.) : approvisionner en nourriture ( [to resupply]{.fst-italic} ). Nom : *le ravitaillement*, vocabulaire militaire.
+[^j19]: une cave (n.f.) : la pièce souterraine d'un immeuble ( [a cellar, a basement]{.fst-italic} ). ⚠️ Faux ami : ce n'est pas *a cave* ( = une grotte).
+[^j20]: pirate (adj.) : clandestin, qui agit hors la loi ( [rogue, pirate]{.fst-italic} ). *Une radio pirate*, *un drone pirate*.
+[^j21]: livrer (v.) : apporter à destination ( [to deliver]{.fst-italic} ). Nom : *une livraison*. Autre sens : *livrer qqn* = le remettre à ses ennemis.
+[^j22]: aussitôt (adv.) : immédiatement ( [immediately, at once]{.fst-italic} ). ⚠️ En un mot ; à distinguer de *aussi tôt* = aussi de bonne heure.
+[^j23]: une milice (n.f.) : groupe armé privé, non officiel ( [a militia]{.fst-italic} ). Mot chargé en France, associé à la Seconde Guerre mondiale.
+[^j24]: incarcérer (v., soutenu) : mettre en prison ( [to imprison, to jail]{.fst-italic} ). Nom : *l'incarcération*.
+[^j25]: la violation du droit de propriété (n.f.) : le fait de ne pas respecter le droit du propriétaire ( [trespassing, violation of property rights]{.fst-italic} ). Verbe : *violer* = enfreindre (une règle).
+[^j26]: âpre (adj., soutenu) : dur, rude, sans concession ( [fierce, bitter]{.fst-italic} ). *Une lutte âpre*, *une âpre discussion*.
+[^j27]: même (adj.) : placé **après** le nom, il insiste : *le statut même* = le statut lui-même, rien de moins ( [the very status]{.fst-italic} ). ⚠️ Avant le nom, *le même statut* = the same status.
+[^j28]: se jouer (v.) : être en jeu, se décider ( [to be at stake]{.fst-italic} ). *C'est là que tout se joue* = that's where it's decided. Voir *un enjeu*, dans le texte précédent.
+[^j29]: cesser de + infinitif (v., soutenu) : arrêter de ( [to cease, to stop]{.fst-italic} ). ⚠️ Conditionnel ici (*cesserait*), après *si* + imparfait.
 
 ::::
 
@@ -197,14 +321,15 @@ Orange a commencé par détruire[^j1] des cités et des tours, pour "redynamiser
 
 Pour exprimer la conséquence, on peut utiliser:
 
-- [un connecteur: **donc**, **ainsi**[^m1], **du coup**[^m2], **par conséquent**, **c'est pourquoi**, **de ce fait**, **d'où**[^m3]]{.markgreen}  
+- [un connecteur: **donc**, **ainsi**[^m1], **du coup**[^m2], **par conséquent**[^m3], **c'est pourquoi**, **de ce fait**, **d'où**[^m4]]{.markgreen}  
   _Ex.: [C'est pourquoi]{.markgreen} aucune ville ne se ressemble._  
   _Ex.: [De ce fait]{.markgreen}, j'exposerai les menaces..._  
   _Ex.: [D'où]{.markgreen} la nécessité d'instaurer des mesures..._
 
-[^m1]: ainsi = thus, so
-[^m2]: du coup = so, as a result (informal, only use in oral)
-[^m3]: d'où = hence, that's why
+[^m1]: ainsi (adv.) : de cette manière, et donc ( [thus, and so]{.fst-italic} ). ⚠️ En tête de phrase, il entraîne souvent l'inversion : *Ainsi peut-on dire que…*.
+[^m2]: du coup (loc., fam.) : et donc ( [so, as a result]{.fst-italic} ). ⚠️ Registre familier : à réserver à l'oral, à éviter dans un écrit d'examen.
+[^m3]: par conséquent (loc.) : en conséquence de quoi ( [consequently, therefore]{.fst-italic} ). Registre soutenu, parfait à l'écrit ; voisin : *en conséquence*.
+[^m4]: d'où (loc.) : voilà pourquoi ( [hence]{.fst-italic} ). ⚠️ Suivi d'un **nom**, jamais d'une phrase — voir l'encadré ci-contre.
 
 
 :::{.callout-important .column-margin}
