@@ -38,6 +38,7 @@ title-slide-attributes:
 :::{.gauche .incremental}
 - Logement
 - Énergie
+- Mobilité
 :::
 
 
