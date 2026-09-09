@@ -1,6 +1,6 @@
 ---
-title: "Nice September Week 2 Lesson 6"
-date: "2026-09-07"
+title: "Nice September Week 2 Lesson 7"
+date: "2026-09-08"
 categories: ["B2", "unite1", "af-nice"]
 reference-location: document # margin, block, section, document
 citation-location: document #margin
@@ -11,7 +11,6 @@ margin-header: |
 image: "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?q=80&w=640"
 
 ---
-
 # Vocabulaire
 
 
