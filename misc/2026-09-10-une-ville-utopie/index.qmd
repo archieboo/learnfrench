@@ -1,0 +1,54 @@
+---
+title: "La ville utopique, rêvée"
+format:
+  revealjs:
+    theme: [moon, slides.scss]
+    slide-number: true
+    chalkboard: false
+    preview-links: auto
+    incremental: false
+title-slide-attributes:
+  data-background-image: "./p4-panoramique.jpg"
+  data-background-size: cover
+  data-background-position: center
+  data-background-opacity: "0.45"
+---
+
+
+
+## Où est-elle ? {background-image="./p1-totale.jpg" background-size="cover" background-position="center"}
+
+:::{.gauche .incremental}
+- Location
+- Géographie
+- Climat
+:::
+
+
+## La vie est jolie ? {background-image="./p2-cabane.jpg" background-size="cover" background-position="center"}
+
+:::{.gauche .incremental}
+- Les habitons
+- L'organisation
+:::
+
+
+## Tout va bien ! {background-image="./p3-maison.jpg" background-size="cover" background-position="center"}
+
+:::{.gauche .incremental}
+- Logement
+- Énergie
+:::
+
+
+## Intrigué(e) ? {.center background-image="./p4-panoramique.jpg" background-size="cover" background-position="center" background-opacity="0.45"}
+
+:::{.centre}
+::::{.fragment}
+La ville rêvée, révélé ...  
+::::
+
+::::{.fragment .nom}
+La ville de Merville !
+::::
+:::

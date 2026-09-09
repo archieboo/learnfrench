@@ -1,0 +1,144 @@
+---
+title: "Notes de présentation"
+subtitle: "Une ville à première vue — le texte complet, 5 minutes"
+date: "2026-09-04"
+format:
+  html:
+    toc: true
+    toc-title: "Plan"
+include-in-header:
+  text: |
+    <style>
+      /* Three highlight colours, so a glance at the page is enough to find the
+         next talking point without reading the whole paragraph. */
+      .hl, .fait, .quest {
+        padding: 0.08em 0.28em;
+        border-radius: 3px;
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+      }
+      .hl    { background: #ffeaa0; }  /* l'idée à dire */
+      .fait  { background: #cfe8f7; }  /* chiffre ou nom à ne pas rater */
+      .quest { background: #cdeed6; }  /* moment où je regarde la classe */
+
+      /* The legend at the top of the page. */
+      .legende {
+        margin: 1.2em 0 2em;
+        padding: 0.9em 1.1em;
+        background: #f7f5f0;
+        border-left: 4px solid #d8d2c4;
+        border-radius: 4px;
+        font-size: 0.92em;
+      }
+      .legende p { margin: 0.3em 0; }
+
+      /* The script itself: a little larger and airier than body text, because
+         it is read at a glance from a distance while presenting. */
+      .texte p {
+        font-size: 1.06em;
+        line-height: 1.75;
+        max-width: 42em;
+      }
+    </style>
+---
+
+[← Retour aux photos](index.html)
+
+::: {.legende}
+[l'idée à dire]{.hl} — le point principal du paragraphe.
+
+[un chiffre ou un nom à ne pas rater]{.fait} — ce qui se retient mal.
+
+[je regarde la classe]{.quest} — question ou impression personnelle.
+:::
+
+::: {.texte}
+
+## Enchaîner après Deana *(20 s)*
+
+[Merci, Deana.]{.quest} Vous savez maintenant où se trouve cette ville et vous
+la connaissez déjà un peu. Moi, je vais vous la montrer [du côté culturel et
+touristique]{.hl} — et, bien sûr, [à table]{.hl}.
+
+## 1. La vieille ville *(60 s)*
+
+On commence par la vieille ville. C'est [le cœur médiéval]{.hl} : des ruelles
+étroites, des arcades, et des façades roses, jaunes, ocres.
+
+Mais ce qui rend cet endroit unique, ce sont [les canaux]{.hl}. Deux rivières,
+[le Thiou et le Vassé]{.fait}, traversent le centre, et l'eau vient directement
+du lac. C'est pour cette raison qu'on surnomme la ville [« la Venise des
+Alpes »]{.hl}.
+
+[Trois matins par semaine]{.fait} — le mardi, le vendredi et le dimanche — il y
+a [le marché]{.hl}. Sous les arcades, on trouve des fromages de montagne, des
+fruits, des fleurs. Il y a beaucoup de monde, et pourtant on ne se bouscule pas :
+on prend son temps. 
+
+## 2. Le Palais de l'Île *(55 s)*
+
+Voici [le monument le plus photographié]{.hl} de la ville. Il date du [douzième
+siècle]{.fait} et il est posé au milieu du canal, sur une toute petite île. Sa
+forme fait penser à [la proue d'un bateau]{.hl} : on dirait qu'il avance dans
+l'eau.
+
+Ce bâtiment a eu [plusieurs vies]{.hl}. Il a d'abord été une maison
+seigneuriale, puis un palais de justice, et enfin [une prison, jusqu'au
+dix-neuvième siècle]{.fait}. Aujourd'hui, c'est un petit musée sur l'histoire et
+l'architecture de la région.
+
+[Un conseil, si vous y allez]{.quest} : la plus belle photo se prend [depuis le
+pont, tôt le matin]{.hl}, quand l'eau est calme et qu'il n'y a encore personne.
+
+## 3. Le lac *(70 s)*
+
+Et voilà le lac. C'est lui qui donne à la ville sa couleur.
+
+On dit souvent que c'est [le lac le plus propre d'Europe]{.hl}. Ce n'est pas un
+hasard. [Dans les années soixante]{.fait}, la ville a décidé de [ne plus rejeter
+ses eaux usées dans le lac]{.hl} : on les envoie ailleurs pour les traiter. À
+l'époque, c'était une décision très rare, et aujourd'hui l'eau est si claire
+qu'on voit le fond à plusieurs mètres.
+
+Autour, il y a les montagnes : [la Tournette, le Semnoz]{.fait}. Et [une piste
+cyclable qui fait le tour du lac]{.hl} — [une quarantaine de kilomètres]{.fait},
+presque toute plate. L'été, l'eau reste fraîche, mais tout le monde se baigne.
+
+## 4. Noël *(55 s)*
+
+En hiver, [la ville change complètement]{.hl}. En décembre, de petits [chalets
+en bois s'installent le long des canaux]{.hl} pour le marché de Noël. Il y a des
+illuminations dans toute la vieille ville, [une patinoire]{.fait}, et cette
+odeur de [vin chaud, de cannelle et d'orange]{.fait}.
+
+Il fait froid, bien sûr. Mais c'est justement ça qui est agréable : on marche
+dans le froid, un gobelet chaud dans les mains, et toutes les lumières se
+reflètent dans l'eau des canaux. 
+
+[Et vous, est-ce que vous avez déjà visité un marché de Noël ?]{.quest}
+
+## 5. On mange bien *(70 s)*
+
+Terminons par le plus important : [la table]{.hl}.
+
+Ici, on mange savoyard, c'est-à-dire [une cuisine de montagne]{.hl} : chaude,
+riche, et qu'on partage. Le plat le plus connu, c'est [la tartiflette]{.hl} :
+des pommes de terre, des lardons, des oignons, et surtout [un reblochon coupé en
+deux]{.fait} et posé dessus, qui fond doucement au four. Il y a aussi [la
+fondue, la raclette, et les diots]{.fait} — des saucisses de Savoie cuites dans
+du vin blanc.
+
+Et puis il ne faut pas oublier [les poissons du lac]{.hl} : on y pêche [la féra,
+l'omble chevalier, la perche]{.fait}. C'est beaucoup plus léger, et c'est
+délicieux avec un vin blanc de Savoie.
+
+En dessert, [le gâteau de Savoie]{.fait}, très aérien, ou une tarte aux
+myrtilles en été.
+
+## Passer la parole à Mattia *(15 s)*
+
+Voilà mes cinq photos : c'était le décor. [Je laisse maintenant la parole à
+Mattia]{.hl}, [qui va vous présenter les activités qu'on peut faire autour de
+cette ville]{.quest}.
+
+:::

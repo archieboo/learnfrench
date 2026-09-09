@@ -1,0 +1,196 @@
+/*-- scss:defaults --*/
+
+// moon sets its headings in League Gothic — condensed, uppercase and visually
+// heavy. Keep the deck modern but lighter: one family (Lato) throughout, at its
+// light weight, in mixed case. Lato ships 300 but moon only imports 400/700,
+// so the light cut has to be pulled in explicitly.
+@import url(https://fonts.googleapis.com/css2?family=Lato:wght@300;400&display=swap);
+
+$presentation-heading-font: Lato, sans-serif;
+$presentation-heading-font-weight: 300;
+$presentation-heading-text-transform: none;
+
+/*-- scss:rules --*/
+
+// Drop shadow under every image on a slide.
+// moon is a dark theme, so a plain black shadow reads as mud —
+// pair it with a faint light rim so the edge still separates.
+.reveal section img {
+  border: none;
+  border-radius: 4px;
+  box-shadow:
+    0 0 0 1px rgba(255, 255, 255, 0.12),
+    0 10px 30px rgba(0, 0, 0, 0.55);
+}
+
+// A short caption under the photos — one or two sentences, centred, in a light
+// muted tone so it reads as a legend rather than body text. Capped in width so
+// the line stays comfortable to read instead of running the whole slide.
+// Usage:  ::: {.mots} On se promène entre les canaux. :::
+.reveal .mots {
+  margin: 0.7em auto 0;
+  max-width: 26em;
+  text-align: center;
+  font-size: 0.62em;
+  font-weight: 300;
+  letter-spacing: 0.01em;
+  color: rgba(255, 255, 255, 0.72);
+  line-height: 1.5;
+}
+
+// The separator sits between fragments; dim it so the words carry.
+.reveal .sep {
+  color: rgba(255, 255, 255, 0.28);
+  margin: 0 0.35em;
+}
+
+// Quiz slide: the statement stays visible, the answer appears on click.
+.reveal .vf {
+  font-size: 0.78em;
+  line-height: 1.5;
+}
+
+.reveal .vf li {
+  margin-bottom: 0.9em;
+}
+
+// The answer sits on its own line under its statement, a shade quieter,
+// with a coloured rule so vrai and faux are legible at a glance.
+.reveal .vf .rep {
+  display: block;
+  margin-top: 0.25em;
+  padding-left: 0.6em;
+  font-size: 0.88em;
+  color: rgba(255, 255, 255, 0.72);
+}
+
+.reveal .vf .vrai {
+  border-left: 3px solid rgba(140, 210, 150, 0.85);
+}
+
+.reveal .vf .faux {
+  border-left: 3px solid rgba(230, 130, 125, 0.85);
+}
+
+// The reveal at the end of the quiz: the name of the place, larger and
+// centred, so it lands as the punchline rather than as one more line.
+.reveal .reponse {
+  margin-top: 0.8em;
+  text-align: center;
+  font-size: 0.85em;
+  color: rgba(255, 255, 255, 0.9);
+}
+
+// Appendix link slide: one link, centred and given room, so it reads as a
+// destination rather than as a line of text.
+.reveal .lien {
+  margin-top: 2em;
+  text-align: center;
+  font-size: 0.9em;
+}
+
+.reveal .lien a {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.35);
+  padding-bottom: 0.15em;
+}
+
+// The slide canvas is 700px tall, and the title plus a two-line .mots caption
+// need ~250px of it. Left alone a tall-ish photo (a 3:2 at full width is ~700px
+// on its own) fills the canvas and pushes the caption off the bottom. Cap the
+// height on every slide image and let the width follow, so .mots always fits.
+.reveal section img {
+  max-height: 440px;
+  width: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+// Side-by-side photos share the row, so they get a little less headroom.
+.reveal .columns img {
+  max-height: 420px;
+}
+
+// Every slide except the title one puts its background photo in the right 60%
+// of the canvas, bleeding to the top, bottom and right edges. Reveal paints
+// backgrounds in a layer behind the slide content, so anything in the section
+// floats over the photo for free — no z-index juggling needed.
+// The title slide and the closing slide are the exceptions: both let the photo
+// cover the whole canvas.
+// (Background elements are created in slide order and carry no classes of their
+// own, hence the positional selector rather than a named one.)
+.reveal .backgrounds .slide-background:not(:first-child):not(:last-child) .slide-background-content {
+  left: 40%;
+  width: 60%;
+  background-size: cover;
+  background-position: center;
+}
+
+// The words live in the left 40% but are free to spill over the photo, so they
+// carry a shadow instead of a panel — legible on the image, invisible off it.
+.reveal .gauche {
+  width: 46%;
+  text-align: left;
+  line-height: 1.8;
+  text-shadow: 0 2px 10px rgba(0, 0, 0, 0.9);
+}
+
+// The title runs the full slide width and so always crosses onto the photo.
+.reveal .has-dark-background h2,
+.reveal .has-light-background h2 {
+  text-align: left;
+  text-shadow: 0 2px 12px rgba(0, 0, 0, 0.9);
+}
+
+// The closing slide echoes the title one: photo across the full canvas, dimmed
+// by background-opacity, with the line centred on top of it.
+.reveal .centre {
+  text-align: center;
+  line-height: 1.8;
+  text-shadow: 0 2px 10px rgba(0, 0, 0, 0.9);
+}
+
+.reveal section:has(.centre) h2 {
+  text-align: center;
+}
+
+// Body text follows the headings down to the light cut; a little extra letter
+// spacing keeps 300-weight Lato from looking cramped at slide size.
+.reveal {
+  font-weight: 300;
+}
+
+.reveal h1,
+.reveal h2,
+.reveal h3 {
+  letter-spacing: 0.01em;
+}
+
+// The rows arrive one keypress at a time. They are written as a list purely so
+// that {.incremental} can turn each row into a fragment — nothing on these
+// slides is a real bullet list, so no marker anywhere, and no indent either.
+.reveal section ul,
+.reveal section ol {
+  list-style: none !important;
+  margin: 0;
+  padding: 0;
+}
+
+.reveal section li::marker {
+  content: none;
+}
+
+.reveal section li {
+  margin-bottom: 0.3em;
+  text-indent: 0;
+}
+
+// The name of the place is the punchline of the deck: brighter than the rest of
+// the body text and set bold, so it lands rather than reading as one more line.
+// (moon already imports Lato 700, so this is a real bold, not a synthesised one.)
+.reveal .nom {
+  margin-top: 0.6em;
+  color: #fdf6e3;
+  font-weight: 700;
+  font-size: 1.15em;
+  letter-spacing: 0.01em;
+}
