@@ -1,0 +1,48 @@
+---
+title: "Nice September Week 2 Lesson 8"
+date: "2026-09-09"
+categories: ["B2", "unite1", "af-nice"]
+reference-location: document # margin, block, section, document
+citation-location: document #margin
+margin-header: |
+  <a href="https://docs.google.com/document/d/1JcbRioT19AiT8zTOQuuiJDd915RMeaibmKuQbCuhe20/edit?usp=sharing" target="_blank" style="font-size:0.85em;"><i class="bi bi-file-earmark-text"></i> Semaine 2 Google doc</a><br>
+  <a href="../../defi4/unite1-dossier2/index.qmd" style="font-size:0.85em;"><i class="bi bi-journal-bookmark"></i> Défi 4 &mdash; Unité 1, Dossier 2</a><br>
+
+image: "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?q=80&w=640"
+
+---
+
+
+# TEXTE
+
+:::{.markyellow .rounded .shadow .p-3}
+
+[On achète ?]{.fw-bold .fs-3 .text-red}
+
+En 2019, en France, les taux d'intérêt[^aa] ont rarement été aussi bas[^az], [à tel point que]{.fw-bold} certains Français n'ont pas hésité à matérialiser leurs projets d'achat. L'augmentation du nombre de ventes est [si importante qu]{.fw-bold}'il ne serait pas étonnant qu'un nouveau record [soit]{.fw-bold .text-purple}[^ba] établi[^ad] d'ici[^ae] la fin de l'année.
+Cependant, cette hausse[^af] ne profite pas à tous et il existe de forts contrastes [en fonction des]{.underline} régions. Par exemple, à Paris, [le prix au mètre carré]{.underline}[^ah] avoisine[^ai] en moyenne les 10 000 euros et [de ce fait]{.fw-bold}, ce sont surtout les cadres supérieurs[^ak] et les professions libérales[^al] qui peuvent se permettre[^am] d'acheter des biens[^an]. Cette gentrification forcée amène donc les plus modestes[^ap] à préférer investir en province[^aq]. [En outre]{.underline}[^ar], ces taux d'intérêt attractifs suscitent[^as] un fort engouement[^at] pour l'acquisition immobilière chez les jeunes au niveau national. 
+Cependant, il y a [tellement de]{.fw-bold .text-orange}[^av] Français qui se sont endettés[^aw] [que]{.fw-bold .text-orange} la Banque de France semble s'inquiéter de[^ax] cette situation qui ressemble à celle de[^ay] 2007-2008, avant la crise financière.
+
+:::
+
+[^aa]: un taux d'intérêt (n.m.) : pourcentage payé pour emprunter de l'argent ( [an interest rate]{.fst-italic} ).
+[^az]: aussi + adjectif (loc.) : comparatif d'égalité ; ici le second terme n'est pas exprimé, donc *aussi bas* = « bas à ce point-là » ( [this low]{.fst-italic} ). ⚠️ Avec un nom, on emploie *autant de* : *autant de ventes*.
+[^ba]: soit (v. *être*, subjonctif présent) : *il ne serait pas étonnant que* exprime un jugement sur une éventualité, pas un fait : la subordonnée passe donc au subjonctif ( [it wouldn't be surprising if a new record were set]{.fst-italic} ). La forme est ici au passif (*être* + participe passé), et c'est l'auxiliaire *être* qui porte le subjonctif : *sois, sois, **soit**, soyons, soyez, soient*. ⚠️ Comparer : *il est probable qu'un record **sera** établi* (indicatif, on présente le fait comme certain) / *il est possible qu'un record **soit** établi* (subjonctif).
+[^ad]: établir un record (loc.) : atteindre un niveau jamais atteint ( [to set a record]{.fst-italic} ).
+[^ae]: d'ici + moment (loc.) : entre maintenant et ce moment ( [by, between now and]{.fst-italic} ).
+[^af]: une hausse (n.f.) : une augmentation ( [a rise, an increase]{.fst-italic} ). Contraire : *une baisse*.
+[^ah]: le prix au mètre carré (n.m.) : le prix d'un m² de logement ( [the price per square metre]{.fst-italic} ). Ici *au* = *par*.
+[^ai]: avoisiner (v.) : être tout près de (un chiffre) ( [to be close to, to hover around]{.fst-italic} ). De *voisin*.
+[^ak]: un cadre supérieur (n.m.) : salarié à haut niveau de responsabilité ( [a senior executive]{.fst-italic} ). ⚠️ *un cadre* signifie aussi *a frame*.
+[^al]: une profession libérale (n.f.) : métier indépendant, comme médecin, avocat ou architecte ( [a self-employed professional]{.fst-italic} ). ⚠️ Rien à voir avec *libéral* au sens politique.
+[^am]: se permettre de (v. pron.) : ici, avoir les moyens de ( [to afford to]{.fst-italic} ).
+[^an]: un bien (n.m.) : ici, un logement, une propriété ( [a property, an asset]{.fst-italic} ). *Un bien immobilier* ≠ *le bien* (contraire du mal).
+[^ap]: les plus modestes (loc.) : les personnes aux revenus les plus faibles ( [the least well-off]{.fst-italic} ). Ici *modeste* = peu fortuné, pas *humble*.
+[^aq]: en province (loc.) : partout en France sauf la région parisienne ( [outside the Paris region]{.fst-italic} ). ⚠️ Ne pas confondre avec *une province* (Canada, Belgique).
+[^ar]: en outre (loc., soutenu) : de plus, par ailleurs ( [moreover, in addition]{.fst-italic} ).
+[^as]: susciter (v.) : faire naître, provoquer ( [to arouse, to spark]{.fst-italic} ).
+[^at]: un engouement pour (n.m.) : un enthousiasme soudain et fort ( [a craze for, keen interest in]{.fst-italic} ). Verbe : *s'engouer de*.
+[^av]: tellement de + nom + que (loc.) : exprime la conséquence d'une grande quantité ( [so many ... that]{.fst-italic} ). Avec un adjectif, on dit *si ... que* (*si importante que*).
+[^aw]: s'endetter (v. pron.) : contracter des dettes ( [to go into debt]{.fst-italic} ). *Une dette*, *endetté(e)*.
+[^ax]: s'inquiéter de (v. pron.) : être préoccupé par ( [to worry about]{.fst-italic} ).
+[^ay]: celle de (pron. dém.) : reprend *la situation* sans répéter le nom ( [that of]{.fst-italic} ). Pluriel : *ceux/celles de*.
