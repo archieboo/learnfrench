@@ -1,23 +1,5 @@
 [
   {
-    "listing": "/misc.html",
-    "items": [
-      "/misc/2026-09-10-une-ville-utopie/index.html",
-      "/misc/2026-09-03-annecy-a-premiere-vois/index.html",
-      "/misc/2026-09-01-nice-a-pied/index.html",
-      "/misc/2026-07-09-French-Chinese-English-connections/index.html",
-      "/misc/2026-06-29-Suzi-de-gienchy/index.html",
-      "/misc/2026-05-14-L’opéra-un-art-sous-respiration-artificielle-ou/index.html",
-      "/misc/2026-05-12-Le-jeu-de-1000-euros/index.html",
-      "/misc/2026-05-07-Qui-sont-nos-veritables-ancetres/index.html",
-      "/misc/2026-05-04-Pilou-une-vie-de-liberté/index.html",
-      "/misc/2026-05-01-Le-chaos-est-la-vie-en-baril/index.html",
-      "/misc/2026-04-30-Le-Mystère-du-Ritonavir-et-la-Malédiction-des-Cristaux/index.html",
-      "/misc/2026-04-23-La-joconde-le-vol-du-siecle/index.html",
-      "/misc/2026-04-16-Le-ennui/index.html"
-    ]
-  },
-  {
     "listing": "/inspire3.html",
     "items": [
       "/inspire3/2026-07-29/index.html",
@@ -35,34 +17,35 @@
     ]
   },
   {
-    "listing": "/archive.html",
+    "listing": "/cours-francais.html",
     "items": [
-      "/archive/lesson-5/index.html",
-      "/archive/lesson-4/index.html",
-      "/archive/lesson-3/index.html",
-      "/archive/lesson-2/index.html",
-      "/archive/lesson-1/index.html",
-      "/archive/lesson-0/index.html"
-    ]
-  },
-  {
-    "listing": "/af-nice-b1.html",
-    "items": [
-      "/af-nice-b1/lesson-18/index.html",
-      "/af-nice-b1/lesson-17/index.html",
-      "/af-nice-b1/lesson-16/index.html",
-      "/af-nice-b1/lesson-15/index.html",
-      "/af-nice-b1/lesson-14/index.html",
-      "/af-nice-b1/lesson-13/index.html",
-      "/af-nice-b1/lesson-12/index.html",
-      "/af-nice-b1/lesson-11/index.html",
-      "/af-nice-b1/lesson-07/index.html",
-      "/af-nice-b1/lesson-06/index.html",
-      "/af-nice-b1/lesson-05/index.html",
-      "/af-nice-b1/lesson-04/index.html",
-      "/af-nice-b1/lesson-03/index.html",
-      "/af-nice-b1/lesson-02/index.html",
-      "/af-nice-b1/lesson-01/index.html"
+      "/af-nice/2026-09-09/index.html",
+      "/af-nice/2026-09-08/index.html",
+      "/af-nice/2026-09-07/index.html",
+      "/af-nice/2026-09-03/index.html",
+      "/af-nice/2026-09-02/index.html",
+      "/af-nice/2026-09-01/index.html",
+      "/af-nice/2026-08-31/index.html",
+      "/af-bordeaux/2026-06-26/index.html",
+      "/af-bordeaux/2026-06-25/index.html",
+      "/af-bordeaux/2026-06-24/index.html",
+      "/af-bordeaux/2026-06-23/index.html",
+      "/af-bordeaux/2026-06-22/index.html",
+      "/af-bordeaux/2026-06-19/index.html",
+      "/af-bordeaux/2026-06-18/index.html",
+      "/af-bordeaux/2026-06-17/index.html",
+      "/af-bordeaux/2026-06-16/index.html",
+      "/af-bordeaux/2026-06-15/index.html",
+      "/af-bordeaux/2026-06-12/index.html",
+      "/af-bordeaux/2026-06-11/index.html",
+      "/af-bordeaux/2026-06-10/index.html",
+      "/af-bordeaux/2026-06-09/index.html",
+      "/af-bordeaux/2026-06-08/index.html",
+      "/af-bordeaux/2026-06-05/index.html",
+      "/af-bordeaux/2026-06-04/index.html",
+      "/af-bordeaux/2026-06-03/index.html",
+      "/af-bordeaux/2026-06-02/index.html",
+      "/af-bordeaux/2026-06-01/index.html"
     ]
   },
   {
@@ -88,6 +71,49 @@
       "/af-bordeaux/2026-06-03/index.html",
       "/af-bordeaux/2026-06-02/index.html",
       "/af-bordeaux/2026-06-01/index.html"
+    ]
+  },
+  {
+    "listing": "/af-nice-b1.html",
+    "items": [
+      "/af-nice-b1/lesson-18/index.html",
+      "/af-nice-b1/lesson-17/index.html",
+      "/af-nice-b1/lesson-16/index.html",
+      "/af-nice-b1/lesson-15/index.html",
+      "/af-nice-b1/lesson-14/index.html",
+      "/af-nice-b1/lesson-13/index.html",
+      "/af-nice-b1/lesson-12/index.html",
+      "/af-nice-b1/lesson-11/index.html",
+      "/af-nice-b1/lesson-07/index.html",
+      "/af-nice-b1/lesson-06/index.html",
+      "/af-nice-b1/lesson-05/index.html",
+      "/af-nice-b1/lesson-04/index.html",
+      "/af-nice-b1/lesson-03/index.html",
+      "/af-nice-b1/lesson-02/index.html",
+      "/af-nice-b1/lesson-01/index.html"
+    ]
+  },
+  {
+    "listing": "/af-nice.html",
+    "items": [
+      "/af-nice/2026-09-09/index.html",
+      "/af-nice/2026-09-08/index.html",
+      "/af-nice/2026-09-07/index.html",
+      "/af-nice/2026-09-03/index.html",
+      "/af-nice/2026-09-02/index.html",
+      "/af-nice/2026-09-01/index.html",
+      "/af-nice/2026-08-31/index.html"
+    ]
+  },
+  {
+    "listing": "/archive.html",
+    "items": [
+      "/archive/lesson-5/index.html",
+      "/archive/lesson-4/index.html",
+      "/archive/lesson-3/index.html",
+      "/archive/lesson-2/index.html",
+      "/archive/lesson-1/index.html",
+      "/archive/lesson-0/index.html"
     ]
   },
   {
@@ -143,47 +169,21 @@
     ]
   },
   {
-    "listing": "/cours-francais.html",
+    "listing": "/misc.html",
     "items": [
-      "/af-nice/2026-09-09/index.html",
-      "/af-nice/2026-09-08/index.html",
-      "/af-nice/2026-09-07/index.html",
-      "/af-nice/2026-09-03/index.html",
-      "/af-nice/2026-09-02/index.html",
-      "/af-nice/2026-09-01/index.html",
-      "/af-nice/2026-08-31/index.html",
-      "/af-bordeaux/2026-06-26/index.html",
-      "/af-bordeaux/2026-06-25/index.html",
-      "/af-bordeaux/2026-06-24/index.html",
-      "/af-bordeaux/2026-06-23/index.html",
-      "/af-bordeaux/2026-06-22/index.html",
-      "/af-bordeaux/2026-06-19/index.html",
-      "/af-bordeaux/2026-06-18/index.html",
-      "/af-bordeaux/2026-06-17/index.html",
-      "/af-bordeaux/2026-06-16/index.html",
-      "/af-bordeaux/2026-06-15/index.html",
-      "/af-bordeaux/2026-06-12/index.html",
-      "/af-bordeaux/2026-06-11/index.html",
-      "/af-bordeaux/2026-06-10/index.html",
-      "/af-bordeaux/2026-06-09/index.html",
-      "/af-bordeaux/2026-06-08/index.html",
-      "/af-bordeaux/2026-06-05/index.html",
-      "/af-bordeaux/2026-06-04/index.html",
-      "/af-bordeaux/2026-06-03/index.html",
-      "/af-bordeaux/2026-06-02/index.html",
-      "/af-bordeaux/2026-06-01/index.html"
-    ]
-  },
-  {
-    "listing": "/af-nice.html",
-    "items": [
-      "/af-nice/2026-09-09/index.html",
-      "/af-nice/2026-09-08/index.html",
-      "/af-nice/2026-09-07/index.html",
-      "/af-nice/2026-09-03/index.html",
-      "/af-nice/2026-09-02/index.html",
-      "/af-nice/2026-09-01/index.html",
-      "/af-nice/2026-08-31/index.html"
+      "/misc/2026-09-10-une-ville-utopie/index.html",
+      "/misc/2026-09-03-annecy-a-premiere-vois/index.html",
+      "/misc/2026-09-01-nice-a-pied/index.html",
+      "/misc/2026-07-09-French-Chinese-English-connections/index.html",
+      "/misc/2026-06-29-Suzi-de-gienchy/index.html",
+      "/misc/2026-05-14-L’opéra-un-art-sous-respiration-artificielle-ou/index.html",
+      "/misc/2026-05-12-Le-jeu-de-1000-euros/index.html",
+      "/misc/2026-05-07-Qui-sont-nos-veritables-ancetres/index.html",
+      "/misc/2026-05-04-Pilou-une-vie-de-liberté/index.html",
+      "/misc/2026-05-01-Le-chaos-est-la-vie-en-baril/index.html",
+      "/misc/2026-04-30-Le-Mystère-du-Ritonavir-et-la-Malédiction-des-Cristaux/index.html",
+      "/misc/2026-04-23-La-joconde-le-vol-du-siecle/index.html",
+      "/misc/2026-04-16-Le-ennui/index.html"
     ]
   }
 ]

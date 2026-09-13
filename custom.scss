@@ -43,9 +43,13 @@ $navbar-font-size: 1.1rem;
 // Boost the icons specifically
 .navbar {
   i, .bi {
-    font-size: 1.4rem;
+    font-size: 1.05rem;
     vertical-align: -0.125em;
   }
+
+  // Keep each label on one line
+  .nav-link { white-space: nowrap; padding-left: 0.3rem !important; padding-right: 0.3rem !important; }
+  .navbar-brand-container { flex-shrink: 0; }
 
   // Nav links shimmer on hover
   .nav-link:hover, .navbar-nav .nav-link:hover {
@@ -152,7 +156,7 @@ article.content, .quarto-content-body {
 /* Specifically override the navbar title to use the new font */
 .navbar-title {
   font-family: 'Neonderthaw', cursive !important;
-  font-size: 2.5rem;  
+  font-size: 2rem;  
   font-weight: 400;    /* Neonderthaw only comes in one weight (400) */
   line-height: 1;
   padding-top: 5px; // centers vertically in dark bar

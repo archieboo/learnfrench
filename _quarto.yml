@@ -25,6 +25,7 @@ website:
   title: "Bonjour!"
   favicon: profile.jpg
   navbar:
+    collapse-below: xl
     logo: profile.jpg
     left:
       - text: "Inspire 4"
