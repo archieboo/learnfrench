@@ -1,0 +1,98 @@
+---
+title: "Nice September Week 4 Lesson 19"
+date: "2026-09-24"
+categories: ["B2", "unite2", "af-nice"]
+reference-location: document # margin, block, section, document
+citation-location: document #margin
+margin-header: |
+  <a href="https://docs.google.com/document/d/1JcbRioT19AiT8zTOQuuiJDd915RMeaibmKuQbCuhe20/edit?usp=sharing" target="_blank" style="font-size:0.85em;"><i class="bi bi-file-earmark-text"></i> Semaine 2 Google doc</a><br>
+  <a href="../../defi4/unite1-dossier2/index.qmd" style="font-size:0.85em;"><i class="bi bi-journal-bookmark"></i> Défi 4 &mdash; Unité 1, Dossier 2</a><br>
+
+image: "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?q=80&w=640"
+
+---
+
+# Écrire
+
+> [Écrire une chronique pour se critiquer un phénomène]{.fw-medium .fst-italic}
+
+:::{.bg-light .border .border-primary .shadow .rounded-3 .p-3 .lh-lg .fw-normal style="font-family: 'Chalkboard'"}
+
+[Reseaux sociaux, un piège de la démocratie ?]{.fw-bold .text-primary}
+
+Ridiculus porttitor, nunc odio, eu faucibus nam suspendisse bibendum leo et porta et erat etiam quam. Magna est dolor tortor ut congue tristique semper dolor suscipit fusce dui vitae ac turpis dictum. 
+
+
+:::
+
+<br><br>
+
+-------
+
+:::{.callout-tip icon=false}
+#### Les adjectifs absurdes
+
+| adjectif | dans le texte |
+|:--|:--|
+| fou / folle | _Sommes-nous devenus **fous**?_ |
+| démentiel(le) | _Même si cela semble **démentiel**..._ |
+| kafkaïen(ne) | _La situation est encore plus **kafkaïenne**..._ |
+| stupéfiant(e) | _ce fruit sec fait un parcours **stupéfiant**_ |
+| ubuesque | _le voyage **ubuesque** des coquilles Saint-Jacques_ |
+| bizarre | _Ça semble **bizarre**, mais c'est une question de coût._ |
+| choquant(e) | _c'est un peu **choquant**_ |
+| déroutant(e) | _un court-métrage **déroutant**_ |
+| incroyable | _Aussi **incroyable** que cela puisse paraître..._ |
+| invraisemblable | _Un délai **invraisemblable**..._ |
+
+: {tbl-colwidths="[20,80]"}
+
+<br>
+
+| expression | dans le texte |
+|:--|:--|
+| ne pas tourner rond | _Décidément, notre planète **ne tourne pas rond**..._ |
+| marcher sur la tête | _Plusieurs exemples tendent à prouver que le monde **marche sur la tête**._ |
+| dépasser l'entendement | _certaines conséquences **dépassent** aujourd'hui **l'entendement**_ |
+| c'est un comble | _**Un comble** pour un produit frais!_ |
+| paradoxalement | _quand on sait que, **paradoxalement**, l'Hexagone exporte sa volaille vers les pays d'Afrique_ |
+| n'avoir pas grand-chose à voir avec | _La logique du commerce international **n'a pas grand-chose à voir** avec le bon sens paysan._ |
+
+: {tbl-colwidths="[30,70]"}
+
+:::
+
+:::{.callout-note icon=false}
+#### Les recommendations
+
+- il est `préférable | recommandé ` de  
+- il vaut mieux que  
+- il faut faire attention à  
+- il faut absolument que  
+- il serait raisonnable que  
+- il serait profitable de  
+- il convient de  
+- il est indispensable que  
+- il est nécessaire que  
+
+:::
+
+:::{.callout-warning icon=false}
+#### Les connecteurs
+
+__L'opposition:__
+
+- en revanche
+- par contre
+- alors que | tandis que
+- au contraire
+
+__La concession:__
+
+- `cependant | pourtant | toutefois | or | il n'êmpeche que | même si` + indicatif
+- `bien que | quoique` + subjonctif
+- malgrè + `nom | pronom`
+- avoir beau + infinitif
+
+:::
+
